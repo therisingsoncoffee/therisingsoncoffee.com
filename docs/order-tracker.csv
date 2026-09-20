@@ -1,0 +1,1 @@
+order_id,order_date,status,customer_name,customer_email,sku,product,quantity,subtotal,discount,shipping_charged,tax,total,processor_fee,fulfillment_cost,tracking,notes
