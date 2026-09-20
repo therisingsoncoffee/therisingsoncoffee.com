@@ -27,6 +27,7 @@ Last structured: 2026-09-20
 - Explicit signup privacy disclosure linked beside the form
 - Checkout integration safety gate prepared with checkout disabled and no payment URL
 - Supplier outreach evidence tracker prepared
+- Initial no-spend supplier inquiries sent from hello@therisingsoncoffee.com to Liberty Beans Coffee and La Vela Coffee Roasters (2026-09-20)
 
 ## YELLOW — waiting / verification
 - HTTPS availability and HTTP-to-HTTPS redirect
