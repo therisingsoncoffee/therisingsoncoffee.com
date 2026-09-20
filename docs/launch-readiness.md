@@ -37,6 +37,10 @@ Last structured: 2026-09-20
 - Founding 40 public messaging aligned around free reservation -> verified offer -> qualifying purchase -> activated Founding Customer
 - Planned numbered tumbler documented as a pending, non-guaranteed Founding benefit and separate acquisition expense
 - Founding 40 reservation campaign messaging and advertising guardrails prepared
+- Dedicated /founding40/ acquisition page and /story/ brand-story page implemented
+- Mobile primary navigation made persistently visible
+- Homepage reservation form aligned with dedicated Founding 40 interest-level qualification (Interested / Very Interested / First Shot) (2026-09-20)
+- Privacy and Terms CTAs aligned to the dedicated Founding 40 page; Terms corrected to current reservation -> verified offer -> qualifying purchase activation model (2026-09-20)
 
 ## YELLOW — waiting / verification
 - HTTPS availability and HTTP-to-HTTPS redirect
@@ -52,7 +56,7 @@ Last structured: 2026-09-20
 - Stripe business verification and bank connection
 - Checkout test
 - Social-sharing artwork and final owner art-direction approval
-- Final desktop launch QA
+- Final browser-based desktop launch QA (repository/static QA completed; external browser verification remains)
 
 ## RESERVATION CAMPAIGN STATUS
 - Copy/offer structure: READY
@@ -117,6 +121,7 @@ When using Work mode, batch tasks to minimize user interruptions:
 - Maintain the customer/order data architecture and avoid unnecessary vendor lock-in.
 - Audit DNS/HTTPS/email authentication and report only verified state.
 - Perform final copy/design QA with a handmade, independent-coffee-company feel; avoid generic AI/SaaS visual language.
+- Keep homepage and dedicated Founding 40 form fields semantically aligned so CRM reporting does not split equivalent intent data.
 - Produce one consolidated exception list of items that genuinely require the owner's identity, payment, legal choice or authorization.
 
 ## Owner-required items
