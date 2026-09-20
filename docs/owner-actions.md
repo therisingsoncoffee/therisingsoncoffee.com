@@ -10,14 +10,12 @@ This is the single owner-intervention list. Repository work may continue without
 
 ## Supplier and product
 
-- Authorize outbound supplier inquiries from the Rising Son Coffee mailbox. The ready-to-send request is in `docs/customer-communications.md`; the response tracker is `docs/supplier-outreach-tracker.csv`.
 - Approve sample purchases or other supplier charges before any money is spent.
 - Select/accept a supplier agreement only after the due-diligence fields are evidenced.
 - Give final approval to the verified Original and Decaf products, bag sizes, pricing, shipping offer and fulfillment promises.
 
 ## Accounts and payments
 
-- Complete any FormSubmit first-use activation message received at `hello@therisingsoncoffee.com`, then authorize a clearly labeled live form test.
 - Complete Stripe identity/business verification and connect the payout bank outside GitHub.
 - Explicitly authorize live checkout after the test transaction and all launch gates pass.
 
