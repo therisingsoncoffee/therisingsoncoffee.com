@@ -3,13 +3,15 @@
 All brackets are intentional placeholders. Do not publish until the underlying fact is verified.
 
 ## Founding 40 welcome
-Subject: Welcome to the Founding 40
+Subject: Welcome to the Founding 40 feedback list
 
 Thanks for being here at the beginning.
 
-Rising Son Coffee is being built deliberately: good coffee first, with a greater purpose behind it. The Founding 40 is the small group we're inviting in early to see what we're building and hear from us as the first coffees become available.
+Rising Son Coffee is being built deliberately: good coffee first, with a greater purpose behind it. The Founding 40 is a small feedback list for forty coffee drinkers. We keep it small so every response can be read and considered personally.
 
-Joining doesn't mean you've bought anything, and there's no obligation to. Before ordering opens, we'll share the actual coffee details, price, availability and fulfillment information plainly.
+When supplier details are verified, we may ask short, optional questions about proposed coffee options, decaf, bag sizes, price range and shipping choices. Your feedback can inform the first release, although not every preference can be adopted.
+
+Joining doesn't mean you've bought anything. There is no fee, recruiting, commission, member tier or obligation to buy. Before ordering opens, we'll share the actual coffee details, price, availability and fulfillment information plainly.
 
 Thank you for giving an independent coffee company a place in your inbox.
 

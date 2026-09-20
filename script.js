@@ -9,7 +9,7 @@ if(form&&status){
 
   window.addEventListener('pageshow',()=>{
     const button=form.querySelector('button[type="submit"]');
-    if(button){button.disabled=false;button.textContent='Count Me In';}
+    if(button){button.disabled=false;button.textContent='Join the feedback list';}
     status.textContent='';
   });
 }

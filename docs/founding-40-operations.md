@@ -1,7 +1,7 @@
 # Founding 40 — Launch Operations
 
 ## Purpose
-Founding 40 is an early-interest community, not a preorder, donation, investment, ownership program, or obligation to purchase.
+Founding 40 is a forty-person email feedback list, not a preorder, donation, investment, ownership program, referral program, member tier, or obligation to purchase. The size is limited so responses can be read and considered personally.
 
 ## Current customer path
 1. Visitor reads the Founding 40 explanation.
@@ -23,13 +23,15 @@ Use these statuses when handling signups:
 Never publish a claimed-spots count unless it comes from a maintained signup record.
 
 ## Welcome message
-Subject: Welcome to the Founding 40 — Rising Son Coffee
+Subject: Welcome to the Founding 40 feedback list
 
 Thanks for being here at the beginning.
 
-Rising Son Coffee is being built deliberately: good coffee first, with a greater purpose behind it. The Founding 40 is the small group we're inviting in early to see what we're building and hear from us as the first coffees become available.
+Rising Son Coffee is being built deliberately: good coffee first, with a greater purpose behind it. The Founding 40 is a small feedback list for forty coffee drinkers. We keep it small so every response can be read and considered personally.
 
-You haven't purchased anything by joining, and there's no obligation to buy. Before we open ordering, we'll share the actual coffee details, pricing, availability and fulfillment information so you can decide for yourself.
+When we have verified supplier details, we may ask short, optional questions about the proposed coffee options, decaf, bag sizes, price range and shipping choices. Your feedback can inform the first release, although not every preference can be adopted.
+
+You haven't purchased anything by joining, and there's no fee, recruiting, commission, member tier or obligation to buy. Before we open ordering, we'll share the actual coffee details, pricing, availability and fulfillment information so you can decide for yourself.
 
 Thank you for giving a new independent coffee company a place in your inbox.
 
