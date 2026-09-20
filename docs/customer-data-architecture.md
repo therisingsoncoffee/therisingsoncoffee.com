@@ -36,6 +36,15 @@ Use stable internal IDs, UTC timestamps plus source-local display where needed, 
 - stated coffee preferences
 - Original/Decaf interest
 - whole-bean/ground preference
+- current coffee/brand (self-reported)
+- usual bag-size band
+- usual price-per-bag band
+- purchase frequency
+- purchase decision factors (multi-value)
+- usual purchase channel
+- stated switch trigger
+- Founding 40 interest level
+- possible quantity
 - feedback participation status
 - conversion_to_customer_at
 - first_order_id
@@ -196,3 +205,7 @@ Only add analytics/CRM/help-desk tooling when the operational benefit justifies 
 
 ## Data-quality rule
 A useful dataset is better than a large dirty dataset. Required fields should have controlled values; unknown values remain UNKNOWN/null as appropriate; corrections should preserve an audit trail when financially or operationally material.
+
+
+## Prelaunch market-intelligence linkage
+Preserve the original Founding 40 survey answers as immutable/raw self-reported fields where practical, and derive analysis fields separately. This allows later comparison of stated intent with observed orders without overwriting the original evidence. Useful derived measures may include price-per-ounce ranges where both price and bag-size bands are present, purchase-frequency cohorts, stated-vs-observed form/variant, source-to-intent conversion, switch-trigger themes, and prelaunch-intent-to-repeat-purchase behavior. Derived values must be labeled as derived/estimated and never substituted for actual transaction data.
