@@ -17,6 +17,11 @@ Last structured: 2026-09-20
 - Incoming IMAP tested successfully
 - Outgoing SMTP tested successfully
 - External send-and-reply path tested successfully
+- Live sender-address test delivered to Gmail from hello@therisingsoncoffee.com (2026-09-20)
+- Gmail authentication results passed SPF, DKIM (selector `default`) and DMARC for the live sender test (2026-09-20)
+- Public SPF and DMARC TXT records resolved through Google Public DNS (2026-09-20)
+- Webmail sender identity set to `Rising Son Coffee` with a minimal brand signature (2026-09-20)
+- Founding 40 FormSubmit activation completed and a labeled test submission delivered to hello@therisingsoncoffee.com (2026-09-20)
 - HTTP apex serves from GitHub Pages and HTTP www redirects to apex (verified 2026-09-20)
 - Keyboard-accessible Founding 40 choices and visible focus states
 - Explicit signup privacy disclosure linked beside the form
@@ -24,11 +29,9 @@ Last structured: 2026-09-20
 - Supplier outreach evidence tracker prepared
 
 ## YELLOW — waiting / verification
-- Public DNS propagation for apex and www
+- HTTPS availability and HTTP-to-HTTPS redirect
 - GitHub HTTPS certificate / Enforce HTTPS
-- Live Founding 40 form end-to-end test after domain resolves
-- Form provider first-use activation if requested
-- Porkbun DKIM + DMARC: configuration requested; last observed status PENDING
+- Founding 40 thank-you redirect and mobile-browser behavior
 - Supplier quote/product facts
 - Product unit economics and final retail pricing
 - Legal entity choice / LLC formation decision
@@ -49,9 +52,9 @@ Rising Son product page -> Stripe-hosted checkout -> payment confirmation -> ord
 Stripe is selected as the intended initial processor, but live activation is intentionally deferred until business identity/tax setup and supplier economics are ready.
 
 ## Remaining launch gates
-1. DNS + HTTPS healthy
-2. Founding 40 form proven
-3. DKIM/DMARC healthy
+1. HTTPS healthy and HTTP redirects to HTTPS
+2. Founding 40 thank-you redirect and mobile-browser behavior proven
+3. Email authentication proven (complete)
 4. Supplier facts verified
 5. Unit economics approved
 6. Business structure + EIN completed as appropriate
