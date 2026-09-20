@@ -101,3 +101,50 @@ Do not insert or publish unverified coffee origin/roast claims, bag size, retail
 
 ## Form verification
 FormSubmit activation and delivered signup have been observed. The custom /thanks.html redirect remains a verification item. Do not treat a redirect failure as evidence that a delivered reservation was lost.
+
+
+## Reservation advertising readiness
+The reservation campaign may begin before coffee checkout opens, provided every advertisement:
+- sends prospects to the official Founding 40 page rather than collecting payment;
+- says reservation is free/no payment today;
+- does not call a reservation a completed Founding Customer position;
+- does not publish an unmaintained number of remaining spots;
+- describes the numbered tumbler only as the current plan until the tumbler gate passes;
+- does not publish unverified coffee price, bag size, origin/roast, shipping, launch date, discount or impact claim;
+- does not imply that a reservation is a donation or investment.
+
+### Approved campaign message framework
+Hook: Be one of the people who helps Rising Son Coffee get started.
+
+Offer: Reserve a free place for the opportunity to become one of our first 40 customers. Help shape the launch, see the verified offer first, then decide whether to buy.
+
+Purpose: Rising Son was born from a difficult chapter and is being built toward a larger goal: creating meaningful support for children and families facing difficult circumstances as the company becomes capable of doing so.
+
+Planned thank-you: We are working toward an exclusive individually numbered Founding 40 tumbler at no additional charge for each qualifying Founding Customer. This is the plan, not yet a guarantee.
+
+CTA: Reserve your Founding 40 place at therisingsoncoffee.com.
+
+### Channel attribution
+For paid or controlled campaigns, use campaign-specific links when analytics/link infrastructure is available and retain source/campaign/creative identifiers. Until then, the form's self-reported referral_source field provides baseline attribution. Do not infer an acquisition source when it is unknown.
+
+## Reservation ledger minimum fields
+Maintain one record per reservation with:
+- reservation_id
+- submitted_at_utc
+- first_name
+- email
+- coffee_preference
+- likelihood
+- possible_quantity
+- referral_source
+- freeform_note
+- consent_status
+- reservation_status
+- last_contact_at
+- offer_sent_at
+- qualifying_order_id
+- founding_customer_number
+- tumbler_status
+- opted_out_at
+
+Never assign founding_customer_number until the qualifying order is complete.
