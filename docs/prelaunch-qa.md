@@ -63,6 +63,7 @@
 - [x] reduced-motion behavior where relevant
 - [x] page titles/descriptions
 - [ ] social preview image before broad sharing
+- [x] name-collision check: a separate established Japanese brand uses “The Rising Sun Coffee” / therisingsuncoffee.com; treat U.S. trademark/name clearance as an owner/legal launch gate before broad promotion (identified 2026-09-20)
 
 ## Launch authorization
 - [ ] supplier/fulfillment path ready
