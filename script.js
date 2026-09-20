@@ -1,1 +1,9 @@
-const form=document.getElementById('foundingForm');const status=document.getElementById('formStatus');form.addEventListener('submit',e=>{e.preventDefault();status.textContent='Thanks — the page is ready, but live signup storage is not connected yet. No information was transmitted.';});
+const form=document.getElementById('foundingForm');
+const status=document.getElementById('formStatus');
+if(form&&status){
+  form.addEventListener('submit',()=>{
+    status.textContent='Sending your Founding 40 signup…';
+    const button=form.querySelector('button[type="submit"]');
+    if(button){button.disabled=true;button.textContent='Sending…';}
+  });
+}
