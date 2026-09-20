@@ -2,14 +2,14 @@ const form=document.getElementById('foundingForm');
 const status=document.getElementById('formStatus');
 if(form&&status){
   form.addEventListener('submit',()=>{
-    status.textContent='Sending your Founding 40 signup…';
+    status.textContent='Sending your Founding 40 reservation…';
     const button=form.querySelector('button[type="submit"]');
     if(button){button.disabled=true;button.textContent='Sending…';}
   });
 
   window.addEventListener('pageshow',()=>{
     const button=form.querySelector('button[type="submit"]');
-    if(button){button.disabled=false;button.textContent='Join the feedback list';}
+    if(button){button.disabled=false;button.textContent='Reserve free — no purchase required';}
     status.textContent='';
   });
 }
