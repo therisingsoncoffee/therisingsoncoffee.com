@@ -7,6 +7,7 @@ This is the single owner-intervention list. Repository work may continue without
 - Decide the operating legal structure and authorize any filing or paid registered-agent service.
 - Complete the EIN application identity/attestation steps, if an EIN is appropriate for the chosen structure.
 - Obtain qualified tax/legal review of sales-tax registration, customer terms, privacy practices and refund/replacement policy before sales open.
+- Complete U.S. trademark/business-name clearance before broad promotion or major brand spend. Research identified an established Japanese coffee business using “The Rising Sun Coffee” and therisingsuncoffee.com; this is a clearance flag, not a conclusion about U.S. rights.
 
 ## Supplier and product
 
