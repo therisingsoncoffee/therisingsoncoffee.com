@@ -39,10 +39,8 @@ Last structured: 2026-09-20
 - Founding 40 reservation campaign messaging and advertising guardrails prepared
 
 ## YELLOW — waiting / verification
-- Public reservation funnel live-browser verification from an external environment (current assistant web fetch cannot reach the domain)
 - HTTPS availability and HTTP-to-HTTPS redirect
 - GitHub HTTPS certificate / Enforce HTTPS
-- Founding 40 custom thank-you redirect and mobile-browser behavior
 - Supplier quote/product facts
 - Product samples / sensory fit against intended Original and Decaf profiles
 - Direct/private-label fulfillment capability and complete delivered costs
@@ -54,15 +52,16 @@ Last structured: 2026-09-20
 - Stripe business verification and bank connection
 - Checkout test
 - Social-sharing artwork and final owner art-direction approval
-- Final mobile/desktop launch QA
+- Final desktop launch QA
 
 ## RESERVATION CAMPAIGN STATUS
 - Copy/offer structure: READY
-- Form activation/delivery: previously proven
+- Form activation/delivery: proven
+- Live mobile reservation submission -> custom Rising Son confirmation page: proven 2026-09-20
+- Public mobile page load: proven 2026-09-20
 - Checkout/payment: intentionally disabled
-- External live-browser/HTTPS/thank-you redirect QA: still YELLOW
-- Paid advertising spend: hold until live-browser funnel QA is proven
-- Organic/direct reservation outreach: may begin once owner confirms the currently deployed page/form opens and submits correctly on their device
+- Founding 40 reservation funnel: GREEN / ready to advertise
+- Advertising may collect free reservations only; coffee orders/payments remain locked until the separate commerce launch gates pass
 
 ## RED — do not activate yet
 - Do not accept coffee orders or payments
@@ -92,19 +91,18 @@ Stripe is selected as the intended initial processor, but live activation is int
 
 ## Remaining launch gates
 1. HTTPS healthy and HTTP redirects to HTTPS
-2. Founding 40 custom thank-you redirect/mobile behavior proven or intentionally replaced with a verified flow
-3. Supplier product facts and samples verified
-4. Professional/direct fulfillment method and complete delivered costs verified
-5. Original/Decaf product choices approved
-6. Bag size, delivered $/oz, retail price and contribution economics approved
-7. Shipping approach approved
-8. Refund/replacement terms approved
-9. Business structure + EIN completed as appropriate
-10. Stripe activated and bank connected
-11. Checkout + order notification + fulfillment test passed end to end
-12. Human art-direction/design pass
-13. Final mobile/desktop QA
-14. Final launch authorization
+2. Supplier product facts and samples verified
+3. Professional/direct fulfillment method and complete delivered costs verified
+4. Original/Decaf product choices approved
+5. Bag size, delivered $/oz, retail price and contribution economics approved
+6. Shipping approach approved
+7. Refund/replacement terms approved
+8. Business structure + EIN completed as appropriate
+9. Stripe activated and bank connected
+10. Checkout + order notification + fulfillment test passed end to end
+11. Human art-direction/design pass
+12. Final desktop QA
+13. Final launch authorization
 
 Subscription is architecture-ready but is not a blocker to initial one-time-purchase launch unless owner later makes it a day-one requirement.
 
