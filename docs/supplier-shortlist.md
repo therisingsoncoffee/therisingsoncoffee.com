@@ -12,6 +12,7 @@ Research URLs:
 - https://www.dripshipper.io/private-label-coffee
 - https://www.dripshipper.io/private-label-coffees/fairtrade-peru-decaf
 Questions still requiring confirmation: exact current dropship unit cost for selected Original/Decaf, subscription/platform fee, exact package choices, delivery SLA, returns/replacements, integration path for a static GitHub Pages storefront.
+Budget note: the public page states that a monthly membership is required. Do not start the trial or incur a charge without owner approval.
 
 ### Old Chicago Coffee Co.
 Public dropship program states no minimum, no advance purchase, no dropship fee, custom label printing, tracking, and free USA shipping. Public pricing observed: 10 oz $12.96 regular / $13.21 decaf-class products; 12 oz $16.40 / $16.65; 1 lb $19.40 / $19.53; $10 monthly fee after a two-week trial. Orders are manually placed; no API.
@@ -20,10 +21,10 @@ Research URL:
 Launch implication: unusually transparent economics and very low inventory risk, but manual fulfillment may be acceptable only for the initial small release and becomes an operational constraint at scale. Its public page requires an EIN/FEIN and business details before program registration, so this path is blocked until the relevant owner steps are complete.
 
 ### Path Coffee Roasters
-Publicly states private-label dropshipping, roast/pack/ship direct to customer, no inventory, no order minimums, and no monthly program fee. Its public page describes an average 12 oz bag cost of $11, but that is not a quote for a selected Original or Decaf and must not be used as a verified SKU cost.
+Publicly states private-label dropshipping, roast/pack/ship direct to customer, no inventory, no order minimums, and no monthly program fee. Its public page describes an average 12 oz bag cost of $11, but that is not a quote for a selected Original or Decaf and must not be used as a verified SKU cost. The same page currently lists a one-time setup fee of $400 when Path prints labels or $350 when the brand supplies labels.
 Research URL:
 - https://pathcoffees.com/dropshipping-coffee/
-Questions still requiring confirmation: Original/Decaf catalog, unit prices, branded packaging costs, shipping costs/SLA, sample program, integration/manual order process.
+Questions still requiring confirmation: Original/Decaf catalog, unit prices, branded packaging costs, shipping costs/SLA, sample program, integration/manual order process. The setup fee makes this a later option while launch funds are constrained.
 
 ### Liberty Beans Coffee
 Publicly states private-label dropshipping with zero inventory and no minimums, roast-to-order, blind shipping, custom labels/pouches/inserts, API + Shopify sync, and a lineup including medium, dark, decaf, espresso and single origin.
@@ -62,3 +63,10 @@ Run two lanes in parallel:
 2. QUALITY/RELATIONSHIP: obtain quotes/samples from a direct roaster, particularly La Vela and/or a specialty-focused candidate, to determine whether better product/brand economics justify holding a small amount of inventory.
 
 Do not select solely on cheapest bag cost. Compare delivered customer experience, coffee quality, brand control, freshness, support, replacement policy and contribution margin.
+
+## Current no-spend priority
+Until the owner approves a supplier charge, pursue information only:
+1. Request written terms from Liberty Beans, La Vela and Frequent Coffee because their public positioning fits the Original + Decaf brief and no payment is required merely to ask.
+2. Keep Old Chicago as the transparent economics benchmark, but do not register until the EIN/FEIN requirement and $10 monthly fee are acceptable.
+3. Keep Path as a quality candidate, but defer its $350–$400 setup path.
+4. Do not activate Dripshipper's trial or membership without approval.
