@@ -128,3 +128,44 @@ For every supplier input retain:
 - VERIFIED / UNKNOWN / NEEDS CLARIFICATION
 
 A missing field remains UNKNOWN. Never convert silence into an assumption.
+
+
+## Founding 40 acquisition economics
+The Founding 40 tumbler is modeled separately from the normal coffee retail price.
+
+Principle: a Founding 40 customer should pay the same normal launch coffee price they would otherwise pay. Do not increase that price specifically to recover the tumbler. If confirmed, the tumbler is Rising Son's gift at $0/no additional charge and its cost is absorbed from company contribution as a launch/customer-acquisition expense.
+
+Track:
+- normal coffee revenue and normal order contribution before Founding benefit;
+- tumbler base unit cost;
+- customization/engraving/printing cost;
+- individual numbering cost;
+- inbound freight allocated per tumbler;
+- incremental fulfillment/pick-pack cost;
+- incremental outbound shipping caused by tumbler;
+- breakage/replacement allowance;
+- total tumbler landed-and-delivered cost per activated customer;
+- total program cost for 40 activated customers plus any approved spares;
+- contribution after Founding benefit;
+- first-order acquisition cost;
+- repeat purchase/subscription contribution and eventual customer lifetime value when evidence exists.
+
+Calculations:
+- Founding acquisition expense per customer = all incremental tumbler + customization + fulfillment + shipping costs attributable to the gift
+- Founding first-order contribution after gift = normal order contribution - Founding acquisition expense
+- total Founding launch expense = actual activated Founding customers × acquisition expense, plus approved sample/spare/setup costs
+
+The first order does not have to recover the entire acquisition expense if approved economics support acquiring a repeat customer, but this must be an explicit business decision rather than hidden by raising the Founding customer's coffee price.
+
+### Affordability scenarios when quotes arrive
+Model at minimum:
+- 1 bag + 1 tumbler;
+- 2 bags + 1 tumbler;
+- 3 bags + 1 tumbler;
+- Original and Decaf variants;
+- customer-paid and subsidized shipping cases;
+- 40 fulfilled tumblers plus a prudent spare/replacement quantity;
+- contribution before and after the Founding benefit;
+- repeat-order and subscription break-even needed to recover acquisition expense.
+
+Until real quotes exist, every tumbler cost remains UNKNOWN and the public offer remains a plan rather than a guarantee.
