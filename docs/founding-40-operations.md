@@ -177,3 +177,85 @@ Capture and preserve each answer independently, including explicit unknown/blank
 - freeform note and consent.
 
 Potential later analyses include approximate current $/oz bands, purchase-frequency cohorts, bean/ground demand, Decaf demand, price sensitivity, bag-size fit, value-vs-quality preference, switching triggers, channel/source differences, intent-vs-preference relationships, reservation-to-purchase conversion by stated behavior, reorder behavior versus prelaunch answers, and supplier/product fit. Treat self-reported answers as directional evidence, not verified purchasing history. Do not infer demographic or sensitive traits from these answers.
+
+
+## Reservation intelligence decision system
+
+### Purpose
+Convert accumulated Founding 40 responses into evidence for product, economics, acquisition and retention decisions without mistaking a small prelaunch sample for the market as a whole.
+
+### Data-quality pipeline
+For each legitimate reservation:
+1. retain the raw submitted values;
+2. assign a stable reservation/customer ID when the operating system supports it;
+3. normalize controlled fields without overwriting raw answers;
+4. exclude known tests from market metrics;
+5. preserve blanks/UNKNOWN rather than guessing;
+6. timestamp any correction and retain the original value when materially useful;
+7. link later offer, order, variant, fulfillment, service and repeat-purchase events to the same customer record when legitimately possible.
+
+### Rolling dashboard
+Report both counts and percentages; always show the denominator. Do not publish externally unless approved.
+
+**Demand**
+- legitimate reservations;
+- Original / Decaf / Both / Not sure;
+- whole bean / ground / both / pods-other;
+- possible bag quantity;
+- purchase-frequency distribution.
+
+**Current-market benchmark**
+- usual bag-size bands;
+- usual price bands;
+- price-band × bag-size cross-tab;
+- derived approximate $/oz ranges only where both inputs exist, clearly labeled estimates;
+- usual purchase channel;
+- current brand/coffee themes.
+
+**Decision drivers**
+- frequency of each selected decision factor;
+- decision factors by Original/Decaf preference;
+- decision factors by interest level;
+- switch-trigger themes, retaining original text alongside coded themes.
+
+**Intent**
+- Interested / Very Interested / First Shot;
+- interest level by coffee preference, form, price band, bag size and source;
+- possible quantity by interest level.
+
+**Acquisition**
+- referral/source mix;
+- interest level by source;
+- later reservation-to-qualifying-order conversion by source;
+- later contribution/CAC by source when real cost and transaction data exist.
+
+### Decision rules
+Survey evidence informs decisions; it does not automatically make them.
+
+- Product: compare stated flavor/decision priorities and Original/Decaf/form demand against verified supplier candidates.
+- Bag size: compare common stated size bands, price bands, purchase frequency and verified delivered economics. Do not select size from popularity alone.
+- Pricing: compare verified viable retail scenarios against stated current-spend bands. Do not treat stated current spend as willingness-to-pay.
+- Shipping: later compare abandonment/conversion and feedback against verified shipping scenarios; do not infer shipping tolerance from coffee price alone.
+- Supplier: score fit only on verified supplier capabilities/costs plus observed prospect demand; unknown supplier facts remain unknown.
+- Marketing: tailor channel messaging to measured themes without making unsupported product claims.
+- Retention: after launch, compare prelaunch answers with actual variant, order size, reorder interval, subscription behavior and contribution.
+
+### Sample-size guardrails
+- 1–9 legitimate responses: individual qualitative signals only; show raw counts, no broad market conclusion.
+- 10–24: early directional patterns; percentages may be shown with denominator and caution.
+- 25–39: stronger Founding 40 cohort evidence, still not representative of the general coffee market.
+- 40+: useful cohort evidence; still distinguish this self-selected audience from broader-market research.
+Never manufacture statistical significance or claim representativeness.
+
+### Later validation loop
+For each converted customer, preserve the ability to compare:
+- stated preference -> purchased product;
+- stated coffee form -> purchased form;
+- stated possible quantity -> first-order quantity;
+- stated price/size environment -> accepted Rising Son price/size;
+- stated purchase frequency -> observed reorder interval;
+- stated decision factors/switch trigger -> feedback and repeat behavior;
+- interest level -> conversion speed and repeat purchase;
+- acquisition source -> conversion, contribution, repeat and retention.
+
+Use discrepancies as learning signals rather than errors: revealed behavior can differ from stated intent.
