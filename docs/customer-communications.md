@@ -96,3 +96,56 @@ We waited to open ordering until the product, costs and fulfillment details were
 Thank you for being here from the beginning.
 
 — Rising Son Coffee
+
+
+## Founding 40 feedback request — product
+Subject: Help shape the first Rising Son Coffee release
+
+Thanks again for joining the Founding 40.
+
+We now have verified information to compare for the first release. Nothing below is a preorder, and there is no obligation to buy.
+
+[VERIFIED ORIGINAL OPTION]
+[VERIFIED DECAF OPTION]
+
+If you have a minute, reply with:
+1. Original, Decaf, both, or neither?
+2. Which bag size would you actually prefer? [VERIFIED OPTIONS]
+3. At what price range would this feel worth considering? [RANGES BASED ON VERIFIED ECONOMICS]
+4. What matters most: taste profile, freshness, price, shipping speed, or the Rising Son purpose?
+5. Anything that would stop you from ordering?
+
+We read every response. Feedback informs the decision; it does not guarantee every preference will be adopted.
+
+— Rising Son Coffee
+Good Coffee. Greater Purpose.
+
+## Founding 40 feedback request — shipping
+Subject: One quick Rising Son Coffee shipping question
+
+We're comparing verified fulfillment options before opening orders.
+
+Which would you prefer if both are commercially workable?
+- [VERIFIED SHIPPING OPTION A]
+- [VERIFIED SHIPPING OPTION B]
+
+And what delivery window would you consider reasonable for freshly roasted coffee?
+
+No purchase is required. This is simply part of validating the first release before checkout opens.
+
+— Rising Son Coffee
+
+## Supplier follow-up
+Subject: Follow-up — Rising Son Coffee private-label inquiry
+
+Hello,
+
+I'm following up on our private-label inquiry for Rising Son Coffee. We're evaluating a deliberately small first release with an Original coffee and a Decaf and are currently completing supplier due diligence.
+
+If your program may be a fit, please send the current product, pricing, MOQ, packaging/setup, sample, lead-time, shipping/direct-fulfillment, replacement and payment details requested in the original inquiry.
+
+We are not accepting customer orders until those inputs are verified, so written current terms are especially helpful.
+
+Thank you,
+Rising Son Coffee
+hello@therisingsoncoffee.com
