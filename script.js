@@ -1,0 +1,1 @@
+const form=document.getElementById('foundingForm');const status=document.getElementById('formStatus');form.addEventListener('submit',e=>{e.preventDefault();status.textContent='Thanks — the page is ready, but live signup storage is not connected yet. No information was transmitted.';});
