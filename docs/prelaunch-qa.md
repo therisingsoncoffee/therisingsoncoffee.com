@@ -6,13 +6,13 @@
 - [ ] HTTPS certificate valid
 - [ ] HTTP redirects to HTTPS
 - [ ] no mixed-content warnings
-- [ ] 404 page works
+- [x] custom 404 page returns HTTP 404 and renders (verified 2026-09-20)
 
 ## Navigation / content
-- [ ] all internal links work
-- [ ] privacy link works
-- [ ] terms link works
-- [ ] contact email works
+- [x] deployed internal page links checked
+- [x] privacy link works
+- [x] terms link works
+- [x] contact mail link is correctly addressed
 - [x] no placeholder/UNKNOWN text is customer-visible
 - [x] no unverified product/pricing/shipping claims
 - [x] no fake Founding 40 count
