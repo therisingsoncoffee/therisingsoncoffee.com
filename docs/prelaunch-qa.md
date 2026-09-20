@@ -1,8 +1,8 @@
 # Prelaunch QA Checklist
 
 ## Domain / deployment
-- [ ] apex resolves to GitHub Pages
-- [ ] www resolves/redirects correctly
+- [x] apex serves the GitHub Pages site over HTTP (verified 2026-09-20)
+- [x] www redirects to apex over HTTP (verified 2026-09-20)
 - [ ] HTTPS certificate valid
 - [ ] HTTP redirects to HTTPS
 - [ ] no mixed-content warnings
@@ -13,14 +13,14 @@
 - [ ] privacy link works
 - [ ] terms link works
 - [ ] contact email works
-- [ ] no placeholder/UNKNOWN text is customer-visible
-- [ ] no unverified product/pricing/shipping claims
-- [ ] no fake Founding 40 count
+- [x] no placeholder/UNKNOWN text is customer-visible
+- [x] no unverified product/pricing/shipping claims
+- [x] no fake Founding 40 count
 
 ## Form
-- [ ] required fields behave correctly
-- [ ] consent required
-- [ ] spam/honeypot field present
+- [x] required-field markup is present and syntactically valid
+- [x] consent required
+- [x] spam/honeypot field present
 - [ ] successful submission delivered
 - [ ] first-use form-provider activation complete
 - [ ] thank-you redirect works
@@ -54,14 +54,14 @@
 ## Design / accessibility
 - [ ] personal/independent brand feel reviewed by owner
 - [ ] no generic AI/SaaS presentation
-- [ ] keyboard navigation
-- [ ] visible focus states
-- [ ] contrast review
-- [ ] 320–430px mobile review
-- [ ] tablet review
-- [ ] desktop review
-- [ ] reduced-motion behavior where relevant
-- [ ] page titles/descriptions
+- [x] keyboard-accessible markup, including custom radio choices
+- [x] visible focus styles defined
+- [x] color contrast calculations for current text palette
+- [ ] 320–430px mobile visual review
+- [ ] tablet visual review
+- [ ] desktop visual review
+- [x] reduced-motion behavior where relevant
+- [x] page titles/descriptions
 - [ ] social preview image before broad sharing
 
 ## Launch authorization

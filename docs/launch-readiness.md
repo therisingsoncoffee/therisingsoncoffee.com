@@ -17,6 +17,11 @@ Last structured: 2026-09-20
 - Incoming IMAP tested successfully
 - Outgoing SMTP tested successfully
 - External send-and-reply path tested successfully
+- HTTP apex serves from GitHub Pages and HTTP www redirects to apex (verified 2026-09-20)
+- Keyboard-accessible Founding 40 choices and visible focus states
+- Explicit signup privacy disclosure linked beside the form
+- Checkout integration safety gate prepared with checkout disabled and no payment URL
+- Supplier outreach evidence tracker prepared
 
 ## YELLOW — waiting / verification
 - Public DNS propagation for apex and www
@@ -30,6 +35,7 @@ Last structured: 2026-09-20
 - EIN
 - Stripe business verification and bank connection
 - Checkout test
+- Social-sharing artwork and final owner art-direction approval
 
 ## RED — do not activate yet
 - Do not accept coffee orders or payments
@@ -74,3 +80,5 @@ Reserve interruptions for:
 - any new paid service
 - final product/pricing approval
 - final launch authorization
+
+The maintained consolidated list is `docs/owner-actions.md`.

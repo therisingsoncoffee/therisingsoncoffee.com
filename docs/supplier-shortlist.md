@@ -1,5 +1,7 @@
 # Supplier Research Shortlist — 2026-09-20
 
+Public supplier pages below were rechecked on 2026-09-20. Public statements are screening evidence, not a quote or contract; exact product and commercial inputs remain UNKNOWN until confirmed for Rising Son Coffee.
+
 Purpose: identify low-risk candidates for Rising Son Coffee's first Original + Decaf release. This is research, not supplier approval. Pricing and terms must be confirmed directly before launch.
 
 ## Strong launch candidates
@@ -15,10 +17,10 @@ Questions still requiring confirmation: exact current dropship unit cost for sel
 Public dropship program states no minimum, no advance purchase, no dropship fee, custom label printing, tracking, and free USA shipping. Public pricing observed: 10 oz $12.96 regular / $13.21 decaf-class products; 12 oz $16.40 / $16.65; 1 lb $19.40 / $19.53; $10 monthly fee after a two-week trial. Orders are manually placed; no API.
 Research URL:
 - https://oldchicagocoffee.com/dropshippers/
-Launch implication: unusually transparent economics and very low inventory risk, but manual fulfillment may be acceptable only for the initial small release and becomes an operational constraint at scale.
+Launch implication: unusually transparent economics and very low inventory risk, but manual fulfillment may be acceptable only for the initial small release and becomes an operational constraint at scale. Its public page requires an EIN/FEIN and business details before program registration, so this path is blocked until the relevant owner steps are complete.
 
 ### Path Coffee Roasters
-Publicly states private-label dropshipping, roast/pack/ship direct to customer, no inventory, no order minimums, and no monthly program fee.
+Publicly states private-label dropshipping, roast/pack/ship direct to customer, no inventory, no order minimums, and no monthly program fee. Its public page describes an average 12 oz bag cost of $11, but that is not a quote for a selected Original or Decaf and must not be used as a verified SKU cost.
 Research URL:
 - https://pathcoffees.com/dropshipping-coffee/
 Questions still requiring confirmation: Original/Decaf catalog, unit prices, branded packaging costs, shipping costs/SLA, sample program, integration/manual order process.
