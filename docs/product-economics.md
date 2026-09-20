@@ -169,3 +169,35 @@ Model at minimum:
 - repeat-order and subscription break-even needed to recover acquisition expense.
 
 Until real quotes exist, every tumbler cost remains UNKNOWN and the public offer remains a plan rather than a guarantee.
+
+
+## Founding 40 tumbler market scan — 2026-09-20
+These are public-market reference points, not approved vendor quotes. Taxes and any unlisted charges remain UNKNOWN.
+
+| Vendor / option | Relevant quantity | Published base economics | Notes |
+|---|---:|---:|---|
+| Double Play Apparel & Engraving, 20 oz engraved tumbler | 48–95 | $11.00 each | Single-side engraving; published $15 flat bulk shipping. Double-sided adds $4 each. |
+| Llama Laser, 20 oz custom engraved tumbler | 50 | $16.00 each | Minimum 25; 50+ tier $16; engraving included; published 7–10 business-day ship timing for in-stock orders. |
+| American Branding Solutions, 20 oz vacuum-insulated custom logo tumbler | 50 | $10.69 each | 304 food-grade stainless steel; 50-piece minimum; published 6-working-day production. Shipping not yet verified. |
+| Iron Oath Engraving, 20 oz insulated tumbler | 50 | $19.00 each | Single-sided; double-sided adds $5 each. |
+| Promotional Product Inc., 20 oz slide-lid tumbler | 50 | about $7.62 each + $60 setup | Stainless outer/polypropylene inner; screen print or laser engraving; 50-piece minimum. |
+
+Working reference range for a 50-unit decorated tumbler is therefore roughly $7.62–$19.00 each before all unverified freight, tax, individual-numbering and fulfillment effects. Product construction/quality differs materially across this range, so lowest price is not automatically the best Founding 40 choice.
+
+A particularly useful current benchmark is Double Play: 48 units at $11.00 = $528 base, plus its published $15 bulk shipping = $543 before tax and before any individually numbered/two-sided treatment. At 50 units the same published tier implies $550 base + $15 shipping = $565 before those unknowns.
+
+### Quote requirements before selection
+Request/verify:
+- 40 vs 48 vs 50 units and whether overage/spares are practical;
+- vacuum-insulated stainless construction and lid quality;
+- logo engraving dimensions;
+- whether unique 01/40–40/40 numbering can be variable data in the same run;
+- cost of second-side mission/story engraving;
+- proof/sample process;
+- exact freight/tax;
+- production lead time;
+- packaging dimensions/weight per tumbler;
+- direct-to-fulfillment or individual customer shipping capability;
+- breakage/replacement policy.
+
+Do not treat the market scan as the final landed cost. Selection remains PENDING.
