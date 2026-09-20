@@ -11,7 +11,7 @@ Last structured: 2026-09-20
 - Founding 40 interest form code and thank-you page
 - Privacy and terms launch pages
 - Sitemap, robots.txt and custom 404
-- Founding 40 operating playbook and tracking template
+- Founding 40 first-customer operating playbook, reservation funnel, campaign guardrails and tracking fields
 - Permanent hosted mailbox purchased
 - hello@therisingsoncoffee.com mailbox created
 - Incoming IMAP tested successfully
@@ -34,8 +34,12 @@ Last structured: 2026-09-20
 - Supplier due-diligence framework expanded for direct fulfillment, variants, recurring orders, traceability and exception policies
 - Order/fulfillment SOP expanded for subscription, metadata, AI/human service and professional fulfillment
 - Customer/commerce data architecture defined from Founding 40 through order, fulfillment, service, reorder and subscription
+- Founding 40 public messaging aligned around free reservation -> verified offer -> qualifying purchase -> activated Founding Customer
+- Planned numbered tumbler documented as a pending, non-guaranteed Founding benefit and separate acquisition expense
+- Founding 40 reservation campaign messaging and advertising guardrails prepared
 
 ## YELLOW — waiting / verification
+- Public reservation funnel live-browser verification from an external environment (current assistant web fetch cannot reach the domain)
 - HTTPS availability and HTTP-to-HTTPS redirect
 - GitHub HTTPS certificate / Enforce HTTPS
 - Founding 40 custom thank-you redirect and mobile-browser behavior
@@ -51,6 +55,14 @@ Last structured: 2026-09-20
 - Checkout test
 - Social-sharing artwork and final owner art-direction approval
 - Final mobile/desktop launch QA
+
+## RESERVATION CAMPAIGN STATUS
+- Copy/offer structure: READY
+- Form activation/delivery: previously proven
+- Checkout/payment: intentionally disabled
+- External live-browser/HTTPS/thank-you redirect QA: still YELLOW
+- Paid advertising spend: hold until live-browser funnel QA is proven
+- Organic/direct reservation outreach: may begin once owner confirms the currently deployed page/form opens and submits correctly on their device
 
 ## RED — do not activate yet
 - Do not accept coffee orders or payments
