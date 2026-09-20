@@ -134,7 +134,15 @@ Maintain one record per reservation with:
 - first_name
 - email
 - coffee_preference
-- likelihood
+- interest_level
+- current_coffee_brand
+- usual_bag_size
+- usual_price_band
+- purchase_frequency
+- coffee_form
+- decision_factors
+- usual_purchase_channel
+- switch_trigger
 - possible_quantity
 - referral_source
 - freeform_note
@@ -148,3 +156,24 @@ Maintain one record per reservation with:
 - opted_out_at
 
 Never assign founding_customer_number until the qualifying order is complete.
+
+
+## Embedded product-intelligence survey
+The reservation form also captures optional structured market evidence at the point of signup so later supplier, pricing, packaging, acquisition and retention decisions can be compared against actual prospect behavior rather than assumptions.
+
+Capture and preserve each answer independently, including explicit unknown/blank rather than inferring a value:
+- current coffee/brand;
+- usual bag-size band;
+- usual price-per-bag band;
+- purchase frequency;
+- usual coffee form (whole bean, ground, both, pods/capsules, other);
+- up to three stated purchase decision factors;
+- usual purchase channel;
+- stated switch trigger;
+- Original/Decaf/Both preference;
+- Founding 40 interest level;
+- possible quantity;
+- referral source;
+- freeform note and consent.
+
+Potential later analyses include approximate current $/oz bands, purchase-frequency cohorts, bean/ground demand, Decaf demand, price sensitivity, bag-size fit, value-vs-quality preference, switching triggers, channel/source differences, intent-vs-preference relationships, reservation-to-purchase conversion by stated behavior, reorder behavior versus prelaunch answers, and supplier/product fit. Treat self-reported answers as directional evidence, not verified purchasing history. Do not infer demographic or sensitive traits from these answers.
