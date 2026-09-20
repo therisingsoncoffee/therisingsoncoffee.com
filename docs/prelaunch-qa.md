@@ -21,8 +21,8 @@
 - [x] required-field markup is present and syntactically valid
 - [x] consent required
 - [x] spam/honeypot field present
-- [ ] successful submission delivered
-- [ ] first-use form-provider activation complete
+- [x] successful submission delivered (labeled activation test received 2026-09-20)
+- [x] first-use form-provider activation complete
 - [ ] thank-you redirect works
 - [ ] mobile keyboard/input behavior acceptable
 
@@ -31,10 +31,10 @@
 - [x] inbound IMAP proven
 - [x] outbound SMTP proven
 - [x] external send/reply proven
-- [ ] SPF verified
-- [ ] DKIM verified
-- [ ] DMARC verified
-- [ ] sender display name/signature reviewed
+- [x] SPF verified (Gmail result: pass; public TXT resolved 2026-09-20)
+- [x] DKIM verified (Gmail result: pass, selector `default`, 2026-09-20)
+- [x] DMARC verified (Gmail result: pass; public policy `p=quarantine`, 2026-09-20)
+- [x] sender display name/signature reviewed and configured (2026-09-20)
 
 ## Product / commerce
 - [ ] Original facts verified
