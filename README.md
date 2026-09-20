@@ -8,6 +8,7 @@ Official website source for **therisingsoncoffee.com**.
 - Founding 40 interest flow
 - Original + Decaf positioning
 - Checkout intentionally locked until supplier economics and terms are verified
-- Signup UI is present, but submissions are intentionally not transmitted until a secure form backend is connected
+- Founding 40 form is wired to email delivery; first-use activation/verification may be required by the form provider before submissions are delivered
+- Domain DNS/HTTPS propagation is being monitored separately
 
 Tagline: **Good Coffee. Greater Purpose.**
