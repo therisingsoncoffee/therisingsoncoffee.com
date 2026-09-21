@@ -1,6 +1,6 @@
 # Rising Son Coffee — Launch Readiness
 
-Last structured: 2026-09-20
+Last structured: 2026-09-21
 
 ## GREEN — completed / proven
 - Public GitHub repository and GitHub Pages deployment pipeline
@@ -41,10 +41,14 @@ Last structured: 2026-09-20
 - Mobile primary navigation made persistently visible
 - Homepage reservation form aligned with dedicated Founding 40 interest-level qualification (Interested / Very Interested / First Shot) (2026-09-20)
 - Privacy and Terms CTAs aligned to the dedicated Founding 40 page; Terms corrected to current reservation -> verified offer -> qualifying purchase activation model (2026-09-20)
+- Optional Founding 40 product-intelligence survey implemented on homepage and dedicated acquisition page; owner confirmed live mobile rendering looks good (2026-09-21)
+- Reservation-intelligence decision framework documented for demand, price/size, decision drivers, acquisition, later conversion and retention analysis (2026-09-21)
 
 ## YELLOW — waiting / verification
-- HTTPS availability and HTTP-to-HTTPS redirect
+- HTTPS availability and HTTP-to-HTTPS redirect; external agent environment could not independently reach the public domain on 2026-09-21, so prior browser evidence remains the latest proof
 - GitHub HTTPS certificate / Enforce HTTPS
+- Customer-side Founding 40 confirmation redirect/fallback after one real submission delivered successfully by email but did not visibly redirect; fallback deployed, controlled retest deferred by owner
+- Expanded survey end-to-end field rendering in delivered FormSubmit email, especially multi-select `decision_factors[]`; controlled test deferred by owner
 - Supplier quote/product facts
 - Product samples / sensory fit against intended Original and Decaf profiles
 - Direct/private-label fulfillment capability and complete delivered costs
@@ -60,11 +64,11 @@ Last structured: 2026-09-20
 
 ## RESERVATION CAMPAIGN STATUS
 - Copy/offer structure: READY
-- Form activation/delivery: proven
-- Live mobile reservation submission -> custom Rising Son confirmation page: proven 2026-09-20
-- Public mobile page load: proven 2026-09-20
+- Form activation/backend delivery: proven
+- Public mobile page load and expanded survey rendering: owner-observed and proven 2026-09-21
+- A prior live mobile reservation reached the custom Rising Son confirmation page on 2026-09-20; a later real reservation was delivered by email but the customer reported no visible post-submit confirmation, so redirect UX remains YELLOW pending retest
 - Checkout/payment: intentionally disabled
-- Founding 40 reservation funnel: GREEN / ready to advertise
+- Founding 40 reservation funnel: advertising-capable for free reservations; monitor redirect UX and avoid asking already-delivered prospects to resubmit
 - Advertising may collect free reservations only; coffee orders/payments remain locked until the separate commerce launch gates pass
 
 ## RED — do not activate yet
