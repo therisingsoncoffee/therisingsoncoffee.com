@@ -3,6 +3,7 @@
 Last structured: 2026-09-22
 
 ## GREEN — completed / proven
+- Custom-domain HTTPS enabled in GitHub Pages by owner on 2026-09-22; independent HTTP HEAD checks returned 200 for apex and /founding40/, and www returned 301 to HTTPS apex.
 - Public GitHub repository and GitHub Pages deployment pipeline
 - Custom domain committed via CNAME
 - Four GitHub Pages apex A records entered in Porkbun
@@ -53,8 +54,6 @@ Last structured: 2026-09-22
 - This workspace returned a proxy-generated 502 for the HTTPS custom domain, while the GitHub Pages repository URL returned a redirect to the custom-domain HTTP URL. These signals do not establish that visitors see a 502. Check the domain directly and the Pages certificate/DNS status before changing web DNS; retain working MX/SPF/DKIM records.
 
 ## YELLOW — waiting / verification
-- HTTPS availability and HTTP-to-HTTPS redirect; external agent environment again could not independently reach the public domain on 2026-09-22, so prior browser evidence remains the latest proof
-- GitHub HTTPS certificate / Enforce HTTPS
 - Customer-side Founding 40 confirmation redirect/fallback after one real submission delivered successfully by email but did not visibly redirect; fallback deployed, controlled retest deferred by owner
 - Expanded survey end-to-end field rendering in delivered FormSubmit email, especially multi-select `decision_factors[]`; controlled test deferred by owner
 - Supplier quote/product facts; connected Gmail audit on 2026-09-22 found no supplier reply from Liberty Beans or La Vela in the accessible forwarded Gmail inbox
@@ -106,8 +105,7 @@ Rising Son product page -> Stripe-hosted checkout -> payment confirmation -> str
 Stripe is selected as the intended initial processor, but live activation is intentionally deferred until business identity/tax setup and supplier economics are ready.
 
 ## Remaining launch gates
-1. HTTPS healthy and HTTP redirects to HTTPS
-2. Supplier product facts and samples verified
+1. Supplier product facts and samples verified
 3. Professional/direct fulfillment method and complete delivered costs verified
 4. Original/Decaf product choices approved
 5. Bag size, delivered $/oz, retail price and contribution economics approved
