@@ -65,54 +65,56 @@ Record the date, supplier contact and source document/email for every commercial
 ## Rising Son launch constraint
 Rising Son is not planning owner-home storage/packing at launch. Supplier-direct fulfillment or another professional fulfillment arrangement is therefore a launch requirement, not a convenience. Compare the complete delivered economics: coffee + packaging + label + grinding + pick/pack + shipping + processor cost + setup/order fees.
 
-## Supplier evidence snapshot — 2026-09-21
-Public supplier pages are evidence of advertised capability only, not a Rising Son quote or contractual commitment. Commercial fields remain UNKNOWN until confirmed for Rising Son.
+## Supplier evidence snapshot — 2026-09-22
+Public supplier pages are evidence of advertised capability only, not a Rising Son quote or contractual commitment. Commercial fields remain UNKNOWN until confirmed for Rising Son. Connected Gmail was searched on 2026-09-22 for Liberty Beans / La Vela responses from the prior seven days; no matching supplier response was found.
 
 ### La Vela Coffee Roasters
-Public-source evidence reviewed 2026-09-21:
-- advertises private/white-label coffee with Rising Son-style customer-facing branding and no La Vela name on the private-label bag;
+Public-source evidence reviewed 2026-09-22:
+- advertises private/white-label coffee with customer-facing branding and no La Vela name on the private-label bag;
 - advertises roast-to-order/small-batch coffee and choices including blends/single origins, espresso, decaf and cold-brew roasts;
 - advertises custom packaging choices and label-design assistance;
 - says private-label order sizes are flexible/low-minimum, but gives no numeric MOQ; MOQ therefore UNKNOWN;
-- says most private-label orders are roasted, packaged and shipped in 3–5 business days;
-- says it can ship to a business address, fulfillment center, or other logistics destination; this does NOT yet prove economical one-order-at-a-time consumer dropship fulfillment for Rising Son;
+- says most private-label orders ship in 3–5 business days; a separate Florida private-label page states 2–6 weeks depending on order complexity, so exact Rising Son lead time must be quoted rather than inferred;
+- says private-label coffee can ship to the brand/business or its fulfillment center; this does NOT prove one-order-at-a-time consumer dropship fulfillment for Rising Son;
 - wholesale page says samples/tastings are available before committing; sample price/terms remain UNKNOWN;
 - advertises customizable roast, grind and delivery frequency and business subscriptions;
 - advertises 100% Arabica and says many coffees have Fair Trade/Organic certifications; certification must be verified at the specific selected SKU level before any Rising Son claim.
 
-Sources retained for follow-up: La Vela Private Label Coffee Program; La Vela wholesale partner pages; La Vela private-label program article, accessed 2026-09-21.
-
-Still UNKNOWN / needs direct confirmation: exact Original candidate and sensory fit; exact Decaf candidate and decaf method; bag sizes; whole-bean/ground variants and grind choices for private label; per-SKU/MOQ and whether variants mix toward MOQ; unit pricing/tiers; packaging/label/setup/grind charges; direct-to-individual-customer fulfillment and pick/pack fee; 1/2/3-bag shipping rates; tracking integration; peak lead time; payment terms; price-change policy; subscription order mechanics; exception/replacement/return policy; lot traceability and recall process.
+Still UNKNOWN / needs direct confirmation: exact Original candidate and sensory fit; exact Decaf candidate and decaf method; bag sizes; whole-bean/ground variants and grind choices for private label; per-SKU/MOQ and whether variants mix toward MOQ; unit pricing/tiers; packaging/label/setup/grind charges; direct-to-individual-customer fulfillment and pick/pack fee; 1/2/3-bag shipping rates; tracking integration; exact normal/peak lead time; payment terms; price-change policy; subscription order mechanics; exception/replacement/return policy; lot traceability and recall process.
 
 ### Liberty Beans Coffee Company
-Public-source evidence reviewed 2026-09-21:
-- advertises wholesale coffee roasted after order and nationwide shipping;
-- advertises no long-term wholesale contracts / cancel-anytime positioning;
-- advertises custom wholesale pricing and flexible ordering;
-- coffee-shop program advertises whole-bean coffee and a sample request path;
-- public wholesale navigation advertises Private Label and Dropshipping programs, but Rising Son-specific capability/economics have not been confirmed;
-- roastery is publicly listed in Charleston, South Carolina.
+Public-source evidence reviewed 2026-09-22:
+- its private-label program explicitly advertises zero inventory and no minimums;
+- explicitly advertises roast, bag, label and blind shipment directly to the brand's customer, with Liberty branding absent from the outer shipment;
+- advertises in-house full-color labels, custom pouches and inserts, plus custom roast/origin side-panel content;
+- advertises API + Shopify synchronization for order automation;
+- says there is no setup fee on re-orders; initial setup/artwork/label costs remain UNKNOWN;
+- wholesale coffee is advertised as roasted after order with nationwide shipping and no long-term wholesale contract;
+- public catalog includes decaf products and samples, but the exact Rising Son private-label Decaf candidate, decaf method and sample terms remain UNKNOWN;
+- a public Freedom Blend description is medium-dark, full-bodied and low-acid with chocolate/nutty characteristics, making it a plausible sensory-screen candidate only; it is NOT selected as Rising Son Original and must be sampled/quoted for private label.
 
-Sources retained for follow-up: Liberty Beans wholesale page; coffee-shop wholesale page; contact page, accessed 2026-09-21.
+Still UNKNOWN / needs direct confirmation: Rising Son private-label unit pricing and exact 12-oz-or-other bag options; initial label/setup costs; Original candidate recommendation and sensory fit; Decaf candidate and decaf method; whole-bean/ground availability within the private-label dropship program, grind choices and surcharge; per-order/pick-pack charges if separate; 1/2/3-bag shipping economics; tracking/API commercial terms; production/peak lead times; sample cost/terms; payment terms; subscription/repeat-order mechanics; exception/replacement/return policy; required label elements; lot traceability and recall process.
 
-Still UNKNOWN / needs direct confirmation: private-label MOQ and pricing; Original candidate/sensory fit; Decaf candidate and decaf method; bag sizes; ground/grind options and surcharge; whether Original/Decaf and bean/ground can mix toward MOQ; packaging/label/setup fees; exact dropship/private-label combination; pick/pack; 1/2/3-bag shipping economics; tracking; production/peak lead times; sample cost/terms; payment terms; subscription/repeat-order support; exception/replacement/return policy; required label elements; lot traceability and recall process.
-
-## Apples-to-apples status — 2026-09-21
+## Apples-to-apples status — 2026-09-22
 | Decision field | La Vela | Liberty Beans |
 |---|---|---|
 | Private label publicly advertised | YES | YES |
-| Decaf publicly advertised | YES | UNKNOWN for private-label program |
-| Numeric MOQ | UNKNOWN | UNKNOWN |
+| Decaf publicly advertised | YES | YES generally; exact private-label candidate UNKNOWN |
+| Numeric MOQ | UNKNOWN | Private-label page advertises no minimums |
 | Rising Son unit quote | UNKNOWN | UNKNOWN |
-| Samples | Advertised; terms UNKNOWN | Request path advertised; terms UNKNOWN |
+| Samples | Advertised; terms UNKNOWN | Public samples exist; Rising Son terms UNKNOWN |
 | Whole bean | Advertised generally | Advertised generally |
 | Ground/grinds for Rising Son private label | UNKNOWN | UNKNOWN |
-| Bag sizes | UNKNOWN | UNKNOWN |
-| Direct consumer fulfillment | Logistics destination shipping advertised; consumer-order dropship not yet proven | Dropshipping advertised; exact private-label combination not yet proven |
-| Pick/pack fee | UNKNOWN | UNKNOWN |
+| Bag sizes | UNKNOWN | Public private-label economics mention 12 oz, but available Rising Son sizes UNKNOWN |
+| Direct consumer fulfillment | NOT PROVEN | Explicitly advertised: blind ship direct to customer, zero inventory |
+| Pick/pack fee | UNKNOWN | UNKNOWN / may be bundled; needs quote |
 | Shipping economics | UNKNOWN | UNKNOWN |
-| Private-label production timing | 3–5 business days advertised | UNKNOWN |
+| Private-label production timing | Conflicting public guidance: 3–5 business days vs 2–6 weeks depending complexity | UNKNOWN |
+| Automation/integration | UNKNOWN | API + Shopify sync advertised |
 | Payment terms | UNKNOWN | UNKNOWN |
-| Sensory fit | SAMPLE REQUIRED | SAMPLE REQUIRED |
+| Sensory fit | SAMPLE REQUIRED | SAMPLE REQUIRED; Freedom Blend is a plausible screen candidate only |
 
-No supplier is currently selectable on evidence. The highest-value next evidence is a direct reply/quote that resolves private-label + individual consumer fulfillment together with MOQ, per-unit costs, shipping and Original/Decaf sample candidates.
+### Comparison status
+Liberty Beans now clears the key public-capability screen for Rising Son's no-home-fulfillment model more directly than La Vela because its private-label page explicitly describes blind, one-order-at-a-time shipment to the brand's customer with zero inventory. This is not a final supplier recommendation: delivered economics, coffee quality, Original/Decaf fit, grind variants, shipping, fees, policies and commercial terms remain unresolved.
+
+No supplier is currently selectable on evidence. The highest-value next evidence is a direct supplier quote/reply resolving unit coffee + packaging/label + fulfillment/pick-pack + 1/2/3-bag shipping, together with Original/Decaf candidate and sample terms. Until that arrives, do not order samples or commit Rising Son.
