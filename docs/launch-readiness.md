@@ -1,6 +1,6 @@
 # Rising Son Coffee — Launch Readiness
 
-Last structured: 2026-09-21
+Last structured: 2026-09-22
 
 ## GREEN — completed / proven
 - Public GitHub repository and GitHub Pages deployment pipeline
@@ -43,13 +43,14 @@ Last structured: 2026-09-21
 - Privacy and Terms CTAs aligned to the dedicated Founding 40 page; Terms corrected to current reservation -> verified offer -> qualifying purchase activation model (2026-09-20)
 - Optional Founding 40 product-intelligence survey implemented on homepage and dedicated acquisition page; owner confirmed live mobile rendering looks good (2026-09-21)
 - Reservation-intelligence decision framework documented for demand, price/size, decision drivers, acquisition, later conversion and retention analysis (2026-09-21)
+- Privacy notice expanded to disclose the detailed optional market-research fields and their use in product/size/pricing/fulfillment launch decisions (2026-09-22)
 
 ## YELLOW — waiting / verification
-- HTTPS availability and HTTP-to-HTTPS redirect; external agent environment could not independently reach the public domain on 2026-09-21, so prior browser evidence remains the latest proof
+- HTTPS availability and HTTP-to-HTTPS redirect; external agent environment again could not independently reach the public domain on 2026-09-22, so prior browser evidence remains the latest proof
 - GitHub HTTPS certificate / Enforce HTTPS
 - Customer-side Founding 40 confirmation redirect/fallback after one real submission delivered successfully by email but did not visibly redirect; fallback deployed, controlled retest deferred by owner
 - Expanded survey end-to-end field rendering in delivered FormSubmit email, especially multi-select `decision_factors[]`; controlled test deferred by owner
-- Supplier quote/product facts
+- Supplier quote/product facts; connected Gmail audit on 2026-09-22 found no supplier reply from Liberty Beans or La Vela in the accessible forwarded Gmail inbox
 - Product samples / sensory fit against intended Original and Decaf profiles
 - Direct/private-label fulfillment capability and complete delivered costs
 - Product unit economics, bag-size optimization and final retail pricing
