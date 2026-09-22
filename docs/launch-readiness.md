@@ -3,7 +3,7 @@
 Last structured: 2026-09-22
 
 ## GREEN — completed / proven
-- Custom-domain HTTPS enabled in GitHub Pages by owner on 2026-09-22; independent HTTP HEAD checks returned 200 for apex and /founding40/, and www returned 301 to HTTPS apex.
+- Custom-domain HTTPS enabled in GitHub Pages by owner on 2026-09-22; independent HTTPS checks returned 200 for apex and /founding40/; HTTP apex and HTTPS www returned 301 to HTTPS apex. Robots and sitemap returned 200.
 - Public GitHub repository and GitHub Pages deployment pipeline
 - Custom domain committed via CNAME
 - Four GitHub Pages apex A records entered in Porkbun
