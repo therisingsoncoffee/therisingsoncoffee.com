@@ -45,6 +45,13 @@ Last structured: 2026-09-22
 - Reservation-intelligence decision framework documented for demand, price/size, decision drivers, acquisition, later conversion and retention analysis (2026-09-21)
 - Privacy notice expanded to disclose the detailed optional market-research fields and their use in product/size/pricing/fulfillment launch decisions (2026-09-22)
 
+## SEO and domain check — 2026-09-22
+- Published sitemap cleanup: current modification dates for the legal pages; removed change frequency and priority hints that crawlers do not use.
+- Corrected Organization structured data: the promotional social card is not asserted as a business logo. Home, Founding 40 and Story JSON-LD parse successfully.
+- A repository scan found no broken local HTML asset or navigation paths.
+- Search indexing and Search Console verification remain unproven while the custom-domain HTTPS response cannot be independently validated. Do not report a search ranking or indexed-page count until measured.
+- This workspace returned a proxy-generated 502 for the HTTPS custom domain, while the GitHub Pages repository URL returned a redirect to the custom-domain HTTP URL. These signals do not establish that visitors see a 502. Check the domain directly and the Pages certificate/DNS status before changing web DNS; retain working MX/SPF/DKIM records.
+
 ## YELLOW — waiting / verification
 - HTTPS availability and HTTP-to-HTTPS redirect; external agent environment again could not independently reach the public domain on 2026-09-22, so prior browser evidence remains the latest proof
 - GitHub HTTPS certificate / Enforce HTTPS
