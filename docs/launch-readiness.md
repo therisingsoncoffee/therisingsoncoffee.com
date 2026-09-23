@@ -1,9 +1,9 @@
 # Rising Son Coffee — Launch Readiness
 
-Last structured: 2026-09-22
+Last structured: 2026-09-23
 
 ## GREEN — completed / proven
-- Custom-domain HTTPS enabled in GitHub Pages by owner on 2026-09-22; independent HTTPS checks returned 200 for apex and /founding40/; HTTP apex and HTTPS www returned 301 to HTTPS apex. Robots and sitemap returned 200.
+- Custom-domain HTTPS enabled in GitHub Pages by owner on 2026-09-22; independently reverified 2026-09-23: HTTPS apex and `/founding40/` returned 200, HTTP apex and HTTPS `www` returned 301 to HTTPS apex, and robots/sitemap returned 200.
 - Public GitHub repository and GitHub Pages deployment pipeline
 - Custom domain committed via CNAME
 - Four GitHub Pages apex A records entered in Porkbun
@@ -29,6 +29,8 @@ Last structured: 2026-09-22
 - Checkout integration safety gate prepared with checkout disabled and no payment URL
 - Supplier outreach evidence tracker prepared
 - Initial no-spend supplier inquiries sent from hello@therisingsoncoffee.com to Liberty Beans Coffee and La Vela Coffee Roasters (2026-09-20)
+- Expanded private-label/direct-fulfillment inquiries sent from hello@therisingsoncoffee.com to 11 suppliers on 2026-09-23: Liberty Beans, La Vela, Koffee Kult, Temecula Coffee Roasters, CoffeeAM, Luna Gourmet, Roastify, Brandywine Coffee Roasters, Eldorado Coffee, Capital City Roasters and Ghost Roast
+- Written FDACS classification request sent from hello@therisingsoncoffee.com to the official Division of Food Safety address on 2026-09-23 for the exact supplier-roasted, Rising Son-branded, supplier-packaged/stored/direct-shipped model; response pending
 - Launch assortment defined conceptually as Original + Decaf; whole bean/ground are variants subject to supplier capability/economics
 - Value-first product economics framework established, including delivered $/oz and contribution analysis
 - Subscription-ready economics framework established; no discount/savings claim until verified
@@ -46,17 +48,17 @@ Last structured: 2026-09-22
 - Reservation-intelligence decision framework documented for demand, price/size, decision drivers, acquisition, later conversion and retention analysis (2026-09-21)
 - Privacy notice expanded to disclose the detailed optional market-research fields and their use in product/size/pricing/fulfillment launch decisions (2026-09-22)
 
-## SEO and domain check — 2026-09-22
+## SEO and domain check — 2026-09-23
 - Published sitemap cleanup: current modification dates for the legal pages; removed change frequency and priority hints that crawlers do not use.
 - Corrected Organization structured data: the promotional social card is not asserted as a business logo. Home, Founding 40 and Story JSON-LD parse successfully.
 - A repository scan found no broken local HTML asset or navigation paths.
-- Search indexing and Search Console verification remain unproven while the custom-domain HTTPS response cannot be independently validated. Do not report a search ranking or indexed-page count until measured.
-- This workspace returned a proxy-generated 502 for the HTTPS custom domain, while the GitHub Pages repository URL returned a redirect to the custom-domain HTTP URL. These signals do not establish that visitors see a 502. Check the domain directly and the Pages certificate/DNS status before changing web DNS; retain working MX/SPF/DKIM records.
+- Search indexing and Search Console verification remain unproven. Do not report a search ranking or indexed-page count until measured.
+- Live endpoint verification on 2026-09-23 confirmed the intended canonical host and redirects without changing DNS: HTTPS apex `200`; HTTPS `www` `301` to HTTPS apex; HTTP apex `301` to HTTPS apex; `/founding40/`, `/sitemap.xml` and `/robots.txt` all `200`. Repository canonicals for home, Founding 40, Privacy and Terms point to the HTTPS apex host. Preserve working MX/SPF/DKIM records.
 
 ## YELLOW — waiting / verification
 - Customer-side Founding 40 confirmation redirect/fallback after one real submission delivered successfully by email but did not visibly redirect; fallback deployed, controlled retest deferred by owner
 - Expanded survey end-to-end field rendering in delivered FormSubmit email, especially multi-select `decision_factors[]`; controlled test deferred by owner
-- Supplier quote/product facts; connected Gmail audit on 2026-09-22 found no supplier reply from Liberty Beans or La Vela in the accessible forwarded Gmail inbox
+- Supplier quote/product facts; 11 expanded inquiries were sent on 2026-09-23, and a targeted connected-inbox audit found no inbound reply from those supplier domains yet
 - Product samples / sensory fit against intended Original and Decaf profiles
 - Direct/private-label fulfillment capability and complete delivered costs
 - Product unit economics, bag-size optimization and final retail pricing
@@ -67,7 +69,9 @@ Last structured: 2026-09-22
 - Stripe business verification and bank connection
 - Checkout test
 - Social-sharing artwork and final owner art-direction approval
-- Final browser-based desktop launch QA (repository/static QA completed; external browser verification remains)
+- Final browser-based desktop launch QA (repository/static QA and endpoint verification completed; visual desktop review remains)
+- Written FDACS classification for the exact Florida e-commerce/private-label/supplier-direct model, including whether Rising Son needs a permit and any precise permit/fee; official request sent 2026-09-23, response pending
+- Liability-insurance decision: no universal legal mandate should be claimed without controlling authority; separately resolve legal requirement, supplier/contract requirement and prudent products/completed-operations coverage before paid orders
 
 ## RESERVATION CAMPAIGN STATUS
 - Copy/offer structure: READY
@@ -124,7 +128,8 @@ Subscription is architecture-ready but is not a blocker to initial one-time-purc
 When using Work mode, batch tasks to minimize user interruptions:
 - Audit repository and deployed site for functional/accessibility/mobile issues.
 - Resolve/verify HTTPS and Founding 40 redirect behavior where possible without owner action.
-- Monitor supplier responses and build a sourced comparison; never infer missing commercial terms.
+- Monitor replies from all 11 contacted suppliers and build a sourced comparison; never infer missing commercial terms.
+- Monitor the written FDACS classification request and preserve the agency response as compliance evidence.
 - Build unit-economics scenarios immediately from verified supplier data.
 - Evaluate samples against the documented sensory target when evidence/user tasting becomes available.
 - Prepare checkout integration in disabled/test state until launch gates are met.
