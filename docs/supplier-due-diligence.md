@@ -98,6 +98,22 @@ Public-source evidence reviewed 2026-09-22:
 
 Still UNKNOWN / needs direct confirmation: Rising Son private-label unit pricing and exact 12-oz-or-other bag options; initial label/setup costs; Original candidate recommendation and sensory fit; Decaf candidate and decaf method; whole-bean/ground availability within the private-label dropship program, grind choices and surcharge; per-order/pick-pack charges if separate; 1/2/3-bag shipping economics; tracking/API commercial terms; production/peak lead times; sample cost/terms; payment terms; subscription/repeat-order mechanics; exception/replacement/return policy; required label elements; lot traceability and recall process.
 
+### Path Coffee Roasters — public capability screen, 2026-09-23
+Path is a newly documented prospect, not yet a contacted or approved supplier. Its current dropshipping page publicly states that it:
+- sources, blends, roasts, packs and fulfills individual private-label orders directly to customers;
+- requires no dropshipping order minimum and no recurring program fee;
+- uses ShipStation integrations for Shopify, WooCommerce, Wix, Squarespace Commerce and BigCommerce;
+- offers branded packing slips, shipper name and shipment/delivery notifications;
+- prints private labels on demand and uses stock 6 oz / 12 oz bags, with a separate 5 lb option;
+- publicly estimates an average finished 12 oz bag cost of $11, with shipping charged at actual cost, but this is not a Rising Son quote and must not be used as approved economics;
+- publicly lists a one-time setup charge of $400 when Path prints labels, or $350 when the brand supplies labels;
+- says dropship orders generally ship in 3–4 business days and are billed weekly for coffee plus actual shipping;
+- publicly recommends paid 6 oz samples before account setup.
+
+Important fit assessment: the fulfillment architecture strongly matches Rising Son's no-home-handling requirement, but the $350–$400 setup charge conflicts with the current no-spend phase and may make Path a contingency rather than the primary unless commercial terms change. Whole-bean/ground coverage for both Original and Decaf, exact coffee menu, decaf process, food-safety/recall/traceability evidence, insurance/COI, label responsibility, replacement policy and 1/2/3-bag shipping rates remain UNKNOWN.
+
+Contact status: not contacted on 2026-09-23. Its public contact form requires additional owner/contact fields not available in this run, and the only connected outbound mail surface is the Gmail account that the operating instruction prohibits for supplier sends. Do not infer outreach from this research entry.
+
 ## Apples-to-apples status — 2026-09-22
 | Decision field | La Vela | Liberty Beans |
 |---|---|---|
@@ -120,4 +136,4 @@ Still UNKNOWN / needs direct confirmation: Rising Son private-label unit pricing
 ### Comparison status
 Liberty Beans now clears the key public-capability screen for Rising Son's no-home-fulfillment model more directly than La Vela because its private-label page explicitly describes blind, one-order-at-a-time shipment to the brand's customer with zero inventory. This is not a final supplier recommendation: delivered economics, coffee quality, Original/Decaf fit, grind variants, shipping, fees, policies and commercial terms remain unresolved.
 
-No supplier is currently selectable on evidence. The highest-value next evidence is a direct supplier quote/reply resolving unit coffee + packaging/label + fulfillment/pick-pack + 1/2/3-bag shipping, together with Original/Decaf candidate and sample terms. Until that arrives, do not order samples or commit Rising Son.
+No supplier is currently selectable on evidence. Liberty Beans remains the strongest currently contacted public-capability fit; Path is a strong uncontacted fulfillment match but carries a published $350–$400 setup charge. The highest-value next evidence is a direct supplier quote/reply resolving unit coffee + packaging/label + fulfillment/pick-pack + 1/2/3-bag shipping, together with Original/Decaf candidate and sample terms. Until that arrives, do not order samples or commit Rising Son.
