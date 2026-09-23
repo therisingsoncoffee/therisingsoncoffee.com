@@ -130,6 +130,76 @@ For every supplier input retain:
 A missing field remains UNKNOWN. Never convert silence into an assumption.
 
 
+
+## Compliance and insurance budget — 2026-09-23
+
+### Regulatory cost treatment
+- FDACS classification for the exact Florida e-commerce/private-label/supplier-packed/stored/direct-shipped model is PENDING WRITTEN RESPONSE.
+- Food permit type, fee, renewal period, inspection/location requirement and timing are UNKNOWN.
+- Budget placeholder must remain UNKNOWN, not $0. Do not spend or submit a permit application until FDACS identifies the applicable classification in writing.
+- Supplier facility permits/FDA registration, label evidence, lot traceability and recall controls are supplier due-diligence items and do not substitute for Rising Son's own classification.
+
+### Liability-insurance requirement status
+Primary-source review has not identified a Florida or federal rule that universally compels this exact owner-only, no-inventory/no-handling private-label coffee seller to purchase general liability or product liability coverage merely because it sells coffee. This is a preliminary absence-of-identified-mandate finding, not a legal opinion or an exemption.
+
+Keep three questions separate:
+1. **Legal mandate:** not established for general/product liability; written FDACS classification and qualified legal confirmation remain pending.
+2. **Contractual mandate:** UNKNOWN until supplier, ecommerce, fulfillment, lease and payment agreements are reviewed. A supplier may require minimum limits, products/completed-operations coverage, additional-insured status or indemnity regardless of statute.
+3. **Prudent risk protection:** products/completed-operations coverage is strongly decision-relevant because Rising Son is the customer-facing brand and seller even when the supplier manufactures and ships. Recall and cyber are separate optional coverages and must not be assumed included.
+
+Florida workers' compensation is a different legal category. For a non-construction employer, Florida's Department of Financial Services states coverage is required at four or more employees, including corporate officers/LLC members as described by the agency. The current owner-only launch model does not justify inserting a workers' compensation premium into launch costs, but hiring can change that result.
+
+### Quote specification
+Request comparable, nonbinding indications with:
+- named insured: final Rising Son legal entity (PENDING);
+- business: Florida-headquartered online seller/brand owner of shelf-stable roasted coffee sold nationwide;
+- operations: independent commercial roaster sources/roasts; supplier applies Rising Son-compliant packaging/label; supplier stores and direct-ships sealed product; Rising Son never possesses, opens or handles coffee;
+- launch assortment: Original and Decaf, whole bean and ground;
+- general liability with products/completed operations;
+- compare at least $1M per occurrence / $2M aggregate, plus any carrier alternative;
+- deductible/SIR, policy minimum premium, down payment/installments, taxes/fees, exclusions, territory and retroactive date;
+- explicit private-label food eligibility;
+- supplier additional-insured option and certificate-of-insurance capability;
+- separately priced product recall/withdrawal and cyber/privacy options;
+- confirmation whether claims involving labeling, allergens/ingredients, contamination, bodily injury, recall expense, reputational harm, ecommerce activity and nationwide sales are covered, excluded or limited.
+
+### Quote status and budget ledger
+No carrier result may be labeled an actual quote until it is issued for Rising Son using real underwriting inputs.
+
+| Cost / term | Verified amount | Current status |
+|---|---:|---|
+| General liability + products/completed operations annual premium | UNKNOWN | True quote blocked pending entity, exact address, effective date, projected annual sales, payroll/employee count, claims history and final requested limits |
+| Monthly-equivalent premium | UNKNOWN | Calculate annual premium / 12 only after quote; do not confuse monthly equivalent with carrier payment terms |
+| Policy down payment / annual upfront cash | UNKNOWN | Carrier-specific |
+| Deductible or self-insured retention | UNKNOWN | Carrier-specific |
+| Product-recall endorsement/policy | UNKNOWN | Quote separately; do not assume included in product liability |
+| Cyber/privacy coverage | UNKNOWN | Quote separately; scope should reflect website/customer data and third-party processors |
+| FDACS permit/application | UNKNOWN | Await written classification and exact fee/renewal period |
+| Supplier additional-insured charge | UNKNOWN | Supplier/carrier contract fact |
+| COI issuance | UNKNOWN | Carrier/broker fact |
+
+### Underwriting inputs still required
+- final legal entity name/type and formation date;
+- exact Florida operating/mailing address;
+- desired policy effective date;
+- projected first-year nationwide gross sales;
+- employee/payroll count and contractor use;
+- prior insurance and claims/loss history;
+- final products and whether any flavored coffee/added ingredients will be sold;
+- supplier identity, facility location, agreement, indemnity, COI and recall allocation;
+- final label-control responsibility;
+- selected limits and acceptable deductible;
+- whether Amazon/marketplaces, wholesale, subscriptions or international sales are in scope.
+
+### Economic treatment after quotes
+- fixed monthly insurance overhead = annual premium / 12;
+- insurance overhead per order = fixed monthly insurance overhead / expected monthly orders;
+- cash-to-open must use the carrier's actual down payment or annual-pay requirement, not the monthly equivalent;
+- recall and cyber remain separate line items;
+- run break-even at conservative order volumes before treating insurance as affordable;
+- do not allocate FDACS fees until classification, amount and renewal period are verified.
+
+
 ## Founding 40 acquisition economics
 The Founding 40 tumbler is modeled separately from the normal coffee retail price.
 
