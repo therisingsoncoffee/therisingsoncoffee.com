@@ -10,6 +10,10 @@
 
 Each inquiry requests Original and Decaf samples, itemized pricing, branded packaging, warehousing, blind direct fulfillment, shipping, food safety and traceability documentation, insurance requirements, and contract terms. No purchase or terms accepted.
 
+- Roastify — support@roastify.app — 1a0cd519b98bc9f3 (sent after explicit recipient authorization)
+- Brandywine Coffee Roasters — kevin@brandywinecoffeeroasters.com — 1a0cd51bf5204978
+- Eldorado Coffee Roasters — info@eldoradocoffee.com — 1a0cd51df21bc3d1 (direct individual blind fulfillment unconfirmed)
+
 ## Researched, pending outreach
 - Roastify — direct roasting/printing/packaging/shipping, no catalog MOQ; custom sourcing may require 1,000 units. https://roastify.app/dropshipping and https://roastify.app/white-label ; official support@roastify.app from https://roastify.app/contact
 - Brandywine Coffee Roasters — wholesale page says drop shipping, private and white labeling. https://www.brandywinecoffeeroasters.com/pages/wholesale ; wholesale contact kevin@brandywinecoffeeroasters.com at https://www.brandywinecoffeeroasters.com/pages/faq
