@@ -109,18 +109,21 @@ Rising Son product page -> Stripe-hosted checkout -> payment confirmation -> str
 Stripe is selected as the intended initial processor, but live activation is intentionally deferred until business identity/tax setup and supplier economics are ready.
 
 ## Remaining launch gates
-1. Supplier product facts and samples verified
-3. Professional/direct fulfillment method and complete delivered costs verified
-4. Original/Decaf product choices approved
-5. Bag size, delivered $/oz, retail price and contribution economics approved
-6. Shipping approach approved
-7. Refund/replacement terms approved
-8. Business structure + EIN completed as appropriate
-9. Stripe activated and bank connected
-10. Checkout + order notification + fulfillment test passed end to end
-11. Human art-direction/design pass
-12. Final desktop QA
-13. Final launch authorization
+1. Supplier product facts, food-safety/recall/lot-traceability evidence and samples verified
+2. Written FDACS classification obtained; any required permit and exact fee/renewal identified
+3. Final compliant label and responsibility allocation verified
+4. Product/general-liability requirement separated from supplier/contract requirements and prudent coverage; insurance decision approved
+5. Professional/direct fulfillment method and complete delivered costs verified
+6. Original/Decaf product choices approved
+7. Bag size, delivered $/oz, retail price and contribution economics approved
+8. Shipping approach approved
+9. Refund/replacement terms approved
+10. Business structure + EIN completed as appropriate
+11. Stripe activated and bank connected
+12. Checkout + order notification + fulfillment test passed end to end
+13. Human art-direction/design pass
+14. Final desktop QA
+15. Final launch authorization
 
 Subscription is architecture-ready but is not a blocker to initial one-time-purchase launch unless owner later makes it a day-one requirement.
 
