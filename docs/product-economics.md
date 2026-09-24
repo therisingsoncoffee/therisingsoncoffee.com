@@ -52,8 +52,9 @@ For each product/variant and order quantity Q, capture:
 Then calculate:
 - gross revenue = merchandise + shipping charged - discounts
 - variable product cost = unit landed product cost × Q
-- shipping subsidy = fulfillment/carrier shipping cost - shipping charged
-- contribution = gross revenue - product cost - processor fee - shipping subsidy - other variable order costs
+- shipping subsidy = fulfillment/carrier shipping cost - shipping charged (a diagnostic metric, not another cost to deduct from gross revenue)
+- contribution = gross revenue - product cost - full fulfillment/carrier shipping cost - processor fee - other variable order costs
+- equivalent check: merchandise revenue after discounts - product cost - processor fee - shipping subsidy - other variable order costs. Do not subtract both customer-paid shipping from cost and add it to gross revenue twice.
 - contribution margin % = contribution / gross revenue
 - delivered customer cost = merchandise + customer-paid shipping - discounts
 - delivered customer $/oz = delivered customer cost / total coffee ounces
@@ -131,10 +132,10 @@ A missing field remains UNKNOWN. Never convert silence into an assumption.
 
 
 
-## Compliance and insurance budget — 2026-09-23
+## Compliance and insurance budget — 2026-09-24
 
 ### Regulatory cost treatment
-- FDACS classification for the exact Florida e-commerce/private-label/supplier-packed/stored/direct-shipped model is PENDING WRITTEN RESPONSE.
+- FDACS classification for the exact Florida e-commerce/private-label/supplier-packed/stored/direct-shipped model is PENDING WRITTEN DETERMINATION. Its initial response requested county and ZIP; owner supplied Broward County / 33325, but a reply from the hosted mailbox was not verified sent as of 2026-09-24.
 - Food permit type, fee, renewal period, inspection/location requirement and timing are UNKNOWN.
 - Budget placeholder must remain UNKNOWN, not $0. Do not spend or submit a permit application until FDACS identifies the applicable classification in writing.
 - Supplier facility permits/FDA registration, label evidence, lot traceability and recall controls are supplier due-diligence items and do not substitute for Rising Son's own classification.
@@ -205,7 +206,14 @@ No carrier result may be labeled an actual quote until it is issued for Rising S
 - A prospective-client form inquiry was prepared with Rising Son's exact supplier-roasted/packaged/stored/direct-shipped model and hello@therisingsoncoffee.com as contact. After the owner's specific approval, the contact inquiry was submitted on 2026-09-23; the PPIB form displayed “Your submission was successful.” **Status: submitted; broker acknowledgment, eligibility, terms and pricing pending.** No coverage was bound or purchased. The website displayed no submission reference number.
 - Reusable inquiry: “Rising Son Coffee is a prelaunch Florida e-commerce private-label roasted coffee brand. We plan nationwide consumer sales of Original and Decaf, whole bean and ground, with a third-party U.S. supplier sourcing/roasting, applying compliant Rising Son branded labels and packaging, storing inventory, and blind-shipping each customer order. Rising Son would not roast, pack, store or handle coffee at home. We seek a nonbinding indication whether your markets can cover Rising Son as named insured for general liability including products/completed operations at $1M per occurrence/$2M aggregate, and an eventual comparable written quote showing annual premium, upfront/down-payment and installment costs, deductible, limits, food/label/allergen/private-label exclusions, territory, supplier additional-insured/COI options. Please separately indicate availability and cost requirements for product recall and cyber. The entity is not yet formed, supplier selection and sales projections are pending. Please identify the specific underwriting details you need to quote and whether a pre-formation indication is possible. No binding or purchase is requested.”
 - FLIP's published application guidance lists business name, owner contact, address, business description, gross annual sales and coverage requested among the details needed: https://www.fliprogram.com/product-liability-insurance . These do not establish Rising Son eligibility or premium.
-- FDACS request to FoodSafety@fdacs.gov is verified sent on 2026-09-23; response and classification remain pending. Eleven supplier expanded inquiries are verified sent the same day; no quote-level reply was found in the connected inbox at this check. Do not resend or count inquiries as confirmed supplier economics.
+- FDACS request to FoodSafety@fdacs.gov is verified sent on 2026-09-23. FDACS asked county/ZIP, not yet a classification. Eleven supplier expanded inquiries were verified sent the same day; the owner screenshot shows CoffeeAM and Temecula replies plus a delivery failure in the separate hosted mailbox, which the connected Gmail account cannot read. No quote-level reply is reviewed; do not resend or count inquiries as confirmed economics.
+
+### 2026-09-24 evidence and budget reconciliation
+- Connected Gmail was checked on 2026-09-24: no PPIB or other insurance response was visible. This account cannot access the separate hosted `hello@` inbox; absence in Gmail does not establish that no broker reply exists.
+- Florida Chapter 500 defines a food establishment broadly as a facility manufacturing, packing, holding, storing **or selling** food at retail/wholesale; FDACS's retail page emphasizes processing, packing, holding or preparing food for direct consumer sale. Neither public text conclusively resolves this exact no-possession online brand/supplier-direct arrangement. Keep permit type, fee and renewal UNKNOWN pending the agency's written determination. Sources: https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0500/0500.html and https://www.fdacs.gov/Business-Services/Food/Food-Establishments/Retail-Food-Program .
+- No new primary authority was identified on 2026-09-24 imposing a universal general/product-liability policy purchase on the owner-only private-label seller. That is an absence-of-identified-mandate status, not a legal clearance. Supplier/processor contracts and prudent protection remain separate.
+- A Google Drive document named `Rising Son Coffee - Launch Economics & Decision Framework` last updated 2026-09-20 retains historical preorder-first language and a $300 target/$500 ceiling. The current repository and public funnel instead use **free reservation → verified offer → optional qualifying purchase** and prohibit payments until separate regulatory, supplier, label, insurance and owner-authorization gates pass. Treat the Drive document's preorder mechanics and cash ceilings as historical assumptions, not current authorization or an approved compliance budget. Do not allocate those amounts to insurance, permits or customer orders without an explicit revised decision.
+- Cash-to-open remains UNKNOWN: actual insurance down payment/annual premium + any classified permit + supplier setup/sample/packaging + fulfillment float + payment/service contingency must be assembled from verified offers before testing affordability. A monthly-equivalent premium is not a payment plan.
 
 ## Founding 40 acquisition economics
 The Founding 40 tumbler is modeled separately from the normal coffee retail price.
