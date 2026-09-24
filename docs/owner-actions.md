@@ -2,6 +2,11 @@
 
 This is the single owner-intervention list. Repository work may continue without interruption; these items require identity, authorization, payment, legal judgment or final approval.
 
+## Immediate unblockers
+
+- Reply from the hosted `hello@therisingsoncoffee.com` mailbox to FDACS with **Broward County / ZIP 33325**, restate the no-possession supplier-direct model, and request the written classification plus any exact permit, fee and renewal period. Treat the ZIP as operating locality, not a final LLC principal-office street address.
+- Configure a keep-and-forward-copy filter in Porkbun webmail to the connected Gmail account and verify it with one uniquely labeled inbound test, without changing MX/SPF/DKIM. Then forward or otherwise surface the existing CoffeeAM and Temecula replies and delivery-failure notice for evidence review.
+
 ## Business and legal
 
 - Decide the operating legal structure and authorize any filing or paid registered-agent service.
