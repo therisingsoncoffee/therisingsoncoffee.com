@@ -114,7 +114,33 @@ Important fit assessment: the fulfillment architecture strongly matches Rising S
 
 Contact status: not contacted on 2026-09-23. Its public contact form requires additional owner/contact fields not available in this run, and the only connected outbound mail surface is the Gmail account that the operating instruction prohibits for supplier sends. Do not infer outreach from this research entry.
 
-## Apples-to-apples status — 2026-09-22
+### Temecula Coffee Roasters — public capability screen, 2026-09-24
+Temecula was contacted on 2026-09-23 and an owner screenshot proves a reply exists in the hosted mailbox, but the reply content has not been reviewed. Current official public pages separately state that Temecula:
+- sources, roasts and handles its coffee through its own team;
+- handles individual orders, on-demand label printing, selected stock bags and U.S. shipping;
+- provides SKU-based Shopify fulfillment with order status and tracking synchronization;
+- allows customer-designed labels within FDA requirements and offers black, white, kraft and compostable stock bags;
+- advertises no monthly fee or non-refundable shipping deposit and describes the dropship price as an all-in U.S.-order cost;
+- says Rising Son can choose a listed coffee with a designated roast profile and cupping notes and launch without touching the product;
+- says it handles roasting, packaging and shipping under the customer's brand;
+- requires Shopify for its fulfillment tool.
+
+This clears the public architecture screen for supplier-direct, Rising Son-branded fulfillment. It does not verify Rising Son-specific pricing, product match, 1/2/3-bag economics, Decaf process, whole-bean/ground variant coverage, facility licenses/FDA registration evidence, food-safety plan, allergen controls, lot traceability, recall process, COI/additional-insured terms, indemnity, label responsibility or replacement terms. Those remain UNKNOWN until the hosted reply and supporting documents are reviewed.
+
+### Joe's Garage Coffee — public capability screen, 2026-09-24
+Joe's Garage is a newly documented prospect, not yet contacted. Its official dropshipping and white-label pages state that it:
+- handles roasting, packaging and shipping from its facility and can fulfill small and large e-commerce orders without customer inventory management;
+- offers custom branding/packaging and traditional retail coffee bags;
+- advertises low minimums, but provides no numeric MOQ;
+- offers house/stock blends, roast-to-order development and samples for approval;
+- identifies a Kent, Washington facility and separately identifies Pod Pack International in Baton Rouge, Louisiana;
+- displays USDA Organic, BPI Compostable, SQF, Kosher Check, Fair Trade Certified, FDA Registered and AIB marks.
+
+Important evidence limitation: the displayed marks are public claims, not retained certificates. Their legal entity, facility scope, certificate numbers, audit grades, issuing bodies and expiration dates must be obtained before treating any certification as verified. Direct single-consumer blind-shipping mechanics, Original/Decaf candidates, whole-bean/ground variants, numeric MOQ, complete costs, integration, 1/2/3-bag shipping, payment terms, replacement policy, traceability/recall evidence, COI/additional-insured capability, indemnity and label/recall allocation remain UNKNOWN. Its site emphasizes enterprise programs, so small-launch economics may be a fit risk despite the advertised low minimums.
+
+Contact status: not contacted. The hosted mailbox currently presents a login screen with no authenticated agent session, and Gmail sending is prohibited because it can substitute the gmail.com identity. A complete no-send draft is preserved in `docs/supplier-outreach-drafts.md`.
+
+## Apples-to-apples status — 2026-09-24
 | Decision field | La Vela | Liberty Beans |
 |---|---|---|
 | Private label publicly advertised | YES | YES |
@@ -136,4 +162,4 @@ Contact status: not contacted on 2026-09-23. Its public contact form requires ad
 ### Comparison status
 Liberty Beans now clears the key public-capability screen for Rising Son's no-home-fulfillment model more directly than La Vela because its private-label page explicitly describes blind, one-order-at-a-time shipment to the brand's customer with zero inventory. This is not a final supplier recommendation: delivered economics, coffee quality, Original/Decaf fit, grind variants, shipping, fees, policies and commercial terms remain unresolved.
 
-No supplier is currently selectable on evidence. Liberty Beans remains the strongest currently contacted public-capability fit; Path is a strong uncontacted fulfillment match but carries a published $350–$400 setup charge. The highest-value next evidence is a direct supplier quote/reply resolving unit coffee + packaging/label + fulfillment/pick-pack + 1/2/3-bag shipping, together with Original/Decaf candidate and sample terms. Until that arrives, do not order samples or commit Rising Son.
+No supplier is currently selectable on evidence. Temecula and Liberty Beans are the strongest contacted public-capability fits for the no-home-handling model, but neither has complete reviewed commercial/compliance evidence. Path is a strong uncontacted fulfillment match with a published $350–$400 setup charge; Joe's Garage is a strong uncontacted manufacturing/fulfillment prospect whose enterprise emphasis and unspecified numeric MOQ may be a small-launch fit risk. The highest-value next evidence is a direct supplier quote/reply resolving unit coffee + packaging/label + fulfillment/pick-pack + 1/2/3-bag shipping, together with Original/Decaf candidate and sample terms. Until that arrives, do not order samples or commit Rising Son.
