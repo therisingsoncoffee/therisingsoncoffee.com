@@ -55,3 +55,22 @@ https://therisingsoncoffee.com/
 ## Path Coffee Roasters
 
 Use the same body above, changing the first paragraph to note that Rising Son reviewed Path's advertised no-minimum dropshipping architecture and wants a Rising Son-specific proposal. Explicitly ask whether the published setup charges can be deferred, reduced or credited against future orders; do not imply that Rising Son accepts those charges.
+
+
+## Dripshipper
+
+**Subject:** Rising Son Coffee — private-label coffee and on-demand fulfillment evidence request
+
+Use the complete Joe's Garage inquiry body above, with this opening:
+
+Rising Son Coffee reviewed Dripshipper's advertised no-minimum, on-demand private-label fulfillment architecture and is evaluating whether it can support our exact launch model. Our Founding 40 program is a free reservation and product-feedback effort only; it precedes a complete verified offer and any qualifying purchase, and we are not promising order volume.
+
+Add these Dripshipper-specific questions:
+- Identify the legal roasting, manufacturing, packing, warehousing and shipping entities and every facility that could handle Rising Son products; do not answer only with the Dripshipper platform name.
+- Confirm the complete subscription/platform fee schedule after any trial, including plan limits, transaction or per-order charges, required integrations and cancellation terms. Rising Son is not authorizing a trial or paid plan through this inquiry.
+- Provide Rising Son-specific coffee, packaging, fulfillment and 1-, 2- and 3-bag shipping costs separately from the platform fee.
+- Confirm which exact Original and Decaf coffees are available in both whole-bean and ground variants, the Decaf process, bag sizes, grind choices and any variant-specific charges.
+- Explain how lot codes, roast dates, recalls, customer shipment records and replacements remain accessible to Rising Son if the platform relationship ends.
+- Provide the applicable food-safety, recall, label, insurance/COI and indemnity evidence for the actual roaster/packer/shipper, not only the software platform.
+
+Contact only through an official verified business route and only from the authenticated hosted `hello@therisingsoncoffee.com` mailbox. Do not use Gmail, start a trial or accept a paid plan.
