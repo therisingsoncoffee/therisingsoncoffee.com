@@ -286,3 +286,27 @@ Request/verify:
 - breakage/replacement policy.
 
 Do not treat the market scan as the final landed cost. Selection remains PENDING.
+
+
+### 2026-09-25 Drive and platform-cost reconciliation
+- The connected Rising Son Google Drive account was verified as `therisingsoncoffee@gmail.com`. A targeted Drive search found no insurance quote, broker indication, FDACS fee determination or supplier-issued commercial quote.
+- The Drive document `Rising Son Coffee - Launch Economics & Decision Framework` and the supplier spreadsheet are historical planning artifacts last updated 2026-09-20. They contain public supplier starting prices, preorder-first language and “Ready to Contact” statuses that are not current verified quotes or current workflow status. GitHub remains the operating source of truth.
+- Specifically, the Drive spreadsheet's Dripshipper product prices (including a stated $9.39+ 12-ounce starting figure) have not been independently reverified as a Rising Son quote and must not enter margin calculations.
+- Dripshipper's current official public marketing advertises a 14-day trial and plans starting at $30 per month after trial. This is an advertised starting rate, not an actual Rising Son plan quote, invoice or payment schedule. No trial or paid plan is authorized.
+- If Dripshipper were later selected and the actual fixed platform cost were exactly $30/month, the illustrative fixed-cost allocation would be $3.00/order at 10 monthly orders, $1.50/order at 20, and $0.75/order at 40. These are arithmetic sensitivity examples only; replace them with the actual selected plan, taxes/fees and measured order volume before any pricing decision.
+- Dripshipper's recurring platform charge must be modeled separately from coffee, packaging, pick/pack, carrier shipping, payment processing, replacements and insurance overhead. A no-MOQ structure does not establish acceptable unit economics.
+- Public supplier capability evidence added 2026-09-25 does not clear any supplier for finance selection. CoffeeAM and Temecula replies remain trapped in the separate hosted mailbox and unread; Liberty Beans, Temecula, Path, Joe's Garage and Dripshipper still lack complete comparable commercial and compliance evidence.
+
+#### Exact finance inputs still blocking launch economics
+1. Supplier-issued Original and Decaf prices by bag size and bean/ground variant.
+2. Packaging/label, grinding, setup, platform, pick/pack and per-order fees.
+3. Actual 1-, 2- and 3-bag shipping by representative zones and customer-shipping policy.
+4. Replacement/refund responsibility and a support-loss allowance grounded in supplier terms.
+5. Payment processor rate for the eventual live account.
+6. Insurance indication naming Rising Son with annual premium, upfront cash, installments, deductible/SIR, limits, exclusions and private-label nationwide eligibility.
+7. Separate recall and cyber option pricing.
+8. Written FDACS classification, exact permit fee and renewal period if a Rising Son permit is required.
+9. Founding 40 tumbler landed/delivered cost and any approved spares.
+10. Realistic monthly order, repeat-purchase, subscription and CAC assumptions derived from measured customer behavior.
+
+Until those inputs exist, final prices, margins, break-even, cash-to-open and insurance-per-order remain UNKNOWN, and checkout must stay disabled.
