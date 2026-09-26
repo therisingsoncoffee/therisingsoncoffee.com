@@ -1,9 +1,9 @@
 # Rising Son Coffee — Launch Readiness
 
-Last structured: 2026-09-25
+Last structured: 2026-09-26
 
 ## GREEN — completed / proven
-- Custom-domain HTTPS enabled in GitHub Pages by owner on 2026-09-22; independently reverified 2026-09-25: HTTPS apex and `/founding40/` loaded successfully, and HTTP apex plus HTTPS `www` resolved to the HTTPS apex. Robots/sitemap last returned 200 on 2026-09-23; their current repository contents were rechecked 2026-09-25.
+- Custom-domain HTTPS enabled in GitHub Pages by owner on 2026-09-22; independently reverified 2026-09-26: HTTPS apex and `/founding40/` loaded successfully, and HTTP apex plus HTTPS `www` resolved to the HTTPS apex. Robots/sitemap last returned 200 on 2026-09-23; their current repository contents were rechecked 2026-09-26.
 - Public GitHub repository and GitHub Pages deployment pipeline
 - Custom domain committed via CNAME
 - Four GitHub Pages apex A records entered in Porkbun
@@ -26,7 +26,7 @@ Last structured: 2026-09-25
 - HTTP apex serves from GitHub Pages and HTTP www redirects to apex (verified 2026-09-20)
 - Keyboard-accessible Founding 40 choices and visible focus states
 - Explicit signup privacy disclosure linked beside the form
-- Checkout integration safety gate prepared and reverified 2026-09-25: `checkout-config.js` has `enabled: false` and an empty payment link; the rendered checkout button is disabled
+- Checkout integration safety gate prepared and reverified 2026-09-26: `checkout-config.js` has `enabled: false` and an empty payment link; the rendered checkout button is disabled
 - Supplier outreach evidence tracker prepared
 - Initial no-spend supplier inquiries sent from hello@therisingsoncoffee.com to Liberty Beans Coffee and La Vela Coffee Roasters (2026-09-20)
 - Expanded private-label/direct-fulfillment inquiries sent from hello@therisingsoncoffee.com to 11 suppliers on 2026-09-23: Liberty Beans, La Vela, Koffee Kult, Temecula Coffee Roasters, CoffeeAM, Luna Gourmet, Roastify, Brandywine Coffee Roasters, Eldorado Coffee, Capital City Roasters and Ghost Roast
@@ -48,16 +48,16 @@ Last structured: 2026-09-25
 - Reservation-intelligence decision framework documented for demand, price/size, decision drivers, acquisition, later conversion and retention analysis (2026-09-21)
 - Privacy notice expanded to disclose the detailed optional market-research fields and their use in product/size/pricing/fulfillment launch decisions (2026-09-22)
 
-## SEO and domain check — 2026-09-25
+## SEO and domain check — 2026-09-26
 - Published sitemap cleanup: current modification dates for the legal pages; removed change frequency and priority hints that crawlers do not use.
 - Corrected Organization structured data: the promotional social card is not asserted as a business logo. Home, Founding 40 and Story JSON-LD parse successfully.
 - A repository scan found no broken local HTML asset or navigation paths.
 - Search indexing and Search Console verification remain unproven. Do not report a search ranking or indexed-page count until measured.
-- Direct browser verification on 2026-09-25 confirmed the intended canonical host and redirects without changing DNS: HTTPS apex and `/founding40/` loaded successfully; HTTPS `www` and HTTP apex resolved to HTTPS apex; live home and Founding 40 canonicals point to the HTTPS apex host. `/sitemap.xml` and `/robots.txt` last returned `200` on 2026-09-23; the current browser client again blocked direct rendering of those file types on 2026-09-25, but their repository contents were rechecked and remain present, syntactically coherent and apex-linked. Repository canonicals for Home, Founding 40, Story, Privacy and Terms point to the HTTPS apex host. Preserve working MX/SPF/DKIM records.
+- Direct browser verification on 2026-09-26 confirmed the intended host and redirects without changing DNS: HTTPS apex and `/founding40/` loaded successfully; HTTPS `www` and HTTP apex resolved to HTTPS apex. The rendered checkout remained visibly locked. `/sitemap.xml` and `/robots.txt` last returned `200` on 2026-09-23; the current browser client again blocked direct rendering of those file types on 2026-09-26, but their repository contents were rechecked and remain present, syntactically coherent and apex-linked. Repository canonicals for Home, Founding 40, Story, Privacy and Terms point to the HTTPS apex host. Preserve working MX/SPF/DKIM records.
 
 ## YELLOW — waiting / verification
-- Mail visibility: rechecked 2026-09-25; a targeted two-day search found no FDACS, CoffeeAM, Temecula, PPIB/insurance or delivery-failure messages in the connected Gmail account. The connector accesses only `therisingsoncoffee@gmail.com`, while `hello@therisingsoncoffee.com` is a distinct Porkbun hosted IMAP mailbox that appears in the owner's Gmail phone app. The hosted mailbox has supplier and FDACS replies absent from connector search. Set a Porkbun webmail filter (Settings > Filters > Create) that keeps messages in hosted inbox and forwards copies to Gmail; then verify with a unique inbound test and confirm full original sender/attachments are preserved. Do not change MX/SPF/DKIM or redirect ownership. Porkbun documents this at https://kb.porkbun.com/article/290-how-to-redirect-a-porkbun-hosted-email-account-to-another-email-address . Attempted webmail access in the agent browser on 2026-09-23 returned 403 Forbidden, so filter is NOT configured or tested. Gmail POP fetching is being phased out; do not use it as the durable solution. Existing hosted messages need separate review/backfill.
-- FDACS replied asking for county and ZIP. Owner supplied 33325 (Broward County) on 2026-09-23; a reply from the hosted mailbox remained unverified as of 2026-09-25. This ZIP is current operating locality, not an LLC principal-office street address.
+- Mail visibility: rechecked 2026-09-26; a targeted recent-message search found no FDACS, CoffeeAM, Temecula, PPIB/insurance or delivery-failure messages in the connected Gmail account. The connector accesses only `therisingsoncoffee@gmail.com`, while `hello@therisingsoncoffee.com` is a distinct Porkbun hosted IMAP mailbox that appears in the owner's Gmail phone app. The hosted mailbox has supplier and FDACS replies absent from connector search. Set a Porkbun webmail filter (Settings > Filters > Create) that keeps messages in hosted inbox and forwards copies to Gmail; then verify with a unique inbound test and confirm full original sender/attachments are preserved. Do not change MX/SPF/DKIM or redirect ownership. Porkbun documents this at https://kb.porkbun.com/article/290-how-to-redirect-a-porkbun-hosted-email-account-to-another-email-address . Attempted webmail access in the agent browser on 2026-09-23 returned 403 Forbidden, so filter is NOT configured or tested. Gmail POP fetching is being phased out; do not use it as the durable solution. Existing hosted messages need separate review/backfill.
+- FDACS replied asking for county and ZIP. Owner supplied 33325 (Broward County) on 2026-09-23; a reply from the hosted mailbox remained unverified as of 2026-09-26. This ZIP is current operating locality, not an LLC principal-office street address.
 - Customer-side Founding 40 confirmation redirect/fallback after one real submission delivered successfully by email but did not visibly redirect; fallback deployed, controlled retest deferred by owner
 - Expanded survey end-to-end field rendering in delivered FormSubmit email, especially multi-select `decision_factors[]`; controlled test deferred by owner
 - Supplier quote/product facts; 11 expanded inquiries were sent on 2026-09-23. Owner's phone screenshot later showed replies from CoffeeAM and Temecula plus an undelivered-mail notice in the hosted mailbox, but these were absent from the connected Gmail connector and their full contents remain unread. Do not say there were no replies overall
@@ -73,7 +73,7 @@ Last structured: 2026-09-25
 - Social-sharing artwork and final owner art-direction approval
 - Final browser-based desktop launch QA (repository/static QA and endpoint verification completed; visual desktop review remains)
 - Written FDACS classification for the exact Florida e-commerce/private-label/supplier-direct model, including whether Rising Son needs a permit and any precise permit/fee; official request sent 2026-09-23, response pending
-- Liability-insurance decision: no universal legal mandate should be claimed without controlling authority; separately resolve legal requirement, supplier/contract requirement and prudent products/completed-operations coverage before paid orders. A nonbinding PPIB inquiry was submitted 2026-09-23; no response was visible in the connected Gmail search on 2026-09-25, and eligibility, limits, exclusions, deductibles and actual pricing remain pending.
+- Liability-insurance decision: no universal legal mandate should be claimed without controlling authority; separately resolve legal requirement, supplier/contract requirement and prudent products/completed-operations coverage before paid orders. A nonbinding PPIB inquiry was submitted 2026-09-23; no response was visible in the connected Gmail search on 2026-09-26, and eligibility, limits, exclusions, deductibles and actual pricing remain pending.
 
 ## RESERVATION CAMPAIGN STATUS
 - Copy/offer structure: READY
