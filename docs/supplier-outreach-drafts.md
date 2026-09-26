@@ -74,3 +74,22 @@ Add these Dripshipper-specific questions:
 - Provide the applicable food-safety, recall, label, insurance/COI and indemnity evidence for the actual roaster/packer/shipper, not only the software platform.
 
 Contact only through an official verified business route and only from the authenticated hosted `hello@therisingsoncoffee.com` mailbox. Do not use Gmail, start a trial or accept a paid plan.
+
+
+## Old Chicago Coffee Co.
+
+**Subject:** Rising Son Coffee — private-label dropship qualification request
+
+Use the complete Joe's Garage inquiry body above, with this opening:
+
+Rising Son Coffee reviewed Old Chicago Coffee Co.'s advertised private-label dropship program and is evaluating whether it can support our exact Florida e-commerce launch model. Our Founding 40 program is a free reservation and product-feedback effort only; it precedes a complete verified offer and any qualifying purchase, and we are not promising order volume.
+
+Add these Old Chicago-specific questions:
+- Confirm the current program fee, current 10 oz / 12 oz / 1 lb / 2 lb / 5 lb delivered prices, multi-bag pricing, shipping-zone exceptions and every surcharge; one public surcharge date appears expired, so please provide an effective date and quote-validity period.
+- Confirm whether Rising Son may obtain a written proposal and compliance evidence before supplying an EIN, street address, starting a trial or paying any program/plugin fee.
+- Recommend an Original candidate matching Rising Son's documented profile and identify the exact Decaf blend and decaffeination method; confirm both in whole bean and standard ground, plus any variant limitations.
+- Identify the legal roasting/manufacturing, packing, warehousing, distributing and shipping entity; provide the facility name/location and copies or identifiers for applicable licenses and FDA registration status.
+- Provide food-safety/allergen controls, lot/roast-date traceability, recall/withdrawal procedure and contacts, current product-liability COI, additional-insured capability, indemnity terms and responsibility for label compliance and recall expense.
+- For flavored coffees, provide complete ingredient/allergen statements and applicable flavor documentation before Rising Son considers any SKU.
+
+Do not register, start the trial, buy the WooCommerce option or accept terms without owner approval. Send only from an authenticated hosted `hello@therisingsoncoffee.com` session after rechecking the tracker.
