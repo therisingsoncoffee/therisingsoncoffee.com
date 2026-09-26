@@ -310,3 +310,12 @@ Do not treat the market scan as the final landed cost. Selection remains PENDING
 10. Realistic monthly order, repeat-purchase, subscription and CAC assumptions derived from measured customer behavior.
 
 Until those inputs exist, final prices, margins, break-even, cash-to-open and insurance-per-order remain UNKNOWN, and checkout must stay disabled.
+
+
+### 2026-09-26 Drive tracker and Old Chicago reconciliation
+- The connected Drive supplier spreadsheet was renamed `Rising Son Coffee - Supplier & Economics Tracker` and corrected so Liberty Beans, Temecula, La Vela and Koffee Kult are recorded as contacted on 2026-09-23 rather than incorrectly remaining `Ready to Contact`. This is workflow cleanup only; contact does not verify economics.
+- Old Chicago Coffee Co. was added as a public-screen contingency. Its advertised architecture includes private label, blind direct shipment, multiple bag sizes, whole bean/ground and Decaf. These are capability claims, not a Rising Son quote.
+- Old Chicago publicly advertises a $10 monthly charge after trial, no separate dropship fee and U.S. shipping included in published program prices. Current written terms are required because an advertised surcharge note is outdated and no Rising Son proposal has been issued. No registration, trial, subscription or plugin purchase was authorized.
+- Illustrative allocation of a hypothetical $10 fixed monthly charge is $1.00/order at 10 monthly orders, $0.50/order at 20 and $0.25/order at 40. This excludes coffee, packaging, shipping exceptions, processing, insurance, replacements and other costs and must not be treated as approved economics.
+- Old Chicago requires an EIN, company name and street address before program entry. Facility identity, licenses/FDA status, food-safety controls, recall/traceability, COI, indemnity, label responsibility, exact Decaf process and current delivered economics remain UNKNOWN.
+- The Drive search still contains no carrier-issued insurance quote, broker indication, FDACS fee determination or supplier-issued complete commercial quote. Therefore the compliance/insurance budget remains UNKNOWN, not $0.
