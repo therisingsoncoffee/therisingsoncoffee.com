@@ -194,3 +194,19 @@ The public program page lists a 14-day trial followed by a $10 monthly charge (o
 Fit assessment: the operating architecture strongly matches Rising Son's supplier-roasted, branded, supplier-held and direct-shipped model, and it offers both Decaf and extensive grind/size choices. Material open issues are Original sensory fit, Decaf process and similarity to Original, actual legal manufacturer/packer/distributor identity and facility location, food licenses/FDA registration, food-safety and allergen controls, traceability/recall evidence, COI/additional-insured terms, indemnity, final-label responsibility, flavored-coffee ingredients/allergens, replacement policy, multi-bag economics and current commercial terms. The monthly charge plus EIN/street-address prerequisite make Old Chicago a contingency rather than an immediately actionable no-cost supplier.
 
 Contact status: not contacted. The hosted `hello@therisingsoncoffee.com` mailbox remains inaccessible to the connector and Gmail sending is prohibited. A complete no-send draft is preserved in `docs/supplier-outreach-drafts.md`. Official sources reviewed: https://oldchicagocoffee.com/coffee/coffee-dropship-white-label-direct-to-your-customer/ and https://oldchicagocoffee.com/dropshippers/ .
+
+
+### Aroma Ridge Coffee Roasters — deferred capability screen, 2026-09-27
+Aroma Ridge is not currently an actionable supplier. Its official fulfillment/dropship page states that it stopped accepting new program applications after July 31, 2026 and will reopen to new partners in February 2027.
+
+The same official page publicly advertises:
+- an FDA-compliant roasting facility and a Marietta, Georgia fulfillment address;
+- roasting, packing, virtual warehousing and direct shipment to the brand's customers;
+- private-label specialty blends, single origins, custom blends and flavored coffees;
+- 12 oz, 16 oz, 2 lb and 5 lb valve bags;
+- a $100 nonrefundable starting charge, $3.25 service charge per order, variable shipping, and $60 per 100 printed labels;
+- weekly card billing and typical shipment within 1–2 business days.
+
+These are published program terms, not a Rising Son quote, and no application, payment or outreach was initiated. The page's statement that the facility is FDA compliant is not documentary proof of registration, licensing, inspection status or scope. Original/Decaf candidates, decaffeination method, whole-bean/ground variants, shipping-zone economics, food-safety and allergen controls, flavored-coffee ingredients/allergens, traceability, recall procedures, COI/additional-insured capability, indemnity, compliant-label responsibility and replacement policy remain UNKNOWN.
+
+Fit assessment: the operating architecture matches Rising Son's supplier-handled model, but program closure makes Aroma Ridge unsuitable as the near-term primary or one of the two launch contingencies. Reassess only if the program reopens in February 2027 and the commercial/compliance evidence is still competitive. Official source reviewed: https://aromaridge.com/pages/dropship-program .
