@@ -93,3 +93,24 @@ Add these Old Chicago-specific questions:
 - For flavored coffees, provide complete ingredient/allergen statements and applicable flavor documentation before Rising Son considers any SKU.
 
 Do not register, start the trial, buy the WooCommerce option or accept terms without owner approval. Send only from an authenticated hosted `hello@therisingsoncoffee.com` session after rechecking the tracker.
+
+
+## Matchbox Coffee
+
+**Subject:** Rising Son Coffee — white-label dropship qualification request
+
+Use the complete Joe's Garage inquiry body above, with this opening:
+
+Rising Son Coffee reviewed Matchbox Coffee's advertised roast-on-demand white-label, branded-packaging and dropship fulfillment program and is evaluating whether it can support our exact Florida e-commerce launch model. Our Founding 40 program is a free reservation and product-feedback effort only; it precedes a complete verified offer and any qualifying purchase, and we are not promising order volume.
+
+Add these Matchbox-specific questions:
+- Provide a written Rising Son proposal rather than a pricing-quiz estimate, including numeric MOQ by Original/Decaf and whole-bean/ground variant, every setup/artwork/bag/label/grind/customer-service/pick-pack fee, and representative 1-, 2- and 3-bag shipping by U.S. zone.
+- Confirm whether one-at-a-time orders ship blindly under Rising Son's identity, whether Matchbox holds finished or component inventory, and how orders/tracking integrate with Shopify or another storefront.
+- Recommend an Original candidate for Rising Son's documented profile and identify the exact private-label Decaf, its decaffeination process, and whether both are available whole bean and standard ground.
+- Explain the published five-business-day timing for normal and peak periods and distinguish bulk production timing from individual dropship timing.
+- Identify the legal roasting/manufacturing, packing, warehousing, distributing, shipping and customer-service entities and the exact Bend facility that would handle Rising Son orders.
+- Provide applicable licenses/FDA registration evidence, food-safety and allergen controls, audit/certification documents with scope and expiration, lot/roast-date traceability, recall/withdrawal procedure and responsible contacts.
+- Provide the current product-liability COI, additional-insured capability, indemnity terms, and allocation of final-label review, claim substantiation, recall notification and recall expense.
+- For any flavored product considered, provide complete ingredient/allergen statements and applicable flavor documentation.
+
+Do not take the pricing quiz, schedule a consultation, purchase samples or accept terms without owner approval. Send only from an authenticated hosted `hello@therisingsoncoffee.com` session after rechecking the tracker.
