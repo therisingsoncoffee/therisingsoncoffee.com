@@ -210,3 +210,20 @@ The same official page publicly advertises:
 These are published program terms, not a Rising Son quote, and no application, payment or outreach was initiated. The page's statement that the facility is FDA compliant is not documentary proof of registration, licensing, inspection status or scope. Original/Decaf candidates, decaffeination method, whole-bean/ground variants, shipping-zone economics, food-safety and allergen controls, flavored-coffee ingredients/allergens, traceability, recall procedures, COI/additional-insured capability, indemnity, compliant-label responsibility and replacement policy remain UNKNOWN.
 
 Fit assessment: the operating architecture matches Rising Son's supplier-handled model, but program closure makes Aroma Ridge unsuitable as the near-term primary or one of the two launch contingencies. Reassess only if the program reopens in February 2027 and the commercial/compliance evidence is still competitive. Official source reviewed: https://aromaridge.com/pages/dropship-program .
+
+
+### Matchbox Coffee — public capability screen, 2026-09-28
+Matchbox Coffee is a newly documented, uncontacted contingency prospect. Its official white-label materials publicly state that it:
+- roasts coffee on demand in Bend, Oregon and offers either development of a unique blend or selection from existing blends;
+- supports branded bag design and packaging;
+- advertises dropshipping, order fulfillment, shipping and customer-service handling;
+- offers 2 oz sample bags, 12 oz standard bags, and 2 lb / 5 lb / 20 lb / 40 lb bulk bags;
+- advertises turnaround generally within five business days after artwork, bag selection and payment are finalized, with extra time for custom coffee or label revisions;
+- requires the 12 oz label to state net weight, roasted coffee contents and the Matchbox roasting location;
+- sells coffee samples, including a publicly listed Decaf sample described as mellow, savory and cocoa-forward.
+
+Evidence limitations: the white-label page's case study demonstrates that Matchbox has performed end-to-end packaging, shipping, fulfillment and customer service for another brand, but it does not establish Rising Son-specific economics, MOQ, blind-shipping presentation, per-order fulfillment, order integration, nationwide shipping zones/rates or subscription mechanics. The public Decaf sample does not establish private-label availability, decaffeination process, whole-bean/ground variants or similarity to the selected Original.
+
+Still UNKNOWN / must be obtained directly: numeric MOQ by coffee/SKU/variant; current unit, setup, artwork, bag, label, grinding, fulfillment, customer-service and shipping costs; Original sensory candidate; exact Decaf/private-label process; whole-bean/ground coverage; inventory/warehousing terms; integrations; subscription/repeat-order support; payment terms; replacement/return responsibility; legal manufacturer/packer/distributor identity; facility licenses and FDA registration evidence; food-safety and allergen controls; third-party audits/certifications; lot traceability; recall/withdrawal procedure; COI/additional-insured capability; indemnity; final-label responsibility; and flavored-coffee ingredients/allergens.
+
+Fit assessment: Matchbox publicly matches the required supplier-handled model well enough to remain on the contingency bench, but it is not yet a viable backup. No pricing quiz, sample purchase, consultation, payment or commitment was initiated. Contact status: not contacted because the hosted `hello@therisingsoncoffee.com` mailbox is unavailable to the connector and Gmail sending is prohibited. Official sources reviewed: https://matchboxcoffee.com/pages/white-label-coffee , https://matchboxcoffee.com/pages/schedule-call and https://matchboxcoffee.com/products/trapper-peak-sample .
