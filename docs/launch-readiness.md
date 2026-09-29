@@ -1,6 +1,6 @@
 # Rising Son Coffee — Launch Readiness
 
-Last structured: 2026-09-27
+Last structured: 2026-09-29
 
 ## GREEN — completed / proven
 - Custom-domain HTTPS enabled in GitHub Pages by owner on 2026-09-22; independently reverified 2026-09-27: HTTPS apex, `/founding40/`, `/robots.txt` and `/sitemap.xml` returned `200`; HTTP apex and HTTPS `www` resolved to the HTTPS apex with valid certificate verification.
@@ -33,7 +33,7 @@ Last structured: 2026-09-27
 - Written FDACS classification request sent from hello@therisingsoncoffee.com to the official Division of Food Safety address on 2026-09-23 for the exact supplier-roasted, Rising Son-branded, supplier-packaged/stored/direct-shipped model; FDACS acknowledged it and requested county/ZIP, but no classification has been issued
 - Launch assortment defined conceptually as Original + Decaf; whole bean/ground are variants subject to supplier capability/economics
 - Value-first product economics framework established, including delivered $/oz and contribution analysis; shipping-allocation contribution formulas were corrected and independently documented on 2026-09-24
-- Drive supplier/economics tracker reconciled 2026-09-26: contacted statuses corrected and Old Chicago added as a public-screen contingency; advertised terms remain unverified and are not launch economics
+- Drive supplier/economics tracker reconciled through 2026-09-28: contacted statuses corrected; Old Chicago and Matchbox Coffee added as public-screen contingencies. Matchbox publicly advertises roast-on-demand white label, branded packaging, dropshipping and fulfillment, but Rising Son-specific MOQ, complete costs, Original/Decaf variants, compliance evidence, traceability/recall, COI, label responsibility and shipping economics remain unverified and are not launch economics
 - Subscription-ready economics framework established; no discount/savings claim until verified
 - Supplier due-diligence framework expanded for direct fulfillment, variants, recurring orders, traceability and exception policies
 - Order/fulfillment SOP expanded for subscription, metadata, AI/human service and professional fulfillment
@@ -49,19 +49,19 @@ Last structured: 2026-09-27
 - Reservation-intelligence decision framework documented for demand, price/size, decision drivers, acquisition, later conversion and retention analysis (2026-09-21)
 - Privacy notice expanded to disclose the detailed optional market-research fields and their use in product/size/pricing/fulfillment launch decisions (2026-09-22)
 
-## SEO and domain check — 2026-09-27
+## SEO and domain check — 2026-09-29
 - Published sitemap cleanup: current modification dates for the legal pages; removed change frequency and priority hints that crawlers do not use.
 - Corrected Organization structured data: the promotional social card is not asserted as a business logo. Home, Founding 40 and Story JSON-LD parse successfully.
 - A repository scan found no broken local HTML asset or navigation paths.
 - Search indexing and Search Console verification remain unproven. Do not report a search ranking or indexed-page count until measured.
-- Direct read-only HTTP verification on 2026-09-27 confirmed HTTPS apex, `/founding40/`, `/sitemap.xml` and `/robots.txt` returned `200`; HTTPS `www` and HTTP apex resolved to HTTPS apex; TLS verification returned no certificate error. Live Home and Founding 40 canonical tags point to the HTTPS apex host. Repository canonicals for Story, Privacy and Terms also point to the apex host. No DNS or mail records were changed; preserve working MX/SPF/DKIM.
+- Direct browser verification on 2026-09-29 confirmed the HTTPS apex and `/founding40/` loaded successfully; HTTPS `www` and HTTP apex resolved to the HTTPS apex. The public homepage visibly retained the disabled checkout button and no-payment message. The current browser blocked direct `.txt`/`.xml` rendering, so the last independent live `200` verification for `/robots.txt` and `/sitemap.xml` remains 2026-09-27; their repository contents remain valid. Live Home and Founding 40 pages and repository canonicals use the HTTPS apex host. No DNS or mail records were changed; preserve working MX/SPF/DKIM.
 
 ## YELLOW — waiting / verification
 - Mail visibility: rechecked 2026-09-27; a targeted recent-message search found no FDACS, CoffeeAM, Temecula, PPIB/insurance or delivery-failure messages in the connected Gmail account. The connector accesses only `therisingsoncoffee@gmail.com`, while `hello@therisingsoncoffee.com` is a distinct Porkbun hosted IMAP mailbox that appears in the owner's Gmail phone app. The hosted mailbox has supplier and FDACS replies absent from connector search. Set a Porkbun webmail filter (Settings > Filters > Create) that keeps messages in hosted inbox and forwards copies to Gmail; then verify with a unique inbound test and confirm full original sender/attachments are preserved. Do not change MX/SPF/DKIM or redirect ownership. Porkbun documents this at https://kb.porkbun.com/article/290-how-to-redirect-a-porkbun-hosted-email-account-to-another-email-address . Attempted webmail access in the agent browser on 2026-09-23 returned 403 Forbidden, so filter is NOT configured or tested. Gmail POP fetching is being phased out; do not use it as the durable solution. Existing hosted messages need separate review/backfill.
 - FDACS replied asking for county and ZIP. Owner supplied 33325 (Broward County) on 2026-09-23; a reply from the hosted mailbox remained unverified as of 2026-09-27. This ZIP is current operating locality, not an LLC principal-office street address.
 - Customer-side Founding 40 confirmation redirect/fallback after one real submission delivered successfully by email but did not visibly redirect; fallback deployed, controlled retest deferred by owner
 - Expanded survey end-to-end field rendering in delivered FormSubmit email, especially multi-select `decision_factors[]`; controlled test deferred by owner
-- Supplier quote/product facts; 11 expanded inquiries were sent on 2026-09-23. Owner's phone screenshot later showed replies from CoffeeAM and Temecula plus an undelivered-mail notice in the hosted mailbox, but these were absent from the connected Gmail connector and their full contents remain unread. Do not say there were no replies overall
+- Supplier quote/product facts; 11 expanded inquiries were sent on 2026-09-23. Owner's phone screenshot later showed replies from CoffeeAM and Temecula plus an undelivered-mail notice in the hosted mailbox, but these were absent from the connected Gmail connector and their full contents remain unread. Matchbox Coffee was added 2026-09-28 as an uncontacted public-capability contingency, not a viable backup or verified quote. Do not say there were no replies overall
 - Product samples / sensory fit against intended Original and Decaf profiles
 - Direct/private-label fulfillment capability and complete delivered costs
 - Product unit economics, bag-size optimization and final retail pricing
