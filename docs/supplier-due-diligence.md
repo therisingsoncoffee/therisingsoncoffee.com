@@ -227,3 +227,22 @@ Evidence limitations: the white-label page's case study demonstrates that Matchb
 Still UNKNOWN / must be obtained directly: numeric MOQ by coffee/SKU/variant; current unit, setup, artwork, bag, label, grinding, fulfillment, customer-service and shipping costs; Original sensory candidate; exact Decaf/private-label process; whole-bean/ground coverage; inventory/warehousing terms; integrations; subscription/repeat-order support; payment terms; replacement/return responsibility; legal manufacturer/packer/distributor identity; facility licenses and FDA registration evidence; food-safety and allergen controls; third-party audits/certifications; lot traceability; recall/withdrawal procedure; COI/additional-insured capability; indemnity; final-label responsibility; and flavored-coffee ingredients/allergens.
 
 Fit assessment: Matchbox publicly matches the required supplier-handled model well enough to remain on the contingency bench, but it is not yet a viable backup. No pricing quiz, sample purchase, consultation, payment or commitment was initiated. Contact status: not contacted because the hosted `hello@therisingsoncoffee.com` mailbox is unavailable to the connector and Gmail sending is prohibited. Official sources reviewed: https://matchboxcoffee.com/pages/white-label-coffee , https://matchboxcoffee.com/pages/schedule-call and https://matchboxcoffee.com/products/trapper-peak-sample .
+
+
+### Cerca Coffee Roasters — public capability screen, 2026-09-29
+Cerca Coffee Roasters is a newly documented, uncontacted contingency prospect. Its official site publicly states that it:
+- roasts coffee fresh to order, packages it with the customer's branding and ships directly to individual customers;
+- routes connected-store orders to Cerca for automatic fulfillment;
+- offers custom labels, kraft/white/black bag options, no MOQ, 1–2 business-day roasting and stated 3–5 day continental-U.S. delivery;
+- includes continental-U.S. shipping in published starting prices of $12 for 8 oz, $15 for 12 oz and $20 for 16 oz;
+- requires a Cerca Shopify-app subscription advertised from $20/month;
+- lists a current Colombian Decaf option with both whole-bean and ground variants;
+- sells full 8 oz sample bags in 1-, 2- or 4-coffee kits, with shipping included.
+
+These are public program terms, not a Rising Son quote. The published starting prices do not establish the exact coffee, roast, private-label packaging/label cost, combined-order economics, returns/replacements, taxes, payment timing or all platform fees Rising Son would incur. No app subscription, sample order, contact, payment or commitment was initiated.
+
+Still UNKNOWN / must be obtained directly: legal roaster/manufacturer/packer/warehouse/distributor identity and facility location; licenses and FDA registration status/evidence; food-safety plan and allergen controls; applicable audits/certifications and expiration dates; lot and roast-date traceability; recall/withdrawal procedure and responsible contacts; product-liability COI, limits/expiration and additional-insured capability; indemnity and allocation of label/claim/recall responsibilities; blind-shipping presentation; subscription cancellation/data access; complete Original/Decaf/private-label and grind details; decaffeination process; flavored-coffee ingredients/allergens if applicable; peak lead times; replacement policy; and confirmation of all per-order charges for 1-, 2- and 3-bag shipments.
+
+Sensory screen only: Brazil Guaxupé (medium body, mild acidity, dark chocolate/bright citrus/roasted hazelnut) and Brazil Salmo Plus Natural (light body, mild acidity, milk chocolate/golden raisin/roasted peanut) are potential sample comparisons, but neither is selected and neither is proven to meet Rising Son's full Original target. The live Decaf listing establishes a public option only, not flavor similarity to the eventual Original.
+
+Fit assessment: Cerca's published operating model is unusually close to Rising Son's required no-home-handling architecture and its public prices provide an early ceiling/floor reference, but the 12 oz $15 starting cost plus the required monthly app makes margin sensitivity a concern until a written proposal confirms branded packaging, fulfillment and combined-order costs. Cerca remains a contingency prospect, not a viable primary or backup. Official source reviewed: https://www.cercacoffee.com/ .
