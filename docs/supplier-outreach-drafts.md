@@ -114,3 +114,25 @@ Add these Matchbox-specific questions:
 - For any flavored product considered, provide complete ingredient/allergen statements and applicable flavor documentation.
 
 Do not take the pricing quiz, schedule a consultation, purchase samples or accept terms without owner approval. Send only from an authenticated hosted `hello@therisingsoncoffee.com` session after rechecking the tracker.
+
+
+## Cerca Coffee Roasters
+
+**Subject:** Rising Son Coffee — private-label fulfillment qualification request
+
+Use the complete Joe's Garage inquiry body above, with this opening:
+
+Rising Son Coffee reviewed Cerca Coffee Roasters' advertised roast-to-order private-label, custom-label and automatic direct-fulfillment program and is evaluating whether it can support our exact Florida e-commerce launch model. Our Founding 40 program is a free reservation and product-feedback effort only; it precedes a complete verified offer and any qualifying purchase, and we are not promising order volume.
+
+Add these Cerca-specific questions:
+- Provide a written Rising Son proposal confirming the current 8 oz, 12 oz and 16 oz costs by coffee, whole-bean/ground variant, branded bag and label option; identify every setup, artwork, app, label, grinding, customer-service, fulfillment and other charge.
+- Confirm whether continental-U.S. shipping is fully included for one-at-a-time 1-, 2- and 3-bag customer orders, how combined orders are priced and whether any zone, address-type, fuel or remote-area surcharge applies.
+- Confirm blind shipment under Rising Son's identity, the packing slip/return-address presentation and how Shopify orders, tracking, cancellations, refunds and replacements flow.
+- Recommend an Original candidate for Rising Son's documented sensory target and identify the exact private-label Decaf, decaffeination process, roast options and whole-bean/standard-ground coverage.
+- Identify every legal roasting/manufacturing, packing, warehousing, distributing and shipping entity and facility that would handle Rising Son orders.
+- Provide applicable licenses/FDA registration evidence, food-safety and allergen controls, audit/certification documents with scope and expiration, lot/roast-date traceability, recall/withdrawal procedure and responsible contacts.
+- Provide the current product-liability COI, limits and expiration, additional-insured capability, indemnity terms and allocation of final-label review, claims, recall notification and recall expense.
+- Explain peak-period roast/ship timing, inventory/component handling, payment timing, replacement policy, app-subscription cancellation and Rising Son order/customer-data export.
+- For any flavored product considered, provide complete ingredient/allergen statements and applicable flavor documentation.
+
+Do not subscribe to the app, connect a store, buy samples or accept terms without owner approval. Send only from an authenticated hosted `hello@therisingsoncoffee.com` session after rechecking the tracker.
