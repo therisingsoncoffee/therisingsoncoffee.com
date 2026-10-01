@@ -260,3 +260,31 @@ Lothian Coffee is a newly documented, uncontacted prospect. Its official private
 These are public marketing terms, not a Rising Son quote or retained proof of current license standing. The pages do not publish the private-label coffee unit cost, fulfillment or shipping charge, Decaf availability, decaffeination method, all label/packaging costs, payment and cancellation terms, or evidence for U.S. food-facility licensing, FDA registration, food-safety controls, allergen controls, recall readiness, lot traceability, product-liability insurance, additional-insured capability or indemnity.
 
 Fit assessment: the supplier-handled and direct-fulfillment architecture matches Rising Son's no-home-handling requirement, and the public sensory description is directionally compatible on aroma, smoothness and acidity. However, the recurring $195 minimum plan fee, unusually premium Jamaica Blue Mountain positioning, label constraints and absence of a publicly documented Decaf make Lothian a poor launch-economics fit unless a written proposal materially changes those terms. It is screened as **deferred / not a viable primary or one of the two launch contingencies on current evidence**. No trial, subscription, sample order, contact, payment or commitment was initiated. Official sources reviewed: https://www.lothiancoffee.com/pricing-plans/member , https://www.lothiancoffee.com/jamaica-blue-mountain-coffee-services and https://www.lothiancoffee.com/category/coffee-beans .
+
+
+### Roastify — detailed public capability and economics screen, 2026-10-01
+Roastify was one of the suppliers contacted from `hello@therisingsoncoffee.com` on 2026-09-23. No reply is visible in connected Gmail, and the separate hosted inbox remains inaccessible to the connector. Current official pages and documentation publicly state that Roastify:
+- operates as a private-label coffee manufacturing and fulfillment platform that roasts, packages and ships directly to customers with no inventory and no order minimum;
+- roasts in-house in Bend, Oregon and offers 12 oz bags in whole-bean and ground variants with custom packaging;
+- offers Trapper Peak Decaf, described as medium roast, mellow/smooth/savory and Swiss Water processed;
+- offers Cascades Blend, described as medium-dark with cocoa, toasted nut and full body, making it a directionally plausible Original sample-screen candidate only;
+- advertises Base at $15/month or $150/year and Pro at $49/month or $500/year; connected selling/dropshipping requires a paid plan;
+- advertises a $12 member price for one 12 oz coffee bag, including fresh roasting, custom-printed packaging, quality control and fulfillment handling;
+- advertises dropship shipping at $4.50 for the first item plus $1.25 for each additional item;
+- advertises 3–4 business-day fulfillment on Base and 2-business-day fulfillment on Pro, before stated carrier transit of roughly 3–4 days;
+- advertises Shopify and API access on Base and a hosted Roastify Store on Pro;
+- requires the package to identify “Manufactured for” the brand's legal business name and a valid business address; its public page states PO boxes are not accepted.
+
+Public-cost illustrations only — **not a Rising Son quote or approved margin**:
+- 1 bag: $12 product + $4.50 shipping = $16.50 before membership allocation, payment processing, insurance, refunds/replacements and Founding 40 costs.
+- 2 bags: $24 + $5.75 shipping = $29.75 total, or $14.88 per bag before those additional costs.
+- 3 bags: $36 + $7.00 shipping = $43.00 total, or $14.33 per bag before those additional costs.
+- Base-plan allocation is $1.50/order at 10 monthly orders, $0.75 at 20 or $0.38 at 40, producing illustrative one-bag costs of $18.00, $17.25 or $16.88 before the omitted costs above.
+
+Evidence limitations:
+- Public statements that the facility is FDA-registered/state-inspected and that coffee is tested are not retained license, registration or audit evidence.
+- Roastify's own testing documentation warns that testing occurs for new green-coffee lots and does not mean every finished batch, shipment or specialty formula was tested or independently certified.
+- Rising Son still needs the exact legal manufacturer/roaster/packer/warehouse/distributor/shipper entities, facility and registration identifiers, state license evidence, food-safety and allergen controls, applicable audit/certification documents with scope and expiration, lot/roast-date traceability, recall/withdrawal procedure and contacts, COI/additional-insured capability, indemnity, final-label allocation, payment terms, replacement policy, subscription cancellation/data access, peak timing and confirmation that Original/Decaf variants are available on the intended plan at the stated costs.
+- Flavored-coffee ingredients and allergens must be obtained for any flavored SKU; none is selected.
+
+Fit assessment: Roastify now clears the public operating-architecture screen and provides unusually transparent baseline economics. Its 12 oz whole-bean/ground coverage, Swiss Water Decaf and direct fulfillment make it one of the stronger contacted public-capability fits. However, the one-bag cost is financially tight before processing, insurance and customer benefits; required legal-business/address labeling also means the program is not immediately launchable before entity/address decisions. Roastify is **not yet a viable primary or confirmed backup** without its written response, sample approval and compliance/insurance evidence. No plan, store, design, sample, payment or commitment was initiated. Official sources reviewed: https://roastify.app/pricing , https://roastify.app/our-coffee , https://roastify.app/white-label , https://roastify.app/dropshipping and https://docs.roastify.app/docs/merchant-app/coffee/testing .
