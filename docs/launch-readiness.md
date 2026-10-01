@@ -1,6 +1,6 @@
 # Rising Son Coffee — Launch Readiness
 
-Last structured: 2026-09-29
+Last structured: 2026-10-01
 
 ## GREEN — completed / proven
 - Custom-domain HTTPS enabled in GitHub Pages by owner on 2026-09-22; independently reverified 2026-09-27: HTTPS apex, `/founding40/`, `/robots.txt` and `/sitemap.xml` returned `200`; HTTP apex and HTTPS `www` resolved to the HTTPS apex with valid certificate verification.
@@ -157,3 +157,14 @@ Reserve interruptions for:
 - final launch authorization
 
 The maintained consolidated list is `docs/owner-actions.md`.
+
+
+## Launch operations check — 2026-10-01
+- Live browser verification succeeded for the HTTPS apex homepage and `/founding40/`. Both rendered normally and published the correct HTTPS-apex canonical.
+- HTTPS `www` and HTTP apex both resolved to `https://therisingsoncoffee.com/`.
+- The browser blocked direct navigation to `robots.txt` and `sitemap.xml` with a client-side block; this is not evidence of a site outage. Repository copies remain present, internally valid and apex-linked. Their most recent independent live `200` verification remains 2026-09-27.
+- Checkout remains visibly locked on the public homepage. Repository configuration remains `enabled: false` with an empty payment link.
+- `CNAME` remains `therisingsoncoffee.com`; homepage and Founding 40 repository canonicals remain on the HTTPS apex. No DNS, MX, SPF or DKIM setting was changed.
+- Lothian Coffee was screened on 2026-09-30 and rejected for the present launch: its public private-label architecture supports supplier-direct fulfillment, but the entry plan is publicly advertised at $195/month, Decaf and complete delivered economics are unverified, and JACRA/Lothian label constraints apply. This is public program evidence, not a Rising Son quote.
+- Automation capacity review found five enabled operational tasks with distinct scopes: Launch Ops, Supplier/Product, Finance, Growth and CRM. No task was paused or swapped because none is genuinely idle or redundant.
+- No commercial gate was cleared. Written FDACS classification, hosted-mailbox evidence, supplier economics/compliance evidence, insurance decision, LLC/EIN, payments setup, commerce testing and owner authorization remain pending.
