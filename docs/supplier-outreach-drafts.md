@@ -136,3 +136,28 @@ Add these Cerca-specific questions:
 - For any flavored product considered, provide complete ingredient/allergen statements and applicable flavor documentation.
 
 Do not subscribe to the app, connect a store, buy samples or accept terms without owner approval. Send only from an authenticated hosted `hello@therisingsoncoffee.com` session after rechecking the tracker.
+
+
+## Roastify follow-up — DO NOT SEND UNTIL HOSTED MAILBOX IS ACCESSIBLE
+
+**Subject:** Rising Son Coffee — Roastify product, compliance and fulfillment confirmation
+
+Use the complete Joe's Garage inquiry body above, with this opening:
+
+Rising Son Coffee contacted Roastify on September 23 regarding our Florida e-commerce launch and has since reviewed your current public pricing and product documentation. Our Founding 40 program remains a free reservation and product-feedback effort only; it precedes a complete verified offer and any qualifying purchase, and we are not promising order volume. We are requesting one written evidence package so we can determine whether Roastify can support our exact supplier-roasted, Rising Son-branded, supplier-packaged/stored and direct-to-customer model.
+
+Add these Roastify-specific questions:
+- Confirm whether Cascades Blend and Trapper Peak Decaf are currently available to a Base-plan private-label account in both whole bean and standard ground at the published $12 per 12 oz bag, and confirm Trapper Peak's Swiss Water process.
+- Recommend the closest Original candidate to Rising Son's target: rich/bright aroma, low perceived acidity and bitterness, earthy tones, strong smooth full flavor and clean aftertaste; explain why and provide current sample options without sending or charging anything.
+- Confirm the complete effective fee schedule: Base/Pro monthly and annual charges, coffee cost by variant, custom packaging/label inclusion, grind charges, $4.50 first-item and $1.25 additional-item shipping, every surcharge/tax/remote-area cost, refund/replacement responsibility and 1-, 2- and 3-bag order examples.
+- Confirm whether a legal entity and non-PO-box business address are mandatory before samples, design approval, dropshipping or only before a final compliant production label; identify the acceptable address types.
+- Identify the exact legal entities and Bend facility that source, roast, manufacture, pack, warehouse, distribute and ship Rising Son products.
+- Provide current FDA registration status, Oregon/state food license or inspection evidence, food-safety plan and allergen/cross-contact controls.
+- Provide applicable third-party audit/certification documents with scope and expiration. For testing, identify the exact coffee/green lot covered by each report and confirm that reports do not establish testing of every finished batch.
+- Explain lot/green-lot/roast-date/customer-order traceability and provide the recall/withdrawal process, responsible contacts and last mock-recall result if available.
+- Provide current product-liability COI with limits and expiration, whether Rising Son can be additional insured and any cost, plus proposed indemnity and allocation of label/claim/recall responsibility.
+- Explain label drafting/review/approval, including the “Manufactured for” statement, responsible-party address, net quantity, ingredients/allergens where applicable and who bears correction or recall cost.
+- Confirm normal/peak fulfillment and carrier timing, subscription/repeat-order handling, Shopify/API fees, cancellation/export of order/customer data and what happens to product designs after plan cancellation.
+- For any flavored coffee offered, provide complete ingredient/allergen statements and applicable flavor-supplier documentation before Rising Son considers the SKU.
+
+Do not send a duplicate if the hosted inbox shows that Roastify already replied. Send only from an authenticated hosted `hello@therisingsoncoffee.com` session after reviewing the full thread. Do not start a plan, connect Shopify, create a hosted store, order samples, upload final artwork or accept terms without owner approval.
