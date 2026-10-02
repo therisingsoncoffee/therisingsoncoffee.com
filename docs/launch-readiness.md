@@ -1,6 +1,6 @@
 # Rising Son Coffee — Launch Readiness
 
-Last structured: 2026-10-01
+Last structured: 2026-10-02
 
 ## GREEN — completed / proven
 - Custom-domain HTTPS enabled in GitHub Pages by owner on 2026-09-22; independently reverified 2026-09-27: HTTPS apex, `/founding40/`, `/robots.txt` and `/sitemap.xml` returned `200`; HTTP apex and HTTPS `www` resolved to the HTTPS apex with valid certificate verification.
@@ -33,7 +33,7 @@ Last structured: 2026-10-01
 - Written FDACS classification request sent from hello@therisingsoncoffee.com to the official Division of Food Safety address on 2026-09-23 for the exact supplier-roasted, Rising Son-branded, supplier-packaged/stored/direct-shipped model; FDACS acknowledged it and requested county/ZIP, but no classification has been issued
 - Launch assortment defined conceptually as Original + Decaf; whole bean/ground are variants subject to supplier capability/economics
 - Value-first product economics framework established, including delivered $/oz and contribution analysis; shipping-allocation contribution formulas were corrected and independently documented on 2026-09-24
-- Drive supplier/economics tracker reconciled through 2026-09-28: contacted statuses corrected; Old Chicago and Matchbox Coffee added as public-screen contingencies. Matchbox publicly advertises roast-on-demand white label, branded packaging, dropshipping and fulfillment, but Rising Son-specific MOQ, complete costs, Original/Decaf variants, compliance evidence, traceability/recall, COI, label responsibility and shipping economics remain unverified and are not launch economics
+- Drive supplier/economics tracker reconciled through 2026-10-01: contacted statuses corrected; Old Chicago and Matchbox Coffee added as public-screen contingencies; Roastify added as a contacted public-capability/economics screen. Roastify publicly advertises private-label roasting, custom 12 oz packaging, direct fulfillment and no MOQ, with public—not quoted—reference economics of $12 per bag plus $4.50 first-item shipping and $1.25 each additional item, before plan allocation and omitted costs. No supplier is yet a verified primary or backup
 - Subscription-ready economics framework established; no discount/savings claim until verified
 - Supplier due-diligence framework expanded for direct fulfillment, variants, recurring orders, traceability and exception policies
 - Order/fulfillment SOP expanded for subscription, metadata, AI/human service and professional fulfillment
@@ -61,7 +61,7 @@ Last structured: 2026-10-01
 - FDACS replied asking for county and ZIP. Owner supplied 33325 (Broward County) on 2026-09-23; a reply from the hosted mailbox remained unverified as of 2026-09-27. This ZIP is current operating locality, not an LLC principal-office street address.
 - Customer-side Founding 40 confirmation redirect/fallback after one real submission delivered successfully by email but did not visibly redirect; fallback deployed, controlled retest deferred by owner
 - Expanded survey end-to-end field rendering in delivered FormSubmit email, especially multi-select `decision_factors[]`; controlled test deferred by owner
-- Supplier quote/product facts; 11 expanded inquiries were sent on 2026-09-23. Owner's phone screenshot later showed replies from CoffeeAM and Temecula plus an undelivered-mail notice in the hosted mailbox, but these were absent from the connected Gmail connector and their full contents remain unread. Matchbox Coffee was added 2026-09-28 as an uncontacted public-capability contingency, not a viable backup or verified quote. Do not say there were no replies overall
+- Supplier quote/product facts; 11 expanded inquiries were sent on 2026-09-23. Owner's phone screenshot later showed replies from CoffeeAM and Temecula plus an undelivered-mail notice in the hosted mailbox, but these were absent from the connected Gmail connector and their full contents remain unread. Matchbox Coffee remains an uncontacted public-capability contingency. Roastify's public screen now establishes direct-fulfillment architecture and illustrative costs, but it is not a Rising Son quote; final Original/Decaf availability, exact plan eligibility, food-safety and allergen controls, traceability/recall, COI/additional-insured terms, indemnity, label responsibility, replacements and peak timing remain unverified. Roastify also publicly requires a legal business name and valid non-PO-box business address for the label. Do not say there were no replies overall
 - Product samples / sensory fit against intended Original and Decaf profiles
 - Direct/private-label fulfillment capability and complete delivered costs
 - Product unit economics, bag-size optimization and final retail pricing
@@ -159,12 +159,13 @@ Reserve interruptions for:
 The maintained consolidated list is `docs/owner-actions.md`.
 
 
-## Launch operations check — 2026-10-01
-- Live browser verification succeeded for the HTTPS apex homepage and `/founding40/`. Both rendered normally and published the correct HTTPS-apex canonical.
+## Launch operations check — 2026-10-02
+- Live browser verification succeeded for the HTTPS apex homepage and `/founding40/`; both rendered normally and retained the correct HTTPS-apex canonical.
 - HTTPS `www` and HTTP apex both resolved to `https://therisingsoncoffee.com/`.
-- The browser blocked direct navigation to `robots.txt` and `sitemap.xml` with a client-side block; this is not evidence of a site outage. Repository copies remain present, internally valid and apex-linked. Their most recent independent live `200` verification remains 2026-09-27.
+- The browser again blocked direct navigation to `robots.txt` before `sitemap.xml` could be checked in the same run; this is a client-side limitation, not evidence of a site outage. Repository copies remain present, internally valid and apex-linked. Their latest independent live `200` verification remains 2026-09-27.
 - Checkout remains visibly locked on the public homepage. Repository configuration remains `enabled: false` with an empty payment link.
 - `CNAME` remains `therisingsoncoffee.com`; homepage and Founding 40 repository canonicals remain on the HTTPS apex. No DNS, MX, SPF or DKIM setting was changed.
-- Lothian Coffee was screened on 2026-09-30 and rejected for the present launch: its public private-label architecture supports supplier-direct fulfillment, but the entry plan is publicly advertised at $195/month, Decaf and complete delivered economics are unverified, and JACRA/Lothian label constraints apply. This is public program evidence, not a Rising Son quote.
-- Automation capacity review found five enabled operational tasks with distinct scopes: Launch Ops, Supplier/Product, Finance, Growth and CRM. No task was paused or swapped because none is genuinely idle or redundant.
-- No commercial gate was cleared. Written FDACS classification, hosted-mailbox evidence, supplier economics/compliance evidence, insurance decision, LLC/EIN, payments setup, commerce testing and owner authorization remain pending.
+- Roastify's public program evidence was incorporated into supplier and finance tracking. Public reference economics are $12 per 12 oz bag plus $4.50 first-item shipping and $1.25 per additional item, with a $15/month Base or $49/month Pro plan. These are not Rising Son quotes and omit processing, insurance, refunds/replacements and Founding 40 costs. One-bag economics remain tight.
+- Roastify's label requirements create a sequencing dependency: a legal business name and valid non-PO-box business address must be resolved before production labels can be finalized. This does not authorize LLC formation or choosing an address.
+- Automation review found four enabled core tasks: Launch Ops, Supplier/Product, Finance and CRM. Founding 40 Growth is already disabled after its 2026-10-02 run, leaving capacity free; no additional task was paused or swapped because no higher-priority temporary task is currently blocked solely by capacity.
+- No commercial gate was cleared. Written FDACS classification, hosted-mailbox evidence, supplier quote/compliance evidence, insurance decision, LLC/EIN, label address, payments setup, commerce testing and owner authorization remain pending.
