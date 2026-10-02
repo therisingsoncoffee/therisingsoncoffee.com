@@ -161,3 +161,26 @@ Add these Roastify-specific questions:
 - For any flavored coffee offered, provide complete ingredient/allergen statements and applicable flavor-supplier documentation before Rising Son considers the SKU.
 
 Do not send a duplicate if the hosted inbox shows that Roastify already replied. Send only from an authenticated hosted `hello@therisingsoncoffee.com` session after reviewing the full thread. Do not start a plan, connect Shopify, create a hosted store, order samples, upload final artwork or accept terms without owner approval.
+
+
+## Supliful — DO NOT SEND UNTIL HOSTED MAILBOX IS ACCESSIBLE
+
+**Subject:** Rising Son Coffee — private-label coffee fulfillment qualification request
+
+Use the complete Joe's Garage inquiry body above, with this opening:
+
+Rising Son Coffee reviewed Supliful's advertised no-MOQ private-label coffee, custom-label and direct-fulfillment platform and is evaluating whether it can support our exact Florida e-commerce launch model. Our Founding 40 program is a free reservation and product-feedback effort only; it precedes a complete verified offer and any qualifying purchase, and we are not promising order volume.
+
+Add these Supliful-specific questions:
+- Identify the exact currently required plan for automatic coffee-order fulfillment and reconcile the public pricing-page references to Pro, Plus and different monthly/annual amounts. Provide every plan, cancellation and nonrefundable-payment term that would apply.
+- Provide a written Rising Son cost sheet for Forest Decaf and the closest Original candidate, including product cost, label/packaging, fulfillment, processing, grinding and every other fee plus representative 1-, 2- and 3-bag shipping to ZIP 33325 and other U.S. zones.
+- Confirm which coffees are available in 12 oz whole bean and standard ground, whether Forest Decaf is currently Swiss Water processed, and whether the selected Original/Decaf can both be sold under Rising Son branding on the required plan.
+- Recommend the closest Original candidate to our target: rich/bright aroma, low perceived acidity and bitterness, earthy tones, strong smooth full flavor and clean aftertaste. Treat Velvet Cocoa only as a preliminary comparison and provide sample terms without sending or charging anything.
+- Confirm whether Alaska and Hawaii remain unavailable and list every other geographic, address-type, carrier, peak-season or remote-area restriction/surcharge.
+- Identify every legal entity and facility that sources, roasts, manufactures, packs, warehouses, distributes and ships the selected coffee products; distinguish Supliful's platform role from each underlying coffee supplier.
+- Provide coffee-facility licenses/FDA registration evidence, food-safety and allergen controls, applicable audit/certification documents with coffee-specific scope and expiration, lot/roast-date/order traceability, recall/withdrawal procedure and responsible contacts.
+- Provide current product-liability COI with limits and expiration, additional-insured capability and cost, indemnity terms, and allocation of final-label review, claim substantiation, recall notification and recall expense.
+- Explain blind-shipping presentation, packing slip and return address; normal/peak roast and fulfillment times; subscription handling; refund/replacement responsibility; and customer/order-data export after cancellation.
+- For any flavored coffee considered, provide full ingredient/allergen statements and flavor-supplier documentation before Rising Son considers the SKU.
+
+Do not create an account, begin a trial, connect a store, order samples, subscribe, upload final artwork or accept terms without owner approval. Send only from an authenticated hosted `hello@therisingsoncoffee.com` session after rechecking the tracker and hosted thread.
