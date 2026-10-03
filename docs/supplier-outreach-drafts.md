@@ -184,3 +184,24 @@ Add these Supliful-specific questions:
 - For any flavored coffee considered, provide full ingredient/allergen statements and flavor-supplier documentation before Rising Son considers the SKU.
 
 Do not create an account, begin a trial, connect a store, order samples, subscribe, upload final artwork or accept terms without owner approval. Send only from an authenticated hosted `hello@therisingsoncoffee.com` session after rechecking the tracker and hosted thread.
+
+## Legacy Farms Coffee — WEB FORM DRAFT; DO NOT SUBMIT WITHOUT ACTION-TIME APPROVAL
+
+**Subject:** Rising Son Coffee — white-label dropship qualification request
+
+Use the complete Joe's Garage inquiry body above, with this opening:
+
+Rising Son Coffee reviewed Legacy Farms Coffee's farm-direct white-label, custom-label and direct-customer shipping program and is evaluating whether it can support our exact Florida e-commerce launch model. Our Founding 40 program is a free reservation and product-feedback effort only; it precedes a complete verified offer and any qualifying purchase, and we are not promising order volume.
+
+Add these Legacy Farms-specific questions:
+- Identify the exact legal entity and U.S. facility that roast, manufacture, pack, warehouse, distribute and ship white-label orders. Your public coffee page says green beans are shipped to the United States and that you work with roasters; distinguish Legacy Farms' role from each U.S. roaster/packer/shipper.
+- Recommend the closest Original candidate to Rising Son's target: rich/bright aroma, low perceived acidity and bitterness, earthy tones, strong smooth full flavor and clean aftertaste.
+- Confirm whether an appropriate Decaf is available under white label, its decaffeination method, roast/flavor profile and availability in both whole bean and standard ground.
+- Provide exact bag sizes, MOQ, product/unit cost, setup, artwork, label, packaging, grinding, storage, pick/pack, integration and every other charge; include representative 1-, 2- and 3-bag shipping to ZIP 33325 and other U.S. zones.
+- Confirm blind shipment under Rising Son's identity, packing slip/return-address presentation, storefront/order integration, normal and peak lead times, subscription/repeat-order support, payment terms and refund/replacement policy.
+- Provide applicable facility licenses and FDA registration evidence, food-safety and allergen controls, audit/certification documents with scope and expiration, lot/roast-date/order traceability, and recall/withdrawal procedures and responsible contacts.
+- Provide current product-liability COI with limits and expiration, additional-insured capability and cost, indemnity terms, and allocation of final-label review, claims, recall notification and recall expense.
+- For any flavored coffee offered, provide complete ingredients, allergen/cross-contact statements and applicable flavor-supplier documentation.
+
+Do not submit the web form, order samples, upload artwork, make payment or accept terms without owner approval at the action point. If an authenticated hosted-email address becomes available, send only from `hello@therisingsoncoffee.com` after rechecking the tracker and prior threads.
+
