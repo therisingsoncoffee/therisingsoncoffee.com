@@ -1,6 +1,6 @@
 # Rising Son Coffee — Launch Readiness
 
-Last structured: 2026-10-02
+Last structured: 2026-10-03
 
 ## GREEN — completed / proven
 - Custom-domain HTTPS enabled in GitHub Pages by owner on 2026-09-22; independently reverified 2026-09-27: HTTPS apex, `/founding40/`, `/robots.txt` and `/sitemap.xml` returned `200`; HTTP apex and HTTPS `www` resolved to the HTTPS apex with valid certificate verification.
@@ -33,7 +33,7 @@ Last structured: 2026-10-02
 - Written FDACS classification request sent from hello@therisingsoncoffee.com to the official Division of Food Safety address on 2026-09-23 for the exact supplier-roasted, Rising Son-branded, supplier-packaged/stored/direct-shipped model; FDACS acknowledged it and requested county/ZIP, but no classification has been issued
 - Launch assortment defined conceptually as Original + Decaf; whole bean/ground are variants subject to supplier capability/economics
 - Value-first product economics framework established, including delivered $/oz and contribution analysis; shipping-allocation contribution formulas were corrected and independently documented on 2026-09-24
-- Drive supplier/economics tracker reconciled through 2026-10-01: contacted statuses corrected; Old Chicago and Matchbox Coffee added as public-screen contingencies; Roastify added as a contacted public-capability/economics screen. Roastify publicly advertises private-label roasting, custom 12 oz packaging, direct fulfillment and no MOQ, with public—not quoted—reference economics of $12 per bag plus $4.50 first-item shipping and $1.25 each additional item, before plan allocation and omitted costs. No supplier is yet a verified primary or backup
+- Drive supplier/economics tracker reconciled through 2026-10-02: contacted statuses corrected; Old Chicago and Matchbox Coffee added as public-screen contingencies; Roastify added as a contacted public-capability/economics screen; and Supliful added as a research-stage public-capability/economics screen. Roastify publicly advertises private-label roasting, custom 12 oz packaging, direct fulfillment and no MOQ, with public—not quoted—reference economics of $12 per bag plus $4.50 first-item shipping and $1.25 each additional item, before plan allocation and omitted costs. Supliful publicly advertises private-label coffee, custom labels, no MOQ and direct fulfillment, but hides coffee price and separately charges product, fulfillment, processing and shipping; its pricing page also contains inconsistent plan wording. Neither screen is a Rising Son quote. No supplier is yet a verified primary or backup
 - Subscription-ready economics framework established; no discount/savings claim until verified
 - Supplier due-diligence framework expanded for direct fulfillment, variants, recurring orders, traceability and exception policies
 - Order/fulfillment SOP expanded for subscription, metadata, AI/human service and professional fulfillment
@@ -55,6 +55,14 @@ Last structured: 2026-10-02
 - A repository scan found no broken local HTML asset or navigation paths.
 - Search indexing and Search Console verification remain unproven. Do not report a search ranking or indexed-page count until measured.
 - Direct browser verification on 2026-09-29 confirmed the HTTPS apex and `/founding40/` loaded successfully; HTTPS `www` and HTTP apex resolved to the HTTPS apex. The public homepage visibly retained the disabled checkout button and no-payment message. The current browser blocked direct `.txt`/`.xml` rendering, so the last independent live `200` verification for `/robots.txt` and `/sitemap.xml` remains 2026-09-27; their repository contents remain valid. Live Home and Founding 40 pages and repository canonicals use the HTTPS apex host. No DNS or mail records were changed; preserve working MX/SPF/DKIM.
+
+## Launch infrastructure check — 2026-10-03
+- Browser verification confirmed that the HTTPS apex homepage and `/founding40/` render successfully.
+- HTTP apex and HTTPS `www` redirect to the HTTPS apex. The live homepage and Founding 40 canonicals point to the correct apex URLs.
+- The public homepage still shows a disabled “Checkout Locked” control. Repository `checkout-config.js` remains `enabled: false` with an empty payment link.
+- Direct browser access to `/robots.txt` and `/sitemap.xml` was blocked by the current browser client, so their last independent live `200` verification remains 2026-09-27. Repository copies remain valid and reference the HTTPS apex.
+- `CNAME` remains `therisingsoncoffee.com`. No DNS, MX, SPF or DKIM records were changed.
+- Automation capacity review found four enabled core tasks (Launch Ops, Supplier/Product, CRM and Finance). Growth is already paused, so capacity exists and no additional task was paused or swapped.
 
 ## YELLOW — waiting / verification
 - Mail visibility: rechecked 2026-09-27; a targeted recent-message search found no FDACS, CoffeeAM, Temecula, PPIB/insurance or delivery-failure messages in the connected Gmail account. The connector accesses only `therisingsoncoffee@gmail.com`, while `hello@therisingsoncoffee.com` is a distinct Porkbun hosted IMAP mailbox that appears in the owner's Gmail phone app. The hosted mailbox has supplier and FDACS replies absent from connector search. Set a Porkbun webmail filter (Settings > Filters > Create) that keeps messages in hosted inbox and forwards copies to Gmail; then verify with a unique inbound test and confirm full original sender/attachments are preserved. Do not change MX/SPF/DKIM or redirect ownership. Porkbun documents this at https://kb.porkbun.com/article/290-how-to-redirect-a-porkbun-hosted-email-account-to-another-email-address . Attempted webmail access in the agent browser on 2026-09-23 returned 403 Forbidden, so filter is NOT configured or tested. Gmail POP fetching is being phased out; do not use it as the durable solution. Existing hosted messages need separate review/backfill.
