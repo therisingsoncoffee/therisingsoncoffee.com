@@ -205,3 +205,24 @@ Add these Legacy Farms-specific questions:
 
 Do not submit the web form, order samples, upload artwork, make payment or accept terms without owner approval at the action point. If an authenticated hosted-email address becomes available, send only from `hello@therisingsoncoffee.com` after rechecking the tracker and prior threads.
 
+## Capital City Coffee Roasters — FOLLOW-UP DRAFT; DO NOT SEND UNTIL HOSTED THREAD IS REVIEWED
+
+**Subject:** Rising Son Coffee — clarification of dropship versus private-label launch terms
+
+Thank you for reviewing Rising Son Coffee's earlier inquiry. Before any sample, purchase, agreement or volume commitment, please clarify which of your published programs applies to our exact model: Capital City sources and roasts the coffee, applies Rising Son-branded compliant packaging, stores any materials, and blind-ships each individual order directly to customers; Rising Son does not handle coffee or promise volume.
+
+Your dropshipping page advertises no minimum, $12.50 per 12 oz bag at 1–24 units, white-label packaging, direct customer shipment, API support and one-business-day fulfillment. Your launch-program page separately says programs generally begin around 300 pounds, most opening runs ship to the business and direct-to-customer fulfillment may require established volume. Please reconcile these terms in writing and identify the exact program, agreement and complete costs that would govern Rising Son.
+
+Please also provide:
+- eligible Original and Swiss Water Decaf candidates, tasting profiles, whole-bean/standard-ground availability, samples and sample costs without sending or charging anything;
+- all product, setup, artwork, label, packaging, grinding, storage, pick/pack, API/platform and recurring fees;
+- representative total shipping for 1-, 2- and 3-bag orders to ZIP 33325 and other U.S. zones, including exclusions and surcharges;
+- normal and peak lead times, subscription/repeat-order handling, payment terms, replacement/refund policy, blind packing slip and return-address presentation;
+- the legal manufacturer, roaster, packer, warehouse, distributor and shipper plus facility names/locations and applicable licenses/FDA registration evidence;
+- food-safety plan and allergen/cross-contact controls, audit/certification documents with scope and expiration, lot/roast-date/order traceability, and recall/withdrawal procedure and contacts;
+- current product-liability COI with limits and expiration, additional-insured capability and cost, indemnity terms, and allocation of label approval, claims, recall notification and recall expense;
+- for any flavored coffee, full ingredient/allergen statements and flavor-supplier documentation.
+
+Our Founding 40 is a free reservation and feedback program before a verified offer and qualifying purchase; it is not a preorder and does not promise order volume.
+
+Do not send this draft from Gmail. Review the existing hosted-mail thread first, then send only from an authenticated `hello@therisingsoncoffee.com` session to avoid duplication.
