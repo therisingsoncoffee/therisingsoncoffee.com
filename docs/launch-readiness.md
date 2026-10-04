@@ -56,13 +56,13 @@ Last structured: 2026-10-03
 - Search indexing and Search Console verification remain unproven. Do not report a search ranking or indexed-page count until measured.
 - Direct browser verification on 2026-09-29 confirmed the HTTPS apex and `/founding40/` loaded successfully; HTTPS `www` and HTTP apex resolved to the HTTPS apex. The public homepage visibly retained the disabled checkout button and no-payment message. The current browser blocked direct `.txt`/`.xml` rendering, so the last independent live `200` verification for `/robots.txt` and `/sitemap.xml` remains 2026-09-27; their repository contents remain valid. Live Home and Founding 40 pages and repository canonicals use the HTTPS apex host. No DNS or mail records were changed; preserve working MX/SPF/DKIM.
 
-## Launch infrastructure check — 2026-10-03
+## Launch infrastructure check — 2026-10-04
 - Browser verification confirmed that the HTTPS apex homepage and `/founding40/` render successfully.
 - HTTP apex and HTTPS `www` redirect to the HTTPS apex. The live homepage and Founding 40 canonicals point to the correct apex URLs.
 - The public homepage still shows a disabled “Checkout Locked” control. Repository `checkout-config.js` remains `enabled: false` with an empty payment link.
 - Direct browser access to `/robots.txt` and `/sitemap.xml` was blocked by the current browser client, so their last independent live `200` verification remains 2026-09-27. Repository copies remain valid and reference the HTTPS apex.
 - `CNAME` remains `therisingsoncoffee.com`. No DNS, MX, SPF or DKIM records were changed.
-- Automation capacity review found four enabled core tasks (Launch Ops, Supplier/Product, CRM and Finance). Growth is already paused, so capacity exists and no additional task was paused or swapped.
+- Automation capacity review found four enabled core tasks (Launch Ops, Supplier/Product, CRM and Finance). Growth remains paused, so capacity exists and no additional task was paused or swapped.
 
 ## YELLOW — waiting / verification
 - Mail visibility: rechecked 2026-09-27; a targeted recent-message search found no FDACS, CoffeeAM, Temecula, PPIB/insurance or delivery-failure messages in the connected Gmail account. The connector accesses only `therisingsoncoffee@gmail.com`, while `hello@therisingsoncoffee.com` is a distinct Porkbun hosted IMAP mailbox that appears in the owner's Gmail phone app. The hosted mailbox has supplier and FDACS replies absent from connector search. Set a Porkbun webmail filter (Settings > Filters > Create) that keeps messages in hosted inbox and forwards copies to Gmail; then verify with a unique inbound test and confirm full original sender/attachments are preserved. Do not change MX/SPF/DKIM or redirect ownership. Porkbun documents this at https://kb.porkbun.com/article/290-how-to-redirect-a-porkbun-hosted-email-account-to-another-email-address . Attempted webmail access in the agent browser on 2026-09-23 returned 403 Forbidden, so filter is NOT configured or tested. Gmail POP fetching is being phased out; do not use it as the durable solution. Existing hosted messages need separate review/backfill.
