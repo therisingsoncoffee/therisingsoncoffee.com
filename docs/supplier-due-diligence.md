@@ -333,3 +333,22 @@ Still UNKNOWN / must be obtained directly: exact Original candidate and sensory 
 
 Fit assessment: Legacy Farms' direct brand relationship, source traceability, whole-bean/ground range and supplier-handled fulfillment are directionally compatible with Rising Son. However, the missing Decaf evidence and unclear U.S. roasting/packing chain are launch-critical gaps. Legacy Farms remains an inquiry-ready public-capability prospect, not a viable primary or confirmed backup. Its only public contact route reviewed is a web form; no form was submitted, no sample was ordered and no payment or commitment was made. Official sources reviewed: https://legacyfarmscoffee.com/pages/white-label , https://legacyfarmscoffee.com/pages/our-coffee and https://legacyfarmscoffee.com/pages/contact-us .
 
+
+
+### Black Ink Coffee Company — public capability and economics screen, 2026-10-05
+Black Ink Coffee Company is a newly documented, uncontacted prospect. Its official private-label and dropshipping pages publicly state that it:
+- roasts, packages, holds agreed inventory and ships individual customer orders from a New Hampshire facility;
+- uses Black Ink coffee in customer-supplied, pre-labeled, ready-to-fill bags for its standard program;
+- advertises a 25-bag monthly minimum on its entry dropship tier, billed at $11.50 per standard 12 oz bag for the first 100 bags each month, plus outbound postage and add-on handling;
+- charges a $150 onboarding fee and requires a one-year commitment for standard programs;
+- makes unused monthly minimum quantities expire without rollover, credit or refund;
+- requires the brand to fund postage through an agreed Pirate Ship workflow; its page gives only an illustrative single-shipment range of about $6–$12, not a Rising Son rate;
+- separately prices custom boxes, inserts, label application, special handling, additional storage and other assembly;
+- offers private-label production outside dropshipping with a 15-bag minimum and public 12 oz pricing from $11.49 for 1–499 bags, before customer-supplied bag cost, outbound shipping and optional work;
+- publicly offers Swiss Water Process Decaf and describes its medium-roast range as rich, smooth and balanced.
+
+These are advertised public terms, not a Rising Son quote. At the entry minimum, the published monthly coffee charge is $287.50 before postage, packaging procurement, labels, setup allocation, processing, insurance, replacements and Founding 40 costs. A low-volume month would still incur the full minimum, and the one-year commitment is incompatible with a no-commitment prelaunch unless Black Ink offers different written terms.
+
+Still UNKNOWN / must be obtained directly: whether Black Ink can procure and inventory compliant Rising Son bags and labels rather than requiring Rising Son to supply pre-labeled bags; exact Original and Decaf candidates and private-label eligibility; whole-bean/ground variants and grinding charges; complete 1-, 2- and 3-bag costs by representative zones; normal/peak timing and subscription handling; legal manufacturer/packer/warehouse/distributor identity and facility details; applicable licenses and FDA registration; food-safety plan and allergen controls; audits/certifications with scope and expiration; lot/roast-date/order traceability; recall/withdrawal procedure and contacts; COI, limits/expiration and additional-insured capability; indemnity and label/recall responsibility; flavored-coffee ingredients/allergens; payment, cancellation, replacement and customer-data terms.
+
+Fit assessment: Black Ink's in-house roasting and direct-customer fulfillment architecture is relevant, and its Swiss Water Decaf plus medium-roast range justify a qualification inquiry. However, the 25-bag monthly minimum charge, $150 onboarding, one-year commitment, customer-supplied pre-labeled packaging and separately charged postage make it a poor immediate fit for Rising Son's free-reservation, low-volume launch model on current evidence. Black Ink is therefore a **research-stage contingency prospect, not a viable primary or confirmed backup**. No email, quote request, sample, packaging purchase, registration, payment or commitment was initiated. Official sources reviewed 2026-10-05: https://blackinkcoffee.com/pages/coffee-dropshipping , https://blackinkcoffee.com/pages/private-label-coffee and https://blackinkcoffee.com/collections/decaf .
