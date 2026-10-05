@@ -226,3 +226,40 @@ Please also provide:
 Our Founding 40 is a free reservation and feedback program before a verified offer and qualifying purchase; it is not a preorder and does not promise order volume.
 
 Do not send this draft from Gmail. Review the existing hosted-mail thread first, then send only from an authenticated `hello@therisingsoncoffee.com` session to avoid duplication.
+
+
+## Black Ink Coffee Company
+
+**Subject:** Rising Son Coffee — clarification on private-label dropshipping requirements
+
+Hello,
+
+Rising Son Coffee is evaluating roasting and fulfillment partners for a prelaunch Florida e-commerce coffee brand. Our Founding 40 program is a free reservation and feedback effort that precedes a verified commercial offer and any qualifying purchase. We are not promising order volume.
+
+Our mandatory operating model is supplier-direct: the supplier must source and roast the coffee; procure and maintain compliant Rising Son-branded packaging and labels; warehouse it; maintain batch/lot traceability; and blind-ship individual customer orders. Rising Son will not roast, package, store or ship coffee from a home facility.
+
+Your public pages describe direct-customer fulfillment from New Hampshire, but also describe customer-supplied pre-labeled bags, a 25-bag monthly minimum, $150 onboarding and a one-year commitment. Before we evaluate samples, please confirm whether you can offer a startup structure compatible with Rising Son's low-volume launch and provide:
+
+- exact Original and Decaf candidates, tasting profiles and Decaf process, with whole-bean and standard-ground availability;
+- all bag sizes and whether Black Ink can procure, print, inventory and replenish compliant Rising Son bags/labels rather than requiring us to supply pre-labeled bags;
+- numeric MOQ and minimum charges by coffee/SKU/variant, whether variants combine, and whether unused minimums expire;
+- every unit, setup, artwork, label, bag, grinding, storage, pick/pack, account and per-order charge;
+- actual or representative 1-, 2- and 3-bag shipping costs to nearby, central and distant U.S. zones, including Alaska/Hawaii eligibility;
+- normal/peak lead times, order cutoffs, tracking/integration options, subscription handling, stockouts and replacement/return rules;
+- sample choices, cost and shipping, without sending or charging anything until approved;
+- legal names and locations of the entities that roast, manufacture, pack, warehouse, distribute and ship;
+- applicable food licenses and FDA registration status/evidence;
+- food-safety plan, allergen/cross-contact controls and flavored-coffee ingredient/allergen documentation if flavored products are offered;
+- applicable third-party audits or certifications, identifying which are mandatory versus optional, with scope and expiration dates;
+- lot/roast-date/order traceability, recall/withdrawal procedure and responsible contacts;
+- product-liability COI with limits and expiration, ability/cost to name Rising Son as additional insured, and proposed indemnity;
+- who drafts and approves the final compliant label, which party is identified as manufacturer/packer/distributor, and how label, claim and recall responsibilities and costs are allocated;
+- payment terms, quote validity, price-change notice, cancellation/commitment terms and customer-data access after termination.
+
+Please also confirm whether the published 25-bag monthly minimum, $150 onboarding fee and one-year commitment are mandatory for this exact supplier-packaged, individual-order fulfillment model or whether a lower-commitment pilot structure is available.
+
+Thank you,
+
+Rising Son Coffee
+hello@therisingsoncoffee.com
+https://therisingsoncoffee.com/
