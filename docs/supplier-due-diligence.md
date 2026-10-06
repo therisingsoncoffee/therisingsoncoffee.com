@@ -127,18 +127,21 @@ Temecula was contacted on 2026-09-23 and an owner screenshot proves a reply exis
 
 This clears the public architecture screen for supplier-direct, Rising Son-branded fulfillment. It does not verify Rising Son-specific pricing, product match, 1/2/3-bag economics, Decaf process, whole-bean/ground variant coverage, facility licenses/FDA registration evidence, food-safety plan, allergen controls, lot traceability, recall process, COI/additional-insured terms, indemnity, label responsibility or replacement terms. Those remain UNKNOWN until the hosted reply and supporting documents are reviewed.
 
-### Joe's Garage Coffee — public capability screen, 2026-09-24
-Joe's Garage is a newly documented prospect, not yet contacted. Its official dropshipping and white-label pages state that it:
-- handles roasting, packaging and shipping from its facility and can fulfill small and large e-commerce orders without customer inventory management;
-- offers custom branding/packaging and traditional retail coffee bags;
+### Joe's Garage Coffee — public capability and compliance screen, updated 2026-10-06
+Joe's Garage is an uncontacted prospect. Its official dropshipping, facility and contact pages publicly state that it:
+- handles roasting, packaging and shipping and can fulfill small and large e-commerce orders without customer inventory management;
+- offers custom branding/packaging, traditional retail coffee bags, house/stock blends, roast-to-order development and samples for approval;
 - advertises low minimums, but provides no numeric MOQ;
-- offers house/stock blends, roast-to-order development and samples for approval;
-- identifies a Kent, Washington facility and separately identifies Pod Pack International in Baton Rouge, Louisiana;
-- displays USDA Organic, BPI Compostable, SQF, Kosher Check, Fair Trade Certified, FDA Registered and AIB marks.
+- identifies its coffee facility as **Joe's Garage Coffee, 20232 72nd Ave S, Kent, WA 98032**, and separately identifies Pod Pack International at 17100 Manchac Park Ln, Baton Rouge, LA 70817;
+- says the Kent facility is registered and approved by FDA and displays USDA Organic, WSDA Organic, Kosher Check, Fair Trade, BPI Compostable, AIB and SQF certification/registration marks;
+- says its primary focus is U.S.-based clients and it does not currently offer international shipping or DDP support;
+- advertises Net 30 payment terms only after credit approval.
 
-Important evidence limitation: the displayed marks are public claims, not retained certificates. Their legal entity, facility scope, certificate numbers, audit grades, issuing bodies and expiration dates must be obtained before treating any certification as verified. Direct single-consumer blind-shipping mechanics, Original/Decaf candidates, whole-bean/ground variants, numeric MOQ, complete costs, integration, 1/2/3-bag shipping, payment terms, replacement policy, traceability/recall evidence, COI/additional-insured capability, indemnity and label/recall allocation remain UNKNOWN. Its site emphasizes enterprise programs, so small-launch economics may be a fit risk despite the advertised low minimums.
+These are current public statements, not a Rising Son quote and not retained compliance evidence. The site does not publish the FDA registration number, state food license, SQF/AIB audit report or grade, certificate numbers, exact facility/product scope, issue dates or expiration dates. Rising Son must obtain current copies before treating any registration, audit or certification as verified; optional certifications are not substitutes for mandatory food-safety, labeling, traceability and recall controls.
 
-Contact status: not contacted. The hosted mailbox currently presents a login screen with no authenticated agent session, and Gmail sending is prohibited because it can substitute the gmail.com identity. A complete no-send draft is preserved in `docs/supplier-outreach-drafts.md`.
+Still UNKNOWN / must be obtained directly: whether Joe's can blind-ship individual Rising Son consumer orders at low launch volume; exact Original and Decaf candidates and decaffeination process; whole-bean/ground variants; numeric MOQ; complete unit/setup/label/packaging/pick-pack and 1-, 2- and 3-bag shipping costs; integrations and lead times; legal manufacturer/packer/distributor allocation between Kent and Baton Rouge; food-safety plan and allergen controls; lot/roast-date/order traceability; recall/withdrawal procedure and contacts; product-liability COI, limits/expiration and additional-insured capability; indemnity and allocation of label/recall responsibility; flavored-coffee ingredients/allergens; replacement policy; and Rising Son eligibility for Net 30.
+
+Fit assessment: Joe's now has stronger public facility and quality-system evidence than most contingency prospects, but the missing certificate documents, product/economic details and low-volume blind-fulfillment confirmation remain launch-critical. It is an **inquiry-ready contingency prospect, not a viable primary or confirmed backup**. Contact status remains not contacted: connected Gmail is the prohibited gmail.com identity, and the hosted Porkbun webmail returned plain 403 responses on 2026-10-06 after one reload. A complete no-send draft is preserved in `docs/supplier-outreach-drafts.md`. No form, email, sample, payment or commitment was made. Official sources reviewed 2026-10-06: https://joesgaragecoffee.com/facility/ , https://joesgaragecoffee.com/contact/ , https://joesgaragecoffee.com/services/ and https://joesgaragecoffee.com/products/coffee-bags/ .
 
 ## Apples-to-apples status — 2026-09-24
 | Decision field | La Vela | Liberty Beans |
