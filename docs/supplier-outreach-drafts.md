@@ -263,3 +263,41 @@ Thank you,
 Rising Son Coffee
 hello@therisingsoncoffee.com
 https://therisingsoncoffee.com/
+
+
+## JavaMania Partner Connect — DO NOT SEND UNTIL HOSTED MAILBOX IS ACCESSIBLE
+
+**Subject:** Rising Son Coffee — private-label dropship qualification request
+
+Hello,
+
+Rising Son Coffee reviewed JavaMania Partner Connect's advertised no-fee, Shopify-connected private-label dropship program and is evaluating whether it can support our exact Florida e-commerce launch model. Our Founding 40 program is a free reservation and product-feedback effort only; it precedes a complete verified offer and any qualifying purchase, and we are not promising order volume.
+
+Our mandatory operating model is supplier-direct: the supplier sources and roasts the coffee, applies and maintains compliant Rising Son-branded packaging/labels, stores necessary materials, preserves batch/lot traceability, and blind-ships each customer order. Rising Son will not roast, pack, store or ship coffee from a home facility.
+
+Before any sample, app installation, account, label work, purchase or commitment, please provide one written evidence package covering:
+
+- the closest Original candidate to our target—rich/bright aroma, low perceived acidity and bitterness, earthy tones, strong smooth full flavor and clean aftertaste—and why; please treat Cafe 96 and Cafe Bella only as preliminary comparison candidates;
+- the exact private-label Decaf candidate closest to that Original, its decaffeination process, tasting profile, and whether both products are available in 12 oz whole bean and standard drip-ground formats;
+- sample choices, cost, shipping and any credit, without sending or charging anything until approved;
+- complete effective pricing for each proposed SKU/variant, including confirmation of the advertised 50%-of-retail rule and every bag, label, grind, pick/pack, app, account, transaction, customer-service or other fee;
+- representative total shipping for 1-, 2- and 3-bag orders to ZIP 33325 plus nearby, central and distant U.S. zones, including Alaska/Hawaii, PO-box, military, remote-area, fuel and peak-season restrictions or surcharges;
+- whether JavaMania prints, inventories and replenishes all compliant Rising Son labels and bags, and how blind packing slips, return addresses and customer-facing shipment communications appear;
+- normal and peak roast/ship timing, subscriptions/repeat orders, order edits/cancellations, stockouts, address corrections, carrier loss/damage, refunds/replacements, customer service and Shopify/customer-data export after termination;
+- the legal names and exact locations of every entity/facility that sources, roasts/manufactures, grinds, packs, warehouses, distributes and ships Rising Son coffee;
+- current state food-license/inspection evidence and documentary confirmation of the publicly stated FDA facility registration, including the facility tied to registration number 17987307508;
+- the food-safety plan and allergen/cross-contact controls; for any flavored coffee, full ingredients, allergen statements and applicable flavor-supplier documentation rather than only general “hypoallergenic” or zero-sugar language;
+- applicable third-party audit/certification documents, distinguishing mandatory licenses from optional certifications and providing scope, issue date and expiration;
+- green-lot/finished-lot/roast-date/customer-order traceability, recall/withdrawal procedure, responsible contacts and latest mock-recall result if available;
+- current product-liability COI with limits and expiration, ability and cost to name Rising Son as additional insured, proposed indemnity, and allocation of final-label review, claim substantiation, recall notification and recall expense;
+- payment timing, taxes, price-change notice, quote validity, cancellation/termination terms and any Shopify app permissions or data-retention terms.
+
+Please also confirm which business address types are accepted on the final “Distributed by” statement and whether a commercial registered-agent/virtual-mail address may be used if compliant; do not assume an owner-home address.
+
+Thank you,
+
+Rising Son Coffee
+hello@therisingsoncoffee.com
+https://therisingsoncoffee.com/
+
+Do not send this draft from Gmail. Recheck the hosted mailbox and supplier tracker first, then send only from an authenticated `hello@therisingsoncoffee.com` session to avoid identity substitution and duplicate outreach. Do not install the app, connect Shopify, generate labels, order samples, make payment or accept terms without owner approval.
