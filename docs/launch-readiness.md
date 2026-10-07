@@ -1,6 +1,6 @@
 # Rising Son Coffee — Launch Readiness
 
-Last structured: 2026-10-06
+Last structured: 2026-10-07
 
 ## GREEN — completed / proven
 - Custom-domain HTTPS enabled in GitHub Pages by owner on 2026-09-22; independently reverified 2026-09-27: HTTPS apex, `/founding40/`, `/robots.txt` and `/sitemap.xml` returned `200`; HTTP apex and HTTPS `www` resolved to the HTTPS apex with valid certificate verification.
@@ -33,7 +33,7 @@ Last structured: 2026-10-06
 - Written FDACS classification request sent from hello@therisingsoncoffee.com to the official Division of Food Safety address on 2026-09-23 for the exact supplier-roasted, Rising Son-branded, supplier-packaged/stored/direct-shipped model; FDACS acknowledged it and requested county/ZIP, but no classification has been issued
 - Launch assortment defined conceptually as Original + Decaf; whole bean/ground are variants subject to supplier capability/economics
 - Value-first product economics framework established, including delivered $/oz and contribution analysis; shipping-allocation contribution formulas were corrected and independently documented on 2026-09-24
-- Drive supplier/economics tracker reconciled through 2026-10-05: contacted statuses corrected; Old Chicago and Matchbox Coffee added as public-screen contingencies; Roastify added as a contacted public-capability/economics screen; Supliful and Legacy Farms added as research-stage screens; Capital City added as a contacted but unresolved program screen; and Black Ink Coffee added as a research-stage screen. Capital City's public no-MOQ dropship terms conflict with its typical approximately 400-bag launch model. Black Ink publicly advertises direct fulfillment and Swiss Water Decaf, but its standard program requires a 25-bag monthly billed minimum, $150 onboarding, a one-year commitment, customer-supplied pre-labeled bags and separate postage/add-ons. These public figures are not Rising Son quotes. Neither Capital City nor Black Ink is a verified primary or backup
+- Drive supplier/economics tracker reconciled through 2026-10-06: contacted statuses corrected; Old Chicago and Matchbox Coffee added as public-screen contingencies; Roastify added as a contacted public-capability/economics screen; Supliful, Legacy Farms, Black Ink Coffee and Joe's Garage Coffee added as research-stage screens; and Capital City added as a contacted but unresolved program screen. Capital City's public no-MOQ dropship terms conflict with its typical approximately 400-bag launch model. Black Ink's standard program requires a 25-bag monthly billed minimum, $150 onboarding, a one-year commitment, customer-supplied pre-labeled bags and separate postage/add-ons. Joe's Garage publicly identifies its Kent, Washington facility, claims FDA registration/approval and displays SQF/AIB and other certification marks, but no current certificates, scope/expiration evidence or complete commercial quote has been retained. These public figures and claims are not Rising Son quotes or verified compliance evidence. None of these suppliers is a verified primary or backup
 - Subscription-ready economics framework established; no discount/savings claim until verified
 - Supplier due-diligence framework expanded for direct fulfillment, variants, recurring orders, traceability and exception policies
 - Order/fulfillment SOP expanded for subscription, metadata, AI/human service and professional fulfillment
@@ -167,6 +167,14 @@ Reserve interruptions for:
 
 The maintained consolidated list is `docs/owner-actions.md`.
 
+
+## Launch operations check — 2026-10-07
+- GitHub source verification confirmed `CNAME` remains `therisingsoncoffee.com`; repository `robots.txt`, `sitemap.xml`, homepage and Founding 40 canonicals remain apex-linked.
+- Repository `checkout-config.js` remains `enabled: false` with an empty payment link, and the homepage retains its disabled checkout control and no-payment message.
+- The external public-site checker could not access the apex, Founding 40, HTTP or `www` URLs during this run. This is not evidence of an outage; live HTTPS/redirect status therefore remains last independently verified on 2026-10-06 rather than being falsely re-certified today.
+- Joe's Garage Coffee now has stronger public facility/compliance evidence: the company identifies a Kent, Washington facility, publicly claims FDA registration/approval, displays SQF/AIB and other certification marks, advertises U.S.-focused service and Net 30 only after credit approval. Current certificates, registration number, audit scope/grade, expiration dates, exact Original/Decaf coverage, low-volume blind fulfillment, complete costs, COI, traceability/recall and label-responsibility evidence remain UNKNOWN. It is a research-stage contingency, not a verified backup.
+- Four core operational tasks remain enabled and distinct (Launch Ops, Supplier/Product, CRM and Finance). Available capacity exists because Growth remains paused; no task was paused, resumed or swapped.
+- No DNS, MX, SPF or DKIM record was changed. No commercial gate was cleared.
 
 ## Launch operations check — 2026-10-02
 - Live browser verification succeeded for the HTTPS apex homepage and `/founding40/`; both rendered normally and retained the correct HTTPS-apex canonical.
