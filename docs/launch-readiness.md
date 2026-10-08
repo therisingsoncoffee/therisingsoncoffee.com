@@ -1,6 +1,6 @@
 # Rising Son Coffee — Launch Readiness
 
-Last structured: 2026-10-07
+Last structured: 2026-10-08
 
 ## GREEN — completed / proven
 - Custom-domain HTTPS enabled in GitHub Pages by owner on 2026-09-22; independently reverified 2026-09-27: HTTPS apex, `/founding40/`, `/robots.txt` and `/sitemap.xml` returned `200`; HTTP apex and HTTPS `www` resolved to the HTTPS apex with valid certificate verification.
@@ -33,7 +33,7 @@ Last structured: 2026-10-07
 - Written FDACS classification request sent from hello@therisingsoncoffee.com to the official Division of Food Safety address on 2026-09-23 for the exact supplier-roasted, Rising Son-branded, supplier-packaged/stored/direct-shipped model; FDACS acknowledged it and requested county/ZIP, but no classification has been issued
 - Launch assortment defined conceptually as Original + Decaf; whole bean/ground are variants subject to supplier capability/economics
 - Value-first product economics framework established, including delivered $/oz and contribution analysis; shipping-allocation contribution formulas were corrected and independently documented on 2026-09-24
-- Drive supplier/economics tracker reconciled through 2026-10-06: contacted statuses corrected; Old Chicago and Matchbox Coffee added as public-screen contingencies; Roastify added as a contacted public-capability/economics screen; Supliful, Legacy Farms, Black Ink Coffee and Joe's Garage Coffee added as research-stage screens; and Capital City added as a contacted but unresolved program screen. Capital City's public no-MOQ dropship terms conflict with its typical approximately 400-bag launch model. Black Ink's standard program requires a 25-bag monthly billed minimum, $150 onboarding, a one-year commitment, customer-supplied pre-labeled bags and separate postage/add-ons. Joe's Garage publicly identifies its Kent, Washington facility, claims FDA registration/approval and displays SQF/AIB and other certification marks, but no current certificates, scope/expiration evidence or complete commercial quote has been retained. These public figures and claims are not Rising Son quotes or verified compliance evidence. None of these suppliers is a verified primary or backup
+- Drive supplier/economics tracker reconciled through 2026-10-07: contacted statuses corrected; Old Chicago and Matchbox Coffee added as public-screen contingencies; Roastify added as a contacted public-capability/economics screen; Supliful, Legacy Farms, Black Ink Coffee and Joe's Garage Coffee added as research-stage screens; Capital City added as a contacted but unresolved program screen; and JavaMania Partner Connect added as a research-stage public-capability/economics screen. JavaMania publicly advertises no recurring/setup fee, custom-label blind fulfillment, one-business-day handling and a 50%-of-retail coffee-cost rule; its illustrative $9.50 coffee plus public average shipping screens at $16.20 for one bag, $28.80 for two and $38.30 for three before omitted costs. Capital City's public no-MOQ dropship terms conflict with its typical approximately 400-bag launch model. Black Ink's standard program requires a 25-bag monthly billed minimum, $150 onboarding, a one-year commitment, customer-supplied pre-labeled bags and separate postage/add-ons. Joe's Garage publicly identifies its Kent, Washington facility, claims FDA registration/approval and displays SQF/AIB and other certification marks, but no current certificates, scope/expiration evidence or complete commercial quote has been retained. These public figures and claims are not Rising Son quotes or verified compliance evidence. None of these suppliers is a verified primary or backup
 - Subscription-ready economics framework established; no discount/savings claim until verified
 - Supplier due-diligence framework expanded for direct fulfillment, variants, recurring orders, traceability and exception policies
 - Order/fulfillment SOP expanded for subscription, metadata, AI/human service and professional fulfillment
@@ -167,6 +167,14 @@ Reserve interruptions for:
 
 The maintained consolidated list is `docs/owner-actions.md`.
 
+
+## Launch operations check — 2026-10-08
+- GitHub source verification confirmed `CNAME`, repository `robots.txt`, `sitemap.xml`, homepage and Founding 40 canonicals remain correctly linked to the HTTPS apex.
+- Repository `checkout-config.js` remains `enabled: false` with an empty payment link. No payment path or commercial gate was activated.
+- The external public-site checker again could not access the apex, Founding 40, HTTP, `www`, robots or sitemap URLs. This is not evidence of an outage; live HTTPS/redirect status remains last independently verified on 2026-10-06, while repository source integrity was verified today.
+- JavaMania Partner Connect is now reflected in supplier and finance tracking as a strong public-capability prospect. Its public no-fee architecture and multi-bag cost screen are promising, but the figures are not a Rising Son quote. Exact Original/Decaf eligibility, samples, destination costs, legal facility/entities, state/FDA documentary evidence, food-safety/allergen controls, lot traceability, recall procedures, COI/additional-insured terms, indemnity, label responsibility, replacements and subscriptions remain UNKNOWN. JavaMania is not a verified primary or backup.
+- Four core operational tasks remain enabled and distinct. Existing unused capacity means no task was paused, resumed or swapped.
+- No DNS, MX, SPF or DKIM record was changed. Checkout remains locked.
 
 ## Launch operations check — 2026-10-07
 - GitHub source verification confirmed `CNAME` remains `therisingsoncoffee.com`; repository `robots.txt`, `sitemap.xml`, homepage and Founding 40 canonicals remain apex-linked.
