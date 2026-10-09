@@ -1,6 +1,6 @@
 # Rising Son Coffee — Launch Readiness
 
-Last structured: 2026-10-08
+Last structured: 2026-10-09
 
 ## GREEN — completed / proven
 - Custom-domain HTTPS enabled in GitHub Pages by owner on 2026-09-22; independently reverified 2026-09-27: HTTPS apex, `/founding40/`, `/robots.txt` and `/sitemap.xml` returned `200`; HTTP apex and HTTPS `www` resolved to the HTTPS apex with valid certificate verification.
@@ -167,6 +167,14 @@ Reserve interruptions for:
 
 The maintained consolidated list is `docs/owner-actions.md`.
 
+
+## Launch operations check — 2026-10-09
+- GitHub source verification confirmed `CNAME`, repository `robots.txt`, `sitemap.xml`, homepage and Founding 40 canonicals remain correctly linked to the HTTPS apex.
+- Repository `checkout-config.js` remains `enabled: false` with an empty payment link. The homepage retains its disabled checkout control and no-payment message. No payment path or commercial gate was activated.
+- The external public-site checker could not access the apex, Founding 40, HTTP, `www`, robots or sitemap URLs during this run. This is not evidence of an outage; live HTTPS/redirect status remains last independently verified on 2026-10-06, while repository source integrity was verified today.
+- TiA Coffee is now reflected across supplier and finance tracking as a strong research-stage prospect. Public—not quoted—terms indicate supplier roasting/packing, branded bags, whole-bean/ground formats, Swiss-Water Decaf, direct-to-consumer fulfillment and a 50 lb minimum per house blend. Its advertised 50 lb production reference of roughly $585–$625 (about $8.85–$9.45 per 12 oz bag) excludes labels, freight, handling, customer shipping and other launch costs. Separate Original/Decaf minimum exposure, warehousing, per-order handling, 1/2/3-bag shipping, samples, compliance evidence, traceability/recall, COI, indemnity and label-responsibility terms remain unresolved. TiA is not a verified primary or backup.
+- Automation review found three enabled, distinct core tasks: Launch Ops, Supplier/Product and Finance. Existing unused capacity means no task was paused, resumed or swapped.
+- No DNS, MX, SPF or DKIM record was changed. Checkout remains locked.
 
 ## Launch operations check — 2026-10-08
 - GitHub source verification confirmed `CNAME`, repository `robots.txt`, `sitemap.xml`, homepage and Founding 40 canonicals remain correctly linked to the HTTPS apex.
