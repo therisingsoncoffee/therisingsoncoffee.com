@@ -384,3 +384,44 @@ hello@therisingsoncoffee.com
 https://therisingsoncoffee.com/
 
 Do not send this draft from Gmail. Recheck the hosted mailbox and supplier tracker first, then send only from an authenticated `hello@therisingsoncoffee.com` session to avoid identity substitution and duplicate outreach. Do not submit a web form, schedule a call, request samples, purchase packaging, place an order, make payment or accept terms without owner approval.
+
+
+## Solai Coffee
+
+**Subject:** Rising Son Coffee — private-label coffee and direct-to-customer fulfillment qualification
+
+Hello,
+
+Rising Son Coffee is evaluating Solai Coffee for our Florida e-commerce launch because your public materials describe branded private-label production and direct-to-customer fulfillment. Our Founding 40 program is a free reservation and product-feedback effort only; it precedes a complete verified offer and any qualifying purchase, and we are not promising order volume.
+
+Our mandatory operating model is supplier-direct: the supplier sources and roasts the coffee, packs it in compliant Rising Son-branded packaging, stores finished coffee and required packaging materials, preserves batch/lot traceability, and blind-ships each individual customer order. Rising Son will not roast, pack, store or ship coffee from a home facility.
+
+Before any sample, artwork, packaging purchase, order or commitment, please provide one written evidence package covering:
+
+- the closest Original candidate or custom roast to our target—rich/bright aroma, low perceived acidity and bitterness, earthy tones, strong smooth full flavor and clean aftertaste;
+- a Decaf candidate that can closely match the proposed Original, including origin/blend, decaffeination process and tasting profile;
+- whole-bean and standard drip-ground availability for both coffees, all retail bag sizes, and whether variants may combine toward minimums;
+- private-label MOQ and recurring inventory commitment by coffee, bag size, grind and label/SKU;
+- complete selected-SKU pricing: coffee, grinding, bags/valves, filling, labels, design, proofs/plates, setup, storage, pick/pack, per-order handling, account/integration and every other fee;
+- sample choices and terms without sending or charging anything until separately approved;
+- who procures, owns, stores and replenishes compliant Rising Son bags and labels; minimum packaging buys, storage limits/fees, obsolescence and disposition terms;
+- representative total shipping for 1-, 2- and 3-bag orders to ZIP 33325 plus nearby, central and distant U.S. zones, including PO boxes, Alaska/Hawaii, military, remote-area, fuel and peak-season restrictions or surcharges;
+- blind-shipment presentation, packing slip and return address; Shopify/WooCommerce/API integration mechanics and cost; tracking; subscriptions; normal/peak production and order timing; stockouts; edits/cancellations; carrier loss/damage; replacements; address corrections; refunds; customer service boundaries; and customer/order-data export;
+- legal names and exact locations of every entity/facility that sources, roasts/manufactures, grinds, packs, warehouses, distributes and ships Rising Son coffee;
+- current state food-license/inspection evidence and FDA facility-registration status for each applicable facility;
+- the food-safety plan and allergen/cross-contact controls;
+- every applicable third-party audit/certification document, distinguishing mandatory licenses from optional certifications and providing exact scope, issue date and expiration;
+- green-lot/finished-lot/roast-date/customer-order traceability, recall/withdrawal procedure, responsible contacts and latest mock-recall result if available;
+- current product-liability COI with limits and expiration, ability and cost to name Rising Son as additional insured, proposed indemnity, and allocation of final-label review, claim substantiation, recall notification and recall expense;
+- who drafts and approves the final compliant label and which party is legally identified as manufacturer, packer or distributor;
+- payment timing, quote validity, price-change notice, replacement terms, cancellation/termination, and unused coffee/packaging disposition.
+
+If any proposed coffee is flavored or contains additions beyond roasted coffee, please provide full ingredients and sub-ingredients, processing aids, allergen statements and cross-contact controls.
+
+Thank you,
+
+Rising Son Coffee
+hello@therisingsoncoffee.com
+https://therisingsoncoffee.com/
+
+Do not send this draft from Gmail. Recheck the hosted mailbox and supplier tracker first, then send only from an authenticated `hello@therisingsoncoffee.com` session to avoid identity substitution and duplicate outreach. Do not submit a web form, schedule a call, request samples, purchase packaging, place an order, make payment or accept terms without owner approval.
