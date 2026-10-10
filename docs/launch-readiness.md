@@ -202,3 +202,13 @@ The maintained consolidated list is `docs/owner-actions.md`.
 - Roastify's label requirements create a sequencing dependency: a legal business name and valid non-PO-box business address must be resolved before production labels can be finalized. This does not authorize LLC formation or choosing an address.
 - Automation review found four enabled core tasks: Launch Ops, Supplier/Product, Finance and CRM. Founding 40 Growth is already disabled after its 2026-10-02 run, leaving capacity free; no additional task was paused or swapped because no higher-priority temporary task is currently blocked solely by capacity.
 - No commercial gate was cleared. Written FDACS classification, hosted-mailbox evidence, supplier quote/compliance evidence, insurance decision, LLC/EIN, label address, payments setup, commerce testing and owner authorization remain pending.
+
+
+## Launch operations check — 2026-10-10
+- Direct live-browser verification succeeded for the HTTPS apex homepage and `/founding40/`; both rendered normally and published the correct HTTPS-apex canonical.
+- HTTP apex and HTTPS `www` both redirected to `https://therisingsoncoffee.com/`.
+- Direct browser navigation to `robots.txt` and `sitemap.xml` was blocked by the browser client. This is not evidence of an outage; repository copies remain present, internally valid and apex-linked, while their latest independent live `200` verification remains 2026-09-27.
+- Repository `checkout-config.js` remains `enabled: false` with an empty payment link. The live homepage visibly shows “Checkout Locked” and “No orders or payments are being accepted.” No payment path or commercial gate was activated.
+- Javabooch is now reflected in supplier due diligence as an inquiry-ready, fulfillment-capable research prospect. Public claims support supplier-controlled sourcing/roasting/packing, whole-bean or ground retail bags from 8 oz to 5 lb, and Jacksonville direct-to-consumer pick/pack. Exact Original fit, private-label Decaf, unit/setup/label/storage/fulfillment/shipping economics, numeric MOQ, samples, legal facility identity, food-license/FDA evidence, SQF/HACCP documentation, traceability/recall, COI, additional-insured terms, indemnity and label/recall allocation remain UNKNOWN. Its “FDA-certified” wording requires clarification because facility registration is not FDA approval or certification. Javabooch is not a verified primary or backup.
+- Automation review found three enabled, distinct core tasks: Launch Ops, Supplier/Product and Finance. Unused capacity remains, so no task was paused, resumed or swapped.
+- No DNS, MX, SPF or DKIM record was changed. Checkout remains locked.
