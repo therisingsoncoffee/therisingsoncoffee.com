@@ -425,3 +425,35 @@ hello@therisingsoncoffee.com
 https://therisingsoncoffee.com/
 
 Do not send this draft from Gmail. Recheck the hosted mailbox and supplier tracker first, then send only from an authenticated `hello@therisingsoncoffee.com` session to avoid identity substitution and duplicate outreach. Do not submit a web form, schedule a call, request samples, purchase packaging, place an order, make payment or accept terms without owner approval.
+
+
+## Liberty Beans Coffee — evidence-gap follow-up (HOLD; thread review required)
+
+**Subject:** Rising Son Coffee — remaining quote and compliance details
+
+Hello,
+
+Thank you for the information about Liberty Beans' private-label dropshipping program. Your current program materials appear directionally aligned with Rising Son Coffee's required model: supplier-sourced and roasted coffee, Rising Son-branded packaging, supplier-held inventory, batch traceability, and blind shipment of individual orders directly to customers. Rising Son will not roast, pack, store or ship coffee from a home facility.
+
+Our Founding 40 is a free reservation and product-feedback program that precedes a verified offer and any qualifying purchase. It is not a volume commitment.
+
+To complete an evidence-based comparison, please provide the following for Rising Son:
+
+- your recommended Original candidate for a rich/bright aroma, low perceived acidity and bitterness, earthy tones, strong smooth full flavor and clean aftertaste;
+- the closest available Decaf, its decaffeination process, tasting profile and sample terms;
+- available private-label bag weights; whole-bean and ground options; grind choices and any grinding surcharge;
+- unit pricing and tiers, plus every setup, artwork, label, pouch, insert, pick/pack, account, integration and per-order charge, including any charge that applies during the first 90 days;
+- actual 1-, 2- and 3-bag shipping rates or rate tables by zone, carrier/service, tracking flow, subscription support, payment terms, price-change notice and lost/damaged/wrong-product replacement terms;
+- the legal entity that manufactures, packs and distributes the coffee, facility name/location, applicable food licenses and FDA registration status;
+- food-safety plan, allergen controls, lot/batch traceability, recall/withdrawal procedure and responsible contacts;
+- current third-party audit or certification evidence, if any, with scope and expiration dates (these are requested as evidence, not assumed mandatory);
+- product-liability insurance COI showing limits and expiration, whether Rising Son can be named additional insured, and proposed indemnity plus allocation of label-compliance and recall responsibilities;
+- for any flavored coffees, the flavor ingredients, carriers, processing aids, allergen disclosures and shared-equipment controls.
+
+Please distinguish included services from optional services and identify any document or term that expires.
+
+Thank you,
+Rising Son Coffee
+hello@therisingsoncoffee.com
+
+**Send-control note:** Do not send this draft until the hosted `hello@therisingsoncoffee.com` mailbox is authenticated and the complete Liberty thread has been reviewed. If Liberty already answered substantively, reply only to the unresolved items in-thread. Never send from Gmail, submit a duplicate form, order a paid sample, accept terms or promise volume.
