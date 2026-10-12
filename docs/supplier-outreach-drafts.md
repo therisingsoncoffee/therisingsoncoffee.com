@@ -457,3 +457,34 @@ Rising Son Coffee
 hello@therisingsoncoffee.com
 
 **Send-control note:** Do not send this draft until the hosted `hello@therisingsoncoffee.com` mailbox is authenticated and the complete Liberty thread has been reviewed. If Liberty already answered substantively, reply only to the unresolved items in-thread. Never send from Gmail, submit a duplicate form, order a paid sample, accept terms or promise volume.
+
+
+## Koffee Kult — private-label fulfillment clarification (HOLD; thread review required)
+
+**Subject:** Rising Son Coffee — private-label direct-fulfillment clarification
+
+Hello,
+
+Rising Son Coffee previously contacted Koffee Kult regarding a supplier-direct private-label program. Before sending any additional information, we need to reconcile the current private-label materials with the toll-roasting documentation stating that individual-order fulfillment is not provided.
+
+Our mandatory operating model requires Koffee Kult to source and roast the coffee; package it in compliant Rising Son-branded bags; store the finished inventory; maintain lot/batch traceability; and blind-ship individual orders directly to customers. Rising Son will not roast, pack, warehouse or ship coffee from a home facility.
+
+Please first confirm whether your **private-label program, distinct from toll roasting**, supports that complete model. If it does, please provide:
+
+- recommended Original and Decaf candidates, tasting profiles, Decaf process and sample terms;
+- private-label bag weights, whole-bean/ground options and grind charges;
+- MOQ and all unit, setup, artwork, label, bag, storage, pick/pack, integration, account and per-order fees;
+- 1-, 2- and 3-bag shipping rates or rate tables by zone, tracking flow, subscription support, payment terms and replacement policies;
+- the legal manufacturer, packer and distributor, facility name/location, applicable food licenses and FDA registration status;
+- food-safety plan, allergen controls, lot traceability, recall/withdrawal procedure and responsible contacts;
+- current audit/certification documents, if any, with scope and expiration dates;
+- product-liability COI with limits/expiration, additional-insured capability, indemnity, and allocation of label-compliance and recall responsibility;
+- flavored-coffee ingredients, carriers, allergens and shared-equipment controls if flavored products are proposed.
+
+Rising Son's Founding 40 is a free reservation and feedback program that precedes a verified offer and any qualifying purchase. It is not a volume commitment.
+
+Thank you,
+Rising Son Coffee
+hello@therisingsoncoffee.com
+
+**Send-control note:** Do not send until the hosted `hello@therisingsoncoffee.com` mailbox is authenticated and the complete existing Koffee Kult thread is reviewed. If the supplier already answered, reply only to unresolved points. Never send from Gmail, submit a duplicate form, order a paid sample, accept terms or promise volume.
