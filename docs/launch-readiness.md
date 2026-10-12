@@ -1,6 +1,6 @@
 # Rising Son Coffee — Launch Readiness
 
-Last structured: 2026-10-09
+Last structured: 2026-10-12
 
 ## GREEN — completed / proven
 - Custom-domain HTTPS enabled in GitHub Pages by owner on 2026-09-22; independently reverified 2026-09-27: HTTPS apex, `/founding40/`, `/robots.txt` and `/sitemap.xml` returned `200`; HTTP apex and HTTPS `www` resolved to the HTTPS apex with valid certificate verification.
@@ -221,4 +221,14 @@ The maintained consolidated list is `docs/owner-actions.md`.
 - Solai Coffee is now documented as an inquiry-ready supplier-direct prospect. Public materials support private labeling and branded direct-to-customer fulfillment, but Rising Son-specific Original/Decaf eligibility, complete unit/packaging/storage/pick-pack/shipping economics, exact MOQ, facility/license evidence, food-safety controls, traceability/recall, COI, additional-insured terms, indemnity and label/recall responsibility remain UNKNOWN. Solai is not a verified primary or backup.
 - Sonoma Roasters was screened out for the present launch architecture. Although its public low-acid Original/Decaf reference products are directionally attractive and its starting private-label minimum is 144 units per flavor/SKU, its current FAQ expressly states that it does not offer dropshipping and ships finished inventory only to Amazon FBA or the brand's facility. That fails Rising Son's mandatory supplier-stored, blind individual-customer fulfillment model.
 - Automation review found three enabled, distinct core tasks: Launch Ops, Supplier/Product and Finance. Six other tasks are already paused, so capacity is available and no task was paused, resumed or swapped.
+- No DNS, MX, SPF or DKIM record was changed. Written FDACS classification, complete supplier economics/compliance evidence, final label, insurance decision, LLC/EIN, payments testing and owner authorization remain pending. Checkout remains locked.
+
+
+## Launch operations check — 2026-10-12
+- GitHub source verification confirmed `CNAME`, repository `robots.txt`, `sitemap.xml`, homepage and Founding 40 canonicals remain correctly linked to the HTTPS apex.
+- Repository `checkout-config.js` remains `enabled: false` with an empty payment link. The homepage retains “Checkout Locked” and “No orders or payments are being accepted.” No payment path or commercial gate was activated.
+- The external public-site checker could not access the apex, Founding 40, HTTP, `www`, robots or sitemap URLs during this run. This is not evidence of an outage; the most recent independent live verification remains 2026-10-11, when the apex, Founding 40, robots and sitemap returned `200` and redirect/canonical behavior was correct.
+- Liberty Beans Coffee has stronger current public capability evidence for Rising Son's required no-home-handling architecture: supplier sourcing/roasting, whole-bean or ground preparation, branded pouch/label/insert, zero-inventory/no-MOQ blind direct fulfillment, Decaf, Shopify/API integration and supplier-funded replacement for defects, damage or roasting errors. Freedom Blend remains only an Original sample-screen candidate. These are public claims, not a Rising Son quote or supplier selection.
+- Liberty still lacks complete unit/setup/packaging/pick-pack/1–3-bag shipping economics, exact Decaf process, coffee sample terms, facility/legal-role evidence, food-safety/allergen controls, traceability/recall documents, COI/additional-insured terms, indemnity and label/recall responsibility. It remains contacted, not shortlisted or verified as a primary/backup.
+- Automation review found three enabled, distinct core tasks: Launch Ops, Supplier/Product and Finance. Capacity remains available, so no task was paused, resumed or swapped.
 - No DNS, MX, SPF or DKIM record was changed. Written FDACS classification, complete supplier economics/compliance evidence, final label, insurance decision, LLC/EIN, payments testing and owner authorization remain pending. Checkout remains locked.
