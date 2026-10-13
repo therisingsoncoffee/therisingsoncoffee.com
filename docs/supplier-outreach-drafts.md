@@ -488,3 +488,32 @@ Rising Son Coffee
 hello@therisingsoncoffee.com
 
 **Send-control note:** Do not send until the hosted `hello@therisingsoncoffee.com` mailbox is authenticated and the complete existing Koffee Kult thread is reviewed. If the supplier already answered, reply only to unresolved points. Never send from Gmail, submit a duplicate form, order a paid sample, accept terms or promise volume.
+
+
+## Dripshipper — underlying supplier and compliance qualification (HOLD; no account or send)
+
+**Subject:** Rising Son Coffee — underlying roaster, economics and compliance clarification
+
+Hello,
+
+Rising Son Coffee is evaluating Dripshipper for a Florida-based private-label coffee launch. Our mandatory model requires the commercial supplier to source and roast the coffee, apply compliant Rising Son-branded packaging and labels, store or produce inventory professionally, maintain batch traceability, and blind-ship each order directly to customers. Rising Son will not roast, pack, store or ship coffee from a home facility.
+
+Before opening a trial or accepting platform terms, please identify the exact underlying roasting partner for each recommended Original and Decaf SKU and provide:
+
+- recommended Original and Decaf candidates, tasting profiles, Decaf process and paid-sample terms;
+- bag weights, whole-bean/ground variants, grind options and any surcharges;
+- current wholesale cost by SKU/size, all plan/add-on/label/address fees, and complete 1-, 2- and 3-bag shipping costs or representative zone tables;
+- normal/peak fulfillment timing, integrations, subscription support, payment timing and replacement/refund terms;
+- the legal manufacturer, packer, distributor and fulfillment party for each SKU, with facility names/locations, applicable state food licenses and FDA registration status;
+- current food-safety plan, allergen controls, audit/certification documents if applicable, lot/order traceability and recall/withdrawal procedures and contacts;
+- product-liability COI for the responsible manufacturer/packer with limits and expiration, whether Rising Son can be named additional insured, indemnity terms, and allocation of label-compliance and recall responsibility;
+- flavored-coffee ingredients, carriers, allergens and shared-equipment controls if any flavored product is proposed;
+- confirmation whether Temecula Coffee Roasters, Old Chicago Coffee or another partner would fulfill each proposed SKU, so Rising Son can avoid counting one underlying supplier twice.
+
+Rising Son's Founding 40 is a free reservation and feedback program preceding a verified offer and any qualifying purchase. It is not a volume commitment.
+
+Thank you,
+Rising Son Coffee
+hello@therisingsoncoffee.com
+
+**Send-control note:** Do not send, create a trial/account, accept the EULA, enter payment details or order a sample until the hosted `hello@therisingsoncoffee.com` mailbox is authenticated and existing Temecula/other supplier threads are reviewed. Never send this through the connected Gmail identity.
