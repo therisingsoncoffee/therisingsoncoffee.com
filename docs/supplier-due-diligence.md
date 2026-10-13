@@ -472,3 +472,21 @@ This is a mandatory model conflict, not a minor commercial gap. Rising Son canno
 Even if that exception exists, still required: recommended Original and Decaf candidates and samples; exact bag sizes/whole-bean/ground variants; MOQ; all unit, setup, label, packaging, storage, pick/pack and shipping costs; subscription/integration support; payment and replacement terms; legal manufacturer/packer/distributor roles; applicable facility licenses and FDA registration status; food-safety plan and allergen controls; lot traceability and recall procedure; current audit/certification documents with scope/expiration if any; COI, additional-insured capability and indemnity; and allocation of label/recall responsibility.
 
 The connected Gmail account was searched on 2026-10-12 and remains `therisingsoncoffee@gmail.com`; no relevant messages were found there. That does not establish whether the hosted `hello@` mailbox contains a Koffee Kult response. No email, form, call, sample, order, payment or commitment was initiated. Official sources reviewed: https://support.koffeekult.com/support/solutions/articles/36000074523-private-and-white-label-coffee-roasting , https://support.koffeekult.com/support/solutions/articles/36000074524-coffee-toll-roasting-services , https://www.koffeekult.com/collections/decaf and https://www.koffeekult.com/pages/wholesale-coffee-roaster-food-service .
+
+
+### Dripshipper — platform/intermediary clarification, 2026-10-13
+Dripshipper remains a technically capable private-label ordering and fulfillment **platform**, but it must not be counted as an independent supplier contingency until the underlying roasting partner for each Rising Son SKU is identified and separately qualified.
+
+Current official evidence states:
+- the software/app operator is The Doughty Organization LLC;
+- the platform uses two third-party roasting partners and publicly offers no-minimum, branded, on-demand direct fulfillment;
+- current plans are $30/month Starter, $99/month Professional and $197/month Elite after a 14-day trial; wholesale product costs are additional, while the public pricing page says there are no setup or platform transaction fees;
+- the 6 Bean Blend is a dark, multi-origin product with whole-bean and multiple-grind formats in 2 oz, 12 oz, 1 lb, 2 lb and 5 lb sizes; it is only a sample-screen candidate, not Rising Son Original;
+- Fairtrade Peru Decaf and Fairtrade Decaf Espresso are publicly listed, but exact sensory fit and SKU-level production documentation remain unverified;
+- custom labels, blind shipping, order integration and nationwide U.S. fulfillment are publicly advertised;
+- Dripshipper's EULA expressly says Doughty is only an intermediary: it does not manufacture, store, package or fulfill the goods and disclaims products liability for them;
+- Dripshipper documentation identifies Temecula Coffee Roasters as manufacturer/co-packer/fulfillment partner for at least certain products, and the optional $30/month label-address service is limited to Temecula-fulfilled products. Old Chicago Coffee's current terms separately identify Dripshipper as a third-party platform route.
+
+Decision consequence: Dripshipper may be a useful integration channel, but it does **not** create supplier redundancy if Rising Son's selected Dripshipper SKUs are fulfilled by Temecula or Old Chicago. It cannot be promoted to primary or backup until Rising Son receives the exact underlying legal manufacturer/packer/distributor for each proposed Original and Decaf SKU, full unit and 1/2/3-bag shipping economics, samples, current food-safety/traceability/recall evidence, COI/additional-insured terms, indemnity, label responsibility and replacement terms.
+
+No account, free trial, paid plan, sample, form, email, contract or commitment was initiated. The connected Gmail identity is prohibited for supplier outreach; a held qualification draft is preserved for the authenticated hosted mailbox. Official sources reviewed 2026-10-13: https://www.dripshipper.io/pricing , https://www.dripshipper.io/private-label-coffee , https://help.dripshipper.io/en/articles/16790534-fda-compliant-address-service , https://help.dripshipper.io/en/articles/15196642-amazon-tiktok-shop-documentation-support-policy , and https://intercom.help/dripshipper-help/en/articles/5932978-end-user-license-agreement .
