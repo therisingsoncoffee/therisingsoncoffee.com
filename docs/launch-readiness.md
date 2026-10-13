@@ -1,6 +1,6 @@
 # Rising Son Coffee — Launch Readiness
 
-Last structured: 2026-10-12
+Last structured: 2026-10-13
 
 ## GREEN — completed / proven
 - Custom-domain HTTPS enabled in GitHub Pages by owner on 2026-09-22; independently reverified 2026-09-27: HTTPS apex, `/founding40/`, `/robots.txt` and `/sitemap.xml` returned `200`; HTTP apex and HTTPS `www` resolved to the HTTPS apex with valid certificate verification.
@@ -232,3 +232,11 @@ The maintained consolidated list is `docs/owner-actions.md`.
 - Liberty still lacks complete unit/setup/packaging/pick-pack/1–3-bag shipping economics, exact Decaf process, coffee sample terms, facility/legal-role evidence, food-safety/allergen controls, traceability/recall documents, COI/additional-insured terms, indemnity and label/recall responsibility. It remains contacted, not shortlisted or verified as a primary/backup.
 - Automation review found three enabled, distinct core tasks: Launch Ops, Supplier/Product and Finance. Capacity remains available, so no task was paused, resumed or swapped.
 - No DNS, MX, SPF or DKIM record was changed. Written FDACS classification, complete supplier economics/compliance evidence, final label, insurance decision, LLC/EIN, payments testing and owner authorization remain pending. Checkout remains locked.
+
+
+## Launch operations check — 2026-10-13
+- GitHub source verification confirmed `CNAME`, repository `robots.txt`, `sitemap.xml`, homepage and Founding 40 canonicals remain correctly linked to the HTTPS apex.
+- Repository `checkout-config.js` remains `enabled: false` with an empty payment link. The homepage retains “Checkout Locked” and “No orders or payments are being accepted.” No payment path or commercial gate was activated.
+- The external public-site checker could not access the apex, Founding 40, HTTP, `www`, robots or sitemap URLs during this run. This is not evidence of an outage; the most recent independent live verification remains 2026-10-11, when the apex, Founding 40, robots and sitemap returned `200` and redirect/canonical behavior was correct.
+- Automation review found three enabled, distinct core tasks: Launch Ops, Supplier/Product and Finance. Capacity remains available, so no task was paused, resumed or swapped.
+- No DNS, MX, SPF or DKIM record was changed. Written FDACS classification, hosted-mailbox evidence, complete supplier economics/compliance evidence, final label, insurance decision, LLC/EIN, payments testing and owner authorization remain pending. Checkout remains locked.
