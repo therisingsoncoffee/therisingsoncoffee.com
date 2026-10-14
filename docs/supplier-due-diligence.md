@@ -114,18 +114,17 @@ Important fit assessment: the fulfillment architecture strongly matches Rising S
 
 Contact status: not contacted on 2026-09-23. Its public contact form requires additional owner/contact fields not available in this run, and the only connected outbound mail surface is the Gmail account that the operating instruction prohibits for supplier sends. Do not infer outreach from this research entry.
 
-### Temecula Coffee Roasters — public capability screen, 2026-09-24
-Temecula was contacted on 2026-09-23 and an owner screenshot proves a reply exists in the hosted mailbox, but the reply content has not been reviewed. Current official public pages separately state that Temecula:
-- sources, roasts and handles its coffee through its own team;
-- handles individual orders, on-demand label printing, selected stock bags and U.S. shipping;
+### Temecula Coffee Roasters — public capability screen, updated 2026-10-14
+Temecula was contacted on 2026-09-23 and an owner screenshot proves a reply exists in the hosted mailbox, but the reply content has not been reviewed. Its current official private-label page states that Temecula:
+- identifies itself as the private-label manufacturer and says its own team sources, roasts and handles everything it produces;
+- handles individual orders, freshly roasted coffee, on-demand label printing, selected stock bags and U.S. shipping;
 - provides SKU-based Shopify fulfillment with order status and tracking synchronization;
-- allows customer-designed labels within FDA requirements and offers black, white, kraft and compostable stock bags;
+- permits customer-designed labels within FDA requirements and offers black, white, kraft and compostable stock bags;
 - advertises no monthly fee or non-refundable shipping deposit and describes the dropship price as an all-in U.S.-order cost;
-- says Rising Son can choose a listed coffee with a designated roast profile and cupping notes and launch without touching the product;
-- says it handles roasting, packaging and shipping under the customer's brand;
-- requires Shopify for its fulfillment tool.
+- currently lists 46+ coffee offerings in 2 oz, 12 oz, 16 oz, 2 lb and 5 lb sizes, with whole bean, drip-ground, coarse-ground and fine-ground options;
+- publicly identifies partnerships with Fairtrade, World Coffee Research and Swiss Water, but this does not establish the exact Decaf SKU, process or certification scope proposed for Rising Son.
 
-This clears the public architecture screen for supplier-direct, Rising Son-branded fulfillment. It does not verify Rising Son-specific pricing, product match, 1/2/3-bag economics, Decaf process, whole-bean/ground variant coverage, facility licenses/FDA registration evidence, food-safety plan, allergen controls, lot traceability, recall process, COI/additional-insured terms, indemnity, label responsibility or replacement terms. Those remain UNKNOWN until the hosted reply and supporting documents are reviewed.
+This clears the public architecture screen for supplier-direct, Rising Son-branded fulfillment and makes Temecula a leading public-capability candidate. It does not verify Rising Son-specific pricing, product match, 1/2/3-bag economics, MOQ, samples, exact Decaf process, facility licenses/FDA registration evidence, food-safety plan, allergen controls, lot traceability, recall process, COI/additional-insured terms, indemnity, label responsibility or replacement terms. Those remain UNKNOWN until the hosted reply and supporting documents are reviewed. No duplicate follow-up, sample, payment, agreement or supplier selection was initiated.
 
 ### Joe's Garage Coffee — public capability and compliance screen, updated 2026-10-06
 Joe's Garage is an uncontacted prospect. Its official dropshipping, facility and contact pages publicly state that it:
