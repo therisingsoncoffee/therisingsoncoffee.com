@@ -1,6 +1,6 @@
 # Rising Son Coffee — Launch Readiness
 
-Last structured: 2026-10-13
+Last structured: 2026-10-14
 
 ## GREEN — completed / proven
 - Custom-domain HTTPS enabled in GitHub Pages by owner on 2026-09-22; independently reverified 2026-09-27: HTTPS apex, `/founding40/`, `/robots.txt` and `/sitemap.xml` returned `200`; HTTP apex and HTTPS `www` resolved to the HTTPS apex with valid certificate verification.
@@ -238,5 +238,14 @@ The maintained consolidated list is `docs/owner-actions.md`.
 - GitHub source verification confirmed `CNAME`, repository `robots.txt`, `sitemap.xml`, homepage and Founding 40 canonicals remain correctly linked to the HTTPS apex.
 - Repository `checkout-config.js` remains `enabled: false` with an empty payment link. The homepage retains “Checkout Locked” and “No orders or payments are being accepted.” No payment path or commercial gate was activated.
 - The external public-site checker could not access the apex, Founding 40, HTTP, `www`, robots or sitemap URLs during this run. This is not evidence of an outage; the most recent independent live verification remains 2026-10-11, when the apex, Founding 40, robots and sitemap returned `200` and redirect/canonical behavior was correct.
+- Automation review found three enabled, distinct core tasks: Launch Ops, Supplier/Product and Finance. Capacity remains available, so no task was paused, resumed or swapped.
+- No DNS, MX, SPF or DKIM record was changed. Written FDACS classification, hosted-mailbox evidence, complete supplier economics/compliance evidence, final label, insurance decision, LLC/EIN, payments testing and owner authorization remain pending. Checkout remains locked.
+
+## Launch operations check — 2026-10-14
+- GitHub source verification confirmed `CNAME`, repository `robots.txt`, `sitemap.xml`, homepage and Founding 40 canonicals remain correctly linked to the HTTPS apex.
+- Repository `checkout-config.js` remains `enabled: false` with an empty payment link. The homepage retains “Checkout Locked” and “No orders or payments are being accepted.” No payment path or commercial gate was activated.
+- The external public-site checker could not access the apex, Founding 40, HTTP, `www`, robots or sitemap URLs during this run. This is not evidence of an outage; the most recent independent live verification remains 2026-10-11, when the apex, Founding 40, robots and sitemap returned `200` and redirect/canonical behavior was correct.
+- Supplier and Finance findings now classify Dripshipper as a platform intermediary rather than an independent supplier contingency. Its terms say third-party suppliers manufacture, store, package and fulfill the goods, and the platform disclaims responsibility for product quality and liability. Published plan prices are platform reference costs, not a Rising Son quote.
+- Dripshipper must not count toward primary-plus-two supplier redundancy until each proposed Original/Decaf SKU's underlying legal roaster/manufacturer/packer, facility, food-safety and registration evidence, lot traceability, recall process, COI/additional-insured terms, label responsibility and complete delivered economics are verified. No account, trial, payment, sample order or terms were accepted.
 - Automation review found three enabled, distinct core tasks: Launch Ops, Supplier/Product and Finance. Capacity remains available, so no task was paused, resumed or swapped.
 - No DNS, MX, SPF or DKIM record was changed. Written FDACS classification, hosted-mailbox evidence, complete supplier economics/compliance evidence, final label, insurance decision, LLC/EIN, payments testing and owner authorization remain pending. Checkout remains locked.
