@@ -1,6 +1,6 @@
 # Rising Son Coffee — Launch Readiness
 
-Last structured: 2026-10-14
+Last structured: 2026-10-15
 
 ## GREEN — completed / proven
 - Custom-domain HTTPS enabled in GitHub Pages by owner on 2026-09-22; independently reverified 2026-09-27: HTTPS apex, `/founding40/`, `/robots.txt` and `/sitemap.xml` returned `200`; HTTP apex and HTTPS `www` resolved to the HTTPS apex with valid certificate verification.
@@ -249,3 +249,13 @@ The maintained consolidated list is `docs/owner-actions.md`.
 - Dripshipper must not count toward primary-plus-two supplier redundancy until each proposed Original/Decaf SKU's underlying legal roaster/manufacturer/packer, facility, food-safety and registration evidence, lot traceability, recall process, COI/additional-insured terms, label responsibility and complete delivered economics are verified. No account, trial, payment, sample order or terms were accepted.
 - Automation review found three enabled, distinct core tasks: Launch Ops, Supplier/Product and Finance. Capacity remains available, so no task was paused, resumed or swapped.
 - No DNS, MX, SPF or DKIM record was changed. Written FDACS classification, hosted-mailbox evidence, complete supplier economics/compliance evidence, final label, insurance decision, LLC/EIN, payments testing and owner authorization remain pending. Checkout remains locked.
+
+
+## Launch operations check — 2026-10-15
+- GitHub source verification confirmed `CNAME`, repository `robots.txt`, `sitemap.xml`, homepage and Founding 40 canonicals remain correctly linked to the HTTPS apex.
+- Repository `checkout-config.js` remains `enabled: false` with an empty payment link. The homepage retains “Checkout Locked” and “No orders or payments are being accepted.” No payment path or commercial gate was activated.
+- The external public-site checker could not access the apex, Founding 40, HTTP, `www`, robots or sitemap URLs during this run. This is not evidence of an outage; the most recent independent live verification remains 2026-10-11, when the apex, Founding 40, robots and sitemap returned `200` and redirect/canonical behavior was correct.
+- Temecula Coffee Roasters now has stronger public capability evidence and a synchronized supplier record: it identifies itself as the private-label manufacturer, says its team sources/roasts/handles production, supports individual-order fulfillment, on-demand labels, stock bags, U.S. shipping, Shopify automation, five listed package sizes and whole-bean plus multiple ground options. A reply is known to exist in the hosted mailbox but has not been reviewed.
+- Temecula remains contacted, not shortlisted or selected. Exact Original/Decaf SKUs, samples, binding MOQ, full 1/2/3-bag economics, food-safety/facility evidence, traceability/recall procedures, COI/additional-insured terms, indemnity and label/recall responsibility remain UNKNOWN.
+- Automation review found three enabled, distinct core tasks: Launch Ops, Supplier/Product and Finance. Capacity remains available, so no task was paused, resumed or swapped.
+- No DNS, MX, SPF or DKIM record was changed. Written FDACS classification, hosted-mailbox access/evidence, complete supplier economics/compliance evidence, final label, insurance decision, LLC/EIN, payments testing and owner authorization remain pending. Checkout remains locked.
