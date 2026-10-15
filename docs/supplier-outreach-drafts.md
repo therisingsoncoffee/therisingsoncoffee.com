@@ -133,6 +133,8 @@ Add these Cerca-specific questions:
 - Provide applicable licenses/FDA registration evidence, food-safety and allergen controls, audit/certification documents with scope and expiration, lot/roast-date traceability, recall/withdrawal procedure and responsible contacts.
 - Provide the current product-liability COI, limits and expiration, additional-insured capability, indemnity terms and allocation of final-label review, claims, recall notification and recall expense.
 - Explain peak-period roast/ship timing, inventory/component handling, payment timing, replacement policy, app-subscription cancellation and Rising Son order/customer-data export.
+- Confirm whether the advertised $16/$29/$49 full-bag sample kits are the current complete delivered prices, whether private-label prospects receive any credit, and do not ship or charge any sample without separate owner approval.
+- Provide the complete current governing terms, warranties and service-level terms in writing because the public Terms & Conditions page is presently a placeholder.
 - For any flavored product considered, provide complete ingredient/allergen statements and applicable flavor documentation.
 
 Do not subscribe to the app, connect a store, buy samples or accept terms without owner approval. Send only from an authenticated hosted `hello@therisingsoncoffee.com` session after rechecking the tracker.
