@@ -519,3 +519,43 @@ Rising Son Coffee
 hello@therisingsoncoffee.com
 
 **Send-control note:** Do not send, create a trial/account, accept the EULA, enter payment details or order a sample until the hosted `hello@therisingsoncoffee.com` mailbox is authenticated and existing Temecula/other supplier threads are reviewed. Never send this through the connected Gmail identity.
+
+## Oughtred Coffee & Tea — DO NOT SEND UNTIL HOSTED MAILBOX IS ACCESSIBLE
+
+**Subject:** Rising Son Coffee — U.S. private-label and direct-fulfillment qualification
+
+Hello,
+
+Rising Son Coffee is evaluating The Oughtred Roasting Works for a Florida-based e-commerce launch because your public materials describe supplier sourcing, custom roasting, branded packaging and drop shipping. Our Founding 40 program is a free reservation and product-feedback effort only; it precedes a verified offer and any qualifying purchase, and it is not a volume commitment.
+
+Our mandatory model is supplier-direct: the supplier sources and roasts the coffee, packs it in compliant Rising Son-branded packaging, stores finished coffee and packaging materials, preserves lot/batch traceability, and blind-ships each customer order. Rising Son will not roast, pack, store or ship coffee from a home facility.
+
+Before any sample, artwork, packaging purchase, order or commitment, please provide one written evidence package covering:
+
+- confirmation that Oughtred currently accepts U.S.-based private-label brands and can ship individual consumer orders nationwide from Canada;
+- the legal manufacturer, packer, warehouse, distributor, exporter and importer of record; facility name/location; Canadian food licenses/inspection evidence; FDA foreign-facility registration status and U.S. agent;
+- who owns Foreign Supplier Verification Program compliance, prior notice, customs entry, duties, brokerage, tariffs, sales/use taxes, rejected-entry risk, returns and recall coordination;
+- the closest Original candidate to our target—rich/bright aroma, low perceived acidity and bitterness, earthy tones, strong smooth full flavor and clean aftertaste—and its origin/blend, roast and tasting profile;
+- the closest Decaf, including confirmation whether Oughtred Specialty Organic Decaf is available for this program, its Swiss Water Process documentation, roast and sensory fit relative to Original;
+- whole-bean and standard drip-ground availability, grind charges, all retail bag sizes, numeric MOQ by coffee/size/grind/label SKU and whether variants combine toward minimums;
+- sample choices and terms without sending or charging anything until separately approved;
+- complete pricing for coffee, grinding, bags/valves, filling, labels, artwork, proofs/plates, setup, storage, pick/pack, per-order handling, account/integration, customs/brokerage and every other charge;
+- representative all-in shipping for 1-, 2- and 3-bag orders to ZIP 33325 plus nearby, central and distant U.S. zones, including PO boxes, Alaska/Hawaii, territories, military addresses, remote-area and peak surcharges;
+- blind-shipment presentation, packing slip and return address; integration/API mechanics and cost; tracking; subscriptions; normal/peak timing; stockouts; edits/cancellations; carrier loss/damage; replacements; address corrections; refunds and customer/order-data export;
+- food-safety plan and allergen/cross-contact controls;
+- current applicable audit/certification documents with scope, issue and expiration dates, distinguishing mandatory licenses from optional Organic, Fair Trade, Rainforest Alliance, carbon-neutral, direct-trade or GMP claims;
+- green-lot/finished-lot/roast-date/customer-order traceability, recall/withdrawal procedure, responsible contacts and latest mock-recall result if available;
+- product-liability COI with limits, expiration and explicit U.S. territory/products-completed-operations coverage; ability and cost to name Rising Son additional insured; indemnity; and allocation of final-label review, claim substantiation, recall notification and recall expense;
+- who drafts and approves the U.S.-compliant final label and which party is identified as manufacturer, packer or distributor;
+- payment timing, quote validity, price-change notice, replacement terms, termination and unused coffee/packaging disposition.
+
+If any proposed coffee is flavored or contains additions beyond roasted coffee, please provide complete ingredients and sub-ingredients, flavor carriers, processing aids, allergen statements and shared-equipment controls.
+
+Thank you,
+
+Rising Son Coffee
+hello@therisingsoncoffee.com
+https://therisingsoncoffee.com/
+
+**Send-control note:** Do not send from Gmail. Recheck the hosted mailbox and tracker first, then send only from an authenticated `hello@therisingsoncoffee.com` session. Do not submit a form, schedule a call, request samples, purchase packaging, place an order, make payment or accept terms without owner approval.
+
