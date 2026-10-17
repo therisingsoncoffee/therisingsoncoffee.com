@@ -1,6 +1,6 @@
 # Rising Son Coffee — Launch Readiness
 
-Last structured: 2026-10-16
+Last structured: 2026-10-17
 
 ## GREEN — completed / proven
 - Custom-domain HTTPS enabled in GitHub Pages by owner on 2026-09-22; independently reverified 2026-09-27: HTTPS apex, `/founding40/`, `/robots.txt` and `/sitemap.xml` returned `200`; HTTP apex and HTTPS `www` resolved to the HTTPS apex with valid certificate verification.
@@ -267,5 +267,14 @@ The maintained consolidated list is `docs/owner-actions.md`.
 - The external public-site checker could not access the apex, Founding 40, HTTP, `www`, robots or sitemap URLs during this run. This is not evidence of an outage; the most recent independent live verification remains 2026-10-11, when the apex, Founding 40, robots and sitemap returned `200` and redirect/canonical behavior was correct.
 - Cerca Coffee Roasters is now synchronized across the supplier tracker and due-diligence record as an inquiry-ready supplier-direct prospect. Public materials describe no-MOQ Shopify fulfillment, custom labels, 8/12/16 oz formats, whole-bean and ground choices, a Colombian Decaf option, and continental-U.S. shipping included in advertised starting costs of $12/$15/$20 plus a Shopify subscription from $20/month.
 - Cerca's figures are advertised program terms, not a Rising Son quote or approved economics. Its public terms page is a placeholder, and product fit, legal manufacturer/packer/distributor identities, facility and license evidence, food-safety/allergen controls, traceability/recall procedures, COI/additional-insured terms, indemnity, label responsibility, exact per-order costs, exceptions and replacements remain UNKNOWN. It is not a verified primary or confirmed backup.
+- Automation review found three enabled, distinct core tasks: Launch Ops, Supplier/Product and Finance. Capacity remains available, so no task was paused, resumed or swapped.
+- No DNS, MX, SPF or DKIM record was changed. Written FDACS classification, hosted-mailbox access/evidence, complete supplier economics/compliance evidence, final label, insurance decision, LLC/EIN, payments testing and owner authorization remain pending. Checkout remains locked.
+
+## Launch operations check — 2026-10-17
+- Independent live-browser verification confirmed that the HTTPS apex homepage and `/founding40/` render successfully. HTTP apex and HTTPS `www` both resolve to `https://therisingsoncoffee.com/`.
+- The live homepage and Founding 40 page publish the correct HTTPS-apex canonicals. The homepage visibly retains “Checkout Locked” and “No orders or payments are being accepted.” Repository `checkout-config.js` remains `enabled: false` with an empty payment link. No payment path or commercial gate was activated.
+- Live `robots.txt` allows the public site, disallows `/thanks.html`, and points to the HTTPS-apex sitemap. Live `sitemap.xml` lists the apex home, Founding 40, Story, Privacy and Terms URLs. Repository `CNAME`, robots and sitemap remain aligned.
+- Blessed Bean Coffee LLC is now documented as an inquiry-ready Florida supplier prospect. Public materials indicate private-label and dropship programs, whole-bean/ground formats, Swiss Water Process Decaf, and several directionally attractive low-acid/smooth/earthy/full-bodied Original screens. These are public marketing claims, not a Rising Son quote or verified evidence.
+- Blessed Bean still lacks numeric MOQ, complete unit/setup/label/packaging/storage/pick-pack/shipping economics, blind-fulfillment details, legal manufacturer/packer/distributor confirmation, facility/license evidence, food-safety/allergen controls, traceability/recall procedures, COI/additional-insured terms, indemnity, label/recall responsibility, replacements and samples. It is not a verified primary or confirmed backup.
 - Automation review found three enabled, distinct core tasks: Launch Ops, Supplier/Product and Finance. Capacity remains available, so no task was paused, resumed or swapped.
 - No DNS, MX, SPF or DKIM record was changed. Written FDACS classification, hosted-mailbox access/evidence, complete supplier economics/compliance evidence, final label, insurance decision, LLC/EIN, payments testing and owner authorization remain pending. Checkout remains locked.
