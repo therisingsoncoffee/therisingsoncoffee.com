@@ -52,10 +52,45 @@ Rising Son Coffee
 hello@therisingsoncoffee.com
 https://therisingsoncoffee.com/
 
-## Path Coffee Roasters
+## Path Coffee Roasters — DO NOT SEND UNTIL HOSTED MAILBOX IS ACCESSIBLE
 
-Use the same body above, changing the first paragraph to note that Rising Son reviewed Path's advertised no-minimum dropshipping architecture and wants a Rising Son-specific proposal. Explicitly ask whether the published setup charges can be deferred, reduced or credited against future orders; do not imply that Rising Son accepts those charges.
+**Subject:** Rising Son Coffee — private-label roasting, compliance and direct-fulfillment qualification
 
+Hello,
+
+Rising Son Coffee is evaluating Path Coffee Roasters as a possible roasting and direct-fulfillment partner. Your public materials describe in-house sourcing, roasting, branded packing and customer-order shipping with no dropship-order minimum. Our Founding 40 program is a free reservation and product-feedback effort only; it precedes a complete verified offer and any qualifying purchase, and it is not a volume commitment.
+
+Our mandatory model is supplier-direct: Path would source and roast the coffee, pack it in compliant Rising Son-branded packaging, store finished coffee and required packaging materials, maintain lot/batch traceability, and blind-ship individual customer orders. Rising Son will not roast, pack, store or ship coffee from a home facility.
+
+Before any sample, setup fee, artwork, packaging purchase, order or commitment, please provide one written response covering:
+
+- closest year-round Original candidate to rich/bright aroma, low perceived acidity and bitterness, earthy tones, strong smooth full flavor and clean aftertaste;
+- closest Decaf, including whether Synchronic Decaf is private-label eligible, and each candidate's origin/blend, roast, decaffeination method/documentation and tasting profile;
+- whole-bean and standard drip-ground availability, every net weight and grind option, MOQ by coffee/size/grind/label SKU, and whether variants may combine toward minimums;
+- sample choices and cost/shipping/credit terms, without sending or charging anything until separately approved;
+- a current Rising Son-specific price sheet covering coffee, grinding, bags/valves, filling, labels, artwork, proofs/plates, setup, packaging and finished-goods storage, pick/pack, per-order handling, account/integration and every other charge;
+- whether the published $350/$400 setup fees may be deferred, reduced or credited against future orders; this inquiry does not accept either fee;
+- actual shipping for representative 1-, 2- and 3-bag orders to ZIP 33325 plus nearby, central and distant U.S. zones, including PO boxes, Alaska/Hawaii, territories, military addresses, remote-area, fuel and peak surcharges;
+- who procures, owns, stores and replenishes Rising Son packaging; minimum buys, storage limits/fees, obsolescence and termination disposition;
+- blind-shipment presentation, packing slip and return address; ShipStation/e-commerce setup; tracking; subscriptions; normal/peak SLA; stockouts and substitutions; edits/cancellations; carrier loss/damage; replacements/refunds; customer-service boundaries and data export;
+- legal names and exact locations of every entity/facility that sources, roasts/manufactures, grinds, packs, warehouses, distributes and ships the coffee;
+- current applicable state food licenses/inspection evidence and FDA facility-registration status;
+- food-safety plan and allergen/cross-contact controls;
+- applicable third-party audit/certification documents, distinguishing mandatory licenses from optional claims and stating scope, issue date and expiration;
+- green-lot/finished-lot/roast-date/customer-order traceability, recall/withdrawal procedure, responsible contacts and latest mock-recall result if available;
+- current product-liability COI with limits, expiration, territory and products-completed-operations coverage; ability/cost to name Rising Son additional insured; proposed indemnity; and allocation of final-label review, claim substantiation, recall notification and recall expense;
+- who drafts and approves the compliant final label and which party is legally identified as manufacturer, packer or distributor;
+- payment timing, quote validity, price-change notice, replacement terms, cancellation/termination and unused coffee/packaging disposition.
+
+If any flavored coffee is proposed, please provide complete ingredients and sub-ingredients, flavor carriers, processing aids, allergen statements and shared-equipment controls.
+
+Thank you,
+
+Rising Son Coffee  
+hello@therisingsoncoffee.com  
+https://therisingsoncoffee.com/
+
+**Send-control note:** Verify the current recipient on Path's official site and recheck the tracker and any hosted-mail thread first. Send only from an authenticated `hello@therisingsoncoffee.com` hosted mailbox. Do not use Gmail, submit a form, request samples, pay a setup fee, place an order, accept terms or promise volume without owner approval.
 
 ## Dripshipper
 
