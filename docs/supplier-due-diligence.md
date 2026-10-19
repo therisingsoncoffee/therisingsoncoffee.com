@@ -529,3 +529,38 @@ Commercial and operating gaps:
 Still UNKNOWN / must be obtained directly: exact legal manufacturer/roaster/packer/warehouse/distributor/shipper and facility roles; Florida food license/inspection evidence and FDA registration status; food-safety plan; allergen/cross-contact controls; third-party audits/certifications with scope, issue and expiration; green-lot/finished-lot/roast-date/customer-order traceability; recall/withdrawal procedure, responsible contacts and latest mock-recall evidence; product-liability COI with limits/expiration, U.S. territory and products-completed-operations coverage; additional-insured capability/cost; indemnity; final-label review and recall-cost allocation; complete 1-, 2- and 3-bag delivered economics to ZIP 33325 and representative zones; normal/peak timing; integrations; subscriptions; replacements; payment and termination terms.
 
 Fit assessment: Blessed Bean is geographically attractive and its public product lineup contains unusually strong sensory-screen candidates for both Original and Decaf. It is therefore **inquiry-ready, not a verified primary or confirmed contingency**. Public evidence is too sparse on private-label economics, supplier-held warehousing, blind fulfillment, compliance, traceability, recall and insurance to advance it further. No email, form, sample, order, payment, volume promise or commitment was made. Official sources reviewed: https://blessedbeancoffee.com/pages/private-labeling , https://blessedbeancoffee.com/pages/shipping-delivery , https://blessedbeancoffee.com/products/emilys-blend-customer-favorite , https://blessedbeancoffee.com/products/eternity-blend , https://blessedbeancoffee.com/products/honduran-shg-marcala-san-marcos , https://blessedbeancoffee.com/products/snowed-inn-blend-new-offering-1 and https://blessedbeancoffee.com/products/breakfast-blend-decaffeinated .
+
+## Roastery of Cave Creek (ROC²) — inquiry-ready public screen (2026-10-19)
+
+**Current classification:** inquiry-ready research prospect; not contacted, not selected, and not a verified primary or contingency.
+
+### Publicly supported capability
+
+- ROC²'s official wholesale page advertises both private label and dropshipping. It says ROC² custom-roasts, packages, fulfills and ships directly to the brand's customers under the brand identity and label.
+- ROC² states that every bean it sells is roasted in-house at its Cave Creek, Arizona roastery. Its public contact address is 7003 E. Cave Creek Rd, Cave Creek, AZ 85331, and its public email is shop@roc2.com.
+- Public retail formats include 12 oz, 2 lb and 5 lb. Those sizes are not yet confirmed as private-label formats.
+- Organic Black and Tan is a preliminary Original screen because ROC² describes it as smooth and balanced with rich body and a clean finish. Organic Cowboy is a second preliminary screen described as rich, full-bodied, smooth and without bitterness. Neither is approved or confirmed for private label.
+- Organic Water Processed Decaf is publicly listed. The exact decaffeination process documentation, private-label eligibility, roast, tasting profile and similarity to the eventual Original are unknown.
+- ROC² publicly describes retail shipments as usually leaving within 1–2 business days and separately claims low wholesale MOQs, but neither statement establishes a private-label dropship SLA or numeric MOQ.
+
+### Evidence still required before ROC² can count as a backup
+
+1. Legal manufacturer, packer and distributor names and the exact Cave Creek production/packing facility.
+2. Applicable Arizona food licenses and current FDA food-facility registration status or exemption. FDA registration must not be described as FDA approval or certification.
+3. Food-safety plan, preventive controls, sanitation and allergen/cross-contact program, including all flavored-coffee ingredients and allergen statements if flavored products are offered.
+4. Current third-party audit/certification reports, scope, grade and expiration, if any. Certifications not required by law must be labeled optional rather than mandatory.
+5. Complete lot/batch traceability, withdrawal and recall procedure, contacts and mock-recall evidence.
+6. Current product-liability COI with limits and expiration; ability and cost to add Rising Son as additional insured; indemnity and allocation of label, product, recall and regulatory responsibility.
+7. Exact Original and Decaf candidates, whole-bean and drip-ground availability, net weights, samples and sensory evidence.
+8. Numeric MOQ by coffee, size, grind and label SKU, including whether Original/Decaf and bean/ground variants may combine.
+9. Complete unit, grinding, bag, valve, label, artwork/proof/plate, setup, packaging-storage, finished-goods-storage, pick/pack, account and integration costs.
+10. Representative delivered cost for 1-, 2- and 3-bag orders to ZIP 33325 and nearby, central and distant U.S. zones, including PO boxes, Alaska/Hawaii, territories, military, remote-area, fuel and peak surcharges.
+11. Blind-shipment presentation, packing slip, return address, order transmission/integration, tracking, payment terms, replacements, loss/damage handling, peak-season timing and subscription-order support.
+12. Written confirmation that ROC² stores Rising Son packaging and finished goods as needed and handles every customer shipment without owner-home storage or handling.
+
+### Assessment
+
+ROC² is directionally attractive because its publicly stated operating model matches Rising Son's mandatory supplier-direct structure and it has plausible Original and Decaf screens. The public record is still too thin on commercial economics, exact private-label products, compliance, traceability, recall, insurance and responsibility allocation to treat it as a viable primary or confirmed contingency. No email, form, call, sample, order, payment, volume promise, terms acceptance or selection was made.
+
+Official sources reviewed: https://www.roc2.com/pages/wholesale , https://www.roc2.com/blogs/wholesale/where-coffee-is-roasted , https://www.roc2.com/products/organic-black-and-tan , https://www.roc2.com/products/organic-cowboy , https://www.roc2.com/collections/coffee and https://www.roc2.com/pages/contact .
+
