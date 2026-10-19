@@ -1,6 +1,6 @@
 # Rising Son Coffee — Launch Readiness
 
-Last structured: 2026-10-17
+Last structured: 2026-10-19
 
 ## GREEN — completed / proven
 - Custom-domain HTTPS enabled in GitHub Pages by owner on 2026-09-22; independently reverified 2026-09-27: HTTPS apex, `/founding40/`, `/robots.txt` and `/sitemap.xml` returned `200`; HTTP apex and HTTPS `www` resolved to the HTTPS apex with valid certificate verification.
@@ -277,4 +277,14 @@ The maintained consolidated list is `docs/owner-actions.md`.
 - Blessed Bean Coffee LLC is now documented as an inquiry-ready Florida supplier prospect. Public materials indicate private-label and dropship programs, whole-bean/ground formats, Swiss Water Process Decaf, and several directionally attractive low-acid/smooth/earthy/full-bodied Original screens. These are public marketing claims, not a Rising Son quote or verified evidence.
 - Blessed Bean still lacks numeric MOQ, complete unit/setup/label/packaging/storage/pick-pack/shipping economics, blind-fulfillment details, legal manufacturer/packer/distributor confirmation, facility/license evidence, food-safety/allergen controls, traceability/recall procedures, COI/additional-insured terms, indemnity, label/recall responsibility, replacements and samples. It is not a verified primary or confirmed backup.
 - Automation review found three enabled, distinct core tasks: Launch Ops, Supplier/Product and Finance. Capacity remains available, so no task was paused, resumed or swapped.
+- No DNS, MX, SPF or DKIM record was changed. Written FDACS classification, hosted-mailbox access/evidence, complete supplier economics/compliance evidence, final label, insurance decision, LLC/EIN, payments testing and owner authorization remain pending. Checkout remains locked.
+
+
+## Launch operations check — 2026-10-19
+- Independent live-browser verification confirmed that the HTTPS apex homepage and `/founding40/` render successfully. HTTP apex and HTTPS `www` both resolve to `https://therisingsoncoffee.com/`.
+- The live homepage and Founding 40 page publish the correct HTTPS-apex canonicals. The homepage visibly retains “Checkout Locked” and “No orders or payments are being accepted.” Repository `checkout-config.js` remains `enabled: false` with an empty payment link. No payment path or commercial gate was activated.
+- Live `robots.txt` allows the public site, disallows `/thanks.html`, and points to the HTTPS-apex sitemap. Live `sitemap.xml` lists the apex home, Founding 40, Story, Privacy and Terms URLs. Repository `CNAME`, robots and sitemap remain aligned.
+- Path Coffee Roasters is now synchronized across supplier and finance tracking as an inquiry-ready prospect. Its public materials say Path sources, roasts, labels, packs and ships direct to customers with no dropship MOQ; a 25-bag MOQ applies only when the brand self-fulfills. Public reference terms include an average $11 finished 12 oz bag and $350–$400 setup paths, plus 6 oz samples, 12 oz stock bags, 5 lb formats, Decaf/half-caf and a Port Chester, New York facility. These are advertised screening terms, not a Rising Son quote or approved economics.
+- Path remains uncontacted and is not a verified primary or backup. Complete landed 1/2/3-bag costs, exact Original/Decaf eligibility, current storage or inventory fees, food-safety and facility evidence, allergen controls, lot traceability, recall procedures, COI/additional-insured terms, indemnity, label/recall responsibility, replacements and subscription support remain UNKNOWN. Its current no-monthly-fee page conflicts with an older process page describing monthly fees for customer-supplied materials, so written reconciliation is required.
+- Automation review found three enabled, distinct core tasks: Launch Ops, Supplier/Product and Finance. Six other tasks remain paused; capacity is available, so no task was paused, resumed or swapped.
 - No DNS, MX, SPF or DKIM record was changed. Written FDACS classification, hosted-mailbox access/evidence, complete supplier economics/compliance evidence, final label, insurance decision, LLC/EIN, payments testing and owner authorization remain pending. Checkout remains locked.
