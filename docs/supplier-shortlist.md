@@ -41,10 +41,11 @@ Research URL:
 Questions: exact MOQ, price tiers, dropship/direct fulfillment, sample cost, packaging costs, lead time.
 
 ### Aldo's Coffee Company
-Publicly advertises certified-organic 100% Arabica, roast-to-order, private label, whole bean or multiple grinds, drop shipping, and low minimums described as 25–250 bags.
+Rechecked 2026-10-20. The current official wholesale page confirms USDA Organic 100% Arabica coffee, in-house roast-to-order production in Greenport, whole-bean/ground formats and private label for qualifying accounts at a **75 lb minimum per order**. Current public evidence does not establish blind, one-consumer-order-at-a-time fulfillment in Rising Son packaging; the prior 25–250-bag/drop-shipping description is therefore superseded.
 Research URL:
 - https://aldoscoffee.com/pages/wholesale
-Questions: exact starting MOQ by chosen SKU, Original/Decaf choices, unit pricing, fulfillment/shipping cost.
+Product-screen note: Bali Blue Krishna is a promising smooth, low-acid, full-bodied Original comparison and Organic Water Process Decaf is a promising Decaf comparison, but neither has been sampled or confirmed for private label.
+Questions: supplier-direct DTC model; private-label bag sizes and selected-SKU eligibility; complete unit/setup/label/storage/pick-pack/shipping economics; subscription and integration handling; compliance, traceability, recall, insurance, label-responsibility and contract evidence.
 
 ### Frequent Coffee — San Diego, CA
 Decaf-focused specialty roaster. Public wholesale page states no wholesale minimum, volume pricing, nationwide US shipping, 1–2 business-day shipping for typical wholesale orders, roast dates on bags, full-caf plus decaf, and willingness to discuss private label/custom bags.
