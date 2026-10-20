@@ -564,3 +564,18 @@ ROC² is directionally attractive because its publicly stated operating model ma
 
 Official sources reviewed: https://www.roc2.com/pages/wholesale , https://www.roc2.com/blogs/wholesale/where-coffee-is-roasted , https://www.roc2.com/products/organic-black-and-tan , https://www.roc2.com/products/organic-cowboy , https://www.roc2.com/collections/coffee and https://www.roc2.com/pages/contact .
 
+
+
+## Aldo's Coffee Company screen — 2026-10-20
+
+Current official public evidence supports keeping Aldo's as a qualification candidate, but not as a viable backup yet:
+
+- Aldo's says it roasts in-house in Greenport, New York, in small batches, typically 1–3 days off roast; its wholesale page offers whole bean, ground and single-serve formats and identifies the coffee as USDA Organic, 100% Arabica.
+- The current wholesale page explicitly offers private label to qualifying business accounts at a **75 lb minimum per order**. This supersedes the older shortlist statement that described 25–250 bags; that older range is not retained as current evidence.
+- The public pages reviewed do not establish blind, one-consumer-order-at-a-time fulfillment in Rising Son packaging, supplier storage of Rising Son packaging/finished goods, pick/pack charges, subscription-order handling, integrations, or a 1-/2-/3-bag shipping matrix. Retail phrases such as “delivered direct” do not prove the required private-label DTC model. Direct fulfillment therefore remains UNKNOWN.
+- Bali Blue Krishna is a promising Original sensory screen only: the official product page describes a smooth, low-acid, full-bodied cup with dark chocolate, vanilla, molasses and almond; each bag is batch-stamped. Sample evaluation and private-label eligibility are still required.
+- Aldo's Organic Water Process Decaf is a promising Decaf screen only: official materials describe a chemical-free water process and rich cocoa/toasted-toffee-nut profile. Documentation of the exact process, private-label eligibility and similarity to the chosen Original remain required.
+- Retail guarantees, prices, bag presentation, subscriptions and shipping are not treated as private-label terms.
+- Mandatory launch evidence remains outstanding: complete unit/setup/label/bag/storage/pick-pack/shipping economics; legal manufacturer/packer/distributor roles; facility licenses and FDA status; food-safety and allergen controls; lot/customer-order traceability; recall plan and contact; COI/limits/expiration/additional-insured terms; indemnity; compliant-label ownership; payment and replacement terms.
+
+**Disposition:** PRIVATE_LABEL_CONFIRMED_DTC_MODEL_UNVERIFIED. Aldo's does not count toward the required primary plus two contingencies unless it confirms the full supplier-direct operating model and provides the required commercial and compliance evidence. A clarification draft is held for the hosted `hello@therisingsoncoffee.com` mailbox. No form was submitted, no sample was ordered and no charge or commitment was made.
