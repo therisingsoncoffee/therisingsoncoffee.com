@@ -676,3 +676,47 @@ https://therisingsoncoffee.com/
 
 **Send-control note:** Do not send from Gmail. Recheck the hosted mailbox, existing ROC² thread and tracker first. Send only from an authenticated `hello@therisingsoncoffee.com` session after confirming the delivered From identity. Do not submit a form, schedule a call, request samples, purchase packaging, place an order, make payment or accept terms without owner approval.
 
+
+
+## Aldo's Coffee Company — DO NOT SEND UNTIL HOSTED MAILBOX IS ACCESSIBLE
+
+**To:** info@aldoscoffee.com  
+**Subject:** Rising Son Coffee — private-label Original + Decaf direct-fulfillment qualification
+
+Hello,
+
+Rising Son Coffee is evaluating Aldo's Coffee Company as a possible roasting, private-label and fulfillment partner. Your current public materials confirm in-house Greenport roasting, private label for qualifying accounts at a 75 lb minimum per order, and organic whole-bean/ground coffees. Our Founding 40 program is a free reservation and product-feedback effort only; it precedes a complete verified offer and any qualifying purchase, is subject to final terms, and is not a volume commitment.
+
+Our mandatory operating model is supplier-direct: the supplier sources and roasts the coffee, packs it in compliant Rising Son-branded packaging, stores coffee and required packaging materials, maintains lot/batch traceability, and blind-ships individual consumer orders. Rising Son will not roast, pack, store or ship coffee from a home facility.
+
+Before any sample, artwork, packaging purchase, order or commitment, please provide one written response covering:
+
+- whether your private-label program can fulfill individual ecommerce orders directly to customers nationwide under Rising Son branding, without Aldo's branding, and without requiring Rising Son to hold or handle inventory;
+- whether the 75 lb minimum is per production run, coffee, roast, net weight, grind, label SKU or shipment; whether Original/Decaf and whole-bean/ground variants can combine; and how produced inventory and packaging are stored, owned, replenished and disposed of;
+- your closest Original candidate to our target—rich/bright aroma, low perceived acidity and bitterness, earthy tones, strong smooth full flavor and clean aftertaste—including whether Bali Blue Krishna is private-label eligible;
+- the Decaf closest to that Original, including whether Organic Water Process Decaf is private-label eligible, its origin/blend, roast, documented decaffeination process and comparative tasting profile;
+- every private-label net weight, whole-bean and standard drip-ground availability, grind choices and any grinding surcharge;
+- sample choices and complete sample, shipping and later-order credit terms, without sending or charging anything unless separately approved in writing;
+- complete pricing and tiers for coffee, grinding, bags/valves, filling, labels, artwork, proofs/plates, setup, packaging and finished-goods storage, pick/pack, per-order handling, account/integration and every other charge;
+- representative all-in shipping for 1-, 2- and 3-bag orders to ZIP 33325 plus nearby, central and distant U.S. zones, including PO boxes, Alaska/Hawaii, territories, military addresses, remote-area, fuel and peak surcharges;
+- blind-shipment presentation, packing slip and return address; Shopify/WooCommerce/API/CSV/manual order methods and fees; tracking flow; subscription-order support; normal/peak production and order SLAs; stockouts; edits/cancellations; carrier loss/damage; wrong/stale/late orders; replacements, refunds and address corrections;
+- payment timing, quote validity, price-change notice, recurring or minimum-volume commitments, cancellation/termination terms and disposition of unused coffee, bags and labels;
+- the exact legal entities and facility locations that source, roast/manufacture, grind, pack, warehouse, distribute and ship the coffee;
+- applicable New York/state/local food licenses and inspection evidence, plus FDA food-facility registration status or exemption for each applicable facility;
+- the food-safety plan/preventive controls, sanitation and allergen/cross-contact controls;
+- each applicable third-party audit or certification, with program, scope, issuer, certificate, issue and expiration dates, clearly distinguishing required licenses from voluntary Organic or other marketing certifications;
+- traceability from green-coffee lot through finished lot, roast date and customer shipment; retention records; withdrawal/recall procedure, contacts and latest mock-recall result if available;
+- current product-liability COI showing carrier, limits, territory, products/completed-operations coverage and expiration; ability and cost to name Rising Son as additional insured;
+- indemnity terms and written allocation of responsibility for compliant label drafting/review, manufacturer/packer/distributor identification, claim substantiation, regulatory compliance, product defects, allergens, traceability, recall notice, execution and expense.
+
+If any flavored coffee or addition beyond roasted coffee is proposed, please provide all ingredients and sub-ingredients, flavor carriers, processing aids, allergen statements and shared-equipment controls.
+
+Please do not send samples or incur any charge unless we separately approve it in writing. If documents require an NDA or later contract review, please identify them and provide public or redacted evidence available now.
+
+Thank you,
+
+Rising Son Coffee  
+hello@therisingsoncoffee.com  
+https://therisingsoncoffee.com/
+
+**Send-control note:** Do not send from Gmail. Recheck the hosted mailbox, prior threads and supplier tracker first. Send only from an authenticated `hello@therisingsoncoffee.com` session after confirming the delivered From identity. Do not submit a form, schedule a call, request samples, purchase packaging, place an order, make payment, accept terms or promise volume without owner approval.
