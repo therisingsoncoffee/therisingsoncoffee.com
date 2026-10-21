@@ -1,6 +1,6 @@
 # Rising Son Coffee — Launch Readiness
 
-Last structured: 2026-10-20
+Last structured: 2026-10-21
 
 ## GREEN — completed / proven
 - Custom-domain HTTPS enabled in GitHub Pages by owner on 2026-09-22; independently reverified 2026-09-27: HTTPS apex, `/founding40/`, `/robots.txt` and `/sitemap.xml` returned `200`; HTTP apex and HTTPS `www` resolved to the HTTPS apex with valid certificate verification.
@@ -298,3 +298,13 @@ The maintained consolidated list is `docs/owner-actions.md`.
 - ROC² still lacks exact private-label Original/Decaf eligibility, whole-bean/ground formats, numeric MOQ, complete unit/setup/label/packaging/storage/pick-pack/1–3-bag shipping economics, legal manufacturer/packer/distributor confirmation, facility/license and FDA-status evidence, food-safety/allergen controls, traceability/recall procedures, current audit/certification documents, COI/additional-insured terms, indemnity, label/recall responsibility, samples, replacements and subscription terms.
 - Automation review found three enabled, distinct core tasks: Launch Ops, Supplier/Product and Finance. Six other tasks remain paused; capacity is available, so no task was paused, resumed or swapped.
 - No DNS, MX, SPF or DKIM record was changed. Written FDACS classification, hosted-mailbox access/evidence, complete supplier economics/compliance evidence, final label, insurance decision, LLC/EIN, payments testing and owner authorization remain pending. Checkout remains locked.
+
+
+## Launch operations check — 2026-10-21
+- Independent live-browser verification confirmed that the HTTPS apex homepage and `/founding40/` render successfully. HTTP apex and HTTPS `www` both resolve to `https://therisingsoncoffee.com/`.
+- The live homepage and Founding 40 page publish the correct HTTPS-apex canonicals. The homepage visibly retains “Checkout Locked” and “No orders or payments are being accepted.” Repository `checkout-config.js` remains `enabled: false` with an empty payment link. No payment path or commercial gate was activated.
+- Live `robots.txt` allows the public site, disallows `/thanks.html`, and points to the HTTPS-apex sitemap. Live `sitemap.xml` lists the apex home, Founding 40, Story, Privacy and Terms URLs. Repository `CNAME`, robots and sitemap remain aligned.
+- Aldo's Coffee Company has been corrected across supplier and finance tracking. Its current official wholesale page confirms private label for qualifying accounts at a 75 lb minimum per order, replacing the stale 25–250-bag claim. Public product evidence also supports preliminary Original and Decaf sensory screens.
+- Aldo's remains research-only and does not count as a verified primary or contingency. Public evidence does not establish supplier storage plus blind one-consumer-order fulfillment in Rising Son packaging, nor complete unit/setup/label/storage/pick-pack/shipping economics. Facility/license and FDA-status evidence, food-safety/allergen controls, lot-to-order traceability, recall procedure, COI/products-completed-operations/additional-insured terms, indemnity, label/recall responsibility, samples and replacement/subscription terms remain UNKNOWN.
+- The supported automation inventory returned no visible tasks in this run, so enabled/paused capacity could not be independently enumerated. No automation was paused, resumed, created or swapped, and no persistent self-management claim is made.
+- No GitHub Pages, DNS, MX, SPF or DKIM setting was changed. Written FDACS classification, hosted-mailbox access/evidence, complete supplier economics/compliance evidence, final label, insurance decision, LLC/EIN, payment testing and owner authorization remain pending. Checkout remains locked.
