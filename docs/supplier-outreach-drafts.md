@@ -720,3 +720,29 @@ hello@therisingsoncoffee.com
 https://therisingsoncoffee.com/
 
 **Send-control note:** Do not send from Gmail. Recheck the hosted mailbox, prior threads and supplier tracker first. Send only from an authenticated `hello@therisingsoncoffee.com` session after confirming the delivered From identity. Do not submit a form, schedule a call, request samples, purchase packaging, place an order, make payment, accept terms or promise volume without owner approval.
+
+## Aroma Ridge Coffee Roasters — HOLD until program reopens (February 2027)
+
+**Status:** Do not send now. Official page says new fulfillment/drop-ship applications reopen in February 2027. Before sending, recheck program availability and confirm the authenticated From identity is exactly `hello@therisingsoncoffee.com`.
+
+**To:** sales@aromaridge.com  
+**Subject:** Rising Son Coffee — private-label dropship qualification for Original + Decaf
+
+Hello Aroma Ridge team,
+
+I’m evaluating suppliers for Rising Son Coffee, a Florida-based online brand. Our launch model requires the supplier to source and roast the coffee, package it in compliant Rising Son-branded packaging, store it, retain batch traceability, and ship individual consumer orders directly and blindly to customers. Rising Son will not roast, pack, store, or handle food at home.
+
+We are seeking an Original with a rich/bright aroma, low perceived acidity and bitterness, earthy tones, strong smooth full flavor, and a clean aftertaste, plus a Decaf that stays close to that profile. Brazil Cerrado and AromAcid appear worth screening for Original, and the Kenya AA Swiss Water Process Decaf or AromAcid Decaf may be comparison candidates. Please confirm which coffees are available to private-label dropship partners in whole bean and ground formats and the exact Decaf process.
+
+Please provide current written terms for bag sizes, per-unit coffee and packaging costs, label/setup charges, MOQ, normal and peak lead times, order and pick/pack fees, 1-/2-/3-bag shipping rates or zone tables, carriers, integrations, subscription/repeat-order handling, payment terms, stockout handling, and damaged/lost/incorrect-order replacement responsibility. Please also confirm that shipments and packing materials remain blind to Aroma Ridge and whether Rising Son-branded packing slips or inserts are supported.
+
+For due diligence, please identify the legal manufacturer, packer and distributor; facility name and address; applicable state food licenses and FDA registration status; food-safety plan and allergen controls; any current third-party audits or certifications (optional unless required by law or contract); lot/batch traceability; recall/withdrawal procedure and contacts; product-liability coverage with COI limits and expiration; whether Rising Son can be named additional insured; and proposed indemnity and allocation of label, product-quality and recall responsibilities. If flavored coffees are available, please provide ingredient and allergen documentation for each flavor.
+
+Rising Son is building a free Founding 40 reservation list before any verified commercial offer. Any benefit would require a future qualifying purchase; we are not promising volume. We will not open paid orders until supplier economics, compliant labels, regulatory classification, and insurance decisions are verified.
+
+Please also advise whether samples of the recommended Original and Decaf can be supplied, their exact cost, shipping cost, and whether any sample charge is later credited. We will not place a paid sample order without separate owner approval.
+
+Thank you,
+Rising Son Coffee
+hello@therisingsoncoffee.com
+
