@@ -579,3 +579,31 @@ Current official public evidence supports keeping Aldo's as a qualification cand
 - Mandatory launch evidence remains outstanding: complete unit/setup/label/bag/storage/pick-pack/shipping economics; legal manufacturer/packer/distributor roles; facility licenses and FDA status; food-safety and allergen controls; lot/customer-order traceability; recall plan and contact; COI/limits/expiration/additional-insured terms; indemnity; compliant-label ownership; payment and replacement terms.
 
 **Disposition:** PRIVATE_LABEL_CONFIRMED_DTC_MODEL_UNVERIFIED. Aldo's does not count toward the required primary plus two contingencies unless it confirms the full supplier-direct operating model and provides the required commercial and compliance evidence. A clarification draft is held for the hosted `hello@therisingsoncoffee.com` mailbox. No form was submitted, no sample was ordered and no charge or commitment was made.
+
+## Supplier evidence update — 2026-10-21
+
+### Inbox and identity gate
+- The connected Rising Son Gmail profile was re-verified as `therisingsoncoffee@gmail.com`, not the hosted `hello@therisingsoncoffee.com` mailbox.
+- A search covering the prior two days returned no supplier, FDACS, insurance, quote or delivery-failure messages.
+- No email was sent. The authenticated From-identity requirement remains unsatisfied.
+
+### Roastify — tracker reconciliation
+Roastify was included in the 2026-09-23 hosted-mail outreach list but was missing from the main supplier CSV. Current public pages were rechecked and the tracker now records:
+- catalog products have no MOQ; Base is advertised at $15/month or $150/year and Pro at $49/month or $500/year;
+- a member-priced 12 oz coffee box is advertised at $12 before shipping;
+- domestic dropship shipping is advertised at $4.50 for the first item and $1.25 for each additional item;
+- 12 oz whole-bean and ground bags, custom printed packaging, blind direct fulfillment and supported storefront integrations are advertised;
+- Base fulfillment is advertised at 3–4 business days and Pro at 2 business days before carrier transit;
+- roasting is advertised at an FDA-registered, state-inspected facility.
+
+These are current advertised terms, not a Rising Son quote or acceptance. Still required from the prior inquiry: named legal manufacturer/packer/distributor and facility address; applicable licenses/registration evidence; food-safety plan and allergen controls; lot traceability; recall/withdrawal contacts; COI with limits/expiration and additional-insured capability; indemnity; label/recall allocation; specific Original and Decaf candidates with Decaf process; complete unit economics and replacement terms.
+
+### Aroma Ridge Coffee Roasters — deferred contingency
+Public pages establish a close operating-model fit:
+- Aroma Ridge says it fills orders, acts as a virtual warehouse and ships directly to customers from Marietta, Georgia;
+- private-labeled specialty blends, supplier or customer labels, 12 oz/16 oz/2 lb/5 lb valve bags, and 1–2 business-day shipping are advertised;
+- current advertised program costs include a $100 nonrefundable startup charge, $3.25 per order for labor/materials, carrier charges billed separately, and $60 per 100 supplier-printed labels;
+- Brazil Cerrado and AromAcid are preliminary low-acid Original screens; Kenya AA Swiss Water Process Decaf and an AromAcid Decaf variant are preliminary Decaf screens only.
+
+Critical availability finding: the official program page states it stopped accepting new fulfillment/drop-ship applications after July 31, 2026 and will reopen in February 2027. Aroma Ridge is therefore **not** a current primary or contingency and should not be solicited before reopening. The future qualification draft is held below. Mandatory compliance, recall, traceability, insurance and contract evidence remains UNKNOWN.
+
