@@ -607,3 +607,23 @@ Public pages establish a close operating-model fit:
 
 Critical availability finding: the official program page states it stopped accepting new fulfillment/drop-ship applications after July 31, 2026 and will reopen in February 2027. Aroma Ridge is therefore **not** a current primary or contingency and should not be solicited before reopening. The future qualification draft is held below. Mandatory compliance, recall, traceability, insurance and contract evidence remains UNKNOWN.
 
+
+
+## Supplier evidence update — 2026-10-22
+
+### Inbox and identity gate
+- The connected profile was re-verified as `therisingsoncoffee@gmail.com`, not the hosted `hello@therisingsoncoffee.com` mailbox.
+- A search of the prior three days returned no relevant supplier, FDACS, insurance, quote or delivery-failure messages.
+- No email, form or duplicate follow-up was sent. Roastify was already contacted from the hosted address on 2026-09-23, and its hosted-mail thread must be reviewed before any follow-up.
+
+### Roastify — product, legal and contract evidence strengthened
+Current official pages now resolve several prior unknowns:
+- **Original screen:** Cascades Blend is a preliminary dark-roast candidate with cocoa, toasted-nut and full-body notes. Broken Top and Rock Creek are medium-roast comparison candidates. None is selected; perceived acidity, earthy character, aroma, bitterness and clean-aftertaste fit require samples.
+- **Decaf screen:** Trapper Peak Decaf is publicly identified as medium roast, Swiss Water processed, mellow, smooth and savory. It is a genuine preliminary Decaf candidate, but similarity to the eventual Original and sample approval remain unknown.
+- **Operating model:** 12 oz whole-bean or ground bags, no catalog MOQ, white-labeled boxes/packing slips/return labels, direct U.S. fulfillment, Shopify integration and per-order production are publicly described. Packaging templates require the product weight, `100% Roasted Coffee`, Rising Son's legal business name and a valid non-PO-box business address.
+- **Legal/manufacturing evidence:** the governing terms identify **Roastify, LLC**, a Montana LLC. The public site says coffee is roasted in-house in Bend, Oregon; current third-party FoodChain ID reports identify Roastify, LLC at 61505 American Lane, Suite 103, Bend, Oregon 97702 and report yeast/mold and mycotoxin testing on the sampled roasted-coffee lot. Those reports apply only to the tested lot and do not establish the complete food-safety plan, current facility registration, recall program or every SKU/batch.
+- **Replacement terms:** misprint, supplier-caused damage/defect and carrier-loss claims must generally be submitted within 30 days and may receive replacement or account credit. Sealed coffee returns and buyer-remorse refunds are not accepted; wrong or unclaimed addresses make the merchant responsible for reshipment. Terms permit product substitution unless the merchant opts out.
+- **Risk allocation:** title and risk of loss generally pass when Roastify delivers to the carrier. The merchant remains responsible for label/content rights, customer-facing returns, taxes, addresses and customer communications. Contract review is still required for indemnity, recall allocation, product liability and insurance.
+
+### Qualification status
+Roastify now has a stronger public model and SKU fit than the 2026-10-21 record, but it is still **not** a selected primary or verified contingency. The hosted reply/thread is unreviewed, and written evidence remains missing for current facility licenses/FDA registration, food-safety and allergen controls, lot-to-order traceability, recall/withdrawal procedure, COI and products/completed-operations limits, additional-insured capability, indemnity, final-label/recall responsibility, candidate samples, quote-level costs and subscription/cancellation terms. No plan, sample, payment, agreement, artwork upload or supplier selection was initiated.
