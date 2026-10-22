@@ -746,3 +746,19 @@ Thank you,
 Rising Son Coffee
 hello@therisingsoncoffee.com
 
+
+
+## Roastify evidence-follow-up addendum — 2026-10-22 — HOLD FOR HOSTED MAIL REVIEW
+
+Do **not** send this as a new unsolicited message. First open the existing Roastify thread in the authenticated hosted `hello@therisingsoncoffee.com` mailbox and incorporate only unanswered items into a reply.
+
+Public evidence now identifies Cascades Blend, Broken Top and Rock Creek as preliminary Original comparisons and Trapper Peak Decaf as a Swiss Water processed medium-roast Decaf. It also identifies Roastify, LLC, public Bend production/lab evidence and current 30-day defect/loss claim terms. The follow-up should therefore focus on documentary gaps instead of re-asking already published basics:
+
+- Recommend the closest Original match among Cascades Blend, Broken Top, Rock Creek or another current SKU for rich/bright aroma, low perceived acidity and bitterness, earthy tones, strong smooth full flavor and clean aftertaste; confirm whether Trapper Peak Decaf can be cupped beside it and provide no-charge/paid sample terms without shipping anything.
+- Provide a Rising Son quote for those exact two 12 oz products, whole bean and ground, including plan, product, print/packaging, processing, fulfillment, tax and representative 1/2/3-bag shipping to ZIP 33325 and other U.S. zones.
+- Provide current facility license and FDA-registration evidence for 61505 American Lane, Suite 103, Bend, Oregon; food-safety/allergen controls; current lab scope; lot/roast-date-to-customer-order traceability; recall/withdrawal plan and responsible contact.
+- Provide the current products/completed-operations COI with limits and expiration, additional-insured capability/cost, indemnity terms and allocation of label approval, consumer claims, recall notice and recall expense.
+- Confirm that product substitutions will be disabled for Rising Son unless expressly approved, and explain operational treatment of carrier-confirmed delivery loss, damage, wrong items, misprints, stale product, customer refusal and subscription replacements.
+- Confirm the legal manufacturer, packer and distributor for each proposed SKU and the exact statement/address Roastify expects on the final label.
+
+Do not create an account, begin a trial, choose a paid plan, order samples, upload final artwork, accept terms or connect a store without owner approval.
