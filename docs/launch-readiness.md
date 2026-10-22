@@ -1,6 +1,6 @@
 # Rising Son Coffee — Launch Readiness
 
-Last structured: 2026-10-21
+Last structured: 2026-10-22
 
 ## GREEN — completed / proven
 - Custom-domain HTTPS enabled in GitHub Pages by owner on 2026-09-22; independently reverified 2026-09-27: HTTPS apex, `/founding40/`, `/robots.txt` and `/sitemap.xml` returned `200`; HTTP apex and HTTPS `www` resolved to the HTTPS apex with valid certificate verification.
@@ -308,3 +308,21 @@ The maintained consolidated list is `docs/owner-actions.md`.
 - Aldo's remains research-only and does not count as a verified primary or contingency. Public evidence does not establish supplier storage plus blind one-consumer-order fulfillment in Rising Son packaging, nor complete unit/setup/label/storage/pick-pack/shipping economics. Facility/license and FDA-status evidence, food-safety/allergen controls, lot-to-order traceability, recall procedure, COI/products-completed-operations/additional-insured terms, indemnity, label/recall responsibility, samples and replacement/subscription terms remain UNKNOWN.
 - The supported automation inventory returned no visible tasks in this run, so enabled/paused capacity could not be independently enumerated. No automation was paused, resumed, created or swapped, and no persistent self-management claim is made.
 - No GitHub Pages, DNS, MX, SPF or DKIM setting was changed. Written FDACS classification, hosted-mailbox access/evidence, complete supplier economics/compliance evidence, final label, insurance decision, LLC/EIN, payment testing and owner authorization remain pending. Checkout remains locked.
+
+
+## Launch operations check — 2026-10-22
+- Browser-level production verification confirmed that the HTTPS apex and `/founding40/` render successfully. The HTTP apex and HTTPS `www` redirect to the HTTPS apex; the homepage and Founding 40 canonical URLs point to their correct HTTPS apex URLs.
+- `/robots.txt` and `/sitemap.xml` loaded successfully and match the repository’s HTTPS-apex crawl configuration. The sitemap includes the apex, Founding 40, story, privacy and terms URLs; robots allows public crawling, excludes `/thanks.html`, and identifies the sitemap.
+- The public homepage visibly retains the disabled **Checkout Locked** control and states that no orders or payments are accepted. Repository configuration remains `enabled: false` with an empty `paymentLink`.
+- Repository `CNAME` remains `therisingsoncoffee.com`. Direct GitHub Pages settings could not be read through the approved connector, so no Pages setting was changed. No DNS, MX, SPF or DKIM record was changed.
+- Supplier/Finance reconciliation: Roastify’s public operating and economic screen is documented but is neither a supplier quote nor a verified contingency; its legal entity/facility, food-safety, recall, lot-traceability, COI/additional-insured, responsibility-allocation and exact Original/Decaf evidence remain unresolved. Aroma Ridge is not a current contingency because its program is closed to new partners until its stated February 2027 reopening.
+- Written FDACS classification for the exact supplier-packed/stored/direct-shipped model remains missing. No universal Florida or federal liability-insurance mandate is claimed; supplier/platform contractual requirements and the prudent coverage decision remain separate unresolved workstreams.
+- Automation capacity was checked: the three core Rising Son tasks are enabled and capacity is available. No automation was paused, resumed, created or swapped.
+- No spend, signature, entity formation, payment activation, price commitment or checkout action occurred.
+
+### Compact command center
+- **Readiness:** approximately 75%; reservation-ready, not commerce-ready.
+- **Verified today:** public reservation surface, redirects, canonical URLs, crawl files and checkout lock.
+- **Owner decisions required now:** none newly created by this check.
+- **Launch blockers:** written FDACS classification; hosted `hello@` mailbox access/evidence; one viable primary plus two verified supplier contingencies with complete economics and compliance evidence; compliant final label; insurance decision; payment testing and explicit owner authorization.
+- **Next three priorities:** (1) obtain and archive written FDACS classification with exact permit/fee/renewal if applicable; (2) resolve hosted-mailbox access and supplier evidence gaps without duplicate outreach; (3) complete quote-level supplier economics, label review and insurance comparison before any commercial-launch decision.
