@@ -627,3 +627,31 @@ Current official pages now resolve several prior unknowns:
 
 ### Qualification status
 Roastify now has a stronger public model and SKU fit than the 2026-10-21 record, but it is still **not** a selected primary or verified contingency. The hosted reply/thread is unreviewed, and written evidence remains missing for current facility licenses/FDA registration, food-safety and allergen controls, lot-to-order traceability, recall/withdrawal procedure, COI and products/completed-operations limits, additional-insured capability, indemnity, final-label/recall responsibility, candidate samples, quote-level costs and subscription/cancellation terms. No plan, sample, payment, agreement, artwork upload or supplier selection was initiated.
+
+
+## Supplier evidence update — 2026-10-23
+
+### Inbox and identity gate
+- The connected Gmail profile remains `therisingsoncoffee@gmail.com`, not the authenticated hosted `hello@therisingsoncoffee.com` mailbox.
+- A search of the prior three days returned no relevant supplier, roasting, FDACS, insurance, quote, sample or delivery-failure messages.
+- No email, website form or follow-up was sent. A contact-form submission would not satisfy the required delivered-From identity and could duplicate prior hosted-mail activity that is not visible here.
+
+### Rebel Dog Coffee Co. — new inquiry-ready prospect
+Public evidence supports a potentially launch-compatible model:
+- Rebel Dog advertises wholesale and private label, says it will roast and pack the coffee, and offers direct shipment to online customers through dropshipping.
+- Its public private-label page states no minimum quantity requirement and describes service for businesses across the country.
+- Big Red Truck Dark Blend is a preliminary Original screen because the public profile emphasizes rich sweetness, complexity, dark chocolate, crème brûlée and warm spice. Steady Habits is a lighter comparison. Neither has been sampled or confirmed as private-label eligible.
+- Speed Limit Decaf is a preliminary Decaf screen: a medium-dark Colombian coffee decaffeinated by the EA/sugarcane process with cherry, graham-cracker and honey notes. It has not been sampled or confirmed for private label or similarity to the eventual Original.
+
+### Mandatory evidence still missing
+Before Rebel Dog can be treated as a viable primary or contingency, obtain written confirmation of:
+- exact Original and Decaf SKUs, whole-bean/ground formats, private-label bag sizes, MOQ and sample terms;
+- complete unit, setup, label, packaging, storage, pick/pack, integration, subscription and 1-/2-/3-bag shipping economics;
+- normal/peak lead times, payment terms, stockout/substitution rules and loss/damage/misprint/stale-product replacement terms;
+- legal manufacturer, packer and distributor; exact roasting/packing facility name and address; applicable food licenses and FDA-registration status;
+- food-safety plan, allergen controls, lot-to-order traceability, recall/withdrawal procedure and responsible contacts;
+- current product-liability/products-completed-operations COI, limits, expiration and additional-insured capability;
+- indemnity plus allocation of label approval, consumer claims, recall notice and recall expense;
+- ingredients and allergen documentation for any flavored coffee.
+
+Third-party audits and voluntary certifications are optional unless required by law, contract or a product claim, but any claimed audit/certification must be evidenced with scope and expiration. Rebel Dog is **inquiry-ready only**; no product, supplier, sample or commercial terms have been selected.
