@@ -762,3 +762,35 @@ Public evidence now identifies Cascades Blend, Broken Top and Rock Creek as prel
 - Confirm the legal manufacturer, packer and distributor for each proposed SKU and the exact statement/address Roastify expects on the final label.
 
 Do not create an account, begin a trial, choose a paid plan, order samples, upload final artwork, accept terms or connect a store without owner approval.
+
+
+## Rebel Dog Coffee Co. — 2026-10-23 — HELD; HOSTED MAIL REQUIRED
+
+**Subject:** Rising Son Coffee — private-label Original, Decaf and direct-fulfillment qualification
+
+Hello,
+
+Rising Son Coffee is evaluating roasting and fulfillment partners for a prelaunch Florida e-commerce coffee brand. Our required operating model is that the supplier sources and roasts the coffee, packages it in compliant Rising Son-branded packaging, stores it, maintains batch traceability, and ships individual consumer orders directly and blindly to customers. Rising Son will not roast, pack, store or handle food at home.
+
+We are seeking an Original with a rich/bright aroma, low perceived acidity and bitterness, earthy tones, strong smooth full flavor and a clean aftertaste, plus a Decaf that stays close to that profile. Big Red Truck Dark Blend and Steady Habits appear worth screening for Original, and Speed Limit Decaf appears worth screening as an EA/sugarcane-process Decaf. Please confirm which coffees are available for private label and dropshipping, in whole-bean and ground formats, and recommend the closest match.
+
+Please provide current written terms for:
+- private-label bag sizes, MOQ, per-unit coffee cost, bag/packaging cost, label printing and setup charges;
+- storage, order, pick/pack and integration fees;
+- normal and peak lead times, roast-to-ship timing, stockout and substitution handling;
+- representative 1-, 2- and 3-bag shipping rates or zone tables, carriers and surcharges;
+- Shopify or other integrations, subscription/repeat-order handling, cancellation timing and customer-address changes;
+- payment terms and responsibility for carrier loss, damage, wrong items, misprints, stale product and other defects;
+- sample availability, exact coffee and shipping cost, and whether any sample charge is later credited. We will not place a paid sample order without separate owner approval.
+
+Please confirm that all outbound boxes, packing slips, return labels and customer communications remain blind to Rebel Dog unless Rising Son approves otherwise, and whether Rising Son-branded packing slips or inserts are supported.
+
+For mandatory due diligence, please identify the legal manufacturer, packer and distributor for each proposed SKU; the roasting/packing facility name and address; applicable state food licenses and FDA-registration status; food-safety plan and allergen controls; lot/roast-date-to-customer-order traceability; recall/withdrawal procedure and responsible contacts; current product-liability/products-completed-operations coverage with COI limits and expiration; whether Rising Son can be named additional insured and at what cost; and proposed indemnity and allocation of label approval, product-quality, consumer-claim and recall responsibilities. Third-party audits and voluntary certifications are optional unless required by law, contract or a product claim; if any are claimed, please provide scope and expiration evidence. If flavored coffees are offered, please provide complete ingredient and allergen documentation for each flavor.
+
+Rising Son is building a free Founding 40 reservation list before any verified commercial offer. Any benefit would require a future qualifying purchase; we are not promising volume. We will not open paid orders until supplier economics, compliant labels, regulatory classification and insurance decisions are verified.
+
+Thank you,
+Rising Son Coffee
+hello@therisingsoncoffee.com
+
+**Hold note:** Do not send through Gmail or a website contact form. Send only from an authenticated hosted `hello@therisingsoncoffee.com` mailbox after rechecking its sent folder and the tracker for prior contact.
