@@ -1,6 +1,6 @@
 # Rising Son Coffee — Launch Readiness
 
-Last structured: 2026-10-22
+Last structured: 2026-10-23
 
 ## GREEN — completed / proven
 - Custom-domain HTTPS enabled in GitHub Pages by owner on 2026-09-22; independently reverified 2026-09-27: HTTPS apex, `/founding40/`, `/robots.txt` and `/sitemap.xml` returned `200`; HTTP apex and HTTPS `www` resolved to the HTTPS apex with valid certificate verification.
@@ -326,3 +326,20 @@ The maintained consolidated list is `docs/owner-actions.md`.
 - **Owner decisions required now:** none newly created by this check.
 - **Launch blockers:** written FDACS classification; hosted `hello@` mailbox access/evidence; one viable primary plus two verified supplier contingencies with complete economics and compliance evidence; compliant final label; insurance decision; payment testing and explicit owner authorization.
 - **Next three priorities:** (1) obtain and archive written FDACS classification with exact permit/fee/renewal if applicable; (2) resolve hosted-mailbox access and supplier evidence gaps without duplicate outreach; (3) complete quote-level supplier economics, label review and insurance comparison before any commercial-launch decision.
+
+
+## Launch operations check — 2026-10-23
+- Live browser verification confirmed that the HTTPS apex and `/founding40/` render successfully. HTTP apex and HTTPS `www` redirect to `https://therisingsoncoffee.com/`. The homepage visibly retains the disabled **Checkout Locked** control and states that no orders or payments are accepted.
+- Live `robots.txt` and `sitemap.xml` loaded successfully and match the repository's HTTPS-apex crawl configuration. Repository `CNAME` remains `therisingsoncoffee.com`; home and Founding 40 source canonicals remain the correct HTTPS-apex URLs.
+- Repository `checkout-config.js` remains `enabled: false` with an empty `paymentLink`. No checkout, payment, Pages, DNS, MX, SPF or DKIM setting was changed.
+- Official-source review on 2026-10-23 found Florida product-liability law and food-permit/labeling requirements, but no controlling Florida or federal source establishing a universal general- or product-liability-insurance mandate for this exact Rising Son supplier-packed/stored/direct-shipped model. Insurance remains a separate prudent-risk and supplier/platform-contract decision; this is not a legal determination.
+- FDACS's public food-establishment pages describe permits for food establishments and wholesale/manufactured facilities but do not classify Rising Son's exact no-handling e-commerce model. Written FDACS classification is still required before any permit cost is budgeted or paid.
+- Automation inventory shows the three distinct core Rising Son tasks enabled with capacity available. No task was paused, resumed, created or swapped.
+- No spend, signature, entity formation, supplier selection, insurance binding, payment testing or commercial activation occurred.
+
+### Compact command center
+- **Readiness:** approximately 75%; reservation-ready, not commerce-ready.
+- **Verified today:** live reservation surfaces, redirects, crawl files, repository canonicals and checkout lock.
+- **Owner decisions required now:** none newly created by this check.
+- **Launch blockers:** written FDACS classification; hosted `hello@` mailbox access/evidence; one viable primary plus two verified independent contingencies with complete economics, food-safety, traceability, recall, label and COI evidence; compliant final label; insurance decision; LLC/EIN; payment testing; explicit owner launch authorization.
+- **Next three priorities:** (1) obtain and archive FDACS's written classification with exact permit, fee and renewal term if applicable; (2) restore hosted-mailbox access and process existing agency/supplier replies without duplicate outreach; (3) complete quote-level supplier economics, compliance package, label review and insurance comparison before any commercial-launch decision.
