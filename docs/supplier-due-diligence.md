@@ -655,3 +655,37 @@ Before Rebel Dog can be treated as a viable primary or contingency, obtain writt
 - ingredients and allergen documentation for any flavored coffee.
 
 Third-party audits and voluntary certifications are optional unless required by law, contract or a product claim, but any claimed audit/certification must be evidenced with scope and expiration. Rebel Dog is **inquiry-ready only**; no product, supplier, sample or commercial terms have been selected.
+
+
+## Supplier evidence update — 2026-10-24
+
+### Inbox and identity gate
+- The connected Gmail profile was re-verified as `therisingsoncoffee@gmail.com`, not the authenticated hosted `hello@therisingsoncoffee.com` mailbox.
+- A targeted search of the prior two days found no supplier, FDACS, insurance, quote, sample, wholesale, delivery-failure or undeliverable message.
+- No email, form submission or duplicate follow-up was sent.
+
+### Berk's Beans Coffee — new inquiry-ready prospect
+The official dropship page provides unusually concrete public screening evidence:
+- Berk's Beans says it roasts to order, bags and labels under the partner's brand, inserts approved materials and ships individual customer orders nationwide from 1717 Solano Way Ste. 12, Concord, California.
+- It states that dropship packages use a plain box and that its identity is omitted externally unless requested, although the return address is its fulfillment department; exact Rising Son-branded return-label treatment requires confirmation.
+- Advertised turnaround is within 48 hours of order receipt plus transit. Orders may be entered manually through its wholesale account or by a daily sheet/CSV; automated store integration is not currently advertised.
+- Advertised standard formats are 12 oz and 5 lb, with 6 oz, 24 oz, 2 lb and 3 lb by discussion. Whole bean, drip, espresso, French press and pour-over grinds are listed.
+- The first private-label proof/run has a stated six-bag minimum; later individual dropship orders may be one bag.
+- Advertised house-blend economics are $13 per pound, stated as $9.75 per 12 oz bag, plus a $1 per-bag private-label fee and $3.50 pick/pack per order, with actual USPS/UPS shipping. There is no setup fee with print-ready artwork; optional label design is advertised at $125. These are public screening terms, not a Rising Son quote or approved spend.
+- Weekly card billing is advertised. No card, account, order or payment was initiated.
+
+### Product screen
+- **Original:** Reserva Andina Tuxedo Roast is a strong preliminary match: a year-round blend of medium-roasted Colombia and dark-roasted Brazil with milk chocolate, caramel, soft nuttiness, bittersweet cocoa, low acidity, full body, long sweet finish and a bold-without-bitterness description. The dropship page states every house blend is available under private label. Sample approval is still mandatory.
+- **Decaf:** Reserva Andina Tuxedo Roast Decaf is a strong preliminary companion with the same core profile, Swiss Water Process, low acidity and full body. The program states Decaf is available, but written confirmation that this exact paired Decaf is private-label eligible is still required.
+- Alternative Decaf screens include Timor Organic Decaf (cedar, cocoa, brown sugar, mild earth), Sumatra Organic Decaf (dark chocolate, cedar, earth, herbal), Colombia Swiss Water Process Decaf (cocoa, caramel, smooth rounded body) and Morning Glory Organic Decaf (milk chocolate, caramel, toasted nuts). None is selected.
+
+### Mandatory evidence still missing
+Berk's Beans is **inquiry-ready only**, not a selected primary or verified contingency. Obtain written evidence for:
+- a Rising Son quote for the exact Original/Decaf pair, whole-bean/ground variants and representative 1-/2-/3-bag shipping to ZIP 33325 and national zones;
+- binding normal/peak production and fulfillment timing, subscription workflow, stockouts/substitutions, cancellations and replacement/refund rules;
+- legal manufacturer, packer and distributor; facility ownership/roles; California food license and documentary FDA-registration evidence;
+- food-safety plan, sanitation and allergen controls, lot/roast-date-to-order traceability, recall/withdrawal procedure and responsible contacts;
+- current products/completed-operations COI with limits and expiration, Rising Son additional-insured capability/cost, indemnity and allocation of label approval, consumer claims, product defects, recall notice and recall expense;
+- ingredients and allergen documentation for any flavored coffee.
+
+Third-party audits and voluntary certifications are optional unless required by law, contract or a product claim; any claimed audit/certification must include scope and expiration evidence. No sample, account, payment, agreement, product selection or volume promise was made.
