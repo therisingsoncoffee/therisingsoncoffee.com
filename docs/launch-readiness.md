@@ -1,6 +1,6 @@
 # Rising Son Coffee — Launch Readiness
 
-Last structured: 2026-10-23
+Last structured: 2026-10-24
 
 ## GREEN — completed / proven
 - Custom-domain HTTPS enabled in GitHub Pages by owner on 2026-09-22; independently reverified 2026-09-27: HTTPS apex, `/founding40/`, `/robots.txt` and `/sitemap.xml` returned `200`; HTTP apex and HTTPS `www` resolved to the HTTPS apex with valid certificate verification.
@@ -343,3 +343,20 @@ The maintained consolidated list is `docs/owner-actions.md`.
 - **Owner decisions required now:** none newly created by this check.
 - **Launch blockers:** written FDACS classification; hosted `hello@` mailbox access/evidence; one viable primary plus two verified independent contingencies with complete economics, food-safety, traceability, recall, label and COI evidence; compliant final label; insurance decision; LLC/EIN; payment testing; explicit owner launch authorization.
 - **Next three priorities:** (1) obtain and archive FDACS's written classification with exact permit, fee and renewal term if applicable; (2) restore hosted-mailbox access and process existing agency/supplier replies without duplicate outreach; (3) complete quote-level supplier economics, compliance package, label review and insurance comparison before any commercial-launch decision.
+
+
+## Launch operations check — 2026-10-24
+- Repository `CNAME` remains `therisingsoncoffee.com`; `robots.txt`, `sitemap.xml`, the homepage canonical and the Founding 40 canonical remain aligned to the HTTPS apex. The approved public checker could not access the site URLs in this run, so no live-status claim is made and this is not treated as evidence of an outage. The latest independent live verification remains 2026-10-23.
+- Repository `checkout-config.js` remains `enabled: false` with an empty `paymentLink`. The homepage source retains the disabled **Checkout Locked** control and states that no orders or payments are accepted. No checkout or commercial gate was activated.
+- Supplier/Finance reconciliation: Rebel Dog Coffee Co. is newly documented as an inquiry-ready supplier-direct prospect. Public evidence supports private-label roasting/packing, direct-to-customer dropshipping and no stated minimum quantity; Big Red Truck Dark Blend and Speed Limit Decaf are preliminary sensory screens only.
+- Rebel Dog is not a quote, selected primary or verified contingency. Exact private-label SKU eligibility, complete unit/setup/label/packaging/storage/pick-pack/integration/subscription/1–3-bag shipping economics, legal manufacturer/packer/distributor and facility evidence, licenses/FDA status, food-safety/allergen controls, lot-to-order traceability, recall procedure, current products/completed-operations COI, additional-insured terms, indemnity, label/recall allocation, samples, lead times, payment terms and replacement terms remain UNKNOWN.
+- Written FDACS classification for the exact supplier-packed/stored/direct-shipped, no-home-handling model remains missing. No universal Florida or federal general- or product-liability-insurance mandate is claimed; statutory requirements remain separate from supplier/platform contracts and prudent risk protection.
+- Automation capacity was verified: Launch Ops, Supplier/Product and Finance remain the three enabled, distinct core tasks. Capacity is available; no task was paused, resumed, created or swapped.
+- No GitHub Pages, DNS, MX, SPF, DKIM, payment, supplier-selection, insurance-binding, entity-formation or purchasing change was made.
+
+### Compact command center
+- **Readiness:** approximately 75%; reservation-ready, not commerce-ready.
+- **Verified today:** repository domain/crawl/canonical configuration, checkout lock, supplier-tracker reconciliation and automation capacity. Live production reachability was not independently confirmed today.
+- **Owner decisions required now:** none newly created by this check.
+- **Launch blockers:** written FDACS classification; hosted `hello@` mailbox access/evidence; one viable primary plus two independent verified contingencies with quote-level economics and complete food-safety, traceability, recall, label and COI evidence; compliant final label; insurance decision; LLC/EIN; payment testing; explicit owner launch authorization.
+- **Next three priorities:** (1) obtain and archive FDACS's written classification with exact permit, fee and renewal term if applicable; (2) restore hosted-mailbox access and process existing agency/supplier replies without duplicate outreach; (3) convert the best supplier candidates into one verified primary and two independent contingencies, then complete label and insurance review before any checkout decision.
