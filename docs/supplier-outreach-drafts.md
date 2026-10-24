@@ -794,3 +794,40 @@ Rising Son Coffee
 hello@therisingsoncoffee.com
 
 **Hold note:** Do not send through Gmail or a website contact form. Send only from an authenticated hosted `hello@therisingsoncoffee.com` mailbox after rechecking its sent folder and the tracker for prior contact.
+
+
+## Berk's Beans Coffee — 2026-10-24 — HELD; HOSTED MAIL REQUIRED
+
+**Intended recipient:** BeanTeam@BerksBeans.com  
+**Subject:** Rising Son Coffee — private-label Original, matching Decaf and dropship qualification
+
+Hello,
+
+Rising Son Coffee is evaluating roasting and fulfillment partners for a prelaunch Florida e-commerce coffee brand. Our required model is that the supplier sources and roasts the coffee, packages it in compliant Rising Son-branded packaging, stores all materials and finished inventory, maintains batch traceability, and ships individual consumer orders directly and as blindly as possible to customers. Rising Son will not roast, pack, store or handle food at home.
+
+Reserva Andina Tuxedo Roast appears to be a strong preliminary Original match for our target: rich/bright aroma, low perceived acidity and bitterness, earthy depth, strong smooth full flavor and a clean aftertaste. Reserva Andina Tuxedo Roast Decaf appears to be a promising matching Swiss Water Process Decaf. Please confirm that both exact coffees are available through your private-label dropship program in 12 oz whole-bean and ground formats, and recommend any closer year-round pairing.
+
+Your public page advertises $13/lb house blends ($9.75 per 12 oz), a $1 per-bag private-label fee, $3.50 pick/pack per order, actual carrier shipping, a six-bag first label run and one-bag dropship orders. Please provide a current written Rising Son quote confirming:
+- the exact Original and Decaf costs in each supported whole-bean/ground format and size;
+- bag, label, artwork, setup, custom-material storage and insert costs;
+- representative 1-, 2- and 3-bag USPS/UPS rates to ZIP 33325 plus national zone/surcharge tables;
+- normal and peak roast-to-ship timing, order cutoffs and carrier handoff;
+- manual-order, daily-sheet/CSV and any current store-integration workflow;
+- subscription/repeat-order handling, address changes, cancellations, stockouts and substitutions;
+- weekly billing and payment terms;
+- responsibility and remedy for carrier loss, damage, wrong items, misprints, stale product, roast defects, returns and customer refusal;
+- sample availability for the proposed Original and Decaf, exact product/shipping cost and whether any charge is credited. We will not place a paid sample order without separate owner approval.
+
+Please confirm whether the external box, packing slip, return label and tracking/customer communications can carry only Rising Son branding. Your public page says the box is plain but the return address is your fulfillment department; please identify exactly what the customer will see.
+
+For mandatory due diligence, please identify the legal manufacturer, packer and distributor for each proposed SKU; confirm the exact roles performed at 1717 Solano Way Ste. 12, Concord, CA 94520; provide the applicable California food license and documentary FDA-registration evidence; describe your food-safety plan, sanitation and allergen controls; explain lot/roast-date-to-customer-order traceability; provide the recall/withdrawal procedure and responsible contacts; and provide the current products/completed-operations COI with limits and expiration, additional-insured capability/cost, proposed indemnity, and allocation of label approval, product-quality, consumer-claim and recall responsibilities.
+
+Third-party audits and voluntary certifications are optional unless required by law, contract or a product claim. If any are claimed, please provide their current scope and expiration. If flavored coffee is proposed, please provide complete ingredient and allergen documentation for each flavor.
+
+Rising Son is building a free Founding 40 reservation list before any verified commercial offer. Any benefit would require a future qualifying purchase; we are not promising volume. We will not open paid orders until supplier economics, compliant labels, regulatory classification and insurance decisions are verified.
+
+Thank you,
+Rising Son Coffee
+hello@therisingsoncoffee.com
+
+**Hold note:** Do not send through Gmail or the supplier's website form. Send only from an authenticated hosted `hello@therisingsoncoffee.com` mailbox after checking that mailbox's sent folder and the tracker for any prior contact.
