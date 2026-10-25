@@ -689,3 +689,37 @@ Berk's Beans is **inquiry-ready only**, not a selected primary or verified conti
 - ingredients and allergen documentation for any flavored coffee.
 
 Third-party audits and voluntary certifications are optional unless required by law, contract or a product claim; any claimed audit/certification must include scope and expiration evidence. No sample, account, payment, agreement, product selection or volume promise was made.
+
+## Supplier evidence update — 2026-10-25
+
+### Mailbox and duplicate-control check
+
+- The connected Google mailbox still identifies as `therisingsoncoffee@gmail.com`, not the hosted `hello@therisingsoncoffee.com` sender required for supplier outreach.
+- A targeted search of the prior three days found no new relevant supplier, quote, sample, compliance, insurance, bounce or delivery-status message.
+- No Gmail message, website inquiry or sample request was sent.
+
+### Ross Street Roasting — inquiry-ready, not yet a viable backup
+
+**Publicly verified**
+
+- Ross Street says it roasts specialty-grade coffee to order in Tama, Iowa and packs it under the customer's brand.
+- It offers white label from existing blends/single origins and private-label/custom coffee. Published typical lead times are 1–3 weeks for white label and 6–10 weeks to the first custom/private-label run.
+- Co-manufacturing samples are advertised as free. Packaging may be supplied by the brand or coordinated through Ross Street's packaging partners.
+- Individual customer orders can be shipped directly, but only depending on the sales platform; the exact compatible platforms, integration mechanics and blind-shipment presentation are not published.
+- It describes its coffee as traceable, sourced through long-term producer relationships and roasted to order.
+- Jack's Feed Store is the closest published Original screen found: medium roast, robust/easy-drinking, chocolate and subtle fruit notes, earthy/rustic character and medium body. Sample approval is still required and public evidence does not establish low perceived acidity.
+- Cool It, Yo! is a current Colombian Decaf positioned as retaining flavor, but the decaffeination process, private-label eligibility and similarity to Jack's are not public.
+
+**Mandatory gaps before backup qualification**
+
+- Exact Original/Decaf recommendation, Decaf process, whole-bean/ground formats, net weights, numeric MOQ and whether Original/Decaf and grind variants can share a run.
+- Complete coffee, grinding, bag, label, setup, custom-packaging, storage, pick/pack, integration and account costs.
+- Representative all-in shipping for 1-, 2- and 3-bag orders, nationwide zones/surcharges, packaging presentation, return address, carrier claims and replacement terms.
+- Compatible sales platform, order import/API workflow, subscription handling, normal/peak reorder and order-level SLA, stockout/substitution rules and payment terms.
+- Legal manufacturer/packer/distributor, exact facility address and roles, applicable food licenses and FDA registration status or exemption.
+- Food-safety/preventive-control, sanitation and allergen evidence; lot-to-customer traceability mechanics; recall/withdrawal plan and contacts.
+- Current products/completed-operations COI, limits/expiration, additional-insured capability/cost, indemnity and allocation of label, defect, allergen and recall duties.
+- Any flavored-coffee ingredients, carriers, allergens and shared-equipment controls if flavored products are proposed.
+
+**Status:** Inquiry-ready only. Ross Street is not a primary or contingency until a written response and documentary evidence close the model, economics and mandatory-control gaps.
+
