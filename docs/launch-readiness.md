@@ -1,6 +1,6 @@
 # Rising Son Coffee — Launch Readiness
 
-Last structured: 2026-10-24
+Last structured: 2026-10-25
 
 ## GREEN — completed / proven
 - Custom-domain HTTPS enabled in GitHub Pages by owner on 2026-09-22; independently reverified 2026-09-27: HTTPS apex, `/founding40/`, `/robots.txt` and `/sitemap.xml` returned `200`; HTTP apex and HTTPS `www` resolved to the HTTPS apex with valid certificate verification.
@@ -360,3 +360,23 @@ The maintained consolidated list is `docs/owner-actions.md`.
 - **Owner decisions required now:** none newly created by this check.
 - **Launch blockers:** written FDACS classification; hosted `hello@` mailbox access/evidence; one viable primary plus two independent verified contingencies with quote-level economics and complete food-safety, traceability, recall, label and COI evidence; compliant final label; insurance decision; LLC/EIN; payment testing; explicit owner launch authorization.
 - **Next three priorities:** (1) obtain and archive FDACS's written classification with exact permit, fee and renewal term if applicable; (2) restore hosted-mailbox access and process existing agency/supplier replies without duplicate outreach; (3) convert the best supplier candidates into one verified primary and two independent contingencies, then complete label and insurance review before any checkout decision.
+
+
+
+## Launch operations check — 2026-10-25
+- Independent browser verification confirmed that the HTTPS apex homepage and `/founding40/` render successfully. HTTP apex and HTTPS `www` both redirect to `https://therisingsoncoffee.com/`; the homepage and Founding 40 pages publish their correct HTTPS-apex canonical URLs.
+- Live `robots.txt` allows public crawling, excludes `/thanks.html` and identifies the HTTPS-apex sitemap. Live `sitemap.xml` lists the apex, Founding 40, Story, Privacy and Terms URLs. Repository `CNAME`, robots, sitemap and canonicals remain aligned.
+- The public homepage visibly retains the disabled **Checkout Locked** control and states that no orders or payments are accepted. Repository `checkout-config.js` remains `enabled: false` with an empty `paymentLink`. No checkout or commercial gate was activated.
+- Supplier/Finance reconciliation: Berk's Beans Coffee is newly documented as an inquiry-ready supplier-direct prospect. Public terms describe roast-to-order private-label packaging, nationwide individual-order fulfillment, a six-bag first label run followed by one-bag dropship orders, 12 oz and 5 lb standard formats, whole-bean plus listed grind options, $9.75 per 12 oz house-blend coffee, $1 per-bag private-label cost, $3.50 pick/pack per order and actual carrier shipping. These are advertised screening terms, not a Rising Son quote or approved economics.
+- Reserva Andina Tuxedo Roast and its Swiss Water Process Decaf are promising preliminary Original/Decaf screens because the published profiles emphasize low acidity, full body and chocolate/caramel/nutty notes. No product is selected and sample approval remains mandatory.
+- Berk's Beans is not a verified primary or contingency. Exact 1-/2-/3-bag shipping, binding normal/peak terms, legal manufacturer/packer/distributor evidence, facility licenses and documentary FDA-registration evidence, food-safety/allergen controls, lot-to-order traceability, recall procedure, current products/completed-operations COI, additional-insured terms, indemnity, label/recall allocation, samples and replacement terms remain UNKNOWN. The prepared request remains held until authenticated hosted `hello@` access is available and prior correspondence is checked.
+- Written FDACS classification for the exact supplier-packed/stored/direct-shipped, no-home-handling model remains missing. No universal Florida or federal general- or product-liability-insurance mandate is claimed; statutory requirements remain separate from supplier/platform contracts and prudent risk protection.
+- Automation review found five enabled tasks overall: the three distinct Rising Son core tasks plus two imminent, unrelated one-time custody reminders. No enabled Rising Son task is idle or redundant, and the reminders are time-sensitive; no task was paused, resumed, created or swapped.
+- No GitHub Pages, DNS, MX, SPF, DKIM, payment, supplier-selection, insurance-binding, entity-formation or purchasing change was made.
+
+### Compact command center
+- **Readiness:** approximately 75%; reservation-ready, not commerce-ready.
+- **Verified today:** live HTTPS surfaces, redirects, crawl files, canonicals, checkout lock, Berk's Beans reconciliation and automation value.
+- **Owner decisions required now:** none newly created by this check.
+- **Launch blockers:** written FDACS classification; hosted `hello@` mailbox access/evidence; one viable primary plus two independent verified contingencies with quote-level economics and complete food-safety, traceability, recall, label and COI evidence; compliant final label; insurance decision; LLC/EIN; payment testing; explicit owner launch authorization.
+- **Next three priorities:** (1) obtain and archive FDACS's written classification with exact permit, fee and renewal term if applicable; (2) restore hosted-mailbox access and process existing agency/supplier replies without duplicate outreach; (3) qualify Berk's Beans and the strongest existing candidates into one verified primary and two independent contingencies, then complete label and insurance review before any checkout decision.
