@@ -1,6 +1,6 @@
 # Rising Son Coffee — Launch Readiness
 
-Last structured: 2026-10-25
+Last structured: 2026-10-26
 
 ## GREEN — completed / proven
 - Custom-domain HTTPS enabled in GitHub Pages by owner on 2026-09-22; independently reverified 2026-09-27: HTTPS apex, `/founding40/`, `/robots.txt` and `/sitemap.xml` returned `200`; HTTP apex and HTTPS `www` resolved to the HTTPS apex with valid certificate verification.
@@ -380,3 +380,21 @@ The maintained consolidated list is `docs/owner-actions.md`.
 - **Owner decisions required now:** none newly created by this check.
 - **Launch blockers:** written FDACS classification; hosted `hello@` mailbox access/evidence; one viable primary plus two independent verified contingencies with quote-level economics and complete food-safety, traceability, recall, label and COI evidence; compliant final label; insurance decision; LLC/EIN; payment testing; explicit owner launch authorization.
 - **Next three priorities:** (1) obtain and archive FDACS's written classification with exact permit, fee and renewal term if applicable; (2) restore hosted-mailbox access and process existing agency/supplier replies without duplicate outreach; (3) qualify Berk's Beans and the strongest existing candidates into one verified primary and two independent contingencies, then complete label and insurance review before any checkout decision.
+
+## Launch operations check — 2026-10-26
+- Independent endpoint verification confirmed that the HTTPS apex homepage and `/founding40/` return `200`. HTTP apex and HTTPS `www` resolve to `https://therisingsoncoffee.com/`; the homepage and Founding 40 pages publish their correct HTTPS-apex canonical URLs.
+- Live `robots.txt` returns `200`, allows public crawling, excludes `/thanks.html` and identifies the HTTPS-apex sitemap. Live `sitemap.xml` returns `200` and lists the apex, Founding 40, Story, Privacy and Terms URLs. Repository `CNAME`, robots, sitemap and canonicals remain aligned.
+- The live homepage retains **Checkout Locked** and states that no orders or payments are accepted. Repository `checkout-config.js` remains `enabled: false` with an empty `paymentLink`. No checkout or commercial gate was activated.
+- Supplier/Finance reconciliation: Ross Street Roasting is now documented as an inquiry-ready supplier-direct prospect. Its official program describes roast-to-order coffee in Tama, Iowa, Rising Son-branded white/private-label packaging, free development samples, traceable sourcing and individual customer shipping conditional on the sales platform. Published screening lead times are 1–3 weeks for white label and 6–10 weeks to the first custom/private-label run.
+- Jack's Feed Store and Cool It, Yo! Colombian Decaf are preliminary Original/Decaf screens only. Ross Street is not a quote, selected supplier or verified contingency. Exact product eligibility, Decaf process, bag/grind formats, numeric MOQ, coffee/packaging/storage/pick-pack/integration/shipping economics, compatible platform, blind presentation, legal manufacturer/packer/distributor and facility evidence, food licenses/FDA status, food-safety/allergen controls, lot-to-order traceability, recall procedure, current products/completed-operations COI, additional-insured terms, indemnity and label/recall allocation remain UNKNOWN.
+- Written FDACS classification for the exact supplier-packed/stored/direct-shipped, no-home-handling model remains missing. No universal Florida or federal general- or product-liability-insurance mandate is claimed; statutory requirements remain separate from supplier/platform contracts and prudent risk protection.
+- Automation review found four enabled tasks overall: the three distinct Rising Son core tasks and one time-sensitive, unrelated one-time court reminder. No enabled Rising Son task is idle or redundant, so no task was paused, resumed, created or swapped.
+- No GitHub Pages, DNS, MX, SPF, DKIM, payment, supplier-selection, insurance-binding, entity-formation or purchasing change was made.
+
+### Compact command center
+- **Readiness:** approximately 75%; reservation-ready, not commerce-ready.
+- **Verified today:** live HTTPS surfaces, redirects, crawl files, canonicals, checkout lock, Ross Street reconciliation and automation value.
+- **Owner decisions required now:** none newly created by this check.
+- **Launch blockers:** written FDACS classification; hosted `hello@` mailbox access/evidence; one viable primary plus two independent verified contingencies with quote-level economics and complete food-safety, traceability, recall, label and COI evidence; compliant final label; insurance decision; LLC/EIN; payment testing; explicit owner launch authorization.
+- **Next three priorities:** (1) obtain and archive FDACS's written classification with exact permit, fee and renewal term if applicable; (2) restore hosted-mailbox access and process existing agency/supplier replies without duplicate outreach; (3) convert the strongest inquiry-ready candidates into one verified primary and two independent contingencies, then complete label and insurance review before any checkout decision.
+
