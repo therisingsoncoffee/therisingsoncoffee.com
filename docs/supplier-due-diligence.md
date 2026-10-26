@@ -195,23 +195,29 @@ Fit assessment: the on-demand branded fulfillment architecture matches Rising So
 Contact status: not contacted. The hosted `hello@therisingsoncoffee.com` mailbox is not accessible in this run and Gmail sending is prohibited. A complete outreach draft is preserved in `docs/supplier-outreach-drafts.md`. Public sources reviewed: https://lp.dripshipper.io/coffee-supplier-for-private-label-brands and https://lp.dripshipper.io/affordable-private-label-coffee-brand-launch .
 
 
-### Old Chicago Coffee Co. — public capability screen, 2026-09-26
-Old Chicago Coffee is a newly documented contingency prospect, not a contacted or approved supplier. Its official dropship pages currently advertise:
-- roasting and processing in its own facility, private/white labeling, blind direct-to-customer shipping and a generic return identity;
-- no minimum order, no advance or bulk inventory purchase, no separate dropship fee, on-demand full-color labels and U.S. shipping included in published program prices;
-- whole bean plus multiple grinds, including standard ground, coarse, French press, fine, espresso, percolator, classic drip and Turkish when orders are entered manually;
-- bag sizes of 10 oz, 12 oz, 1 lb, 2 lb and 5 lb, plus single-serve formats;
-- a medium-roast Decaf blend, with the exact decaffeination process not stated;
-- manual order entry by default, tracking, and optional WooCommerce automation;
-- typical advertised shipment in 1–2 business days, with longer timing for larger or peak-period orders;
-- an inspected and licensed facility, without publishing the licenses, facility identity, regulator, numbers or expiration evidence needed for Rising Son qualification.
+### Old Chicago Coffee Co. — public capability and economics screen, updated 2026-10-26
+Old Chicago Coffee is an uncontacted contingency prospect, not an approved supplier. Current official Old Chicago and Brand-A-Bean materials state that CaluTech/Old Chicago:
+- roasts and processes coffee in-house, applies the brand's label or customer-supplied packaging, holds supplied labels/bags, and blind-ships individual orders directly to consumers;
+- uses a generic distribution return identity instead of the Old Chicago name and provides tracking;
+- offers no order MOQ, no advance/bulk inventory purchase and no separate dropship fee;
+- supports manual order entry and an optional WooCommerce route; the manual workflow exposes whole bean plus standard, coarse, French press, fine, espresso, percolator, classic-drip and Turkish grinds;
+- lists 10 oz, 12 oz, 1 lb, 2 lb and 5 lb bags plus single-serve formats;
+- offers a medium-roast Decaf blend, but does not state its decaffeination process or demonstrate similarity to the final Original;
+- advertises shipment in 1–2 business days in most cases and 3–7 days for larger orders or peak periods;
+- describes the facility as inspected and fully licensed, but does not publish the legal facility address, regulator, license numbers, FDA-registration evidence, inspection record or expiration dates needed for qualification.
 
-The public program page lists a 14-day trial followed by a $10 monthly charge (or a separate paid WooCommerce option), and requires an EIN/FEIN, company name, street address and email before entry. Published coffee/program prices are public marketing terms, not a Rising Son quote, and one shipping-surcharge note is dated through January 18, 2026, so current terms require direct written confirmation. No registration, trial, subscription or paid plugin was started.
+Published program economics, not a Rising Son quote:
+- regular / Decaf-class delivered prices are $12.96 / $13.21 for 10 oz, $16.40 / $16.65 for 12 oz, $19.40 / $19.53 for 1 lb, and $29.60 / $30.10 for 2 lb; 5 lb is listed at $63.50;
+- the price is advertised as including the coffee, blank valve bag, one on-demand full-color label, delivery, shipping insurance and tracking; customer-supplied labels or printed bags are accepted and storage is advertised as free;
+- the program is advertised as a 14-day trial followed by $10/month, with a separate $99 one-time WooCommerce option. The 14-day offer is an account/program trial, not a coffee sample; coffee sample terms remain UNKNOWN;
+- one current page reports a $0.55 USPS holiday surcharge while another retains an expired $0.45 surcharge note through January 18, 2026. Exact current surcharges and effective dates therefore require a written quote;
+- current terms state that loss risk passes after the shipment leaves the warehouse and that damaged merchandise is replaced after return. Treatment of carrier loss, stale product, wrong item, misprint, refund, refusal and address error remains UNKNOWN.
 
-Fit assessment: the operating architecture strongly matches Rising Son's supplier-roasted, branded, supplier-held and direct-shipped model, and it offers both Decaf and extensive grind/size choices. Material open issues are Original sensory fit, Decaf process and similarity to Original, actual legal manufacturer/packer/distributor identity and facility location, food licenses/FDA registration, food-safety and allergen controls, traceability/recall evidence, COI/additional-insured terms, indemnity, final-label responsibility, flavored-coffee ingredients/allergens, replacement policy, multi-bag economics and current commercial terms. The monthly charge plus EIN/street-address prerequisite make Old Chicago a contingency rather than an immediately actionable no-cost supplier.
+Entry requires an EIN/FEIN, company name, street address and email. No EIN was supplied, account created, trial started, plugin purchased, sample requested, payment made or terms accepted.
 
-Contact status: not contacted. The hosted `hello@therisingsoncoffee.com` mailbox remains inaccessible to the connector and Gmail sending is prohibited. A complete no-send draft is preserved in `docs/supplier-outreach-drafts.md`. Official sources reviewed: https://oldchicagocoffee.com/coffee/coffee-dropship-white-label-direct-to-your-customer/ and https://oldchicagocoffee.com/dropshippers/ .
+Fit assessment: the operating architecture matches Rising Son's required supplier-roasted, branded, supplier-held and direct-shipped model, and the public price ladder is unusually complete. It still cannot count as a verified primary or backup. Launch-critical gaps are: exact year-round Original recommendation and sample approval; exact Decaf composition/process and side-by-side fit; current written quote and multi-bag economics; legal manufacturer/packer/warehouse/distributor identities and facility address; licenses and FDA status; food-safety/preventive controls and allergen controls; green-lot/finished-lot/roast-date/customer-order traceability; recall/withdrawal procedure and contacts; current products/completed-operations COI, limits and expiration; additional-insured capability/cost; indemnity; final-label drafting/review and claim substantiation; recall-cost allocation; price-change notice; subscription handling; and complete replacement terms. Flavored coffee ingredients and allergens must be documented before any flavored SKU is considered.
 
+Contact status: not contacted. The connected inbox is authenticated as `therisingsoncoffee@gmail.com`, not the required hosted `hello@therisingsoncoffee.com` mailbox, so sending remains prohibited. The held qualification draft in `docs/supplier-outreach-drafts.md` already targets the open items. Official sources reviewed 2026-10-26: https://oldchicagocoffee.com/dropshippers/ , https://oldchicagocoffee.com/coffee/coffee-dropship-white-label-direct-to-your-customer/ , https://calutech.com/dropship-coffee-blind-shipping/ and https://oldchicagocoffee.com/terms-conditions-of-use/ .
 
 ### Aroma Ridge Coffee Roasters — deferred capability screen, 2026-09-27
 Aroma Ridge is not currently an actionable supplier. Its official fulfillment/dropship page states that it stopped accepting new program applications after July 31, 2026 and will reopen to new partners in February 2027.
