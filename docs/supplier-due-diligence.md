@@ -729,3 +729,41 @@ Third-party audits and voluntary certifications are optional unless required by 
 
 **Status:** Inquiry-ready only. Ross Street is not a primary or contingency until a written response and documentary evidence close the model, economics and mandatory-control gaps.
 
+
+## Supplier evidence update — 2026-10-27
+
+### Mailbox and duplicate-control check
+
+- The connected Google account identifies as `therisingsoncoffee@gmail.com`, not the authenticated hosted `hello@therisingsoncoffee.com` mailbox required for supplier outreach.
+- A targeted search of the prior three days found no new relevant supplier, FDACS, quote, sample, compliance, insurance, bounce or delivery-status message.
+- The hosted mailbox's inbox, sent folder and prior Village Roaster correspondence cannot be reviewed through the connected Gmail account. No Gmail message, website form, sample request or phone contact was made.
+
+### Village Roaster — inquiry-ready, not yet a viable backup
+
+**Publicly verified**
+
+- Village Roaster publicly identifies its main store and roastery at 9255 W Alameda Ave Unit L, Lakewood, Colorado 80226.
+- Its white-label program says it can source from its own green-coffee inventory, roast on its equipment, grind, pack, label, seal, warehouse packaging and fulfill orders. It says it can provide complete fulfillment so the brand does not touch the coffee.
+- It publicly offers shipping directly from the roastery to customers with the customer's business brand on and in the box. The general white-label page says it ships five days per week.
+- It describes white-label volume from a single pound through full batches. A separate recurring-wholesale page states a 30 lb minimum, so the applicable direct-fulfillment minimum requires written clarification.
+- It publicly offers supplier or customer packaging and individually packed whole-bean or ground coffee. Product pages show numerous grinds. Exact private-label net weights, materials and costs are not published.
+- **Original screen:** Sumatra Dark Roast is a strong preliminary fit: dark roast, heavy body, low acidity, low brightness, smooth earthy/smoky character and dark-chocolate notes. It is not selected and private-label eligibility is not established.
+- **Decaf screen:** Sumatra Mandheling Decaf is a promising origin companion: medium-dark, natural water-process, low brightness, robust earthiness, light smokiness, subtle fruit and moderate body. It is not an exact roast/profile match, and private-label eligibility is unverified.
+- Retail prices were excluded from supplier economics because they are not private-label or direct-fulfillment quotes.
+- The site references a sample roaster and in-person cupping, but shipped sample terms, costs and credits are not published.
+
+**Mandatory gaps before backup qualification**
+
+- Written confirmation that the proposed Sumatra Original and Decaf are available year-round for white label, with documented Decaf process, whole-bean/ground variants, grind choices, net weights and combined-run rules.
+- Complete unit and tier pricing for coffee, grinding, bags/valves, labels, artwork, proofs/plates, setup, custom packaging, packaging and finished-goods storage, pick/pack, inserts, account/integration and any recurring charges.
+- Representative 1-, 2- and 3-bag delivered shipping to ZIP 33325 and U.S. zones, including PO boxes, Alaska/Hawaii, territories, military, remote-area, fuel and peak surcharges.
+- Blind presentation, external box, packing slip, return address, tracking/customer messages, carrier-claim handling and responsibility for address errors, loss, damage, wrong product, misprints, stale product and roast defects.
+- Order workflow and ecommerce/API/CSV/manual integration, subscription handling, normal/peak SLA, stockouts/substitutions, payment timing, quote validity, price-change notice, term/termination and disposition of unused materials.
+- Legal manufacturer, packer, warehouse and distributor; exact roles at each facility; applicable Colorado/state/local food licenses and documentary FDA food-facility registration status or exemption.
+- Food-safety/preventive-controls plan, sanitation and allergen/cross-contact controls; lot/roast-date-to-customer-order traceability; records retention; recall/withdrawal procedure, responsible contacts and latest mock-recall result if available.
+- Current product-liability/products-completed-operations COI with carrier, limits, territory and expiration; additional-insured capability/cost; indemnity and allocation of compliant-label drafting/review, product-quality, regulatory, allergen, claim, withdrawal and recall duties and costs.
+- For any flavored coffee: complete ingredients and sub-ingredients, flavor carriers, processing aids, allergen statements and shared-equipment controls.
+
+Third-party audits and voluntary certifications are optional unless required by law, contract or a product claim. Any claimed audit/certification must include current scope and expiration evidence.
+
+**Status:** Inquiry-ready only. Village Roaster does not count as a primary or contingency until a written Rising Son response and documentary evidence close the product, economics, food-safety, traceability, recall, insurance and responsibility-allocation gaps. No sample, account, payment, agreement, product selection or volume promise was made.
