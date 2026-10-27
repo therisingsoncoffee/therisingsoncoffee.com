@@ -1,6 +1,6 @@
 # Rising Son Coffee — Launch Readiness
 
-Last structured: 2026-10-26
+Last structured: 2026-10-27
 
 ## GREEN — completed / proven
 - Custom-domain HTTPS enabled in GitHub Pages by owner on 2026-09-22; independently reverified 2026-09-27: HTTPS apex, `/founding40/`, `/robots.txt` and `/sitemap.xml` returned `200`; HTTP apex and HTTPS `www` resolved to the HTTPS apex with valid certificate verification.
@@ -398,3 +398,21 @@ The maintained consolidated list is `docs/owner-actions.md`.
 - **Launch blockers:** written FDACS classification; hosted `hello@` mailbox access/evidence; one viable primary plus two independent verified contingencies with quote-level economics and complete food-safety, traceability, recall, label and COI evidence; compliant final label; insurance decision; LLC/EIN; payment testing; explicit owner launch authorization.
 - **Next three priorities:** (1) obtain and archive FDACS's written classification with exact permit, fee and renewal term if applicable; (2) restore hosted-mailbox access and process existing agency/supplier replies without duplicate outreach; (3) convert the strongest inquiry-ready candidates into one verified primary and two independent contingencies, then complete label and insurance review before any checkout decision.
 
+
+
+## Launch operations check — 2026-10-27
+- Independent browser verification confirmed that the HTTPS apex homepage and `/founding40/` render successfully. HTTP apex and HTTPS `www` both resolve to `https://therisingsoncoffee.com/`; the homepage and Founding 40 pages publish their correct HTTPS-apex canonical URLs.
+- Live `robots.txt` allows public crawling, excludes `/thanks.html` and identifies the HTTPS-apex sitemap. Live `sitemap.xml` lists the apex, Founding 40, Story, Privacy and Terms URLs. Repository `CNAME`, robots, sitemap and canonicals remain aligned.
+- The live homepage retains the disabled **Checkout Locked** control and states that no orders or payments are accepted. Repository `checkout-config.js` remains `enabled: false` with an empty `paymentLink`. No checkout or commercial gate was activated.
+- Supplier/Finance reconciliation: Old Chicago Coffee's current public program economics are now reflected in launch operations. Advertised delivered program prices are $12.96 regular / $13.21 Decaf-class for 10 oz, $16.40 / $16.65 for 12 oz, $19.40 / $19.53 for 1 lb, $29.60 / $30.10 for 2 lb, and $63.50 for 5 lb. The public program advertises a 14-day trial followed by $10/month, with a separate $99 WooCommerce option; one blank valve bag plus a full-color label, blind direct shipping and a generic return identity are publicly described. These are public screening terms, not a Rising Son quote, approved economics or sample terms.
+- Old Chicago remains research-only and does not count as a verified primary or contingency. Program access appears to require an EIN and fee. Exact Rising Son SKU eligibility, Original sensory fit, Decaf process, current shipping/surcharge treatment, facility/license and FDA-status evidence, food-safety/allergen controls, lot-to-order traceability, recall procedure, current products/completed-operations COI, additional-insured terms, indemnity, label/recall responsibility, binding lead times, replacement terms and quote-level economics remain UNKNOWN. Public terms also place transit-loss risk after warehouse handoff while describing damaged-merchandise replacement after return; written allocation must be reconciled before use.
+- Written FDACS classification for the exact supplier-packed/stored/direct-shipped, no-home-handling model remains missing. No universal Florida or federal general- or product-liability-insurance mandate is claimed; statutory requirements remain separate from supplier/platform contracts and prudent risk protection.
+- Automation inventory shows the three distinct Rising Son core tasks enabled. Five tasks are paused and three completed; capacity is available. No enabled Rising Son task is idle or redundant, so no task was paused, resumed, created or swapped.
+- Direct GitHub Pages settings were not available through the approved repository connector. The deployed site and repository configuration were read-only verified; no Pages, DNS, MX, SPF, DKIM, payment, supplier-selection, insurance-binding, entity-formation or purchasing change was made.
+
+### Compact command center
+- **Readiness:** approximately 75%; reservation-ready, not commerce-ready.
+- **Verified today:** live HTTPS surfaces, redirects, crawl files, canonicals, checkout lock, Old Chicago reconciliation and automation value.
+- **Owner decisions required now:** none newly created by this check.
+- **Launch blockers:** written FDACS classification; hosted `hello@` mailbox access/evidence; one viable primary plus two independent verified contingencies with quote-level economics and complete food-safety, traceability, recall, label and COI evidence; compliant final label; insurance decision; LLC/EIN; payment testing; explicit owner launch authorization.
+- **Next three priorities:** (1) obtain and archive FDACS's written classification with exact permit, fee and renewal term if applicable; (2) restore hosted-mailbox access and process existing agency/supplier replies without duplicate outreach; (3) convert the strongest candidates into one verified primary and two independent contingencies, then complete label and insurance review before any checkout decision.
