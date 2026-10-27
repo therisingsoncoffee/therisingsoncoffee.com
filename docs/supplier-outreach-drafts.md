@@ -873,3 +873,44 @@ https://therisingsoncoffee.com/
 
 **Hold note:** Do not send through Gmail or a supplier web form. Send only from an authenticated hosted `hello@therisingsoncoffee.com` mailbox after checking its sent folder, prior threads and the tracker. Do not request shipment, order paid samples, create an account, upload final artwork, accept terms, make payment or promise volume without owner approval.
 
+
+## Village Roaster — 2026-10-27 — HELD; HOSTED MAIL REQUIRED
+
+**Intended recipient:** Eric Bakken / Eva Pump; obtain and verify the appropriate business email before sending  
+**Subject:** Rising Son Coffee — white-label Original, Decaf and direct-fulfillment qualification
+
+Hello Eric and Eva,
+
+Rising Son Coffee is evaluating roasting and fulfillment partners for a prelaunch Florida e-commerce coffee brand. Our required model is supplier-direct: the supplier sources and roasts the coffee, packages it in compliant Rising Son-branded packaging, stores all coffee and packaging materials, maintains lot/batch traceability, and ships individual consumer orders directly and as blindly as possible to customers. Rising Son will not roast, pack, store or handle food at home.
+
+Your Sumatra Dark Roast appears to be a strong preliminary Original screen because it is described as smooth, heavy-bodied, low-acid and earthy, with dark-chocolate and smoky notes. Sumatra Mandheling Decaf appears to be a promising water-process companion. Our target Original has a rich/bright aroma, low perceived acidity and bitterness, earthy tones, strong smooth full flavor and a clean aftertaste; Decaf should stay as close as possible. Please recommend the closest year-round Original/Decaf pairing and confirm white-label eligibility.
+
+Before any sample, artwork, packaging purchase, order or commitment, please provide one written response covering:
+
+- each proposed Original and Decaf, roast, origin/blend, tasting profile, documented Decaf process, year-round availability, whole-bean/ground options, grind choices and every supported net weight;
+- the applicable numeric MOQ for individual direct fulfillment, whether Original/Decaf, whole-bean/ground and label variants can combine, and how the public single-pound white-label statement relates to the separate 30 lb recurring-wholesale minimum;
+- complete pricing and tiers for coffee, grinding, bags/valves, filling, labels, artwork, proofs/plates, setup, custom packaging, packaging and finished-goods storage, pick/pack, inserts, account, integration and every other charge;
+- representative all-in shipping for 1-, 2- and 3-bag orders to ZIP 33325 plus nearby, central and distant U.S. zones, including PO boxes, Alaska/Hawaii, territories, military, remote-area, fuel and peak surcharges;
+- exact order workflows and any Shopify, WooCommerce, API, CSV or manual-order support and fees; subscription handling; tracking flow; normal/peak production and order SLAs; stockouts and substitutions;
+- blind-shipment presentation, external box, packing slip, return address, customer communications and whether Rising Son-branded slips or inserts are supported;
+- edits/cancellations, carrier loss/damage, wrong or stale orders, defects, replacements, refunds and address corrections;
+- payment timing, quote validity, price-change notice, recurring/minimum-volume commitments, termination terms and disposition of unused coffee, bags and labels;
+- sample availability for the proposed Original and Decaf, exact product/shipping cost and whether any charge is credited. Please do not ship samples or incur any charge without separate written approval;
+- the exact legal entities and facility locations that source, roast/manufacture, grind, pack, warehouse, distribute and ship the coffee;
+- applicable Colorado/state/local food licenses and inspection evidence, plus FDA food-facility registration status or exemption for each applicable facility;
+- the food-safety plan/preventive controls, sanitation and allergen/cross-contact controls;
+- traceability from green-coffee lot through finished lot, roast date and customer shipment; retention records; withdrawal/recall procedure, contacts and latest mock-recall result if available;
+- current product-liability/products-completed-operations COI showing carrier, limits, territory and expiration; ability and cost to name Rising Son as additional insured;
+- indemnity terms and written allocation of responsibility for compliant label drafting/review, manufacturer/packer/distributor identification, claims, regulatory compliance, defects, allergens, traceability, recall notice, execution and expense.
+
+Third-party audits and voluntary certifications are optional unless required by law, contract or a product claim. If any are claimed, please provide current scope and expiration evidence. If flavored coffee is proposed, please provide every ingredient and sub-ingredient, flavor carrier, processing aid, allergen statement and shared-equipment control.
+
+Rising Son is building a free Founding 40 reservation list before any verified commercial offer. Any benefit would require a future qualifying purchase; this is not a volume commitment. Paid orders remain closed until supplier economics, compliant labels, regulatory classification and insurance decisions are verified.
+
+Thank you,
+
+Rising Son Coffee  
+hello@therisingsoncoffee.com  
+https://therisingsoncoffee.com/
+
+**Hold note:** No direct business email was captured on the official site; only contact forms and phone numbers were visible. Do not use a web form, Gmail, a guessed address or phone outreach. Send only from an authenticated hosted `hello@therisingsoncoffee.com` mailbox after obtaining and verifying the correct recipient address and checking the hosted inbox, sent folder, prior threads and tracker. Do not request shipment, order paid samples, create an account, upload final artwork, accept terms, make payment or promise volume without owner approval.
