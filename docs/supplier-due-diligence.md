@@ -767,3 +767,44 @@ Third-party audits and voluntary certifications are optional unless required by 
 Third-party audits and voluntary certifications are optional unless required by law, contract or a product claim. Any claimed audit/certification must include current scope and expiration evidence.
 
 **Status:** Inquiry-ready only. Village Roaster does not count as a primary or contingency until a written Rising Son response and documentary evidence close the product, economics, food-safety, traceability, recall, insurance and responsibility-allocation gaps. No sample, account, payment, agreement, product selection or volume promise was made.
+
+
+## Supplier evidence update — 2026-10-28
+
+### Mailbox and duplicate-control check
+
+- The connected Gmail profile is `therisingsoncoffee@gmail.com`, not the authenticated hosted `hello@therisingsoncoffee.com` mailbox required for supplier outreach.
+- A targeted search covering the prior four days found no supplier, coffee-roaster, wholesale, FDACS, insurance, quote, sample, bounce, failure or delivery-status message.
+- The hosted mailbox inbox, sent folder and prior supplier threads remain unavailable through Gmail. No email, web form, call, account, sample request or other outreach was initiated.
+
+### Operator Coffee — inquiry-ready, not yet a viable backup
+
+**Publicly verified**
+
+- Operator Coffee publicly identifies itself as a veteran-owned small-batch roaster that craft-roasts in Kamiah, Idaho; its contact page lists 200 5th St NW, Kamiah, ID 83536 and `info@operatorcoffee.com`.
+- Its white-label program says Operator Coffee can roast to a partner's specification or use proven profiles, produce branded packaging, ship to the partner's customers and support label design or partner-supplied pre-printed bags.
+- It describes two supplier-direct ecommerce paths: a dedicated partner landing page isolated from Operator's brand, or wholesale fulfillment through Shopify Collective. Exact ownership of customer data, payment flow, fees, blind presentation and compatibility with Rising Son's existing site require written clarification.
+- The public product catalog includes light, medium, dark, espresso, Decaf and flavored coffees, along with recurring subscriptions. Retail product formats and prices are not private-label terms and were excluded from Rising Son economics.
+- **Original screen:** Sarcasm Fuel is the strongest preliminary flavor fit found today: single-origin Indonesia, dark French roast, full body, dark chocolate, earthy spices and a surprisingly smooth finish. Breacher Blend is a comparison candidate with dark roast, brown-sugar/smoky notes and a smooth finish. Neither is selected or confirmed eligible for white label.
+- **Decaf screen:** House Blend Decaffeinated Coffee is publicly described as full-bodied and smooth with chocolate, smoky, dark-chocolate and bold notes. Its product page says fine-ground only. Exact decaffeination process, private-label eligibility, whole-bean availability and similarity to the proposed Original remain unverified.
+- Retail pages advertise roast-fresh shipment in 2–3 business days and retail error assistance within 30 days, while otherwise treating coffee as nonreturnable. These are not binding private-label production or replacement terms.
+- Operator sells flavored coffees. Ingredients, sub-ingredients, flavor carriers, processing aids, allergens and shared-equipment controls were not published and must be obtained before any flavored product is considered.
+
+**Mandatory gaps before backup qualification**
+
+- Written confirmation of the closest year-round Original/Decaf pairing, exact roast/origin/blend, sensory targets, documented Decaf process, private-label eligibility, substitution rules and sample terms.
+- Whole-bean/ground availability, grind choices, every supported net weight and whether Original/Decaf, grind, size and label variants may combine toward any MOQ.
+- Numeric MOQ and complete pricing/tiers for coffee, grinding, bags/valves, filling, labels, artwork/design, proofs/plates, setup, custom packaging, packaging storage, finished-goods storage, pick/pack, inserts, account, landing page, Shopify/Collective, integration, subscription handling and recurring charges.
+- Representative all-in shipping for 1-, 2- and 3-bag orders to ZIP 33325 and other U.S. zones, including PO boxes, Alaska/Hawaii, territories, military, remote-area, fuel and peak surcharges.
+- Blind-shipping presentation, external box, packing slip, return address, customer communications, tracking flow, payment/data ownership, edits/cancellations, address errors, carrier loss/damage, wrong product, misprints, stale coffee, roast defects, refunds and replacements.
+- Binding normal/peak production and fulfillment SLA, stockouts/substitutions, recurring-order workflow, payment timing, quote validity, price-change notice, minimum commitment, termination and disposition of unused materials.
+- Exact legal entity and roles for green-coffee sourcing, roasting/manufacturing, grinding, packing, warehousing, distribution, ecommerce collection and shipment; every applicable facility location.
+- Applicable Idaho/state/local food licenses and inspection evidence plus documentary FDA food-facility registration status or exemption.
+- Food-safety/preventive-controls plan, sanitation and allergen/cross-contact controls; green-lot through finished-lot/roast-date/customer-order traceability; records retention; withdrawal/recall procedure, responsible contacts and latest mock-recall evidence.
+- Current product-liability/products-completed-operations COI showing carrier, limits, territory and expiration; additional-insured capability/cost; indemnity and allocation of compliant-label drafting/review, manufacturer/packer/distributor identification, regulatory claims, product quality, allergens, traceability, recall notice, execution and costs.
+- For every flavored product: full ingredients and sub-ingredients, flavor carriers, processing aids, allergen statements and shared-equipment controls.
+
+Third-party audits and voluntary certifications are optional unless required by law, contract or a product claim. Any audit/certification must be supported by current scope and expiration evidence.
+
+**Status:** Inquiry-ready only. Operator Coffee does not count as a primary or contingency until a written Rising Son quote and documentary evidence close the product, economics, food-safety, traceability, recall, insurance and responsibility-allocation gaps. No sample, account, payment, agreement, product selection or volume promise was made.
+
