@@ -914,3 +914,47 @@ hello@therisingsoncoffee.com
 https://therisingsoncoffee.com/
 
 **Hold note:** No direct business email was captured on the official site; only contact forms and phone numbers were visible. Do not use a web form, Gmail, a guessed address or phone outreach. Send only from an authenticated hosted `hello@therisingsoncoffee.com` mailbox after obtaining and verifying the correct recipient address and checking the hosted inbox, sent folder, prior threads and tracker. Do not request shipment, order paid samples, create an account, upload final artwork, accept terms, make payment or promise volume without owner approval.
+
+
+## Operator Coffee — 2026-10-28 — HELD; HOSTED MAIL REQUIRED
+
+**Intended recipient:** info@operatorcoffee.com  
+**Subject:** Rising Son Coffee — private-label Original, Decaf and direct-fulfillment qualification
+
+Hello Operator Coffee team,
+
+Rising Son Coffee is evaluating roasting and fulfillment partners for a prelaunch Florida e-commerce coffee brand. Our required model is supplier-direct: the supplier sources and roasts the coffee, packages it in compliant Rising Son-branded packaging, stores all coffee and packaging materials, maintains lot/batch traceability, and ships individual consumer orders directly and as blindly as possible to customers. Rising Son will not roast, pack, store or handle food at home.
+
+Your Sarcasm Fuel appears to be a strong preliminary Original screen because it is described as full-bodied, smooth-finishing and earthy, with dark-chocolate and spice notes. House Blend Decaffeinated Coffee appears to be a promising full-bodied, smooth, chocolate-forward Decaf screen. Our target Original has a rich/bright aroma, low perceived acidity and bitterness, earthy tones, strong smooth full flavor and a clean aftertaste; Decaf should stay as close as possible. Please recommend the closest year-round Original/Decaf pairing and confirm white-label eligibility.
+
+Before any sample, artwork, packaging purchase, order or commitment, please provide one written response covering:
+
+- each proposed Original and Decaf, roast, origin/blend, tasting profile, documented Decaf process, year-round availability, substitution policy, whole-bean/ground options, grind choices and every supported net weight;
+- the applicable numeric MOQ and whether Original/Decaf, whole-bean/ground, size and label variants may combine;
+- complete pricing and tiers for coffee, grinding, bags/valves, filling, labels, artwork/design, proofs/plates, setup, custom packaging, packaging and finished-goods storage, pick/pack, inserts, landing-page/storefront, account, Shopify/Collective/integration, subscriptions and every recurring or other charge;
+- representative all-in shipping for 1-, 2- and 3-bag orders to ZIP 33325 plus nearby, central and distant U.S. zones, including PO boxes, Alaska/Hawaii, territories, military, remote-area, fuel and peak surcharges;
+- the exact difference among your dedicated landing-page, standalone-store and Shopify Collective models, including checkout/payment flow, customer-data ownership, pricing control, order routing, tracking, customer communications, fees and whether Rising Son's existing website can remain the primary branded destination;
+- exact order workflows, subscription handling, normal/peak production and order SLAs, stockouts and substitutions;
+- blind-shipment presentation, external box, packing slip, return address and whether Rising Son-branded slips or inserts are supported;
+- edits/cancellations, carrier loss/damage, wrong or stale orders, roast defects, misprints, replacements, refunds and address corrections;
+- payment timing, quote validity, price-change notice, recurring/minimum-volume commitments, termination terms and disposition of unused coffee, bags and labels;
+- sample availability for the proposed Original and Decaf, exact product/shipping cost and whether any charge is credited. Please do not ship samples or incur any charge without separate written approval;
+- the exact legal entities and facility locations that source, roast/manufacture, grind, pack, warehouse, distribute, collect ecommerce payments and ship the coffee;
+- applicable Idaho/state/local food licenses and inspection evidence, plus FDA food-facility registration status or exemption for each applicable facility;
+- the food-safety plan/preventive controls, sanitation and allergen/cross-contact controls;
+- traceability from green-coffee lot through finished lot, roast date and customer shipment; retention records; withdrawal/recall procedure, contacts and latest mock-recall result if available;
+- current product-liability/products-completed-operations COI showing carrier, limits, territory and expiration; ability and cost to name Rising Son as additional insured;
+- indemnity terms and written allocation of responsibility for compliant label drafting/review, manufacturer/packer/distributor identification, claims, regulatory compliance, defects, allergens, traceability, recall notice, execution and expense.
+
+Third-party audits and voluntary certifications are optional unless required by law, contract or a product claim. If any are claimed, please provide current scope and expiration evidence. Because flavored coffees are offered, please also provide every ingredient and sub-ingredient, flavor carrier, processing aid, allergen statement and shared-equipment control for any flavored product proposed.
+
+Rising Son is building a free Founding 40 reservation list before any verified commercial offer. Any Founding benefit would require a future qualifying purchase; this is not a volume commitment. Paid orders remain closed until supplier economics, compliant labels, regulatory classification and insurance decisions are verified.
+
+Thank you,
+
+Rising Son Coffee  
+hello@therisingsoncoffee.com  
+https://therisingsoncoffee.com/
+
+**Hold note:** Send only from an authenticated hosted `hello@therisingsoncoffee.com` mailbox after checking its inbox, sent folder, prior threads and the tracker. Do not send through Gmail or a website form. Do not request shipment, order paid samples, create an account, upload final artwork, accept terms, make payment or promise volume without owner approval.
+
