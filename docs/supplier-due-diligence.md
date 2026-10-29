@@ -808,3 +808,44 @@ Third-party audits and voluntary certifications are optional unless required by 
 
 **Status:** Inquiry-ready only. Operator Coffee does not count as a primary or contingency until a written Rising Son quote and documentary evidence close the product, economics, food-safety, traceability, recall, insurance and responsibility-allocation gaps. No sample, account, payment, agreement, product selection or volume promise was made.
 
+
+
+## Supplier evidence update — 2026-10-29
+
+### Mailbox and duplicate-control check
+
+- The authenticated connected Gmail profile is `therisingsoncoffee@gmail.com`, not the hosted `hello@therisingsoncoffee.com` sender required for supplier outreach.
+- A targeted search of the prior five days found no supplier, coffee-roaster, quote, sample, FDACS, insurance, bounce, failure or delivery-status message.
+- The hosted mailbox inbox, sent folder and prior supplier threads remain inaccessible through the connected Gmail account. No email, web form, call, account, sample request or other outreach was initiated.
+
+### Contour Coffee — inquiry-ready, not yet a viable backup
+
+**Publicly verified**
+
+- Contour says a customer order can be roasted fresh, packed with the brand's label and shipped directly and blindly to the customer from its Lakewood, Colorado roastery, without the brand handling the coffee.
+- It says the roaster manages green-coffee sourcing, roast scheduling, packaging inventory and carrier relationships. Blind shipments may omit Contour branding, and the return address may be the brand's, a fulfillment address or Contour's, subject to setup.
+- Contour publicly supports sticker labels for early programs and print-to-spec bags for established volume. The drop-ship article identifies 12 oz and 16 oz valve-sealed retail bags; another current official article mentions branded 1 lb and 2 lb direct-to-consumer bags. Applicable sizes, grinds and minimums require written reconciliation.
+- Its white-label article says green-coffee lots are tracked FIFO and that partners may be notified before a lot changes. This supports sourcing traceability but does not yet prove finished-lot-to-customer traceability, record retention or recall readiness.
+- **Original screen:** Sumatra Mandheling Grade 1 and Sumatra Dark Roast are strong preliminary screens because the public profiles show dark roast, heavy body, low or very-low acidity, dark chocolate, cedar and earthy character. Exact low-bitterness/clean-finish fit, year-round white-label eligibility and sample approval remain unverified.
+- **Decaf screen:** Dark Roast Decaf is a strong preliminary companion because it is publicly described as full-bodied, low-acid, smooth and free of bitterness, with dark chocolate, roasted nuts and caramel. The page inconsistently labels the process Mountain Water and Swiss Water, so the decaffeination method must be documented before qualification.
+- Contour describes a small test run and a two- or three-coffee sample packet before commitment. No sample was requested; product, shipping and credit terms are not published.
+- Public retail prices were excluded because they are not a Rising Son private-label/direct-fulfillment quote.
+- Contour offers flavored coffee, but ingredients, sub-ingredients, flavor carriers, processing aids, allergens and shared-equipment controls are not established for a Rising Son program.
+
+**Mandatory gaps before backup qualification**
+
+- Written year-round Original/Decaf recommendation, exact roast/origin/blend, documented Decaf process, sensory fit, substitution rules, white-label eligibility and sample terms.
+- Whole-bean/ground availability, grind choices, every supported net weight and whether product, grind, size and label variants can combine toward a numeric MOQ.
+- Complete quote and tiers for coffee, grinding, bags/valves, filling, labels, artwork/design, proofs/plates, setup, custom bags, packaging and finished-goods storage, pick/pack, inserts, account/integration, subscriptions and every recurring or other charge.
+- Representative all-in shipping for 1-, 2- and 3-bag orders to ZIP 33325 and other U.S. zones, including PO boxes, Alaska/Hawaii, territories, military, remote-area, fuel and peak surcharges.
+- Exact order ingestion and Shopify/WooCommerce/API/CSV/manual workflows, fees, subscription handling, tracking, customer communications, edits/cancellations, normal/peak SLA, stockouts and substitutions.
+- Blind-shipment presentation, external box, packing slip, return address, branded inserts, carrier-claim handling and responsibility for address errors, loss, damage, wrong product, misprints, stale coffee, roast defects, refunds and replacements.
+- Payment timing, quote validity, price-change notice, minimum or recurring commitments, termination and disposition of unused coffee, bags and labels.
+- Exact legal entities and facility locations that source, roast/manufacture, grind, pack, warehouse, distribute and ship; applicable Colorado/state/local food licenses and inspection evidence; documentary FDA food-facility registration status or exemption.
+- Food-safety/preventive-controls plan, sanitation and allergen/cross-contact controls; finished-lot/roast-date-to-customer-order traceability; records retention; withdrawal/recall plan, responsible contacts and latest mock-recall evidence.
+- Current product-liability/products-completed-operations COI showing carrier, limits, territory and expiration; additional-insured capability/cost; indemnity and allocation of compliant-label drafting/review, manufacturer/packer/distributor identification, regulatory claims, defects, allergens, traceability, recall notice, execution and costs.
+- For every flavored product proposed: complete ingredients and sub-ingredients, flavor carriers, processing aids, allergen statements and shared-equipment controls.
+
+Third-party audits and voluntary certifications are optional unless required by law, contract or a product claim. Any claimed audit or certification must include current scope and expiration evidence.
+
+**Status:** Inquiry-ready only. Contour Coffee does not count as a primary or contingency until a written Rising Son quote and documentary evidence close the product, economics, food-safety, traceability, recall, insurance and responsibility-allocation gaps. No sample, account, payment, agreement, product selection or volume promise was made.
