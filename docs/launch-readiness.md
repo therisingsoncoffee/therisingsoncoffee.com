@@ -1,6 +1,6 @@
 # Rising Son Coffee — Launch Readiness
 
-Last structured: 2026-10-28
+Last structured: 2026-10-29
 
 ## GREEN — completed / proven
 - Custom-domain HTTPS enabled in GitHub Pages by owner on 2026-09-22; independently reverified 2026-09-27: HTTPS apex, `/founding40/`, `/robots.txt` and `/sitemap.xml` returned `200`; HTTP apex and HTTPS `www` resolved to the HTTPS apex with valid certificate verification.
@@ -435,3 +435,29 @@ The maintained consolidated list is `docs/owner-actions.md`.
 - **Owner decisions required now:** none newly created by this check.
 - **Launch blockers:** written FDACS classification; hosted `hello@` mailbox access/evidence; one viable primary plus two independent verified contingencies with quote-level economics and complete food-safety, traceability, recall, label and COI evidence; compliant final label; insurance decision; LLC/EIN; payment testing; explicit owner launch authorization.
 - **Next three priorities:** (1) obtain and archive FDACS's written classification with exact permit, fee and renewal term if applicable; (2) restore hosted-mailbox access and process existing agency/supplier replies without duplicate outreach; (3) convert the strongest inquiry-ready candidates into one verified primary and two independent contingencies, then complete label and insurance review before any checkout decision.
+
+
+## Launch operations check — 2026-10-29
+- Live browser verification passed for the HTTPS apex homepage and `/founding40/`. HTTPS `www` and HTTP apex both redirected to `https://therisingsoncoffee.com/`.
+- Live homepage canonical is `https://therisingsoncoffee.com/`; the Founding 40 canonical is `https://therisingsoncoffee.com/founding40/`.
+- Live `/robots.txt` allows crawling, excludes `/thanks.html`, and points to the HTTPS-apex sitemap. Live `/sitemap.xml` rendered and lists the apex, Founding 40, Story and legal pages.
+- Checkout remains visibly locked. Repository `checkout-config.js` remains `enabled: false` with an empty `paymentLink`; no orders or payments are accepted.
+- Repository `CNAME` remains `therisingsoncoffee.com`. No GitHub Pages, DNS, MX, SPF, DKIM or payment setting was edited.
+- Operator Coffee is reconciled as inquiry-ready only, not a quote, selected supplier, primary or verified contingency. Public screening supports roasting in Kamiah, Idaho, branded packaging and customer-direct shipping through a dedicated landing page or Shopify Collective. Sarcasm Fuel and House Blend Decaf are preliminary screens only. Unit/setup/label/packaging/warehousing/pick-pack/shipping/integration/payment/replacement terms; sizes/grinds; MOQ; samples; food licenses/FDA status; food-safety/allergen controls; lot-to-customer traceability; recall procedure; current audits/certifications; COI/additional-insured terms; indemnity; and label/recall allocation remain unverified.
+- Written FDACS classification for the exact supplier-roasted, Rising Son-branded, supplier-packed/stored/direct-shipped, no-home-handling model remains outstanding. No permit type, fee or renewal term is budgeted or assumed.
+- Liability insurance remains three separate questions: no universal purchase mandate is claimed without controlling authority; supplier/platform contracts may impose coverage; products/completed-operations coverage remains prudent risk protection. No insurer-issued Rising Son quote or insurance decision exists.
+- Automation inventory returned four enabled tasks and five paused tasks. The three enabled Rising Son tasks (Launch Ops, Supplier/Product and Finance) have distinct current work; the fourth enabled task is an unrelated independent-venture project. No Rising Son task was idle or redundant, capacity was not shown as constrained, and no automation was paused, resumed, created or swapped.
+- Launch readiness remains approximately 75%: reservation-ready, commerce locked.
+
+### Current blockers
+1. Written FDACS classification, including the exact permit, fee and renewal term if applicable.
+2. A verified primary supplier and two independent contingencies with complete economics, product/sample approval, food-safety, traceability, recall, label-responsibility and COI evidence.
+3. Hosted `hello@` mailbox access for outstanding agency/supplier evidence, plus the owner-approved insurance and final-label decisions before any checkout authorization.
+
+### Next three priorities
+1. Review the hosted mailbox and close the FDACS classification request without altering working mail DNS.
+2. Convert the strongest supplier candidates from public screens into written quote/evidence packages; do not count Operator Coffee or other inquiry-ready prospects as contingencies yet.
+3. Complete comparable products/completed-operations insurance quotes and final label/responsibility review, then batch only genuine owner decisions.
+
+### Owner decisions
+- None newly required today. Do not activate checkout, spend, bind insurance, select a supplier or make a product/price claim.
