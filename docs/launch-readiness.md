@@ -1,6 +1,6 @@
 # Rising Son Coffee — Launch Readiness
 
-Last structured: 2026-10-29
+Last structured: 2026-10-30
 
 ## GREEN — completed / proven
 - Custom-domain HTTPS enabled in GitHub Pages by owner on 2026-09-22; independently reverified 2026-09-27: HTTPS apex, `/founding40/`, `/robots.txt` and `/sitemap.xml` returned `200`; HTTP apex and HTTPS `www` resolved to the HTTPS apex with valid certificate verification.
@@ -461,3 +461,30 @@ The maintained consolidated list is `docs/owner-actions.md`.
 
 ### Owner decisions
 - None newly required today. Do not activate checkout, spend, bind insurance, select a supplier or make a product/price claim.
+
+
+## Launch operations check — 2026-10-30
+- Independent endpoint verification confirmed that the HTTPS apex homepage, `/founding40/`, `/robots.txt` and `/sitemap.xml` return `200`. HTTP apex and HTTPS `www` resolve to `https://therisingsoncoffee.com/`.
+- The live homepage canonical is `https://therisingsoncoffee.com/`; the Founding 40 canonical is `https://therisingsoncoffee.com/founding40/`. Live robots identifies the HTTPS-apex sitemap, and the repository sitemap continues to list the apex, Founding 40, Story, Privacy and Terms URLs.
+- The live homepage still displays **Checkout Locked** and states that no orders or payments are accepted. Repository `checkout-config.js` remains `enabled: false` with an empty `paymentLink`.
+- Repository `CNAME` remains `therisingsoncoffee.com`. Direct Pages-control and DNS-provider settings were not edited. No GitHub Pages, DNS, MX, SPF, DKIM, payment or checkout setting changed.
+- Supplier/Finance reconciliation: Contour Coffee is newly documented as inquiry-ready only, not a quote, selected supplier, primary or verified contingency. Public screening supports sourcing, roasting, branded white/private-label packing, packaging inventory, blind direct-to-customer fulfillment from Lakewood, Colorado, and Shopify/WooCommerce order integration.
+- Sumatra Mandheling Grade 1 / Sumatra Dark Roast and Dark Roast Decaf are preliminary Original/Decaf screens only. Complete Rising Son pricing, numeric MOQ, supported sizes/grinds, storage, pick/pack, integrations, subscriptions, 1-/2-/3-bag shipping, samples, payment and replacement terms remain unverified. Legal manufacturer/packer/distributor entities, facility licenses/FDA status, food-safety/allergen controls, finished-lot-to-customer traceability, recall procedure, current audits/certifications, products/completed-operations COI, additional-insured terms, indemnity and label/recall allocation remain missing.
+- Contour's public green-lot FIFO discussion does not establish finished-product lot-to-customer traceability or recall readiness. Public retail prices were excluded from launch economics.
+- Written FDACS classification for the exact supplier-roasted, Rising Son-branded, supplier-packed/stored/direct-shipped, no-home-handling model remains outstanding. No permit type, fee or renewal term is budgeted or assumed.
+- Liability insurance remains three separate questions: no universal purchase mandate is claimed without controlling authority; supplier/platform contracts may impose coverage; products/completed-operations coverage remains prudent risk protection. Finance records zero insurer-issued Rising Son quotes through 2026-10-29, so premiums, deductibles, limits, exclusions and nationwide private-label eligibility remain UNKNOWN, not $0.
+- Automation inventory shows four enabled tasks overall: the three distinct Rising Son tasks plus an unrelated independent-venture task. None is idle or redundant, capacity is not shown as constrained, and no automation was paused, resumed, created or swapped.
+- Launch readiness remains approximately 75%: reservation-ready, commerce locked.
+
+### Current blockers
+1. Written FDACS classification, including the exact permit, fee and renewal term if applicable.
+2. A verified primary supplier and two independent contingencies with quote-level economics, approved Original/Decaf samples and complete food-safety, traceability, recall, label-responsibility and COI evidence.
+3. Hosted `hello@` mailbox access for outstanding agency/supplier evidence, plus the owner-approved insurance and final-label decisions before any checkout authorization.
+
+### Next three priorities
+1. Review the hosted mailbox and close the FDACS classification request without altering working MX/SPF/DKIM.
+2. Convert the strongest supplier screens, including Contour, into written quote/evidence packages; do not count inquiry-ready prospects as contingencies.
+3. Obtain comparable products/completed-operations insurance quotes and complete final label/responsibility review, then batch only genuine owner decisions.
+
+### Owner decisions
+- None newly required today. Do not activate checkout, spend, bind insurance, select a supplier or publish unverified product, price, shipping or fulfillment claims.
