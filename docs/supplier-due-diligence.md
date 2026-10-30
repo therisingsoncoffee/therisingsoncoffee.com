@@ -849,3 +849,28 @@ Third-party audits and voluntary certifications are optional unless required by 
 Third-party audits and voluntary certifications are optional unless required by law, contract or a product claim. Any claimed audit or certification must include current scope and expiration evidence.
 
 **Status:** Inquiry-ready only. Contour Coffee does not count as a primary or contingency until a written Rising Son quote and documentary evidence close the product, economics, food-safety, traceability, recall, insurance and responsibility-allocation gaps. No sample, account, payment, agreement, product selection or volume promise was made.
+
+
+## White Coffee Corporation — researched 2026-10-30
+
+**Publicly supported fit**
+
+- Official pages identify White Coffee Corporation at 18-35 38th Street, Long Island City, New York 11105 and describe in-house coffee sourcing, roasting/manufacturing and packaging.
+- The private-label program publicly offers ground or whole-bean retail coffee from 10 ounces to 5 pounds, portion packs from 1.75 to 16 ounces, custom/national-brand-equivalent blends, single origins, flavored coffee and decaf, plus packaging design and custom branded finished packages.
+- The company homepage expressly advertises direct-to-customer shipping as part of its private-label service. This is directionally compatible with Rising Son's supplier-direct model, but it does not establish blind one-order-at-a-time ecommerce fulfillment, warehousing terms, order integration or a customer-level service commitment.
+- White Coffee publicly states SQF Level 3 status and describes GMP, sanitation, approved-supplier, physical-contaminant, product-transport, recall, HACCP and quality-monitoring programs. These statements are useful screening evidence only; the current certificate, scope, audit date and expiry were not captured.
+- Public contact evidence identifies info@whitecoffee.com. No message was sent because the connected Gmail profile remains therisingsoncoffee@gmail.com rather than an authenticated hosted hello@therisingsoncoffee.com mailbox.
+
+**Mandatory items still unverified in writing**
+
+- proposed year-round Original/Decaf pairing, sensory match, Decaf process, substitutions, grinds and Rising Son-specific bag sizes;
+- numeric MOQ, complete coffee/packaging/setup/storage/pick-pack/integration cost, payment terms and normal/peak lead times;
+- blind DTC workflow, nationwide eligibility, checkout/order integration, subscription support, packing-slip/return-address presentation, shipping matrix, replacements and customer communications;
+- exact legal entity and facility roles; applicable state/local food licenses and inspection evidence; FDA food-facility registration status or exemption;
+- current SQF certificate and audit scope/expiry, food-safety plan evidence, allergen controls, lot-to-order traceability, recall contacts and latest mock-recall result;
+- products/completed-operations COI, limits/territory/expiry, additional-insured availability/cost, indemnity, and allocation of label/regulatory/defect/recall responsibilities;
+- for any flavored coffee: ingredients, sub-ingredients, flavor carriers, processing aids, allergen statement and shared-equipment controls.
+
+**Status:** INQUIRY_READY_HOSTED_MAIL_REQUIRED. White Coffee is not a confirmed primary or contingency. No account, form submission, sample request, order, artwork upload, term acceptance, payment or volume commitment was made.
+
+**Duplicate/mail check:** The tracker contained no White Coffee record. A six-day Gmail search found no supplier, quote, sample, FDACS, insurance, bounce or delivery-status message, but Gmail history is not sufficient to clear the hosted mailbox. Review the hosted hello@ inbox and sent folder again immediately before any outreach.
