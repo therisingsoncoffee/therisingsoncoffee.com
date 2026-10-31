@@ -874,3 +874,40 @@ Third-party audits and voluntary certifications are optional unless required by 
 **Status:** INQUIRY_READY_HOSTED_MAIL_REQUIRED. White Coffee is not a confirmed primary or contingency. No account, form submission, sample request, order, artwork upload, term acceptance, payment or volume commitment was made.
 
 **Duplicate/mail check:** The tracker contained no White Coffee record. A six-day Gmail search found no supplier, quote, sample, FDACS, insurance, bounce or delivery-status message, but Gmail history is not sufficient to clear the hosted mailbox. Review the hosted hello@ inbox and sent folder again immediately before any outreach.
+
+## Paramount Coffee Company — inquiry-ready; DTC model unverified (researched 2026-10-31)
+
+Official evidence reviewed:
+- Private-label page: https://paramountcoffee.com/pages/wholesale-private-label-coffees
+- Packaging page: https://paramountcoffee.com/pages/packaging-options-wholesale
+- Certifications page: https://paramountcoffee.com/pages/certifications-wholesale
+- Wholesale team: https://paramountcoffee.com/pages/our-team-wholesale
+- Decaf collection: https://paramountcoffee.com/collections/decaf
+- Public facility/contact location: 5133 W Grand River Ave, Lansing, Michigan 48906.
+- Publicly states that it roasts and packages private-label coffee, can match or custom-build blends, conducts annual third-party audits plus internal testing and sensory evaluation, and offers lot-code tracking.
+- Public packaging page describes private-label package creation, existing package options and design support.
+- Public certification page claims SQF, USDA Organic, Fair Trade, Swiss Water Process, Rainforest Alliance and STAR-K capabilities. These are supplier claims only; current certificate numbers, facility scope, product scope and expiry dates have not been obtained.
+- Public decaf catalog demonstrates decaf capability in whole bean and ground formats, including a Swiss Water Process item. Retail catalog availability and pricing are not private-label terms.
+- Kara Wojcik is listed publicly as Sales Executive, Private Label & Retail Wholesale, at kwojcik@paramountcoffee.com.
+
+Mandatory fit and evidence gaps before the company can be considered a viable primary or contingency:
+- Written confirmation that the supplier itself sources/roasts, packs Rising Son-branded compliant retail bags, warehouses finished goods, preserves batch/lot traceability through each consumer order, and ships individual orders blind/direct to U.S. customers without Rising Son handling product.
+- Exact legal manufacturer, packer, warehouse operator and distributor; facility names/addresses; applicable licenses; FDA food-facility registration status and evidence where applicable.
+- Original and Decaf candidates for four launch SKUs (Original/Decaf × whole bean/ground), year-round availability, full flavor profiles, origin/blend, roast, decaffeination process, shelf life and similarity of Decaf to Original.
+- Exact private-label bag sizes, MOQ/minimum runs, unit coffee cost, bag/valve/label cost, artwork/setup/plate/change fees, warehousing, pick/pack, integration, subscription handling, account fees, payment terms and replacement/credit policy.
+- Shipping quotes/rate tables and zones for one-, two- and three-bag consumer orders; carrier/service levels, handling cutoffs, lead times, blind-presentation controls, return address and tracking flow.
+- Order ingestion and integrations, subscription support, inventory reporting, stockout/backorder controls and customer-service escalation.
+- Current food-safety plan summary, preventive controls, allergen cross-contact controls, flavored-coffee ingredient/allergen controls, sanitation, supplier approval and finished-product release.
+- Current SQF certificate and other certificate/audit evidence with certificate number, issuing body, facility/product scope and expiration; certifications are optional unless required by product claim or contract, while compliant manufacture/labeling, traceability and recall capability are mandatory.
+- Lot-to-consumer trace exercise, recall/withdrawal plan and contacts, most recent mock-recall summary, complaint/adverse-event and replacement procedures.
+- Product-liability COI with carrier, limits and expiration; ability/cost to name Rising Son as additional insured.
+- Proposed indemnity and written allocation of formula/specification, label review/approval, manufacturing defect, traceability, recall decision, recall cost and regulatory-notice responsibilities.
+- Final compliant label proof for each SKU, including statement of identity, net quantity, ingredient/allergen treatment where applicable, responsible-party name/address, lot/date coding and substantiation for any claims.
+
+Status and outreach control:
+- Status is **INQUIRY_READY_HOSTED_MAIL_REQUIRED_DTC_UNVERIFIED**, not viable and not selected.
+- No direct-to-consumer fulfillment claim was found on the reviewed official pages.
+- The connected Gmail profile is `therisingsoncoffee@gmail.com`, not the authenticated hosted `hello@therisingsoncoffee.com` mailbox. No email or web form was sent.
+- Before any send, re-open the hosted inbox and sent history, confirm the delivered From identity, and recheck this tracker for a prior Paramount thread.
+- No sample, fee, order, contract, volume commitment or product selection is authorized.
+
