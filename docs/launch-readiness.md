@@ -1,6 +1,6 @@
 # Rising Son Coffee — Launch Readiness
 
-Last structured: 2026-10-30
+Last structured: 2026-10-31
 
 ## GREEN — completed / proven
 - Custom-domain HTTPS enabled in GitHub Pages by owner on 2026-09-22; independently reverified 2026-09-27: HTTPS apex, `/founding40/`, `/robots.txt` and `/sitemap.xml` returned `200`; HTTP apex and HTTPS `www` resolved to the HTTPS apex with valid certificate verification.
@@ -484,6 +484,34 @@ The maintained consolidated list is `docs/owner-actions.md`.
 ### Next three priorities
 1. Review the hosted mailbox and close the FDACS classification request without altering working MX/SPF/DKIM.
 2. Convert the strongest supplier screens, including Contour, into written quote/evidence packages; do not count inquiry-ready prospects as contingencies.
+3. Obtain comparable products/completed-operations insurance quotes and complete final label/responsibility review, then batch only genuine owner decisions.
+
+### Owner decisions
+- None newly required today. Do not activate checkout, spend, bind insurance, select a supplier or publish unverified product, price, shipping or fulfillment claims.
+
+
+## Launch operations check — 2026-10-31
+- Repository deployment configuration remains intact: `CNAME` is `therisingsoncoffee.com`; homepage and Founding 40 canonicals point to the HTTPS apex; `robots.txt` allows crawling, excludes `/thanks.html` and declares the HTTPS-apex sitemap; `sitemap.xml` lists the apex, Founding 40, Story, Privacy and Terms URLs.
+- Repository `checkout-config.js` remains `enabled: false` with an empty `paymentLink`. Checkout and payments remain locked; no commercial activation was performed.
+- The independent public endpoint checker could not access the site today. This is not treated as outage evidence. The latest independent live verification remains 2026-10-30, when apex, Founding 40, robots, sitemap, HTTP redirect and `www` redirect checks passed.
+- Pages-control and DNS-provider settings were not edited. No GitHub Pages, DNS, MX, SPF, DKIM, payment or checkout setting changed.
+- Supplier/Finance reconciliation: White Coffee Corporation is newly documented as inquiry-ready only, not a quote, selected supplier, primary or verified contingency. Its official public material supports private-label sourcing/roasting, custom blends, whole-bean/ground formats, branded packaging, decaf, samples and direct-to-customer shipping.
+- White Coffee's public material also claims SQF Level 3, HACCP, GMP, sanitation, product-transport and recall controls. Current certificate/audit scope and expiry, facility licenses/FDA status, allergen evidence, finished-lot-to-customer traceability, recall contacts/mock-recall results, products/completed-operations COI, additional-insured terms, indemnity and label/recall responsibility remain unverified.
+- White Coffee's numeric MOQ, exact Original/Decaf pairing and Decaf process, complete coffee/packaging/setup/storage/pick-pack/integration/shipping/payment/replacement economics, blind one-order workflow and service levels remain UNKNOWN. Retail/catalog pricing is excluded from Rising Son COGS.
+- The connected Rising Son Gmail account returned no new supplier, FDACS, permit, classification, insurance, quote or premium message from the last three days. This Gmail view does not replace review of the hosted `hello@` mailbox and its sent folder.
+- Written FDACS classification for the exact supplier-roasted, Rising Son-branded, supplier-packed/stored/direct-shipped, no-home-handling model remains outstanding. No permit type, fee or renewal term is budgeted or assumed.
+- Liability insurance remains separated into legal, contractual and prudent-risk questions. No universal purchase mandate is claimed without controlling authority; supplier/platform requirements remain unknown; products/completed-operations coverage remains prudent risk protection. Finance records zero insurer-issued Rising Son quotes through 2026-10-30, so premium, deductible, limits, exclusions and nationwide private-label eligibility remain UNKNOWN, not $0.
+- Automation inventory shows four enabled tasks and five paused tasks. The three enabled Rising Son tasks are distinct and useful; the fourth enabled task is an unrelated independent-venture project. Capacity is not shown as constrained, no enabled task is genuinely idle or redundant, and no automation was paused, resumed, created or swapped.
+- Launch readiness remains approximately 75%: reservation-ready, commerce locked.
+
+### Current blockers
+1. Written FDACS classification, including the exact permit, fee and renewal term if applicable.
+2. A verified primary supplier and two independent contingencies with quote-level economics, approved Original/Decaf samples and complete food-safety, traceability, recall, label-responsibility and COI evidence.
+3. Hosted `hello@` mailbox access for outstanding agency/supplier evidence, plus the owner-approved insurance and final-label decisions before any checkout authorization.
+
+### Next three priorities
+1. Review the hosted mailbox and close the FDACS classification request without altering working MX/SPF/DKIM.
+2. Convert the strongest supplier screens, including White Coffee, into written quote/evidence packages; do not count inquiry-ready prospects as contingencies.
 3. Obtain comparable products/completed-operations insurance quotes and complete final label/responsibility review, then batch only genuine owner decisions.
 
 ### Owner decisions
