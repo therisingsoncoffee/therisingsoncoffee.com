@@ -1088,3 +1088,53 @@ hello@therisingsoncoffee.com
 
 **Hold control:** Send only from an authenticated hosted-mail session that delivers `From: hello@therisingsoncoffee.com`. Before sending, review the hosted inbox/sent history and tracker for a Paramount thread. Do not use connected Gmail or a website form. Do not authorize samples, charges, contracts or volume.
 
+## Black Ink Coffee Company — HELD, DO NOT SEND FROM GMAIL OR WEB FORM (prepared 2026-11-01)
+
+**Intended recipient:** Black Ink Coffee Company  
+**Official address:** info@blackinkcoffee.com  
+**Subject:** Rising Son Coffee — private-label Original, Decaf and blind fulfillment qualification
+
+Hello Black Ink team,
+
+I’m evaluating private-label roasting partners for Rising Son Coffee, a Florida-based online brand. Our required model is supplier sourced and roasted coffee, packed in compliant Rising Son-branded retail bags, warehoused with batch/lot traceability, and shipped individually and blind to U.S. customers. Rising Son will not store, pack or handle food.
+
+Your public program describes roasting, packaging, holding agreed inventory and shipping individual orders from New Hampshire. It also lists a $150 onboarding charge, one-year commitment, monthly minimum tiers and customer-supplied pre-labeled bags as the standard packaging model. Before deciding whether the program fits, could you provide written answers and supporting documents for the following?
+
+**Mandatory operating-model fit**
+- Can Black Ink source/procure the retail bags, print or apply compliant Rising Son labels, approve the final label, warehouse finished goods, and ship every individual order without Rising Son sourcing packaging or handling food?
+- Is fulfillment completely blind, including box, packing slip, return address, tracking emails and customer-facing support?
+- Can a short pilot or evaluation period be quoted without a one-year commitment or prepaid monthly minimum? If not, please provide the full minimum-payment exposure, termination terms and treatment of unused quantities.
+
+**Product and samples**
+- Recommended year-round Original: rich/bright aroma, low perceived acidity and bitterness, earthy tones, strong smooth full flavor and clean aftertaste. Inkwell and Sumatra appear directionally relevant; please identify the best private-label candidate.
+- Recommended Decaf as close as practical to that Original. Maverick Decaf appears promising; please confirm private-label eligibility, Swiss Water documentation and year-round supply.
+- Whole bean and ground availability, all private-label bag sizes/grinds, origins/blends, roast levels, shelf life and flavor profiles for all four launch SKUs.
+- Sample options and all costs. Please do not ship or charge anything without separate written authorization.
+
+**Complete commercial and fulfillment quote**
+- Itemized unit price by SKU and volume tier, onboarding, monthly minimum, bag/valve, label/printing, artwork/proof/setup/changeover, warehousing, pick/pack, platform/integration, subscription handling, inserts, account charges and replacement fees.
+- Production/onboarding lead times, normal and peak roast-to-ship SLA, inventory reporting, stockout/backorder handling, order cutoffs, tracking flow and payment terms.
+- Exact 1/2/3-bag postage assumptions by zone/service using Pirate Ship, including packed dimensions/weights, handling, residential/fuel surcharges, returns, address errors, damage and carrier-loss allocation.
+- Supported ecommerce integrations and subscription workflow.
+
+**Mandatory safety, traceability and responsibility evidence**
+- Legal manufacturer, packer, warehouse operator and distributor; facility name/location; applicable food licenses; and FDA food-facility registration status/evidence where applicable.
+- Current food-safety plan summary, preventive controls, sanitation, supplier approval, allergen cross-contact controls and finished-product release.
+- Lot-code system through each consumer order, recall/withdrawal procedure and contacts, and a recent mock-recall summary.
+- Current audits/certifications, if any, with issuer, facility/product scope and expiration. Optional certifications are welcome but do not replace mandatory food-safety, traceability and recall evidence.
+- Products/completed-operations certificate of insurance with carrier, limits and expiration; ability and cost to name Rising Son as additional insured.
+- Proposed indemnity and allocation of formula/specification, label review/approval, manufacturing defect, traceability, recall decision/cost and regulatory-notice responsibilities.
+- Representative final-label proof and identification of who is legally responsible for each required label element and claim substantiation.
+
+If flavored coffee is offered, please also provide ingredient specifications, flavor carriers, allergen statements, shared-equipment/cross-contact controls and label treatment.
+
+Rising Son currently offers a free Founding 40 reservation. It precedes any verified offer and any qualifying future purchase; it is not a preorder and does not commit us to volume.
+
+We are comparing programs and are not placing an order, accepting terms, funding a shipping account or selecting a supplier through this inquiry.
+
+Best,  
+Rising Son Coffee  
+hello@therisingsoncoffee.com
+
+**Hold control:** Send only from an authenticated hosted-mail session that delivers `From: hello@therisingsoncoffee.com`. Before sending, review the hosted inbox/sent history and tracker for a Black Ink thread. Do not use connected Gmail or a website form. Do not authorize onboarding, minimums, Pirate Ship funding, samples, charges, contracts or volume.
+
