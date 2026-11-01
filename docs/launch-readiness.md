@@ -516,3 +516,32 @@ The maintained consolidated list is `docs/owner-actions.md`.
 
 ### Owner decisions
 - None newly required today. Do not activate checkout, spend, bind insurance, select a supplier or publish unverified product, price, shipping or fulfillment claims.
+
+## Launch operations check — 2026-11-01
+- Direct browser verification passed for the live HTTPS apex and Founding 40 page. The HTTP apex and `www` both resolve to the HTTPS apex.
+- Homepage canonical is `https://therisingsoncoffee.com/`; Founding 40 canonical is `https://therisingsoncoffee.com/founding40/`.
+- Live `robots.txt` allows crawling, excludes `/thanks.html` and declares the HTTPS-apex sitemap. Live `sitemap.xml` lists the apex, Founding 40, Story, Privacy and Terms URLs.
+- Live checkout remains visibly locked: the button is disabled and the page states that no orders or payments are accepted. Repository `checkout-config.js` remains `enabled: false` with an empty `paymentLink`. No commercial activation was performed.
+- Repository deployment configuration remains intact: `CNAME` is `therisingsoncoffee.com`. No Pages, DNS, MX, SPF, DKIM, payment or checkout setting was changed.
+- Supplier/Finance reconciliation: Paramount Coffee Company is newly documented as inquiry-ready only, not a quote, selected supplier, primary or verified contingency. Public material supports private-label roasting/packing, custom and matched blends, branded packaging, annual third-party audits, internal testing/sensory evaluation, lot-code tracking and Swiss Water Process capability.
+- Paramount's individual blind direct-to-customer fulfillment, warehousing, pick/pack, integrations, numeric MOQ, Original/Decaf pairing, sample terms and complete unit/packaging/setup/storage/shipping/payment/replacement economics remain UNKNOWN.
+- Paramount's legal manufacturer/packer/warehouse/distributor roles, facility licenses/FDA status, current SQF and other certificate scope/expiry, allergen controls, finished-lot-to-customer traceability, recall contacts/mock-recall evidence, products/completed-operations COI, additional-insured terms, indemnity and label/recall responsibility remain unverified.
+- The connected Rising Son Gmail account returned no new supplier, FDACS, permit, classification, insurance, quote or premium message from the last two days. This Gmail view does not replace direct review of the hosted `hello@` mailbox and sent folder.
+- Written FDACS classification for the exact supplier-roasted, Rising Son-branded, supplier-packed/stored/direct-shipped, no-home-handling model remains outstanding. No permit type, fee or renewal term is budgeted or assumed.
+- Liability insurance remains separated into legal, contractual and prudent-risk questions. No universal purchase mandate is claimed without controlling authority; supplier/platform requirements remain unknown; products/completed-operations coverage remains prudent risk protection. Finance records zero insurer-issued Rising Son quotes through 2026-10-31, so premium, deductible, limits, exclusions and nationwide private-label eligibility remain UNKNOWN, not $0.
+- Automation inventory shows four enabled tasks and eight paused tasks. The three enabled Rising Son tasks are distinct and useful; the fourth enabled task is an unrelated independent-venture project. Capacity is not shown as constrained, no enabled task is genuinely idle or redundant, and no automation was paused, resumed, created or swapped.
+- Launch readiness remains approximately 75%: reservation-ready, commerce locked.
+
+### Current blockers
+1. Written FDACS classification, including the exact permit, fee and renewal term if applicable.
+2. A verified primary supplier and two independent contingencies with quote-level economics, approved Original/Decaf samples and complete food-safety, traceability, recall, final-label, responsibility-allocation and COI evidence.
+3. Hosted `hello@` mailbox access for outstanding agency/supplier evidence, plus comparable insurance quotes and owner-approved insurance/final-label decisions before checkout authorization.
+
+### Next three priorities
+1. Review the hosted mailbox and close the FDACS classification request without altering working MX/SPF/DKIM.
+2. Convert the strongest supplier screens into written quote/evidence packages; first disqualify any candidate that cannot support supplier-held inventory and blind individual DTC fulfillment, and do not count inquiry-ready prospects as contingencies.
+3. Obtain comparable products/completed-operations insurance quotes and complete final label/responsibility review, then batch only genuine owner decisions.
+
+### Owner decisions
+- None newly required today. Do not activate checkout, spend, bind insurance, select a supplier or publish unverified product, price, shipping or fulfillment claims.
+
