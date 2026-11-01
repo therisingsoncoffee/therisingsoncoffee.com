@@ -911,3 +911,41 @@ Status and outreach control:
 - Before any send, re-open the hosted inbox and sent history, confirm the delivered From identity, and recheck this tracker for a prior Paramount thread.
 - No sample, fee, order, contract, volume commitment or product selection is authorized.
 
+## Black Ink Coffee Company — inquiry-ready; high-commitment and packaging fit unresolved (researched 2026-11-01)
+
+Official evidence reviewed:
+- Dropship program: https://blackinkcoffee.com/products/dropship
+- Fulfillment overview: https://blackinkcoffee.com/pages/coffee-dropshipping
+- Private-label page: https://blackinkcoffee.com/pages/private-label-coffee
+- Decaf product: https://blackinkcoffee.com/products/best-decaf-coffee
+- Inkwell product: https://blackinkcoffee.com/products/inkwell
+- Sumatra product: https://blackinkcoffee.com/products/sumatra-coffee
+- Contact page: https://blackinkcoffee.com/pages/contact
+- Public contact: info@blackinkcoffee.com; 5 Sawmill Drive #4, Jaffrey, NH 03452.
+- Publicly states it can roast, package, hold agreed inventory and ship individual orders from its New Hampshire facility.
+- Standard fulfillment tiers publicly state a $150 onboarding charge, one-year commitment and a baseline 25-bag monthly minimum. Optional 100- and 500-bag minimum tiers reduce the advertised 12 oz bag price. Unused monthly quantities expire without rollover, credit or refund. These are public program terms, not a Rising Son quote or accepted terms.
+- Standard packaging model calls for customer-supplied, pre-labeled, ready-to-fill bags. Custom labels, boxes, inserts and special assembly require review and separate pricing. This is a material fit gap until Black Ink confirms it can source, print/apply and approve compliant Rising Son-branded packaging.
+- Outbound postage is paid through the brand's funded Pirate Ship account. A public $6–$12 single-order example is illustrative only and is not a rate, quote or modeling input.
+- Inkwell is a preliminary Original screen: dark roast with caramel, dark chocolate and smooth notes. Sumatra is an earthy medium-roast comparison with chocolate/fudge/honey notes.
+- Maverick Decaf is a preliminary Decaf screen: Swiss Water Process, medium-dark roast, very low acidity, creamy, dark chocolate and smooth. Product-page claims do not establish private-label eligibility or similarity to the final Original.
+
+Mandatory fit and evidence gaps before Black Ink can be considered a viable primary or contingency:
+- Written confirmation that Black Ink itself sources and roasts the coffee, sources/applies compliant Rising Son-branded retail packaging, warehouses finished goods, preserves finished-lot-to-consumer-order traceability and ships individual orders blind. If Rising Son must independently procure/manage compliant bags or perform any food handling, the program does not meet the required operating model.
+- A nonbinding Rising Son-specific proposal showing whether a no- or shorter-commitment pilot exists; complete monthly minimum exposure; unused-inventory treatment; termination terms; and all onboarding, coffee, bag, valve, label, artwork, proof, setup, changeover, storage, pick/pack, integration, subscription, insert and replacement charges.
+- Exact 1/2/3-bag Pirate Ship assumptions by zone/service, packed dimensions/weights, handling fees, residential/fuel surcharges, return address, tracking flow and who bears address-error, damage and carrier-loss costs.
+- Original and Decaf private-label eligibility for all four launch SKUs (Original/Decaf × whole bean/ground), year-round availability, origin/blend, roast, flavor profile, decaffeination evidence, shelf life and Decaf similarity.
+- Sample availability, cost, shipping, credits and authorization process. No sample may be sent or charged without separate written approval.
+- Legal manufacturer, packer, warehouse operator and distributor; facility names/addresses; applicable licenses; FDA food-facility registration status/evidence where applicable.
+- Food-safety plan summary, preventive controls, sanitation, supplier approval, allergen cross-contact controls, finished-product release and flavored-coffee ingredient/allergen controls if flavored products are proposed.
+- Current third-party audits/certifications, if any, with certificate number, issuer, facility/product scope and expiry. Certifications are optional unless used for a claim or contract; compliant manufacture/labeling, traceability and recall capability are mandatory.
+- Finished-lot-to-consumer-order trace exercise, recall/withdrawal plan and contacts, recent mock-recall summary, complaint/adverse-event handling and replacement procedures.
+- Products/completed-operations COI with carrier, limits and expiration; ability/cost to name Rising Son as additional insured.
+- Proposed indemnity and written allocation of formula/specification, label review/approval, manufacturing defect, traceability, recall decision/cost and regulatory-notice responsibilities.
+- Final compliant label proof for each SKU and identification of the legally responsible party for every required element and claim.
+
+Status and controls:
+- Status is **INQUIRY_READY_HOSTED_MAIL_REQUIRED_HIGH_COMMITMENT_PACKAGING_CLARIFICATION**, not viable and not selected.
+- Connected Gmail is `therisingsoncoffee@gmail.com`, not an authenticated hosted `hello@therisingsoncoffee.com` session. No email or website form was sent.
+- Before sending, review the hosted inbox and sent history, confirm delivered From identity and recheck the tracker for a Black Ink thread.
+- No onboarding, minimum commitment, Pirate Ship funding, sample, fee, order, account, contract or product selection is authorized.
+
