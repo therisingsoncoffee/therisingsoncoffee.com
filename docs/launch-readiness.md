@@ -1,6 +1,6 @@
 # Rising Son Coffee — Launch Readiness
 
-Last structured: 2026-10-31
+Last structured: 2026-11-02
 
 ## GREEN — completed / proven
 - Custom-domain HTTPS enabled in GitHub Pages by owner on 2026-09-22; independently reverified 2026-09-27: HTTPS apex, `/founding40/`, `/robots.txt` and `/sitemap.xml` returned `200`; HTTP apex and HTTPS `www` resolved to the HTTPS apex with valid certificate verification.
@@ -545,3 +545,31 @@ The maintained consolidated list is `docs/owner-actions.md`.
 ### Owner decisions
 - None newly required today. Do not activate checkout, spend, bind insurance, select a supplier or publish unverified product, price, shipping or fulfillment claims.
 
+
+
+## Launch operations check — 2026-11-02
+- Repository deployment configuration remains intact: `CNAME` is `therisingsoncoffee.com`; homepage and Founding 40 canonicals point to the HTTPS apex; `robots.txt` allows crawling, excludes `/thanks.html` and declares the HTTPS-apex sitemap; `sitemap.xml` lists the apex, Founding 40, Story, Privacy and Terms URLs.
+- Repository `checkout-config.js` remains `enabled: false` with an empty `paymentLink`. The homepage source retains the disabled **Checkout Locked** control and states that no orders or payments are accepted. No commercial activation was performed.
+- The independent public endpoint checker could not access the apex, Founding 40, HTTP, `www`, robots or sitemap URLs during this run. This is not treated as evidence of an outage. The latest independent live verification remains 2026-11-01, when the live surfaces, redirects, canonicals and crawl files passed.
+- Supplier/Finance reconciliation: Black Ink Coffee Company is documented as inquiry-ready only, not a quote, selected supplier, primary or verified contingency. Its public program supports roasting, packaging, holding agreed inventory and shipping individual orders from a New Hampshire facility.
+- Black Ink's standard program requires customer-supplied, pre-labeled, ready-to-fill bags rather than confirming supplier-provided compliant Rising Son packaging. It also advertises a 25-bag monthly minimum at $11.50 per 12 oz bag, $150 onboarding, a one-year commitment, separate actual postage through a brand-funded Pirate Ship account, separately quoted customization, and expiration of unused monthly quantities without rollover, credit, refund or reserved inventory. These are advertised screening terms, not a Rising Son quote or approved economics.
+- The preliminary finance screen is $287.50 per billed month and $3,600 first-year minimum-payment exposure including onboarding, before packaging, postage, processing, tax, refunds, insurance and all other unresolved costs. This assumption is not landed COGS and does not authorize a plan or commitment.
+- Inkwell/Sumatra and Maverick Swiss Water Decaf are preliminary Original/Decaf screens only. Exact private-label eligibility, supplier-provided packaging, legal manufacturer/packer/warehouse/distributor roles, licenses/FDA status, food-safety and allergen controls, finished-lot-to-customer traceability, recall procedure, current products/completed-operations COI, additional-insured terms, indemnity, label/recall allocation, samples and complete service economics remain unverified.
+- The authenticated hosted `hello@` mailbox remains unavailable to the connected tools, so the prepared qualification request remains held and no duplicate or Gmail-substituted outreach was sent.
+- Written FDACS classification for the exact supplier-roasted, Rising Son-branded, supplier-packed/stored/direct-shipped, no-home-handling model remains outstanding. No permit type, fee or renewal term is budgeted or assumed.
+- Liability insurance remains separated into legal, contractual and prudent-risk questions. No universal purchase mandate is claimed without controlling authority; supplier/platform requirements remain unknown; products/completed-operations coverage remains prudent risk protection. Zero insurer-issued Rising Son quotes exist through 2026-11-01, so premium, deductible, limits, exclusions and nationwide private-label eligibility remain UNKNOWN, not $0.
+- Automation inventory shows four enabled tasks: the three distinct Rising Son operating tasks plus an unrelated independent-venture task. Each has current value, capacity is not shown as constrained, and no task was paused, resumed, created or swapped.
+- No Pages, DNS, MX, SPF, DKIM, payment, supplier-selection, insurance-binding, entity-formation, purchasing or checkout setting was changed. Launch readiness remains approximately 75%: reservation-ready, commerce locked.
+
+### Current blockers
+1. Written FDACS classification, including the exact permit, fee and renewal term if applicable.
+2. A verified primary supplier and two independent contingencies with quote-level economics, approved Original/Decaf samples and complete food-safety, traceability, recall, final-label, responsibility-allocation and COI evidence.
+3. Hosted `hello@` mailbox access for outstanding agency/supplier evidence, plus comparable insurance quotes and owner-approved insurance/final-label decisions before checkout authorization.
+
+### Next three priorities
+1. Review the hosted mailbox and close the FDACS classification request without altering working MX/SPF/DKIM.
+2. Convert the strongest supplier screens into written quote/evidence packages; treat Black Ink as a high-commitment packaging-mismatch screen unless written pilot terms materially change the model.
+3. Obtain comparable products/completed-operations insurance quotes and complete final label/responsibility review, then batch only genuine owner decisions.
+
+### Owner decisions
+- None newly required today. Do not activate checkout, spend, bind insurance, select a supplier or publish unverified product, price, shipping or fulfillment claims.
