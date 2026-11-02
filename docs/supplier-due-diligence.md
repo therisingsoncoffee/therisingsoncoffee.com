@@ -949,3 +949,41 @@ Status and controls:
 - Before sending, review the hosted inbox and sent history, confirm delivered From identity and recheck the tracker for a Black Ink thread.
 - No onboarding, minimum commitment, Pirate Ship funding, sample, fee, order, account, contract or product selection is authorized.
 
+## Lifeboat Coffee Co. — research-only; high-upfront batch model (researched 2026-11-02)
+
+Official evidence reviewed:
+- Private-label/drop-shipping page: https://lifeboatcoffee.com/pages/full-service-roasting-private-labeling-shipping
+- Contact page: https://lifeboatcoffee.com/pages/contact-us
+- Company story: https://lifeboatcoffee.com/pages/about
+- Original screen: https://lifeboatcoffee.com/products/port-of-jakarta-rare-shade-grown-sumatran-gayo-usda-organic
+- Decaf screen: https://lifeboatcoffee.com/products/capsized-full-bodied-dark-roast-decaf-wh-bn
+- Public facility/contact: Lifeboat Coffee Co., 536 E. Dunlap Ave. Ste 7, Phoenix, AZ 85020; 623-205-8542. A current official direct email address was not identified, so no address was guessed and no form or phone contact was used.
+- Public private-label terms start at $14.25 per 1 lb unit, with origin-specific premiums possible, a 40-piece minimum, 50% down upon contract and the remaining 50% upon proof of shipment. At the advertised starting unit price, the minimum product amount screens at $570 before shipping and other unknown charges, with an initial 50% payment of at least $285 if the quoted contract matched the starting rate. This is arithmetic from public terms, not a Rising Son quote, accepted contract or approved cash requirement.
+- The page says Rising Son would provide artwork, Lifeboat would create a label for approval, Rising Son's back office would send a CSV customer list, and Lifeboat would print labels, roast and drop ship within 96 hours. USPS tiered shipping is quoted upon contract.
+- The public workflow does not establish ongoing one-order-at-a-time ecommerce integration, supplier-held finished inventory, fully blind presentation, return identity, subscription processing or whether the 40-piece minimum repeats by batch, SKU or campaign.
+- Port of Jakarta Sumatran Gayo is a preliminary Original screen only: full body, spice-like aroma, smooth dry flavor and low acidity.
+- Capsized Full-Bodied Dark Roast Decaf is a preliminary Decaf screen only: water-processed Colombian dark roast. Exact sensory similarity to a selected Original and private-label eligibility are unverified.
+- Retail prices, affiliate claims and ideological/charitable marketing were excluded from Rising Son product economics and offer claims.
+
+Mandatory fit and evidence gaps before Lifeboat could count as a viable primary or contingency:
+- A written Rising Son-specific proposal confirming Lifeboat sources and roasts the coffee, supplies and applies compliant Rising Son-branded packaging, stores finished goods under lot control and ships each customer order blind without Rising Son handling food.
+- Clarification of whether the 40-piece minimum can be split across Original/Decaf and whole-bean/ground, whether it repeats, whether inventory is produced before customer orders and whether a no-deposit or small pilot exists.
+- Complete unit, origin premium, bag, valve, label, artwork, proof, setup, changeover, storage, pick/pack, integration, subscription, insert, account, payment and replacement charges.
+- Exact 1/2/3-bag USPS rates by zone/service, packed weights/dimensions, handling and surcharges, tracking, return address, undeliverable/return flow and allocation of address-error, damage and carrier-loss costs.
+- Original/Decaf private-label eligibility for all four launch SKUs, year-round supply, origins/blends, roast levels, grind options, shelf life, flavor specifications and decaffeination evidence.
+- Sample availability, cost, shipping and credits. No sample may be shipped or charged without separate written authorization.
+- Legal manufacturer, packer, warehouse operator and distributor; facility identity; applicable food licenses; and FDA food-facility registration status/evidence where applicable.
+- Food-safety plan summary, preventive controls, sanitation, supplier approval, allergen cross-contact controls, finished-product release and flavored-coffee ingredient/allergen controls if proposed.
+- Current third-party audits/certifications, if any, including issuer, certificate number, facility/product scope and expiry. Optional certifications do not replace mandatory compliance, traceability and recall evidence.
+- Finished-lot-to-consumer-order trace exercise, recall/withdrawal procedure and contacts, recent mock-recall summary, complaint handling and replacement policy.
+- Products/completed-operations COI with carrier, limits and expiration; ability and cost to name Rising Son as additional insured.
+- Indemnity and written allocation of formula/specification, label approval, manufacturing defect, traceability, recall decision/cost and regulatory-notice responsibilities.
+- Final compliant label proof for every SKU and identification of the responsible party for every required statement and claim.
+
+Status and controls:
+- Status is **RESEARCH_ONLY_HIGH_UPFRONT_BATCH_MINIMUM_CONTACT_CHANNEL_UNVERIFIED**, not viable and not selected.
+- Connected Gmail is `therisingsoncoffee@gmail.com`, not the hosted `hello@therisingsoncoffee.com` mailbox. Recent Gmail search found no relevant supplier reply or delivery notice.
+- A current official direct email was not found. Do not guess an address, use the website form, call, or send from Gmail.
+- Before any outreach, restore/authenticate hosted `hello@`, verify its delivered From identity, review hosted inbox/sent history, and obtain or verify a current official recipient.
+- No deposit, minimum order, sample, account, payment, agreement, product selection or volume commitment is authorized.
+
