@@ -1138,3 +1138,54 @@ hello@therisingsoncoffee.com
 
 **Hold control:** Send only from an authenticated hosted-mail session that delivers `From: hello@therisingsoncoffee.com`. Before sending, review the hosted inbox/sent history and tracker for a Black Ink thread. Do not use connected Gmail or a website form. Do not authorize onboarding, minimums, Pirate Ship funding, samples, charges, contracts or volume.
 
+## Lifeboat Coffee Co. — HELD, NO VERIFIED CURRENT EMAIL; DO NOT SEND FROM GMAIL OR WEB FORM (prepared 2026-11-02)
+
+**Intended recipient:** Lifeboat Coffee private-label team  
+**Official direct email:** NOT VERIFIED — do not use the historical third-party address found in old press  
+**Subject:** Rising Son Coffee — private-label Original, Decaf and blind fulfillment qualification
+
+Hello Lifeboat Coffee team,
+
+I’m evaluating private-label roasting partners for Rising Son Coffee, a Florida-based online brand. Our required model is supplier-sourced and roasted coffee, packed in compliant Rising Son-branded retail bags, warehoused with batch/lot traceability, and shipped individually and blind to U.S. customers. Rising Son will not store, pack or handle food.
+
+Your public page describes private-label coffee starting at $14.25 per one-pound unit, a 40-piece minimum, 50% down upon contract, customer-list CSV processing, label creation from supplied artwork, and print/roast/drop-ship service within 96 hours. Before deciding whether this can fit our low-volume ecommerce model, please provide written answers and supporting evidence for the following.
+
+**Mandatory operating-model fit**
+- Does Lifeboat itself source and roast the coffee, supply the retail bags, print/apply and approve the compliant Rising Son label, warehouse finished goods under lot control, and ship each individual customer order?
+- Is the shipment fully blind, including box, packing slip, return identity, tracking messages and customer-facing support?
+- Is the 40-piece minimum per batch, SKU, roast, grind, shipment campaign or contract? Can it be split across Original/Decaf and whole-bean/ground?
+- Is a small no-deposit pilot or on-demand one-order-at-a-time program available? If not, please provide complete minimum cash exposure, cancellation terms and treatment of unsold or unused product.
+- What ecommerce integrations, order-import process and subscription workflow are supported?
+
+**Products and samples**
+- Recommend a year-round Original with rich/bright aroma, low perceived acidity and bitterness, earthy tones, strong smooth full flavor and a clean aftertaste. Port of Jakarta Sumatran Gayo appears directionally relevant; please confirm private-label eligibility or recommend a better fit.
+- Recommend a Decaf as close as practical to that Original. Capsized Dark Roast Decaf appears directionally relevant; please confirm private-label eligibility, water-process documentation, year-round supply and sensory profile.
+- Confirm whole-bean and ground availability, all bag sizes/grinds, origins/blends, roast levels, shelf life and flavor specifications for all four launch SKUs.
+- Provide sample options and all costs. Please do not ship or charge anything without separate written authorization.
+
+**Complete commercial and fulfillment quote**
+- Itemize coffee by SKU and volume, origin premiums, bag/valve, label printing, artwork/proof/setup/changeover, storage, pick/pack, order-import/integration, subscription handling, inserts, account charges, payment terms and replacement fees.
+- Provide onboarding, production and normal/peak roast-to-ship timing, order cutoff, inventory reporting, stockout/backorder handling and tracking flow.
+- Provide exact 1/2/3-bag USPS rates by zone/service, packed dimensions/weights, handling and surcharges, return identity and allocation of address-error, damage, carrier-loss and undeliverable costs.
+
+**Mandatory safety, traceability and responsibility evidence**
+- Identify the legal manufacturer, packer, warehouse operator and distributor; facility name/location; applicable food licenses; and FDA food-facility registration status/evidence where applicable.
+- Provide a food-safety plan summary, preventive controls, sanitation, supplier approval, allergen cross-contact controls and finished-product release procedures.
+- Provide the finished-lot-to-consumer-order trace process, recall/withdrawal procedure and contacts, and a recent mock-recall summary.
+- Provide current audits/certifications, if any, with issuer, facility/product scope and expiration. Optional certifications do not replace mandatory compliance, traceability and recall evidence.
+- Provide a products/completed-operations certificate of insurance showing carrier, limits and expiration, plus ability and cost to name Rising Son as additional insured.
+- Provide proposed indemnity and allocation of formula/specification, label review/approval, manufacturing defect, traceability, recall decision/cost and regulatory-notice responsibilities.
+- Provide a representative final-label proof and identify who is responsible for every required label element and claim substantiation.
+
+If flavored coffee is offered, please also provide ingredient specifications, flavor carriers, allergen statements, shared-equipment controls and label treatment.
+
+Rising Son currently offers a free Founding 40 reservation. It precedes any verified offer and any qualifying future purchase; it is not a preorder and does not commit us to volume.
+
+We are comparing programs and are not placing an order, accepting terms, paying a deposit or selecting a supplier through this inquiry.
+
+Best,  
+Rising Son Coffee  
+hello@therisingsoncoffee.com
+
+**Hold control:** Do not send until a current official direct recipient is verified and an authenticated hosted-mail session proves delivery with `From: hello@therisingsoncoffee.com`. Review hosted inbox/sent history and the tracker first. Do not use connected Gmail, the website form or a guessed/historical address. Do not authorize a deposit, 40-piece minimum, samples, charges, contracts or volume.
+
