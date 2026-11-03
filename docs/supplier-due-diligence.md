@@ -987,3 +987,37 @@ Status and controls:
 - Before any outreach, restore/authenticate hosted `hello@`, verify its delivered From identity, review hosted inbox/sent history, and obtain or verify a current official recipient.
 - No deposit, minimum order, sample, account, payment, agreement, product selection or volume commitment is authorized.
 
+## Bootleg Supply Co. / Appalachian Coffee Provisions — inquiry-ready; Decaf and economics unverified (researched 2026-11-03)
+
+### Verified public evidence
+
+- Official materials identify Appalachian Coffee Provisions as Bootleg Supply Co.'s wholesale, private-label and fulfillment program at 582 W Main St, Sylva, North Carolina.
+- The supplier says it sources green coffee, roasts weekly/to order, handles branding on stock bags or fully printed packaging, and can pick, pack and ship directly to customers so the brand does not hold inventory or touch a box.
+- Public formats include nitrogen-flushed, roast-dated 12 oz retail bags plus 2 lb and 5 lb formats, with whole bean or drip grind stated. Sample packs are advertised.
+- The program says it ships nationwide, has a seven-day minimum lead time, and requires prepayment for the first order. Pricing is application-only.
+- Popskull Pitch is publicly described as an El Salvador Monte Verde medium roast. That is only a comparison candidate; the full Rising Son sensory target has not been confirmed.
+- The current official contact is wholesale@blueridgebootleg.com.
+
+### Mandatory qualification gaps
+
+- No Decaf offering, decaffeination method, year-round availability or similarity to Original was found. Decaf is a launch-model gate.
+- Obtain the exact legal entities and facility locations that source, roast/manufacture, grind, pack, warehouse, distribute and ship; applicable state/local food licenses; and FDA food-facility registration status or exemption.
+- Obtain food-safety/preventive-controls, sanitation, supplier-approval and allergen/cross-contact evidence. If flavored coffee is offered, obtain every ingredient/sub-ingredient, flavor carrier, processing aid, allergen statement and shared-equipment control.
+- Obtain lot-to-finished-product-to-customer-order traceability, record retention, recall/withdrawal procedure and contacts, and the latest mock-recall result.
+- Obtain current products/completed-operations COI with carrier, limits, territory and expiration; ability/cost to name Rising Son additional insured; indemnity; and written allocation of label, defect, traceability, recall and regulatory responsibilities.
+- Obtain a representative final label and identify the party responsible for drafting, review, regulatory compliance, manufacturer/packer/distributor identification and claim substantiation.
+- Third-party audits or voluntary certifications are optional unless required by law, contract or a product claim; any cited certification needs current scope and expiration evidence.
+
+### Commercial and operating gaps
+
+- Confirm a year-round Original that matches the full target and a Decaf close to it, both whole bean and ground, with all supported net weights and substitution policy.
+- Obtain numeric MOQ and split rules across Original/Decaf, grind, size and label variants.
+- Obtain itemized coffee, grinding, bag/valve, filling, label, artwork/proof/setup, custom-print, storage, pick/pack, insert, account, integration, subscription and recurring costs.
+- Obtain 1/2/3-bag shipping rates by representative zones plus PO boxes, Alaska/Hawaii, territories, military, remote, fuel and peak charges.
+- Confirm blind presentation, return identity, tracking/customer communications, integrations/order methods, subscriptions, inventory reporting, stockouts, normal/peak SLA, payment terms, quote validity and price-change notice.
+- Obtain replacement/credit allocation for carrier loss/damage, wrong or stale product, roast defects, misprints, address errors, undeliverables and missed SLAs.
+- Obtain sample contents, exact product/shipping cost and credit terms. No sample, payment or shipment is authorized.
+
+### Outreach control
+
+A full qualification draft is held for wholesale@blueridgebootleg.com. The connected Gmail account cannot prove an authenticated delivered From identity of hello@therisingsoncoffee.com, so it must not be used. Before any send, review the hosted hello@ inbox, sent folder, prior threads and tracker, then verify a test delivery preserves the exact From identity.
