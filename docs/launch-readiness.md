@@ -1,6 +1,6 @@
 # Rising Son Coffee — Launch Readiness
 
-Last structured: 2026-11-02
+Last structured: 2026-11-03
 
 ## GREEN — completed / proven
 - Custom-domain HTTPS enabled in GitHub Pages by owner on 2026-09-22; independently reverified 2026-09-27: HTTPS apex, `/founding40/`, `/robots.txt` and `/sitemap.xml` returned `200`; HTTP apex and HTTPS `www` resolved to the HTTPS apex with valid certificate verification.
@@ -569,6 +569,33 @@ The maintained consolidated list is `docs/owner-actions.md`.
 ### Next three priorities
 1. Review the hosted mailbox and close the FDACS classification request without altering working MX/SPF/DKIM.
 2. Convert the strongest supplier screens into written quote/evidence packages; treat Black Ink as a high-commitment packaging-mismatch screen unless written pilot terms materially change the model.
+3. Obtain comparable products/completed-operations insurance quotes and complete final label/responsibility review, then batch only genuine owner decisions.
+
+### Owner decisions
+- None newly required today. Do not activate checkout, spend, bind insurance, select a supplier or publish unverified product, price, shipping or fulfillment claims.
+
+
+## Launch operations check — 2026-11-03
+- Independent endpoint verification confirmed that the HTTPS apex homepage, `/founding40/`, `/robots.txt` and `/sitemap.xml` return `200` with valid TLS. HTTP apex and HTTPS `www` resolve to `https://therisingsoncoffee.com/`.
+- Live homepage and Founding 40 canonicals point to their correct HTTPS-apex URLs. Live robots allows crawling, excludes `/thanks.html` and declares the HTTPS-apex sitemap; the sitemap lists the apex, Founding 40, Story, Privacy and Terms URLs. Repository `CNAME`, robots, sitemap and canonicals remain aligned.
+- Live checkout remains visibly locked: the button is disabled and the homepage states that no orders or payments are accepted. Repository `checkout-config.js` remains `enabled: false` with an empty `paymentLink`. No commercial activation was performed.
+- Supplier/Finance reconciliation: Lifeboat Coffee Co. is newly documented as research-only, not a quote, selected supplier, primary or verified contingency. Public terms advertise private-label coffee starting at $14.25 per one-pound unit, a 40-piece minimum, 50% deposit at contract and the balance at shipment, plus a customer-CSV/label/roast/drop-ship workflow.
+- Arithmetic from those advertised starting terms screens at a minimum $570 product amount and at least $285 upfront only if a Rising Son contract matched the starting rate. Shipping, origin premiums and other costs remain unresolved, so this is not landed COGS or an approved cash requirement. Port of Jakarta Sumatran Gayo and Capsized Dark Roast Decaf are preliminary screens only.
+- Lifeboat's public model does not establish recurring one-order ecommerce integration, blind presentation, supplier-held finished inventory, compliant supplier-provided Rising Son packaging, exact Original/Decaf eligibility, complete 1-/2-/3-bag economics, legal manufacturer/packer/distributor roles, facility licenses/FDA status, food-safety/allergen controls, finished-lot-to-customer traceability, recall procedure, current audit/certification evidence, products/completed-operations COI, additional-insured terms, indemnity or label/recall allocation. No current official direct email was verified, so no website-form, phone, guessed-address or Gmail-substituted outreach was used.
+- The connected Rising Son Gmail account returned no new supplier, FDACS, permit, classification, insurance, quote or premium message from the last three days. This does not replace direct review of the separate hosted `hello@` mailbox and sent folder.
+- Written FDACS classification for the exact supplier-roasted, Rising Son-branded, supplier-packed/stored/direct-shipped, no-home-handling model remains outstanding. No permit type, fee or renewal term is budgeted or assumed.
+- Liability insurance remains separated into legal, contractual and prudent-risk questions. No universal purchase mandate is claimed without controlling authority; supplier/platform requirements remain unknown; products/completed-operations coverage remains prudent risk protection. Zero insurer-issued Rising Son quotes are recorded through 2026-11-02, so premium, deductible, limits, exclusions and nationwide private-label eligibility remain UNKNOWN, not $0.
+- Automation inventory shows four enabled tasks: the three distinct Rising Son operating tasks plus an unrelated independent-venture task. Each has current value, capacity is not shown as constrained, and no task was paused, resumed, created or swapped.
+- No Pages, DNS, MX, SPF, DKIM, payment, supplier-selection, insurance-binding, entity-formation, purchasing or checkout setting was changed. Launch readiness remains approximately 75%: reservation-ready, commerce locked.
+
+### Current blockers
+1. Written FDACS classification, including the exact permit, fee and renewal term if applicable.
+2. A verified primary supplier and two independent contingencies with quote-level economics, approved Original/Decaf samples and complete food-safety, traceability, recall, final-label, responsibility-allocation and COI evidence.
+3. Hosted `hello@` mailbox access for outstanding agency/supplier evidence, plus comparable insurance quotes and owner-approved insurance/final-label decisions before checkout authorization.
+
+### Next three priorities
+1. Review the hosted mailbox and close the FDACS classification request without altering working MX/SPF/DKIM.
+2. Convert the strongest supplier screens into written quote/evidence packages; treat Lifeboat as a high-upfront batch screen unless written pilot and recurring-order terms materially improve fit.
 3. Obtain comparable products/completed-operations insurance quotes and complete final label/responsibility review, then batch only genuine owner decisions.
 
 ### Owner decisions
