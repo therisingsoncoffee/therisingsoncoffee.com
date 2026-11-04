@@ -1240,3 +1240,55 @@ hello@therisingsoncoffee.com
 https://therisingsoncoffee.com/
 
 **Hold control:** Send only from an authenticated hosted-mail session that delivers `From: hello@therisingsoncoffee.com`. Before sending, review the hosted inbox/sent history and tracker for any prior Bootleg/Appalachian thread. Do not use connected Gmail or a website form. Do not authorize samples, charges, contracts, artwork, accounts or volume.
+
+## DYLN Fulfillment — HELD; NO VERIFIED DIRECT EMAIL; DO NOT SEND FROM GMAIL OR WEB FORM (prepared 2026-11-04)
+
+**Intended recipient:** DYLN Fulfillment coffee/private-label team  
+**Official direct email:** NOT VERIFIED  
+**Subject:** Rising Son Coffee — Original, Decaf and blind direct-fulfillment qualification
+
+Hello DYLN Fulfillment team,
+
+I’m evaluating private-label roasting partners for Rising Son Coffee, a Florida-based online brand. Our required model is supplier-sourced and roasted coffee, packed in compliant Rising Son-branded retail bags, warehoused with batch/lot traceability, and shipped individually and blind to U.S. customers. Rising Son will not store, pack or handle food.
+
+Your public materials describe in-house Austin roasting, customized branded packaging, warehousing, ecommerce integrations, subscription/kitting support, and direct fulfillment from the same facility. Before deciding whether the program fits, please provide one written response and supporting evidence for the following.
+
+**Product and samples**
+
+- Recommend a year-round Original with rich/bright aroma, low perceived acidity and bitterness, earthy tones, strong smooth full flavor and a clean aftertaste.
+- Confirm whether you offer Decaf for private label and fulfillment. If yes, recommend one as close as practical to the Original and provide origin/blend, roast, decaffeination-process documentation, sensory profile, year-round availability and substitution policy.
+- Confirm whole-bean and ground choices, supported grinds, 12 oz and any other retail net weights, shelf life and specifications for all four launch variants.
+- Provide sample options, exact product/shipping cost and any future-order credit. Please do not ship or charge anything without separate written authorization.
+
+**Complete commercial and fulfillment quote**
+
+- Numeric MOQ and whether Original/Decaf, grind, size and label variants may combine.
+- Itemized unit pricing and tiers for coffee, grinding, bag/valve, filling, labels, artwork, proofs/plates, setup, custom-printed packaging, packaging and finished-goods storage, pick/pack, WMS/integration, subscriptions, returns, inserts, kitting, account and every recurring or other fee.
+- All-in shipping for 1-, 2- and 3-bag orders to ZIP 33325 and representative nearby, central and distant U.S. zones, including packed dimensions/weights, PO boxes, Alaska/Hawaii, territories, military, remote-area, residential, fuel and peak surcharges.
+- Exact Shopify/WooCommerce/API/EDI/CSV/manual workflow, order cutoffs, subscription handling, inventory reporting, par levels, stockouts/substitutions, tracking and customer communications.
+- Confirm fully blind one-order-at-a-time fulfillment, including external box, packing slip, return identity, branded inserts and customer-service allocation.
+- Coffee onboarding, production and normal/peak roast-to-ship SLAs; payment timing; quote validity; price-change notice; minimum term/volume; termination; and unused coffee, bag and label disposition.
+- Responsibility for edits/cancellations, carrier loss/damage, wrong or stale orders, roast defects, misprints, replacements, refunds, address errors, undeliverables and missed SLAs.
+
+**Mandatory safety, traceability and responsibility evidence**
+
+- Exact legal entities and facility locations that source, roast/manufacture, grind, pack, warehouse, distribute and ship. Please resolve the inconsistent Austin ZIP shown publicly and provide applicable Texas/state/local food licenses, inspection evidence and FDA food-facility registration status or exemption.
+- Current food-safety/preventive-controls plan, PCQI responsibility, sanitation, supplier approval, allergen/cross-contact controls and finished-product release procedures.
+- Traceability from green-coffee lot through finished lot, roast date and consumer shipment; record retention; withdrawal/recall procedure and contacts; and the latest mock-recall result.
+- Current third-party audits or voluntary certifications, if any, with issuer, facility/product scope and expiration. These are optional unless required by law, contract or a product claim and do not replace the mandatory evidence above.
+- Current products/completed-operations COI with carrier, limits, territory and expiration; ability and cost to name Rising Son as additional insured.
+- Proposed indemnity and written allocation of formula/specification, compliant-label drafting/review, manufacturer/packer/distributor identification, claims, regulatory compliance, defects, allergens, traceability, recall notice/decision/execution/cost and regulatory notices.
+- Representative final-label proof and identification of who is responsible for every required label element and claim substantiation.
+
+If flavored coffee is offered, please also provide every ingredient and sub-ingredient, flavor carrier, processing aid, allergen statement, shared-equipment/cross-contact controls and label treatment for any proposed product.
+
+Rising Son currently offers a free Founding 40 reservation. It precedes any verified commercial offer and qualifying future purchase; it is not a preorder and does not commit us to volume.
+
+We are comparing programs and are not placing an order, scheduling a paid service, accepting terms, authorizing samples, paying or selecting a supplier through this inquiry.
+
+Best,  
+Rising Son Coffee  
+hello@therisingsoncoffee.com  
+https://therisingsoncoffee.com/
+
+**Hold control:** Do not send until a current official direct recipient is verified and an authenticated hosted-mail session proves delivery with `From: hello@therisingsoncoffee.com`. Review the hosted inbox/sent history and tracker first. Do not use connected Gmail, the website form, a guessed address or phone. Do not schedule a call, authorize samples, charges, contracts, artwork, accounts or volume.
