@@ -1021,3 +1021,40 @@ Status and controls:
 ### Outreach control
 
 A full qualification draft is held for wholesale@blueridgebootleg.com. The connected Gmail account cannot prove an authenticated delivered From identity of hello@therisingsoncoffee.com, so it must not be used. Before any send, review the hosted hello@ inbox, sent folder, prior threads and tracker, then verify a test delivery preserves the exact From identity.
+
+## DYLN Fulfillment — inquiry-ready integrated roaster/3PL; Decaf and economics unverified (researched 2026-11-04)
+
+### Verified public evidence
+
+- DYLN publicly describes an in-house Austin roasting facility that sources, roasts, packs and ships coffee from the same warehouse that fulfills orders.
+- White/private-label services advertise multiple origins, roast levels and blends, customized branded packaging, flexible batch sizes, 12 oz/2 lb/5 lb or custom formats, and weekly or custom roast schedules.
+- Its 3PL services advertise Shopify, WooCommerce, Amazon and EDI integrations; storage and real-time inventory; DTC pick/pack; custom packaging and labeling; subscriptions, kitting and bundles; returns processing; same-day order shipping; and U.S. and international fulfillment.
+- Public materials identify 15210 Fitzhugh Rd Ste 2300, Austin, Texas 78736. The contact page contains one inconsistent ZIP reference of 78376, so the licensed facility address requires documentary confirmation.
+- DYLN says typical 3PL onboarding takes 5–14 business days and a quote may be provided within two business days after an introductory call.
+- No current official direct email was found; only contact and scheduling forms are exposed.
+
+### Mandatory qualification gaps
+
+- No named Original candidate or full sensory profile was identified. Obtain a year-round option matching rich/bright aroma, low perceived acidity and bitterness, earthy tones, strong smooth full flavor and clean aftertaste.
+- No Decaf offering, process, sensory profile or private-label eligibility was identified. Decaf close to Original is a launch gate.
+- Identify the exact legal manufacturer, packer, warehouse operator and distributor; confirm the licensed facility address; provide applicable Texas/state/local food licenses and FDA food-facility registration status or exemption.
+- Obtain the food-safety/preventive-controls plan, PCQI responsibility, sanitation, supplier approval, allergen/cross-contact controls and finished-product release procedures. If flavored coffee is offered, obtain every ingredient/sub-ingredient, flavor carrier, processing aid, allergen statement and shared-equipment control.
+- Obtain finished-lot-to-consumer-order traceability, roast and lot coding, record retention, withdrawal/recall procedure and contacts, and the latest mock-recall result.
+- Obtain current products/completed-operations COI with carrier, limits, territory and expiration; ability/cost to name Rising Son additional insured; indemnity; and written allocation for label, defect, traceability, recall and regulatory responsibilities.
+- Obtain a representative final label and identify responsibility for drafting, review, manufacturer/packer/distributor identification, regulatory compliance and claim substantiation.
+- Third-party audits and voluntary certifications are optional unless required by law, contract or a product claim; any claimed credential needs current facility/product scope and expiration evidence.
+
+### Commercial and operating gaps
+
+- Obtain exact Original and Decaf SKUs, origins/blends, roast levels, whole-bean/ground and grind choices, net weights, shelf life, year-round supply and substitution policy.
+- Obtain numeric MOQ and split rules across Original/Decaf, grind, size and label variants.
+- Obtain itemized coffee, grinding, bag/valve, filling, label, artwork/proof/setup, custom print, storage, pick/pack, WMS/integration, subscription, returns, inserts, kitting, account and recurring charges.
+- Obtain 1/2/3-bag packed weights and shipping rates to ZIP 33325 and representative nearby, central and distant zones, plus PO boxes, Alaska/Hawaii, territories, military, remote, fuel and peak charges.
+- Confirm blind external box, packing slip, return identity, tracking/customer communications, customer-service allocation and branded inserts.
+- Obtain onboarding/production/normal and peak SLAs, cutoffs, inventory reports, par levels, stockouts/substitutions, payment terms, quote validity, price-change notice, termination and unused-material disposition.
+- Obtain replacement/credit responsibility for carrier loss/damage, wrong or stale product, roast defects, misprints, address errors, undeliverables and missed SLAs.
+- Obtain sample contents, cost, shipping and credit terms. No sample, payment or shipment is authorized.
+
+### Outreach control
+
+A full qualification draft is held because no current official direct email was verified and the connected Gmail account cannot prove an authenticated delivered From identity of hello@therisingsoncoffee.com. Do not use the contact form, guessed address, phone or Gmail. Before any send, review the hosted hello@ inbox, sent folder, prior threads and tracker, verify an official recipient, and confirm test delivery preserves the exact From identity.
