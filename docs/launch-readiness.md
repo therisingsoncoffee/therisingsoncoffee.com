@@ -1,6 +1,6 @@
 # Rising Son Coffee — Launch Readiness
 
-Last structured: 2026-11-03
+Last structured: 2026-11-04
 
 ## GREEN — completed / proven
 - Custom-domain HTTPS enabled in GitHub Pages by owner on 2026-09-22; independently reverified 2026-09-27: HTTPS apex, `/founding40/`, `/robots.txt` and `/sitemap.xml` returned `200`; HTTP apex and HTTPS `www` resolved to the HTTPS apex with valid certificate verification.
@@ -600,3 +600,29 @@ The maintained consolidated list is `docs/owner-actions.md`.
 
 ### Owner decisions
 - None newly required today. Do not activate checkout, spend, bind insurance, select a supplier or publish unverified product, price, shipping or fulfillment claims.
+
+## Launch command center — 2026-11-04
+
+### Verified state and substantive changes
+- Launch readiness remains approximately 75%: reservation-ready, commerce locked.
+- Live checks passed for the HTTPS apex, HTTP-to-HTTPS behavior, `www`-to-apex behavior, the Founding 40 page, page canonicals, `robots.txt` and `sitemap.xml`. The homepage canonical points to `https://therisingsoncoffee.com/`; the Founding 40 canonical points to `https://therisingsoncoffee.com/founding40/`; robots permits crawling, excludes the thank-you page and declares the HTTPS-apex sitemap.
+- The live homepage still shows a disabled checkout control and states that no orders or payments are accepted. Repository `checkout-config.js` remains `enabled: false` with an empty `paymentLink`. No commercial activation was performed.
+- Supplier work added DYLN Fulfillment as candidate 34 and inquiry-ready only—not a quote, selected primary or verified contingency. Public materials describe in-house Austin roasting, branded packaging, warehousing, direct fulfillment, ecommerce integrations and subscription/returns support.
+- DYLN still lacks written verification of Decaf and sensory fit, numeric MOQ, complete unit/setup/packaging/pick-pack/shipping economics, blind presentation, legal manufacturer/packer/distributor roles, facility licenses/FDA status, food-safety and allergen controls, lot-to-customer traceability, recall procedure, current audit/certification evidence, products/completed-operations COI, additional-insured terms, indemnity and label/recall responsibility. No unverified email address, web form, phone call, paid sample or commercial commitment was used.
+- Written FDACS classification for the exact supplier-roasted, Rising Son-branded, supplier-packed/stored/direct-shipped, no-home-handling model remains outstanding. No permit type, fee or renewal period is budgeted or assumed.
+- Liability insurance remains three separate questions: controlling legal requirements, supplier/platform contract requirements and prudent risk protection. No universal Florida or federal purchase mandate is claimed without authority. No insurer-issued Rising Son quote is recorded, so premium, deductible, limits, exclusions and nationwide private-label eligibility remain unknown rather than zero.
+- The three enabled Rising Son tasks remain distinct and useful. No capacity constraint was shown, and no automation was paused, resumed, created or swapped.
+- No Pages, DNS, MX, SPF, DKIM, payment, supplier-selection, insurance-binding, entity-formation, purchasing or checkout setting was changed.
+
+### Current blockers
+1. Written FDACS classification, including the exact permit, fee and renewal period if applicable.
+2. A verified primary supplier and two independent contingencies with quote-level landed economics, approved Original/Decaf samples and complete food-safety, traceability, recall, final-label, responsibility-allocation and COI evidence.
+3. Hosted `hello@` mailbox access for agency and supplier correspondence, followed by comparable insurer-issued quotes and owner decisions on insurance and the final label.
+
+### Next three priorities
+1. Obtain and preserve the written FDACS determination for this exact no-home-handling dropship model.
+2. Restore or verify the actual hosted `hello@therisingsoncoffee.com` sending identity, review prior threads and advance the strongest supplier candidates without duplicate outreach.
+3. Reconcile verified supplier economics with insurance and compliant-label evidence; keep checkout locked until the owner explicitly authorizes commercial launch.
+
+### Owner decisions
+- None newly required today. Do not activate checkout, spend, bind coverage, select a supplier or publish unverified product, price, shipping or fulfillment claims.
