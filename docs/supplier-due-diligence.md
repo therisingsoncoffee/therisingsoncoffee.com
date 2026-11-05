@@ -1058,3 +1058,46 @@ A full qualification draft is held for wholesale@blueridgebootleg.com. The conne
 ### Outreach control
 
 A full qualification draft is held because no current official direct email was verified and the connected Gmail account cannot prove an authenticated delivered From identity of hello@therisingsoncoffee.com. Do not use the contact form, guessed address, phone or Gmail. Before any send, review the hosted hello@ inbox, sent folder, prior threads and tracker, verify an official recipient, and confirm test delivery preserves the exact From identity.
+
+## Beaver Rock Roastery Inc. — public screen (2026-11-05)
+
+**Current disposition:** INQUIRY_READY_HOSTED_MAIL_REQUIRED_US_IMPORT_ELIGIBILITY_UNKNOWN. This is a contingency lead, not a confirmed backup. Public evidence supports the operating model, but U.S. cross-border eligibility, Decaf pairing, landed economics, and mandatory evidence remain unverified.
+
+### Public capability evidence
+
+- Official private-label materials state roasting and packaging occur daily at Beaver Rock's facility and advertise customer-brand fulfillment directly from the facility to the customer's customer, with orders transmitted by portal link or email.
+- Headquarters/roastery is publicly listed as 40 Mills Road, Units A-C, Barrie, Ontario L4N 6J9, Canada; public contact is hello@beaverrock.com.
+- Whole-bean private-label minimum is publicly stated as 26 lb per SKU with at least two SKUs per order. Advertised pack sizes are 8 oz, 12 oz, 16 oz, 2 lb, and 5 lb.
+- Supplier advertises stock valve bags, custom packaging sourcing, in-house design/label printing, and recyclable, biodegradable, and compostable options.
+- Public materials claim turnaround within 10 days, CFIA compliance, Fairtrade licensing, and EcoCert certification. These are supplier claims only until current documents, scope, and expiry dates are received.
+- Supplier states it uses Swiss Water Process for decaffeinated coffee and publicly lists mild and dark unflavored Decaf products plus flavored Decaf items.
+- Retail policy provides limited public evidence of correction for order discrepancies and a 48-hour transit-damage notice window; private-label remedies are not published.
+
+### Product screen
+
+- **Original:** Dark Roast or a stock/custom roast is only a preliminary screen. Public process copy describes dark roast as bold and rich with chocolate and bittersweet character; it does not establish Rising Son's required bright aroma, low perceived acidity and bitterness, earthy tones, smooth full flavor, or clean aftertaste. Candidate must be confirmed in writing and sampled.
+- **Decaf:** Swiss Water Process and unflavored mild/dark Decaf products are public, but the exact private-label SKU, roast, tasting notes, year-round availability, and similarity to the selected Original are unknown.
+- **Formats:** Public private-label page describes whole-bean formats. Ground availability, grind choices, and whether Original/Decaf × whole/ground can share minimums require written confirmation.
+- **Flavored coffee:** A broad flavored and flavored-Decaf catalog is public. If any flavored item is considered, obtain the complete ingredient statement, flavor carrier/processing aids, allergen declaration, shared-equipment controls, and substantiation for every certification or claim. Flavored coffee is optional and is not required for launch.
+
+### Mandatory evidence and allocation gaps
+
+Before Rising Son can treat Beaver Rock as viable, obtain:
+
+1. Exact legal manufacturer, packer, warehouse, exporter, importer/FSVP importer (if applicable), and U.S. distributor for Rising Son orders.
+2. Facility names/addresses and current Canadian food licences/registrations, plus written authority explaining U.S. nationwide eligibility for finished private-label coffee shipped direct from Canada.
+3. Current food-safety plan and preventive controls; sanitation, pest-control, foreign-material, supplier-approval, and allergen/cross-contact programs.
+4. Lot-code format, roast/pack records, and order-level traceability showing how a customer order maps to green-coffee and packaging lots.
+5. Written recall/withdrawal procedure, mock-recall results or summary, notification timing, and 24/7 contacts.
+6. Current product-liability COI with carrier, named insured, limits, policy period, products/completed-operations coverage, territory, exclusions, and ability/cost to name Rising Son as additional insured.
+7. Written indemnity and allocation for label review/approval, regulatory compliance, importer/FSVP duties, claims, withdrawal/recall execution and costs, shipping loss/damage, and record retention.
+8. Final compliant label review workflow and evidence of who approves statement of identity, net quantity, responsible-firm/importer wording, origin statements, ingredients/allergens for flavored products, claims, lot/roast dating, and traceability marks.
+
+Fairtrade, EcoCert, compostability, sustainability, or other third-party certifications are optional unless Rising Son elects to make the corresponding claim. If offered, collect the certificate/license itself, holder, facility/product scope, issuing body, certificate number, and expiry date; do not treat logo claims as mandatory food-law evidence.
+
+### Commercial and fulfillment gaps
+
+A written quote must separately show Original and Decaf coffee, shrink/yield, bag/valve, label printing, artwork/proof/setup, packing, changeovers, storage, pick/pack, inserts, account/platform costs, Canadian taxes, duties/brokerage, importer/FSVP charges, and U.S. shipping for representative one-, two-, and three-bag orders by zone. Also confirm subscription handling, integration/API or manual workflow, inventory ownership, payment/deposit/credit terms, lead time and peak SLA, blind box/packing-slip/return identity, tracking, replacement/credit rules, carrier claims, address errors, stale inventory, and termination/remaining-packaging treatment.
+
+**Outreach control:** Do not send from Gmail. Send only from the hosted hello@therisingsoncoffee.com mailbox after confirming the delivered From identity. No paid sample, deposit, program enrollment, contract, certification claim, or supplier selection is authorized.
+
