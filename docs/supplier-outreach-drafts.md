@@ -1292,3 +1292,52 @@ hello@therisingsoncoffee.com
 https://therisingsoncoffee.com/
 
 **Hold control:** Do not send until a current official direct recipient is verified and an authenticated hosted-mail session proves delivery with `From: hello@therisingsoncoffee.com`. Review the hosted inbox/sent history and tracker first. Do not use connected Gmail, the website form, a guessed address or phone. Do not schedule a call, authorize samples, charges, contracts, artwork, accounts or volume.
+
+## Beaver Rock Roastery Inc. — held hosted-mailbox draft (prepared 2026-11-05)
+
+**To:** hello@beaverrock.com  
+**From:** hello@therisingsoncoffee.com only after delivered-From verification  
+**Subject:** Private-label coffee + U.S. direct fulfillment diligence — Rising Son Coffee
+
+Hello Beaver Rock team,
+
+Rising Son Coffee is evaluating a supplier-managed private-label model for U.S. e-commerce. The supplier must source and roast the coffee, pack it in compliant Rising Son-branded packaging, warehouse it, maintain batch traceability, and ship individual orders directly to customers without Rising Son handling food at home.
+
+Our initial line is Original and Decaf, in whole bean and ground formats. The Original target is a rich, bright aroma; low perceived acidity and bitterness; earthy tones; strong, smooth, full flavor; and a clean aftertaste. The Decaf should be as close to the Original as practical. Your public private-label, direct-fulfillment, whole-bean MOQ, and Swiss Water Decaf information looks potentially relevant.
+
+We also have a free Founding 40 reservation program that precedes any verified commercial offer. A reservation is not a purchase commitment or volume promise; any benefit would depend on a future qualifying purchase under final published terms.
+
+Could you provide a written response and supporting documents for the following?
+
+**Products and samples**
+- Best year-round Original and Swiss Water Decaf candidates for the target profile, with origin/blend, roast, tasting notes, perceived acidity/bitterness, harvest/seasonality, and expected consistency.
+- Whole-bean and ground options, available grinds, bag sizes/net weights, and whether Original/Decaf × whole/ground can share production minimums.
+- Sample options for the paired Original and Decaf, including product cost, shipping, and any credit toward a future order. Please do not ship or charge anything without written approval.
+
+**Complete economics and terms**
+- Per-unit coffee cost by SKU/size/volume, roast-loss or yield assumptions, MOQ, setup/artwork/proof/plate fees, bags/valves, label printing, packing, changeovers, and packaging storage.
+- Warehousing, pick/pack, inserts, subscription/order-management or integration fees, and U.S. shipping for representative one-, two-, and three-bag orders by zone, including fuel/remote/residential/peak surcharges.
+- Any Canadian taxes, duties, customs brokerage, importer/FSVP or other cross-border charges; deposit, prepayment or credit terms; quote validity and price-change notice.
+- Onboarding time, roast/pack/ship cadence, cutoff times, normal and peak SLAs, tracking, integrations/API or manual workflow, subscription support, blind outer packaging, packing-slip wording, return address, and customer-service escalation.
+- Replacement/credit rules and responsibility for roast defects, stale coffee, mispicks, label errors, carrier loss/damage, address errors, missed SLA, returns, and remaining coffee/packaging at termination.
+
+**Mandatory legal, food-safety, traceability, insurance, and label evidence**
+- Legal name and role of every entity that will manufacture/roast, pack, warehouse, export, import and distribute Rising Son products.
+- Facility name/address and current applicable Canadian food licences/registrations; written confirmation and supporting authority for shipping finished private-label coffee directly to consumers throughout the United States, including who is importer and FSVP importer if applicable.
+- Current food-safety/preventive-control plan summary and controls for sanitation, pests, foreign material, supplier approval, allergens and cross-contact.
+- Lot-code format, roast/pack records, and how each customer shipment maps to green-coffee, flavor/ingredient (if any), and packaging lots.
+- Recall/withdrawal procedure, most recent mock-recall result or summary, notification timing, and 24/7 recall contacts.
+- Current product-liability certificate of insurance showing named insured, carrier, limits, products/completed-operations coverage, policy territory, exclusions and expiration; whether Rising Son can be named additional insured and any cost.
+- Proposed indemnity and responsibility allocation for label compliance/approval, importer/FSVP duties, food claims, recalls/withdrawals and costs, shipping loss/damage, and record retention.
+- Label-review workflow and who approves the statement of identity, net quantity, responsible-firm/importer wording, origin language, ingredients/allergens, claims, lot/roast dating and traceability marks.
+
+If flavored coffees are offered, please separately provide complete ingredient and allergen statements, flavor carriers/processing aids, shared-equipment controls, and the evidence supporting any related claim.
+
+We treat Fairtrade, EcoCert, organic, compostability and similar certifications as optional unless a product claim requires them. If you propose any, please send the current certificate or licence with holder, facility/product scope, issuing body, number and expiry date. These do not replace the mandatory legal and food-safety evidence above.
+
+Thank you,
+Rising Son Coffee
+hello@therisingsoncoffee.com
+
+**Hold control:** Do not send from Gmail. Send only from the hosted hello@therisingsoncoffee.com mailbox after verifying the delivered From identity and rechecking prior threads for duplication. No call, form submission, paid sample, deposit, enrollment, contract or supplier selection is authorized.
+
