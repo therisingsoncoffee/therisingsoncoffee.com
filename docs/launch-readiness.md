@@ -653,3 +653,32 @@ The maintained consolidated list is `docs/owner-actions.md`.
 
 ### Owner decisions
 - None newly required today. Do not activate checkout, spend, bind coverage, select a supplier or publish unverified product, price, shipping or fulfillment claims.
+
+
+## Launch command center — 2026-11-06
+
+### Verified state and substantive changes
+- Launch readiness remains approximately 75%: reservation-ready, commerce locked.
+- Direct live checks passed for the HTTPS apex, HTTP-to-HTTPS behavior, `www`-to-apex behavior, Founding 40, homepage and Founding 40 canonicals, `robots.txt` and `sitemap.xml`. The homepage canonical is `https://therisingsoncoffee.com/`; the Founding 40 canonical is `https://therisingsoncoffee.com/founding40/`; robots permits crawling, excludes `/thanks.html` and declares the HTTPS-apex sitemap.
+- Founding 40 remains a free reservation rather than a preorder or purchase obligation. The live homepage states that a qualifying purchase would occur only after the verified offer is shown.
+- Checkout remains locked in both live and repository state: the public control is disabled, the page states that no orders or payments are accepted, and `checkout-config.js` remains `enabled: false` with an empty `paymentLink`.
+- Public GitHub repository metadata confirms Pages is enabled on the public `main` branch, and the tracked `CNAME` remains `therisingsoncoffee.com`. No Pages setting or DNS record was edited; MX, SPF and DKIM were left untouched.
+- Supplier/Finance reconciliation added Beaver Rock Roastery Inc. as inquiry-ready only—not a quote, selected primary or verified contingency. Public materials support Barrie, Ontario roasting/packing/direct fulfillment, Swiss Water Decaf, a 26 lb-per-SKU whole-bean minimum with at least two SKUs, and a claimed 10-day private-label turnaround. U.S. nationwide eligibility, importer/FSVP allocation, duties/taxes, ground formats, complete landed economics, food-safety/allergen evidence, lot-to-order traceability, recall procedure, COI/additional-insured terms, indemnity and final-label responsibility remain unverified.
+- The connected Rising Son Gmail account returned no FDACS, permit, classification, supplier, roaster, insurance or quote message from the last three days. This does not replace direct review of the separate hosted `hello@therisingsoncoffee.com` mailbox and sent folder.
+- Fresh official-source review still does not establish a universal Florida or federal requirement that this exact seller purchase general or product liability insurance. Florida Statute 500.12 and FDACS materials govern food-establishment permits; FDA materials govern facility registration and other food-business obligations. None of the reviewed authorities states a blanket insurance-purchase mandate. This evidence-limited conclusion does not resolve supplier/platform contract requirements or prudent products/completed-operations coverage.
+- Written FDACS classification for the exact supplier-roasted, Rising Son-branded, supplier-packed/stored/direct-shipped, no-home-handling model remains outstanding. No permit type, fee or renewal period is budgeted or assumed.
+- Automation inventory shows three enabled Rising Son tasks (Launch Ops, Supplier/Product and Finance), six paused tasks and three completed tasks. The enabled tasks remain distinct and useful, and no active-slot constraint was demonstrated; no task was paused, resumed, created or swapped.
+- No Pages, DNS, MX, SPF, DKIM, payment, supplier-selection, insurance-binding, entity-formation, purchasing or checkout setting was changed.
+
+### Current blockers
+1. Written FDACS classification, including the exact permit, fee and renewal period if applicable.
+2. A verified primary supplier and two independent contingencies with quote-level landed economics, approved Original/Decaf samples, and complete food-safety, traceability, recall, final-label, responsibility-allocation and COI evidence.
+3. Hosted `hello@` mailbox access, comparable insurer-issued quotes, and owner decisions on insurance and the compliant final label.
+
+### Next three priorities
+1. Obtain and archive the written FDACS determination for this exact no-home-handling dropship model.
+2. Restore or verify the hosted `hello@therisingsoncoffee.com` sending identity, review prior threads and advance the strongest U.S.-eligible candidates without duplicate outreach.
+3. Reconcile verified supplier economics with insurer-issued quotes and final-label evidence; keep checkout locked until explicit owner authorization.
+
+### Owner decisions
+- None newly required today. Do not activate checkout, spend, bind coverage, select a supplier or publish unverified product, price, shipping or fulfillment claims.
