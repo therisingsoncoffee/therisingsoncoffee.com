@@ -1101,3 +1101,46 @@ A written quote must separately show Original and Decaf coffee, shrink/yield, ba
 
 **Outreach control:** Do not send from Gmail. Send only from the hosted hello@therisingsoncoffee.com mailbox after confirming the delivered From identity. No paid sample, deposit, program enrollment, contract, certification claim, or supplier selection is authorized.
 
+
+
+## Roastify — evidence refresh and follow-up control (2026-11-06)
+
+**Current disposition:** CONTACTED_AWAITING_RESPONSE_HOSTED_FOLLOWUP_REQUIRED_PUBLIC_MODEL_ECONOMICS_STRONG_COMPLIANCE_GAPS. Roastify is one of the strongest public operating-model screens, but it is not a verified primary or contingency until written mandatory evidence closes the gaps below.
+
+### Prior-thread control
+
+- The connected Rising Son Gmail search found one outbound message to support@roastify.app dated 2026-09-23 and no reply in that thread.
+- The stored message header shows `From: hello@therisingsoncoffee.com`, but this does not prove the delivered From identity; the user has observed Gmail substitution. Do not send or follow up from Gmail.
+- A single follow-up is held for the actual hosted mailbox. Before sending, open the hosted inbox and sent folder, inspect the delivered headers of a test message, confirm no newer Roastify reply or follow-up exists, and preserve the existing thread where possible.
+
+### Public commercial and fulfillment evidence
+
+- Catalog products have no MOQ. Public member pricing is $12 per 12 oz box, with Base at $15/month ($150/year) and Pro at $49/month ($500/year). A guest one-off box is advertised at $18. These are public rates, not a Rising Son quote.
+- Dropship shipping is publicly $4.50 for the first item and $1.25 per additional item in the same order. Terms allow additional remote/difficult-location charges, so ZIP-specific checkout confirmation is still required.
+- Base advertises 3-4 business days to carrier handoff; Pro advertises 2 business days. Carrier transit is additional and typically stated as 3-4 days. Larger orders around 75-100 items may require 5-7 production days.
+- Custom packaging design, proof, print and normal fulfillment handling are represented as included with no separate setup, plate, print or storage fee. The supplier advertises plain boxes and no Roastify branding on the product, packing slip or return label.
+- Shopify, API and hosted-store fulfillment are public. Connected selling and dropshipping require a paid plan; no plan, account or billing method is authorized.
+- Public terms provide a 30-day claim window for supplier-error misprints, damaged/defective items and lost transit, while excluding buyer remorse and shifting wrong/unclaimed-address reshipment to the merchant. Risk/title is stated to pass at carrier handoff.
+
+### Product screen
+
+- **Original:** Cascades Blend is the strongest preliminary screen (cocoa, toasted nut, full body); Flathead Valley and Rock Creek are comparisons. Public descriptions do not establish the full Rising Son target, especially rich/bright aroma, low perceived acidity and bitterness, earthy tone and clean aftertaste. Exact Base-plan availability and a sensory sample remain required.
+- **Decaf:** Trapper Peak Decaf is publicly described as medium roast, Swiss Water processed, mellow, smooth and savory. Similarity to the selected Original and exact whole-bean/ground availability on the applicable plan require confirmation and sampling.
+- **Formats:** 12 oz whole bean and ground are public. Confirm the exact grind variants and whether Original and Decaf are both accessible on Base rather than requiring Pro.
+- **Samples:** The current public assortment is $49.50 for 13 x 2 oz samples; a selected 12 oz guest box is another public path. Confirm shipping, contents, credit terms and the proposed pair before any owner-authorized purchase. No sample is authorized.
+- **Flavored coffee:** Seasonal flavored products are optional, not required for launch. Before considering one, obtain complete ingredients/sub-ingredients, flavor carriers and processing aids, allergen/cross-contact controls, label treatment and evidence supporting every claim.
+
+### Mandatory evidence still required
+
+1. Exact legal manufacturer, roaster, packer, warehouse and distributor entities; facility name/address and current FDA registration/state licence or inspection evidence applicable to Rising Son products.
+2. Food-safety plan and preventive controls, sanitation, pest, foreign-material, supplier approval and allergen/cross-contact programs.
+3. Finished-product lot-code format and order-level traceability connecting each shipment to green-coffee, roast/pack and packaging lots.
+4. Written recall/withdrawal procedure, mock-recall result or summary, notification timing and 24/7 recall contacts.
+5. Current products/completed-operations COI showing named insured, carrier, limits, territory, policy period, exclusions and whether/cost to name Rising Son additional insured.
+6. Written indemnity and allocation for label compliance, claims, defects, allergens, recall decision/execution/cost, regulatory notices, record retention and shipping loss/damage.
+7. Final-label review workflow identifying who drafts, reviews and approves statement of identity, net quantity, responsible-firm wording/address, ingredients/allergens when applicable, claims, dating and lot code.
+8. Rising Son-specific written quote confirming exact Original/Decaf variants, Base-versus-Pro access, product and shipping charges, taxes/surcharges, payment timing, quote validity, price-change notice and termination effects.
+
+Annual green-coffee testing summaries and a historical finished sample report are useful but do not establish testing of every finished lot, full preventive controls, traceability, recall readiness or current certification. Optional organic, Fair Trade, sustainability or contaminant claims require product-specific current evidence if Rising Son elects to use them.
+
+**No-send/no-spend control:** Do not use Gmail, create an account, add a payment method, start a plan, approve artwork, order the $49.50 sample box, accept terms or select a supplier. Send the held follow-up only from the authenticated hosted `hello@therisingsoncoffee.com` mailbox after delivered-From verification and duplicate-thread review.
