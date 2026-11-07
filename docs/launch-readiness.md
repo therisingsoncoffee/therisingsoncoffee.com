@@ -1,6 +1,6 @@
 # Rising Son Coffee — Launch Readiness
 
-Last structured: 2026-11-05
+Last structured: 2026-11-07
 
 ## GREEN — completed / proven
 - Custom-domain HTTPS enabled in GitHub Pages by owner on 2026-09-22; independently reverified 2026-09-27: HTTPS apex, `/founding40/`, `/robots.txt` and `/sitemap.xml` returned `200`; HTTP apex and HTTPS `www` resolved to the HTTPS apex with valid certificate verification.
@@ -682,3 +682,31 @@ The maintained consolidated list is `docs/owner-actions.md`.
 
 ### Owner decisions
 - None newly required today. Do not activate checkout, spend, bind coverage, select a supplier or publish unverified product, price, shipping or fulfillment claims.
+
+## Launch command center — 2026-11-07
+
+### Verified state and substantive changes
+- Launch readiness remains approximately 75%: reservation-ready, commerce locked.
+- Direct checks returned HTTP 200 with valid TLS for the HTTPS apex, Founding 40, `robots.txt` and `sitemap.xml`. HTTP apex and HTTPS `www` resolved to the HTTPS apex. Live homepage and Founding 40 canonicals remain correct.
+- Checkout remains locked in live and repository state: the public page says no orders or payments are accepted, `checkout-config.js` remains `enabled: false`, and `paymentLink` is empty.
+- GitHub repository metadata confirms Pages remains enabled on the public `main` branch, and `CNAME` remains `therisingsoncoffee.com`. No Pages or DNS setting was edited; MX, SPF and DKIM were left untouched.
+- Supplier/Finance reconciliation refreshed Roastify as the strongest current public operating-model screen, but not a supplier quote, selected primary or verified contingency. Public references are $12 per 12 oz member bag plus $4.50 first-item and $1.25 additional-item shipping, with Base at $15/month or $150/year and Pro at $49/month or $500/year. Illustrative product-plus-shipping totals are $16.50, $29.75 and $43.00 for one, two and three bags before plan allocation, processing, insurance, refunds/replacements and Founding 40 costs. Complete landed COGS and margins remain unknown.
+- Roastify public materials support custom branded packaging, blind direct fulfillment, Original and Swiss Water Decaf candidates, and defined replacement-claim terms. They do not establish a complete current food-safety plan, facility registration evidence, finished-lot-to-customer traceability, recall/withdrawal procedure, products/completed-operations COI, additional-insured terms, indemnity or final label/recall responsibility. A follow-up draft is held pending authenticated hosted-`hello@` access and prior-thread review; no duplicate message, plan signup, sample order, payment or contract action occurred.
+- The connected Rising Son Gmail account returned no new FDACS, permit, classification, supplier, roaster, insurance or quote message after 2026-11-06. This does not replace direct review of the separate hosted `hello@therisingsoncoffee.com` mailbox and sent folder.
+- Written FDACS classification for the exact supplier-roasted, Rising Son-branded, supplier-packaged/stored/direct-shipped, no-home-handling model remains outstanding. No permit type, fee or renewal period is budgeted or assumed.
+- No reviewed Florida or federal authority has been found to impose a universal general- or product-liability insurance purchase requirement on this exact seller model. That evidence-limited conclusion remains separate from supplier/platform contract requirements and the prudent decision whether to buy products/completed-operations coverage. Zero insurer-issued Rising Son quotes are recorded; premiums, deductibles, limits, exclusions and nationwide private-label eligibility remain unknown, not $0.
+- Automation inventory shows three enabled Rising Son tasks, six paused tasks and three completed tasks. Launch Ops, Supplier/Product and Finance remain distinct and useful; no active-slot constraint was demonstrated, so no task was paused, resumed, created or swapped.
+- No Pages, DNS, MX, SPF, DKIM, payment, supplier-selection, insurance-binding, entity-formation, purchasing or checkout setting changed.
+
+### Current blockers
+1. Written FDACS classification, including the exact permit, fee and renewal period if applicable.
+2. One verified primary supplier and two independent contingencies with supplier-issued landed economics, approved Original/Decaf samples, and complete food-safety, traceability, recall, final-label, responsibility-allocation and COI evidence.
+3. Authenticated hosted `hello@` mailbox access, two or three comparable insurer-issued quotes, and owner decisions on insurance and the compliant final label.
+
+### Next three priorities
+1. Obtain and archive the written FDACS determination for this exact no-home-handling e-commerce/drop-ship model.
+2. Restore or verify the hosted `hello@therisingsoncoffee.com` sending identity, review existing threads and send only non-duplicate evidence requests to Roastify and the strongest U.S.-eligible alternatives.
+3. Reconcile supplier-issued economics with insurer-issued quotes and final-label evidence; keep checkout locked until every gate passes and the owner explicitly authorizes commerce.
+
+### Owner decisions
+- None newly required today. Do not activate checkout, spend, bind coverage, select a supplier, form an entity or publish unverified product, price, shipping or fulfillment claims.
