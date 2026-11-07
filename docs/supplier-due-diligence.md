@@ -1144,3 +1144,44 @@ A written quote must separately show Original and Decaf coffee, shrink/yield, ba
 Annual green-coffee testing summaries and a historical finished sample report are useful but do not establish testing of every finished lot, full preventive controls, traceability, recall readiness or current certification. Optional organic, Fair Trade, sustainability or contaminant claims require product-specific current evidence if Rising Son elects to use them.
 
 **No-send/no-spend control:** Do not use Gmail, create an account, add a payment method, start a plan, approve artwork, order the $49.50 sample box, accept terms or select a supplier. Send the held follow-up only from the authenticated hosted `hello@therisingsoncoffee.com` mailbox after delivered-From verification and duplicate-thread review.
+
+## Berk's Beans Coffee — evidence refresh (2026-11-07)
+
+**Current disposition:** INQUIRY_READY_HOSTED_MAIL_REQUIRED_STRONG_DIRECT_ROASTER_ALTERNATIVE. Berk's Beans is the strongest independent U.S. direct-roaster alternative to Roastify on current public evidence, but it is not a supplier quote, selected primary or verified contingency.
+
+### Public model and commercial evidence
+
+- Berk's Beans says it sources/roasts in-house at 1717 Solano Way Ste. 12, Concord, California; packs coffee under the partner's brand; holds normal program materials; adds approved inserts; and ships individual orders nationwide by USPS or UPS. The public dropship flow uses a plain outer box, while the return address identifies Berk's fulfillment department.
+- Standard dropship formats are 12 oz and 5 lb; 6 oz, 24 oz, 2 lb and 3 lb are available by discussion. Whole bean, drip, espresso, French press and pour-over grinds are selected per order.
+- Public house-blend screening economics are $13/lb, represented as $9.75 of coffee per 12 oz bag; $1 per bag includes the stock valve bag and custom front label; an optional back label is $0.50; pick/pack is $3.50 per order; shipping is actual carrier cost; print-ready art avoids a design fee; optional label design is $125. These are advertised terms, not a Rising Son quote.
+- The first private-label proof/run is publicly six bags per coffee with a $150 first-order minimum. Later individual dropship orders may be one bag. First runs take one to two weeks after proof approval; reorders are stated at 48–72 hours and dropship orders within 48 hours plus transit. Peak-period and binding SLA terms remain unknown.
+- Orders are entered through a wholesale account or larger-partner daily sheet rather than a published automatic store integration. Billing is weekly to a card on file for wholesale coffee, pick/pack and actual shipping. No account, card or payment was created.
+
+### Product screen
+
+- **Original:** Reserva Andina Tuxedo Roast is a year-round 50/50 Colombia Supremo/Brazil Cerrado blend whose components are roasted separately medium and dark. Public notes are milk chocolate, caramel, soft nuttiness and bittersweet cocoa, with low acidity, full body, a long sweet finish and a bold-without-bitterness description. This is the closest documented independent-roaster match to Rising Son's target, but a sample and written private-label eligibility are still required.
+- **Decaf:** Reserva Andina Decaf uses the same Colombia/Brazil recipe with both components Swiss Water processed before roasting. Public notes remain milk chocolate, caramel, soft nuttiness, bittersweet finish, low acidity and full body. It is the strongest documented like-for-like Decaf companion found so far, but exact dropship eligibility, availability and sample approval remain required.
+- Both products are publicly offered whole bean or ground. Retail sizes/prices are not supplier costs and are excluded from Rising Son economics.
+- Flavored coffee is optional. If proposed, collect complete ingredients/sub-ingredients, flavor carriers/processing aids, allergens and shared-equipment controls before label review.
+
+### Mandatory evidence and contract gaps
+
+Before Berk's Beans can count as a primary or contingency, obtain in writing:
+
+1. Rising Son-specific quote for the exact Original/Decaf pair and all whole-bean/ground variants, including variant split rules, bag/label/insert/storage charges and one-, two- and three-bag shipping to ZIP 33325 plus representative U.S. zones.
+2. Legal manufacturer, roaster, packer, warehouse and distributor identities; facility roles; current California/local food licences; and documentary FDA registration evidence. The public FDA-registration statement is a supplier claim, not retained proof.
+3. Food-safety/preventive-control plan, sanitation, pest, foreign-material, supplier-approval and allergen/cross-contact controls.
+4. Finished-product lot code and customer-order traceability from green-coffee lot through roast/pack, label/packaging lot and shipment.
+5. Recall/withdrawal procedure, latest mock-recall result or summary, notification timing and 24/7 contacts.
+6. Current products/completed-operations COI showing named insured, carrier, limits, territory, exclusions and expiration; additional-insured availability/cost.
+7. Indemnity and allocation for final label drafting/review/approval, product defects, allergens, regulatory notices, claims, recall decision/execution/cost, record retention and shipping loss/damage.
+8. Binding replacement/credit rules for carrier loss/damage, wrong items, misprints, stale coffee, roast defects, address errors, undeliverables and missed SLAs; plus price-change notice, quote validity, termination and remaining-material disposition.
+
+Third-party audits and voluntary certifications remain optional unless required by law, contract or a claim. Any proposed certification must include the certificate/license itself, holder, facility/product scope, issuer, number and expiry.
+
+### Mailbox and outreach control
+
+- Connected Gmail contains no Berk's Beans thread and no new supplier/FDACS/insurance/quote message after 2026-11-06.
+- Gmail is not authorized for supplier sending because it cannot prove the delivered From identity remains exactly hello@therisingsoncoffee.com.
+- The existing comprehensive Berk's Beans draft remains held. Before sending, inspect the hosted inbox and sent folder for duplicates, verify a test message's delivered From header, and use only the official published recipient. Do not use the contact form, create an account, add a card, order a sample, approve artwork, pay the first-order minimum, accept terms or promise volume.
+
