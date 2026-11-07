@@ -807,7 +807,7 @@ Rising Son Coffee is evaluating roasting and fulfillment partners for a prelaunc
 
 Reserva Andina Tuxedo Roast appears to be a strong preliminary Original match for our target: rich/bright aroma, low perceived acidity and bitterness, earthy depth, strong smooth full flavor and a clean aftertaste. Reserva Andina Tuxedo Roast Decaf appears to be a promising matching Swiss Water Process Decaf. Please confirm that both exact coffees are available through your private-label dropship program in 12 oz whole-bean and ground formats, and recommend any closer year-round pairing.
 
-Your public page advertises $13/lb house blends ($9.75 per 12 oz), a $1 per-bag private-label fee, $3.50 pick/pack per order, actual carrier shipping, a six-bag first label run and one-bag dropship orders. Please provide a current written Rising Son quote confirming:
+Your public pages advertise $13/lb house blends ($9.75 per 12 oz), a $1 stock-bag/front-label fee, an optional $0.50 back label, $3.50 pick/pack per order, actual carrier shipping, a six-bag-per-coffee first proof/run, a $150 first-order minimum and later one-bag dropship orders. These are public screening terms, not a Rising Son quote. Please provide a current written Rising Son quote confirming:
 - the exact Original and Decaf costs in each supported whole-bean/ground format and size;
 - bag, label, artwork, setup, custom-material storage and insert costs;
 - representative 1-, 2- and 3-bag USPS/UPS rates to ZIP 33325 plus national zone/surcharge tables;
