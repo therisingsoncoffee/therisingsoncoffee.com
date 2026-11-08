@@ -1388,3 +1388,53 @@ hello@therisingsoncoffee.com
 https://therisingsoncoffee.com/
 
 **Hold control:** Do not send from connected Gmail. Before any send, verify the actual hosted mailbox, inspect inbox and sent history for a newer response or follow-up, and confirm a test message's delivered From identity remains exactly `hello@therisingsoncoffee.com`. Do not create an account, enter payment data, start a subscription, approve artwork, order samples or accept terms.
+
+## Raptis Coffee, Inc. — HELD; HOSTED MAIL REQUIRED (prepared 2026-11-08)
+
+**To:** info@raptiscoffee.com  
+**From:** `hello@therisingsoncoffee.com` only after delivered-From verification  
+**Subject:** Rising Son Coffee — Original, Decaf and blind direct-fulfillment qualification
+
+Hello Raptis Coffee team,
+
+Rising Son Coffee is evaluating a Florida e-commerce model in which the supplier sources and roasts the coffee, packs it in compliant Rising Son-branded retail bags, warehouses it with batch/lot traceability, and ships individual orders directly and blind to U.S. customers. Rising Son will not store, pack or handle coffee at home.
+
+Your public private-label, white-label and dropship materials appear potentially relevant. Our planned launch is Original and Decaf in whole bean and ground. The Original target is rich/bright aroma, low perceived acidity and bitterness, earthy tones, strong smooth full flavor and a clean aftertaste; Decaf should be as close to Original as practical.
+
+Rising Son currently offers a free Founding 40 reservation. It precedes any verified commercial offer and qualifying future purchase; it is not a preorder and does not commit us to volume.
+
+Please provide one written response and supporting documents covering the following.
+
+**Products and samples**
+- Recommend a year-round Original and Decaf pairing for the target profile. For each, provide origin/blend, roast, tasting notes, perceived acidity/bitterness, decaffeination-process documentation, seasonality/substitution policy and exact private-/white-label eligibility.
+- Confirm whole bean, standard ground and other grinds; 12 oz and other retail net weights; shelf life; and whether Original/Decaf × whole/ground can share minimums.
+- Provide paired sample options, product cost, shipping and any future-order credit. Please do not ship or charge anything without separate written authorization.
+
+**Complete quote and operations**
+- Exact case/SKU MOQ and variant-combining rules; itemized coffee, grinding, bag/valve, filling, front/back labels, artwork/design, proof/plate, setup/changeover, custom packaging, packaging/finished-goods storage, pick/pack, app/integration, subscription, account and every recurring fee.
+- Please reconcile the public dropship page's $0 monthly fee with the custom-item page's $9 automated and $18 standard monthly fees, and identify which current program applies.
+- All-in 1-, 2- and 3-bag shipping to ZIP 33325 and representative nearby, central and distant U.S. zones, including packed dimensions/weights, PO boxes, Alaska/Hawaii, territories, military, residential, fuel, remote and peak surcharges.
+- Exact manual/app/Shopify/WooCommerce/API/CSV workflow, order cutoff, subscription handling, inventory/par levels, stockouts/substitutions, tracking/customer notices, fully blind outer packaging, packing slip, return identity and customer-service escalation.
+- Onboarding and normal/peak roast-pack-ship SLAs; payment timing; quote validity; price-change notice; minimum term/volume; termination; and unused coffee, bag and label disposition.
+- Binding responsibility for edits/cancellations, carrier loss/damage, wrong/stale product, roast defects, mispicks, label errors, address errors, undeliverables, returns/refunds, replacements and missed SLA.
+
+**Mandatory legal, food-safety, traceability, insurance and label evidence**
+- Legal name and role of every entity that sources, roasts/manufactures, grinds, packs, warehouses, distributes and ships; facility name/address; applicable Ohio/local food licenses and inspection evidence; and FDA food-facility registration status or exemption.
+- Current food-safety/preventive-controls plan and responsible personnel, including sanitation, pests, foreign material, supplier approval, allergens/cross-contact and finished-product release.
+- Current evidence for the publicly described HACCP, food-defense, sanitation, internal-audit and product-recall programs, and any current third-party audit with facility/product scope and expiration.
+- Traceability from green-coffee lot through finished lot, roast/pack date and customer shipment; lot-code format; record retention; recall/withdrawal procedure and contacts; notification timing; and latest mock-recall result.
+- Current products/completed-operations COI with named insured, carrier, limits, territory, exclusions and expiration; whether Rising Son can be named additional insured and any cost.
+- Proposed indemnity and written allocation for specifications, compliant-label drafting/review, manufacturer/packer/distributor identification, claims, regulatory compliance, defects, allergens, traceability, recall notice/decision/execution/cost, regulatory notices, shipping loss/damage and record retention.
+- Representative final-label proof and who approves each required element: statement of identity, net quantity, responsible-firm/manufacturer wording, address, ingredients/allergens, claims, best-by date and lot code.
+
+If any flavored coffee is proposed, separately provide every ingredient and sub-ingredient, natural/artificial flavor status, carriers, processing aids, allergen statement, shared-equipment/cross-contact controls and exact label treatment. Optional audits or certifications do not replace the mandatory legal and food-safety evidence above.
+
+We are comparing programs and are not placing an order, accepting terms, authorizing samples, paying or selecting a supplier through this inquiry.
+
+Thank you,  
+Rising Son Coffee  
+hello@therisingsoncoffee.com  
+https://therisingsoncoffee.com/
+
+**Hold control:** Do not send from connected Gmail. Before any send, open the actual hosted mailbox, inspect inbox and sent history for a Raptis thread, and verify with a delivered test that the From identity remains exactly `hello@therisingsoncoffee.com`. Do not call, submit a web form, order samples, create an account, enter payment information, accept terms or promise volume.
+
