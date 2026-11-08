@@ -1185,3 +1185,50 @@ Third-party audits and voluntary certifications remain optional unless required 
 - Gmail is not authorized for supplier sending because it cannot prove the delivered From identity remains exactly hello@therisingsoncoffee.com.
 - The existing comprehensive Berk's Beans draft remains held. Before sending, inspect the hosted inbox and sent folder for duplicates, verify a test message's delivered From header, and use only the official published recipient. Do not use the contact form, create an account, add a card, order a sample, approve artwork, pay the first-order minimum, accept terms or promise volume.
 
+## Raptis Coffee, Inc. — inquiry-ready; public fee conflict and compliance evidence required (researched 2026-11-08)
+
+### Public capability evidence
+- Raptis identifies its roasting facility as **341 Main Ave SW, Warren, OH 44481** and publishes `info@raptiscoffee.com` and 330-399-7011 as official contact channels.
+- Its private-label and white-label materials support branded coffee packaging, stock valve bags, full-color labels, whole-bean/ground capability generally, 12 oz retail bags and 2 lb/5 lb bulk formats. Private label requires at least one full case; exact 12 oz case quantity and variant-combining rules are not stated.
+- The dropship program advertises shipment directly to the brand's customer with no Raptis name on the package and same- or next-business-day shipment. It publishes a **$1.50 fee per shipping package** plus actual carrier postage.
+- Public fee pages conflict: the current dropship page states **$0 monthly fee**, while the custom-item setup page lists **$9/month automated** or **$18/month standard/manual monitoring**. Neither may be treated as binding until Raptis identifies the current program and complete charges in writing.
+- A **$5 one-time item setup fee per SKU/variant** is public. Exact coffee, bag, label, artwork, proof, storage, changeover, integration and other fees remain unknown.
+- French Roast is a preliminary Original screen because the supplier describes it as very smooth with a clean finish and minimized bitterness. Signature Blend is a medium-dark comparison. The public description does not establish the full target profile or private-label availability.
+- Decaffeinated House Blend is publicly described as smooth, and a separate 100% Swiss Water Decaffeinated Coffee is offered. The selected 12 oz private-/white-label Decaf, its process documentation and similarity to Original remain unverified.
+- A $32.75 nonflavored sample bundle is public, but it does not show Decaf and is not a Rising Son qualification set. No sample or payment was authorized.
+
+### Mandatory qualification evidence still missing
+- Legal entity and role of each source, roaster/manufacturer, grinder, packer, warehouse, distributor and shipper; exact facility name/location; applicable Ohio/local food licenses and inspection evidence; and FDA food-facility registration status or exemption.
+- Current food-safety/preventive-controls plan and responsible personnel; sanitation, pest, foreign-material, supplier-approval, allergen/cross-contact and finished-product-release controls.
+- Raptis states that it previously completed an NSF Cook & Thurber quality audit and maintains sanitation, HACCP, food-defense and product-recall programs. These are public claims, not current documentary evidence. Obtain the current plans, applicable audit evidence and dates.
+- Green-coffee-to-finished-lot-to-customer-order traceability, record-retention period, lot-code examples, recall/withdrawal procedure and contacts, notification timing and latest mock-recall result. The public label page explains a lot format but does not prove shipment-level traceability or recall readiness.
+- Current products/completed-operations COI showing named insured, carrier, limits, territory, exclusions and expiration; ability and cost to name Rising Son additional insured.
+- Written indemnity and allocation of formula/specification, compliant label drafting/review, manufacturer/packer/distributor identification, claims, allergens, defects, traceability, recall notice/decision/execution/cost, regulatory notices, shipping loss/damage and record retention.
+- Final representative label proof and allocation for statement of identity, net quantity, responsible-firm/manufacturer wording, address, ingredients/allergens, claims, best-by date and lot code. Raptis's public label guidance is helpful but expressly shifts significant review responsibility to the brand.
+
+### Optional claims and flavored products
+- Treat any historic audit, organic, Fair Trade, sustainability, compostability or similar certification as optional unless law, contract or a chosen product claim makes it necessary. Obtain current issuer, holder, facility/product scope, certificate number and expiration before any use.
+- Because Raptis offers many flavored coffees, require complete ingredients/sub-ingredients, natural/artificial flavor status, carriers, processing aids, allergen statement, shared-equipment/cross-contact controls and exact label treatment for any flavored SKU. No flavored product is part of the planned Original + Decaf launch.
+
+### Commercial and operating gaps
+- Supplier-issued quote for the proposed Original and Decaf in whole-bean and standard ground formats; exact net weights; SKU/case MOQ; whether variants combine; complete coffee, grind, bag, valve, label, artwork, proof, setup, storage, pick/pack, app/manual workflow and recurring charges.
+- Reconciliation of $0 versus $9/$18 monthly fees; exact 1-/2-/3-bag shipping to ZIP 33325 and representative U.S. zones; packed dimensions/weights; carrier, residential, fuel, remote, peak, PO-box, Alaska/Hawaii/territory and military charges.
+- Exact manual/app/store integration, subscriptions, order cutoffs, inventory and stockout workflow, tracking, branded communications, packing slip, return identity, customer-service allocation and normal/peak SLA.
+- Binding payment terms, quote validity, price-change notice, minimum term/volume, termination and unused coffee/bag/label disposition; replacements and responsibility for defects, staleness, mispicks, misprints, carrier loss/damage, address errors, returns and missed SLA.
+
+### Mailbox and outreach control
+- The connected Gmail profile is `therisingsoncoffee@gmail.com`, not the separate hosted mailbox. An all-time Gmail search found no Raptis thread, but this cannot prove absence from hosted inbox/sent history.
+- No email, Gmail send, web form, call, sample request, account, payment, contract or volume commitment was made. The qualification draft is held for authenticated hosted `hello@therisingsoncoffee.com` access, delivered-From verification and a final duplicate check.
+
+Official sources reviewed 2026-11-08:
+- https://www.raptiscoffee.com/pages/drop-shipping-program
+- https://www.raptiscoffee.com/pages/private-label-coffee
+- https://www.raptiscoffee.com/pages/private-label
+- https://www.raptiscoffee.com/pages/white-label-program-1
+- https://www.raptiscoffee.com/pages/custom-item-setup
+- https://www.raptiscoffee.com/pages/label-design
+- https://www.raptiscoffee.com/pages/contact-us
+- https://www.raptiscoffee.com/products/french-roast-single-serve-coffee
+- https://www.raptiscoffee.com/products/swiss-water-decaffeinated-coffee
+- https://www.raptiscoffee.com/products/sample-bundle-specialty-coffee-non-flavored
+
