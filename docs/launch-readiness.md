@@ -1,6 +1,6 @@
 # Rising Son Coffee — Launch Readiness
 
-Last structured: 2026-11-08
+Last structured: 2026-11-09
 
 ## GREEN — completed / proven
 - Custom-domain HTTPS enabled in GitHub Pages by owner on 2026-09-22; independently reverified 2026-09-27: HTTPS apex, `/founding40/`, `/robots.txt` and `/sitemap.xml` returned `200`; HTTP apex and HTTPS `www` resolved to the HTTPS apex with valid certificate verification.
@@ -735,6 +735,36 @@ The maintained consolidated list is `docs/owner-actions.md`.
 ### Next three priorities
 1. Obtain and archive the written FDACS determination for this exact no-home-handling e-commerce/drop-ship model.
 2. Restore or verify hosted `hello@therisingsoncoffee.com` access, review existing threads and advance only non-duplicate supplier evidence requests.
+3. Reconcile supplier-issued economics with insurer-issued quotes and final-label evidence; keep checkout locked until every gate passes and the owner explicitly authorizes commerce.
+
+### Owner decisions
+- None newly required today. Do not activate checkout, spend, bind coverage, select a supplier, form an entity or publish unverified product, price, shipping or fulfillment claims.
+
+
+## Launch command center — 2026-11-09
+
+### Verified state and substantive changes
+- Launch readiness remains approximately 75%: reservation-ready, commerce locked.
+- Browser-level production checks confirmed the HTTPS apex and Founding 40 page render successfully. HTTP apex and HTTPS `www` resolve to `https://therisingsoncoffee.com/`. The live homepage canonical is `https://therisingsoncoffee.com/`; the Founding 40 canonical is `https://therisingsoncoffee.com/founding40/`.
+- Live `robots.txt` allows public crawling, excludes `/thanks.html` and declares the HTTPS-apex sitemap. Live `sitemap.xml` lists the apex, Founding 40, Story, Privacy and Terms URLs.
+- Checkout remains locked in live and repository state: the public control is disabled, the page states that no orders or payments are accepted, `checkout-config.js` remains `enabled: false`, and `paymentLink` is empty.
+- Repository state remains public on `main`; tracked `CNAME` remains `therisingsoncoffee.com`. No GitHub Pages, DNS, MX, SPF or DKIM setting was changed.
+- Supplier/Finance reconciliation now includes Raptis Coffee as inquiry-ready only—not a quote, selected supplier or verified contingency. Public materials support branded private/white-label packaging, blind customer-direct shipping, a $1.50 per-order fulfillment fee plus postage, a $5 per-SKU setup fee and same/next-business-day shipping. Public monthly-fee pages conflict ($0 versus $9 automated/$18 standard), and public retail prices are excluded from COGS. The assumption-only four-variant setup screen is $20 (4 × $5); fulfillment allocation is $1.50/$0.75/$0.50 per bag for 1/2/3-bag orders before postage. These are screening calculations, not supplier-issued quotes or launch economics.
+- Raptis still requires written confirmation of the exact Original/Decaf × whole/ground offer, case quantity/MOQ, nationwide rates, legal manufacturer/packer/distributor roles, current facility licences/FDA status, food-safety and allergen controls, finished-lot-to-customer traceability, recall/withdrawal evidence, products/completed-operations COI, additional-insured terms, indemnity, final-label/recall responsibility, replacement policy and payment terms.
+- The connected Rising Son Gmail account returned no new FDACS, permit, classification, supplier, roaster, insurance, quote or Raptis message after 2026-11-08. This does not replace direct review of the separate hosted `hello@therisingsoncoffee.com` mailbox and sent folder.
+- Written FDACS classification for the exact supplier-roasted, Rising Son-branded, supplier-packaged/stored/direct-shipped, no-home-handling model remains outstanding. No permit type, fee or renewal period is budgeted or assumed.
+- No reviewed Florida or federal authority has been found to impose a universal general- or product-liability insurance purchase requirement on this exact seller model. That evidence-limited conclusion remains separate from supplier/platform contract requirements and the prudent products/completed-operations coverage decision. No insurer-issued Rising Son quote is recorded.
+- The supported automation lookup returned no visible tasks, so enabled-task count and capacity could not be independently confirmed from that surface. No task was paused, resumed, created or swapped.
+- No spend, signature, supplier selection, insurance binding, entity formation, payment activation or commercial-launch action occurred.
+
+### Current blockers
+1. Written FDACS classification, including the exact permit, fee and renewal period if applicable.
+2. One verified primary supplier and two independent contingencies with supplier-issued landed economics, approved Original/Decaf samples and complete food-safety, traceability, recall, final-label, responsibility-allocation and COI evidence.
+3. Authenticated hosted `hello@` mailbox access, comparable insurer-issued quotes, and owner decisions on insurance and the compliant final label.
+
+### Next three priorities
+1. Obtain and archive the written FDACS determination for this exact no-home-handling e-commerce/drop-ship model.
+2. Restore or verify hosted `hello@therisingsoncoffee.com` access, review existing threads and advance only non-duplicate supplier evidence requests, including the held Raptis qualification request if no prior thread exists.
 3. Reconcile supplier-issued economics with insurer-issued quotes and final-label evidence; keep checkout locked until every gate passes and the owner explicitly authorizes commerce.
 
 ### Owner decisions
