@@ -1438,3 +1438,50 @@ https://therisingsoncoffee.com/
 
 **Hold control:** Do not send from connected Gmail. Before any send, open the actual hosted mailbox, inspect inbox and sent history for a Raptis thread, and verify with a delivered test that the From identity remains exactly `hello@therisingsoncoffee.com`. Do not call, submit a web form, order samples, create an account, enter payment information, accept terms or promise volume.
 
+
+
+## Liberty Beans Coffee — HELD single in-thread follow-up; supersedes earlier Liberty draft (refreshed 2026-11-09)
+
+**To:** reply in the existing September 23 Liberty Beans thread only; do not start a duplicate thread  
+**From:** `hello@therisingsoncoffee.com` only after hosted-mail authentication and delivered-From verification  
+**Subject:** Re: Rising Son Coffee — expanded private-label direct fulfillment inquiry
+
+Hello Liberty Beans team,
+
+I am following up once on Rising Son Coffee's September 23 inquiry. Your current private-label portal and program materials now appear closely aligned with our required supplier-managed model: Liberty sources and roasts the coffee, prepares whole-bean or ground products, applies compliant Rising Son-branded packaging, maintains professional fulfillment, and blind-ships individual customer orders. Rising Son will not roast, pack, warehouse or ship coffee from a home facility.
+
+Our planned launch remains Original and Decaf only. The Original target is rich/bright aroma, low perceived acidity and bitterness, earthy tones, strong smooth full flavor and a clean aftertaste; Decaf should be as close to Original as practical.
+
+The Founding 40 is a free reservation and product-feedback program that precedes a verified offer and any qualifying future purchase. It is not a preorder or volume commitment.
+
+Please reply in writing with the following remaining information and documents.
+
+**Products, samples and formats**
+- Recommend a year-round Original and Decaf pairing for the target profile, with exact product identity, origin/blend, roast, tasting notes, perceived acidity/bitterness, seasonality/substitution policy and Decaf-process documentation.
+- Confirm private-label eligibility for both products in whole bean and standard ground, all grinds, 12 oz and any other net weights, shelf life, roast/best-by dating and whether the four launch variants can share any minimum.
+- Provide a paired Original/Decaf sample option, product and shipping cost, and any future-order credit. Please do not ship or charge anything without separate written authorization.
+
+**Complete Rising Son quote and workflow**
+- Itemize coffee, grinding, one-time setup, artwork/design, proof, label, pouch/valve, filling, insert, storage, pick/pack, account, Shopify/manual-order, subscription and every per-order or first-90-day charge. Please identify what the publicly referenced one-time setup fee covers.
+- Provide all-in one-, two- and three-bag postage/fulfillment charges to ZIP 33325 and representative nearby, central and distant U.S. zones, including carrier/service, packed weights/dimensions, PO boxes, Alaska/Hawaii/territories, residential, remote, fuel and peak surcharges.
+- Confirm the best live workflow for Rising Son's current static-site launch, including manual order entry, Shopify availability, subscription support, order cutoffs, stockouts/substitutions, tracking/customer notices, packing slip, plain outer package, return identity and escalation.
+- Provide binding normal/peak roast-pack-ship SLA, payment timing, quote validity, price-change notice, minimum term, termination and responsibility for cancellations, address errors, carrier loss/damage, wrong/stale coffee, roast or grind defects, label errors, undeliverables, returns/refunds, replacements and missed SLA.
+
+**Mandatory legal, food-safety, traceability, insurance and label evidence**
+- Legal name and role of each entity that sources, roasts/manufactures, grinds, packs, warehouses, distributes and ships; facility name/address; current applicable South Carolina/local food licences and inspection evidence; and FDA food-facility registration status or exemption.
+- Current food-safety/preventive-controls plan and responsible personnel, including sanitation, pest, foreign-material, supplier-approval, allergen/cross-contact and finished-product-release controls.
+- Green-coffee lot through roast/pack/finished lot and customer-shipment traceability; lot-code format; record retention; recall/withdrawal procedure and contacts; notification timing; and latest mock-recall result.
+- Current products/completed-operations COI with named insured, carrier, limits, territory, exclusions and expiration; whether Rising Son can be named additional insured and any cost.
+- Proposed indemnity and written allocation for specifications, label drafting/review/approval, responsible-firm wording, product claims, defects, allergens, regulatory notices, recall/withdrawal decisions and costs, shipping loss/damage and record retention.
+- Representative final-label proof and confirmation of who approves statement of identity, net quantity, “Roasted by Liberty Beans Coffee” or other manufacturer/packer/distributor wording and address, ingredients/allergens, claims, roast/best-by date and lot code.
+
+If flavored coffee is proposed, separately provide every ingredient and sub-ingredient, natural/artificial flavor status, carriers, processing aids, allergen statement, shared-equipment/cross-contact controls and exact label treatment. Optional audits or certifications should include holder, facility/product scope, issuing body, certificate number, issue date and expiration, but they do not replace mandatory legal and food-safety evidence.
+
+We are comparing programs and have not authorized a portal account, saved card, Shopify connection, artwork upload, sample, order, payment, agreement, product selection or volume commitment.
+
+Thank you,  
+Rising Son Coffee  
+hello@therisingsoncoffee.com  
+https://therisingsoncoffee.com/
+
+**Hold control:** Do not send from connected Gmail. Before any send, open the actual hosted `hello@therisingsoncoffee.com` mailbox, inspect the complete Liberty inbox and sent thread, and verify with a delivered test that the From identity remains exactly `hello@therisingsoncoffee.com`. If Liberty already replied, send only a narrowed in-thread request for unresolved evidence. Do not submit the public form, call, create a portal account, save a card, connect Shopify, upload artwork, request shipment, order samples, accept terms or promise volume.
