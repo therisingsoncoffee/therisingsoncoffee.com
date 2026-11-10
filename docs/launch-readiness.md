@@ -1,6 +1,6 @@
 # Rising Son Coffee — Launch Readiness
 
-Last structured: 2026-11-09
+Last structured: 2026-11-10
 
 ## GREEN — completed / proven
 - Custom-domain HTTPS enabled in GitHub Pages by owner on 2026-09-22; independently reverified 2026-09-27: HTTPS apex, `/founding40/`, `/robots.txt` and `/sitemap.xml` returned `200`; HTTP apex and HTTPS `www` resolved to the HTTPS apex with valid certificate verification.
@@ -769,3 +769,33 @@ The maintained consolidated list is `docs/owner-actions.md`.
 
 ### Owner decisions
 - None newly required today. Do not activate checkout, spend, bind coverage, select a supplier, form an entity or publish unverified product, price, shipping or fulfillment claims.
+
+
+## Launch command center — 2026-11-10
+
+### Verified state and substantive changes
+- Launch readiness remains approximately 75%: reservation-ready, commerce locked.
+- Browser-level production checks confirmed that the HTTPS apex and Founding 40 page render successfully. HTTP apex and HTTPS `www` resolve to `https://therisingsoncoffee.com/`. Live homepage and Founding 40 canonicals remain correct.
+- Live `robots.txt` permits public crawling, excludes `/thanks.html` and declares the HTTPS-apex sitemap. Live `sitemap.xml` lists the apex, Founding 40, Story, Privacy and Terms URLs.
+- Checkout remains locked in live and repository state: the public control is disabled, the page states that no orders or payments are accepted, `checkout-config.js` remains `enabled: false`, and `paymentLink` is empty.
+- The repository remains public on `main`; tracked `CNAME` remains `therisingsoncoffee.com`. No Pages, DNS, MX, SPF or DKIM setting was changed.
+- Supplier/Finance reconciliation now includes Liberty Beans Coffee as a stronger public operating-model screen, but not a supplier quote, selected primary or verified contingency. Public materials support supplier sourcing/roasting, branded labeling/packing, supplier-held inventory, blind individual direct fulfillment, no public MOQ/monthly minimum/long-term contract, whole-bean and ground 12 oz products, Decaf, Shopify/manual ordering and advertised median 48-hour roast-to-ship timing.
+- Liberty's account-specific unit costs, one-time setup fee, 1/2/3-bag shipping, exact Original/Decaf pairing and samples remain unverified. Public retail prices and claimed 30–45% margins are excluded from Rising Son COGS. WooCommerce/custom API are planned rather than live. A saved payment card would be required to complete a portal profile; no account, card, integration, order, sample, payment or contract action was authorized.
+- Liberty's label guidance requires “Roasted by Liberty Beans Coffee” with its Charleston address. Final compliant-label allocation, legal manufacturer/packer/distributor roles, current licences/FDA status, food-safety and allergen controls, finished-lot traceability, recall/mock-recall evidence, products/completed-operations COI, additional-insured terms, indemnity and flavored-coffee ingredient/cross-contact evidence remain missing.
+- Written FDACS classification for the exact supplier-roasted, Rising Son-branded, supplier-packaged/stored/direct-shipped, no-home-handling model remains outstanding. No permit type, fee or renewal period is budgeted or assumed.
+- Fresh official-source review of Florida Statute 500.12, FDACS retail/wholesale permitting materials and FDA facility-registration guidance confirms food-permit and facility obligations may apply based on classification and activities. None of those reviewed authorities states a universal requirement that this exact seller purchase general or product liability insurance. This is an evidence-limited conclusion, not legal advice, and remains separate from supplier/platform contract requirements and the prudent products/completed-operations coverage decision. No insurer-issued Rising Son quote is recorded.
+- The supported automation inventory returned no visible tasks, so enabled-task count and slot capacity could not be independently confirmed. No task was paused, resumed, created or swapped.
+- No spend, signature, supplier selection, insurance binding, entity formation, payment activation or commercial-launch action occurred.
+
+### Current blockers
+1. Written FDACS classification, including the exact permit, fee and renewal period if applicable.
+2. One verified primary supplier and two independent contingencies with supplier-issued landed economics, approved Original/Decaf samples and complete food-safety, traceability, recall, final-label, responsibility-allocation and COI evidence.
+3. Authenticated hosted `hello@therisingsoncoffee.com` mailbox access, comparable insurer-issued quotes, and owner decisions on insurance and the compliant final label.
+
+### Next three priorities
+1. Obtain and archive the written FDACS determination for this exact no-home-handling e-commerce/drop-ship model.
+2. Review the hosted `hello@` Liberty thread and advance the held in-thread evidence request only if no response exists, while continuing two independent supplier contingencies.
+3. Reconcile supplier-issued economics with insurer-issued quotes and final-label evidence; keep checkout locked until every gate passes and the owner explicitly authorizes commerce.
+
+### Owner decisions
+- None newly required today. Do not activate checkout, spend, bind coverage, select a supplier, create a paid supplier portal profile, form an entity or publish unverified product, price, shipping or fulfillment claims.
