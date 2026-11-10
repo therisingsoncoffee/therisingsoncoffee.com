@@ -1485,3 +1485,37 @@ hello@therisingsoncoffee.com
 https://therisingsoncoffee.com/
 
 **Hold control:** Do not send from connected Gmail. Before any send, open the actual hosted `hello@therisingsoncoffee.com` mailbox, inspect the complete Liberty inbox and sent thread, and verify with a delivered test that the From identity remains exactly `hello@therisingsoncoffee.com`. If Liberty already replied, send only a narrowed in-thread request for unresolved evidence. Do not submit the public form, call, create a portal account, save a card, connect Shopify, upload artwork, request shipment, order samples, accept terms or promise volume.
+
+
+## HELD — Contour Coffee qualification request — 2026-11-10
+**Do not send from Gmail and do not submit the public form.** No verified direct email is currently documented. Use only after the actual hosted `hello@therisingsoncoffee.com` mailbox is accessible, a delivered test proves the From identity remains exactly `hello@therisingsoncoffee.com`, prior hosted inbox/sent threads are reviewed, and an official direct supplier email is verified.
+
+**Subject:** Private-label Original + Decaf, blind direct fulfillment and compliance evidence
+
+Hello Contour Coffee team,
+
+Rising Son Coffee is preparing a Florida-based online coffee launch using a no-home-handling model. We need the supplier to source and roast the coffee, produce and apply Rising Son-branded compliant packaging/labels, hold inventory or roast to order, maintain batch traceability, and ship each order directly to customers under our brand.
+
+Our Founding 40 program begins with a free reservation. Before anyone is asked to buy, we will present a verified offer; only a later qualifying purchase can activate a Founding Customer position. This is not a preorder and we are not promising volume.
+
+Your Sumatra Mandheling Grade 1 and Sumatra Mandheling Swiss Water Decaf appear to be a strong possible pairing. Our Original target is rich/bright aroma, low perceived acidity and bitterness, earthy tones, strong smooth full flavor and a clean aftertaste; the Decaf should be as close as quality permits.
+
+Please confirm in writing:
+
+1. **Products and samples** — Are those two coffees available year-round for private/white label in whole bean and ground? Which roast and grind options, net weights and sample formats are available? Please quote an Original/Decaf sample pair, shipping and any future-order credit. Do not ship or charge anything without separate written authorization.
+2. **Complete economics** — Unit coffee cost for each SKU/format; bag, valve, front/back label, artwork, proof, setup, changeover, insert, storage, pick/pack, account/platform, integration and other fees; MOQ or monthly minimum; 1-, 2- and 3-bag shipping by zone/service with surcharges; onboarding and normal/peak lead times; subscription handling; Shopify, WooCommerce, manual and API options; payment terms; and replacement/refund policies.
+3. **Required operating model** — Confirm Contour will source/roast, provide and apply Rising Son-branded compliant packaging/labeling, warehouse or roast to order, preserve finished-lot-to-customer traceability, and blind-ship individual orders nationwide. Please describe packing slips, exterior branding, return identity, tracking flow, address-error/undeliverable handling and service-level remedies.
+4. **Legal roles and facility evidence** — Identify the legal manufacturer, packer, warehouse and distributor for the finished product; each facility name/address; applicable state/local food licences; FDA food-facility registration status; and the party responsible for each required label statement. Please do not send confidential FDA registration credentials or passwords.
+5. **Mandatory food-safety evidence** — Provide the relevant food-safety/preventive-control plan summary, sanitation and supplier-approval controls, allergen/cross-contact program, batch/lot coding and order-level traceability example, recall/withdrawal procedure and contacts, and the date/result of the latest mock recall.
+6. **Insurance and contract allocation** — Provide a current products/completed-operations COI with limits and expiration; whether Rising Son can be named additional insured and at what cost; proposed indemnity; and allocation of label approval, regulatory compliance, product defects, carrier loss/damage, recalls/withdrawals, customer notification, refunds/replacements and recall costs.
+7. **Optional certifications/audits** — If offered, provide current certificates showing holder, facility/product scope, issuing body, certificate number, issue date and expiration. These are helpful but do not replace the mandatory legal, food-safety, traceability, recall and insurance evidence.
+8. **Flavored coffee** — If flavors might be offered later, provide complete ingredients/sub-ingredients, carriers, processing aids, allergen statements and cross-contact controls for each flavor. Flavored coffee is optional and is not required for launch.
+
+We are comparing programs and have not authorized a sample, test run, artwork upload, integration, account, payment method, order, agreement, product selection or volume commitment.
+
+Thank you,  
+Rising Son Coffee  
+hello@therisingsoncoffee.com  
+https://therisingsoncoffee.com/
+
+**Hold control:** Before any send, verify an official direct recipient address from a first-party Contour source, search the complete hosted `hello@` inbox and sent history for an existing Contour/Village Roaster/Qahwah thread, and send at most one tailored in-thread request if no adequate prior response exists. Do not use connected Gmail, the public form, phone, samples, accounts, artwork uploads, integrations, payment methods, orders or contracts.
