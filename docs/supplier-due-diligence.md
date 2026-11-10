@@ -1252,3 +1252,31 @@ Newly reviewed official program materials materially strengthen the public opera
 Public capability remains promising, but Liberty is **not a verified primary or contingency**. Still mandatory: a supplier-issued Original/Decaf pairing and sample terms; exact unit/setup/design/label/bag/insert/pick-pack/storage/integration costs; 1/2/3-bag zone shipping; subscriptions and static-site/manual workflow; legal manufacturer/packer/distributor roles; current South Carolina/local food licences and FDA registration status; food-safety/preventive-control and allergen evidence; lot-to-customer traceability; recall/withdrawal procedure and latest mock-recall result; current products/completed-operations COI with limits/expiry and additional-insured terms; indemnity; final-label and recall responsibility; and complete ingredients/sub-ingredients, carriers, processing aids and cross-contact controls for any flavored coffee.
 
 Official sources reviewed 2026-11-09: https://libertybeanscoffee.com/private-label/ ; https://libertybeanscoffee.com/blogs/private-label/ ; https://libertybeanscoffee.com/product-category/decaf-coffee-beans/ ; https://libertybeanscoffee.com/contact/ . No email, form, call, account, sample, payment, order, contract or volume commitment was initiated.
+
+
+## Contour Coffee — evidence refresh, 2026-11-10
+Contour Coffee is a materially stronger public operating-model and product-pairing screen, but it is not a supplier quote, selected primary or verified contingency.
+
+Verified public operating-model claims:
+- Contour says it manages green-coffee sourcing, roast scheduling, packaging inventory and carrier relationships; it roasts, bags, applies the brand label and ships individual orders directly from Lakewood under the brand.
+- Blind fulfillment is explicitly offered, with no Contour branding visible; return-address configuration can use the brand, another fulfillment address or Contour's address.
+- Order intake may be manual by shared spreadsheet/dashboard or automated through Shopify, WooCommerce or API; tracking may be returned to the brand's system or sent to the customer.
+- Retail drop-ship bags are described as 12 oz or 16 oz valve bags with sticker labels or custom-printed bags. A separate official article describes 1 lb and 2 lb branded drop-ship bags. Exact launch sizes, grinds and four-variant availability require written confirmation.
+- Contour describes a small test run before launch, a two- or three-coffee sample packet, volume-dependent pricing and minimums, and scheduled roast cadence. No Rising Son quote, numeric MOQ, sample cost, setup/packaging/storage/pick-pack/integration cost, or 1/2/3-bag shipping matrix is public.
+
+Product screen:
+- Original: Sumatra Mandheling Grade 1 is publicly described as dark roast, heavy body and low acidity, with dark chocolate, cedar, fresh-herb and forest-floor earthiness plus a long savory chocolate/herbal-spice finish. This aligns strongly with Rising Son's low-acidity, earthy, full-flavor target, but bright aroma, perceived bitterness, clean-aftertaste preference, private-label eligibility, year-round supply and sample approval remain unverified.
+- Decaf: Sumatra Mandheling Decaf is publicly described with the same Lake Toba/Lintong origin and Typica/Catimor varieties, processed by Giling Basah plus Swiss Water decaffeination. Its heavy body, very-low acidity, dark chocolate, warm spice, cedar and forest-floor profile makes it a strong like-for-like screen. Private-label eligibility, exact roast/grind options, year-round availability and sample approval remain unverified.
+
+Legal identity and mandatory evidence gaps:
+- Public terms identify Qahwah LLC dba Village Roaster, 9255 W Alameda Ave Unit L, Lakewood, CO 80226. Written confirmation is still required for who legally manufactures, packs, warehouses and distributes the finished Rising Son products and which facility performs each function.
+- Mandatory before qualification: current applicable food licences and FDA registration status; food-safety/preventive-control plan; allergen and cross-contact controls; finished-lot-to-customer traceability; recall/withdrawal procedure, contacts and latest mock-recall result; current products/completed-operations COI with limits and expiration; ability/cost to name Rising Son as additional insured; indemnity; final label, legal-responsible-firm and recall allocation; binding replacement/refund terms; complete unit/setup/packaging/insert/storage/pick-pack/integration/shipping/payment terms.
+- If flavored coffee is considered, require complete ingredients and sub-ingredients, carriers, processing aids, allergen statements and cross-contact controls for every flavor. Flavored coffee is not required for launch.
+- Optional certifications and audits may strengthen the file only when the certificate holder, facility/product scope, issuing body, certificate number, issue date and expiry are supplied. They do not replace the mandatory evidence above.
+
+Mail and action control:
+- Connected Gmail is therisingsoncoffee@gmail.com. Its all-mail search found no Contour thread, and no relevant new supplier or regulatory message appeared in the last two days.
+- No verified direct Contour email was found; the official site routes wholesale inquiries through a form and phone. Because the user's requirement is to use only the authenticated hosted hello@therisingsoncoffee.com mailbox after delivered-From verification, no form, Gmail message, call or outreach was used.
+- No sample, test run, account, integration, artwork approval, payment, contract, product selection or volume commitment was authorized.
+
+Official sources reviewed 2026-11-10: https://contour.coffee/journal/drop-ship-coffee-program/ ; https://contour.coffee/wholesale/ ; https://contour.coffee/about/ ; https://contour.coffee/green/sumatra-mandheling/ ; https://contour.coffee/green/sumatra-mandheling-decaf/ ; https://contour.coffee/policies/rewards-texts/ .
