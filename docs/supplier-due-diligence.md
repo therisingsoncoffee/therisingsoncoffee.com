@@ -1280,3 +1280,34 @@ Mail and action control:
 - No sample, test run, account, integration, artwork approval, payment, contract, product selection or volume commitment was authorized.
 
 Official sources reviewed 2026-11-10: https://contour.coffee/journal/drop-ship-coffee-program/ ; https://contour.coffee/wholesale/ ; https://contour.coffee/about/ ; https://contour.coffee/green/sumatra-mandheling/ ; https://contour.coffee/green/sumatra-mandheling-decaf/ ; https://contour.coffee/policies/rewards-texts/ .
+
+
+### Gillies Coffee Company — public capability, product and economics screen, reviewed 2026-11-11
+Gillies is an inquiry-ready operating-model candidate, not a quote, selected supplier or verified contingency.
+
+Public operating terms:
+- Gillies describes a finished private-label product suitable for online stores and forwarding to individual customers. Its dropship service has no per-order minimum, charges $4 per customer shipment plus actual FedEx postage and states a five-business-day dropship ship time.
+- Public private-label terms start at $9.99 per 12 oz unit, require 18 units per SKU and a minimum total of 54 x 12 oz or 45 x 16 oz for the initial private-label program, and charge a $199 one-time label onboarding/templating fee. Whole bean or ground is advertised at no extra charge. These are public screening terms, not a Rising Son quote or approved COGS.
+- Standard private-label turnaround is 15 working days after order acceptance and good funds; seven-working-day expedited production adds 20%.
+- Stock 12 oz and 16 oz laminated bags are available. The public options include a $0.35 block-bottom zip-bag upcharge, $0.25 credit for customer-supplied bags, $0.35 tin-tie application and $0.25 label application to customer bags. Exact Rising Son artwork, proof, back-label, storage, inventory and termination costs remain unquoted.
+- The public FAQ says a dropship subscription is deemed cancelled or abandoned if no order is received in any 15-day period after initiation. Whether an initial production run is required before individual dropship orders, whether Original/Decaf and whole/ground variants combine toward that run and how a low-volume restart works require written reconciliation.
+
+Preliminary product screens:
+- Original: Indonesia Sumatra is the closest public sensory screen because Gillies describes a wet-hulled, low-acid, heavy-bodied Sumatra offered as Rich Dark Roast. Exact bright aroma, bitterness, earthiness, clean aftertaste, private-label availability, year-round continuity and sample approval remain unknown. Bleecker Street Espresso is an alternate screen: creamy, low-acid, chocolate/licorice and pleasant lingering finish, but exact body and earthy fit remain unverified.
+- Decaf: Swiss Water Decaffeinated is publicly identified as Brazil-origin Swiss Water Process, smooth, balanced and full-bodied, with sweetish espresso, licorice-root and winter-wheat notes. Exact private-label eligibility, consumer bag sizes, roast/grind variants and similarity to the selected Original remain unverified.
+- Public samples: five 6 oz coffees for $49.95 including continental-U.S. ground shipping; custom-blend suggestion flights are $45. Exact paired Original/Decaf contents, terms and future-order credit are unknown. No sample is authorized.
+
+Mandatory qualification gaps:
+- Obtain a Rising Son-specific unit/setup/label/packaging/storage/pick-pack/integration and 1/2/3-bag shipping quote, including payment terms, price-change notice, subscription handling and binding replacement terms.
+- Identify the current legal manufacturer, packer, warehouse, distributor and shipper, each facility and role, current applicable New York food licences and FDA food-facility registration status.
+- Obtain food-safety/preventive-control and sanitation summaries, allergen/cross-contact controls, supplier approval, roast/finished-lot coding, finished-lot-to-customer traceability, recall/withdrawal procedure and contacts, and latest mock-recall result.
+- Obtain a current products/completed-operations COI with limits, territory and expiration; additional-insured capability and cost; indemnity; and allocation of final-label approval, responsible-firm wording, product defects, carrier claims, recalls, refunds/replacements and recall costs.
+- If flavored coffee is later considered, obtain complete ingredients/sub-ingredients, carriers, processing aids, allergen statements and cross-contact controls for every flavor. Flavored coffee is optional and not required for launch.
+- Optional audit/certification claims count only with current documents showing certificate holder, facility/product scope, issuer, number, issue date and expiration; they do not replace mandatory safety, traceability, recall, insurance or legal-role evidence.
+
+Mail and action control:
+- The connected account is therisingsoncoffee@gmail.com, not an authenticated hosted hello@therisingsoncoffee.com session. A two-day Gmail search found no relevant supplier, quote, regulatory or insurance message, but this does not inspect the separate hosted inbox or sent history.
+- Gillies' current first-party contact page exposes a web form but no verified direct recipient email in the retrieved official content. No form, Gmail message, call or outreach was used. A qualification draft is held until the hosted mailbox identity is verified, the complete hosted history is searched and a current first-party recipient address is confirmed.
+- No sample, order, payment, account, artwork approval, contract, subscription, product selection or volume commitment was authorized.
+
+Official sources reviewed 2026-11-11: https://gilliescoffee.com/pages/faqs ; https://gilliescoffee.com/pages/private-label ; https://gilliescoffee.com/products/indonesia-sumatra ; https://gilliescoffee.com/products/bleecker-street-espresso%C2%AE ; https://gilliescoffee.com/products/swiss-water-decaffeinated ; https://gilliescoffee.com/pages/custom-roasts-blends-packs ; https://gilliescoffee.com/pages/contact .
