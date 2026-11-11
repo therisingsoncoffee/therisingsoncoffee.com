@@ -1,6 +1,6 @@
 # Rising Son Coffee — Launch Readiness
 
-Last structured: 2026-11-10
+Last structured: 2026-11-11
 
 ## GREEN — completed / proven
 - Custom-domain HTTPS enabled in GitHub Pages by owner on 2026-09-22; independently reverified 2026-09-27: HTTPS apex, `/founding40/`, `/robots.txt` and `/sitemap.xml` returned `200`; HTTP apex and HTTPS `www` resolved to the HTTPS apex with valid certificate verification.
@@ -799,3 +799,34 @@ The maintained consolidated list is `docs/owner-actions.md`.
 
 ### Owner decisions
 - None newly required today. Do not activate checkout, spend, bind coverage, select a supplier, create a paid supplier portal profile, form an entity or publish unverified product, price, shipping or fulfillment claims.
+
+
+## Launch command center — 2026-11-11
+
+### Verified state and substantive changes
+- Launch readiness remains approximately 75%: reservation-ready, commerce locked.
+- Direct browser checks confirmed that the HTTPS apex and Founding 40 page render successfully. HTTP apex and HTTPS `www` resolve to `https://therisingsoncoffee.com/`. Live homepage and Founding 40 canonicals point to the correct HTTPS-apex URLs.
+- Live `robots.txt` allows public crawling, excludes `/thanks.html` and declares the HTTPS-apex sitemap. Live `sitemap.xml` lists the apex, Founding 40, Story, Privacy and Terms URLs.
+- Checkout remains locked in live and repository state: the public control is disabled, the page states that no orders or payments are accepted, `checkout-config.js` remains `enabled: false`, and `paymentLink` is empty.
+- Tracked `CNAME` remains `therisingsoncoffee.com`. No Pages, DNS, MX, SPF, DKIM, payment or checkout setting was changed.
+- Supplier and Finance reconciliation now includes Contour Coffee as an inquiry-ready public operating-model screen, not a supplier quote, selected primary or verified contingency. Public materials describe supplier sourcing and roasting, branded bagging/labeling, supplier-managed packaging inventory, blind individual direct fulfillment from Lakewood, Shopify/WooCommerce/manual/API workflows and return of tracking data.
+- Contour's preliminary product screen is Sumatra Mandheling Grade 1 Original and same-origin Swiss Water Decaf. The public flavor descriptions broadly support heavy body, low/very-low acidity, dark chocolate, cedar/forest-floor earthiness and a long savory finish. Exact bright aroma, perceived bitterness, clean aftertaste, private-label eligibility, year-round availability, variants and sample approval remain unverified.
+- No Rising Son quote exists for Contour. Unit coffee, packaging/label, pick-pack, platform/integration, shipping, MOQ, sample, payment and replacement terms remain UNKNOWN. Public retail and green-coffee prices are excluded from Rising Son COGS; landed cost, margins, pricing, break-even and launch-cash requirements were not changed.
+- Contour's public identity is Qahwah LLC dba Village Roaster, 9255 W Alameda Ave Unit L, Lakewood, Colorado 80226. Written evidence is still required for the exact legal manufacturer, packer, warehouse and distributor roles; current food licences/FDA status; food-safety/preventive and allergen controls; finished-lot-to-customer traceability; recall procedure/mock recall; products/completed-operations COI limits/expiry; additional-insured terms; indemnity; final-label and recall-cost allocation; and flavored-coffee ingredient/allergen evidence if offered.
+- Written FDACS classification for the exact supplier-roasted, Rising Son-branded, supplier-packaged/stored/direct-shipped, no-home-handling model remains outstanding. Florida Statute 500.12 and current FDACS retail/wholesale materials confirm permits apply to covered food establishments and that exact classification controls the permit type and fee. No permit type, fee or renewal period is budgeted or assumed without the agency's written determination.
+- Fresh review of the same Florida statute, FDACS permitting materials and FDA facility-registration guidance found food-permit, facility-registration and food-safety obligations but no provision stating that this exact seller must universally purchase general or product-liability insurance. This remains an evidence-limited conclusion, not legal advice, and is separate from supplier/platform contract requirements and the prudent products/completed-operations coverage decision. No insurer-issued Rising Son quote is recorded.
+- Automation capacity is not constrained: three distinct Rising Son workstreams are enabled (Launch Ops, Supplier/Product and Finance); six tasks are paused and three completed. No task was paused, restored, created or swapped.
+- No outreach, sample, order, spend, signature, supplier selection, insurance binding, entity formation, payment activation or commercial-launch action occurred.
+
+### Current blockers
+1. Written FDACS classification, including whether a permit is required and the exact permit, fee and renewal period if applicable.
+2. One verified primary supplier and two independent contingencies with supplier-issued landed economics, approved Original/Decaf samples and complete food-safety, traceability, recall, final-label, responsibility-allocation and COI evidence.
+3. Authenticated hosted `hello@therisingsoncoffee.com` mailbox access, comparable insurer-issued quotes, and owner decisions on insurance and the compliant final label.
+
+### Next three priorities
+1. Obtain and archive the written FDACS determination for this exact no-home-handling e-commerce/drop-ship model.
+2. Verify the hosted `hello@` identity and prior threads, then advance only non-duplicate evidence requests for Contour and the strongest independent candidates.
+3. Reconcile supplier-issued economics with insurer-issued quotes and final-label evidence; keep checkout locked until every launch gate passes and the owner explicitly authorizes commerce.
+
+### Owner decisions
+- None newly required today. Do not activate checkout, spend, bind coverage, select a supplier, form an entity or publish unverified product, price, shipping or fulfillment claims.
