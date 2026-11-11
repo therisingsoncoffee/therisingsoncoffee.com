@@ -1519,3 +1519,36 @@ hello@therisingsoncoffee.com
 https://therisingsoncoffee.com/
 
 **Hold control:** Before any send, verify an official direct recipient address from a first-party Contour source, search the complete hosted `hello@` inbox and sent history for an existing Contour/Village Roaster/Qahwah thread, and send at most one tailored in-thread request if no adequate prior response exists. Do not use connected Gmail, the public form, phone, samples, accounts, artwork uploads, integrations, payment methods, orders or contracts.
+
+
+## Gillies Coffee Company — qualification request (HOLD — hosted mailbox and recipient verification required)
+
+**Intended sender:** authenticated hosted `hello@therisingsoncoffee.com` only  
+**Recipient:** UNKNOWN — verify a current first-party direct Gillies private-label address; do not use connected Gmail or the public form  
+**Subject:** Rising Son Coffee private-label dropship qualification — Original + Swiss Water Decaf
+
+Hello Gillies private-label team,
+
+Rising Son Coffee is evaluating a Florida-based e-commerce launch in which the supplier sources and roasts the coffee, applies compliant Rising Son-branded packaging, stores the finished inventory and blind-ships individual orders directly to customers nationwide. Rising Son will not roast, pack, store or ship coffee from a home.
+
+Our Founding 40 begins as a free reservation and feedback program. We will present a verified product, price, shipping terms and complete founding offer before any customer decides whether to make a qualifying purchase. We are not promising volume and are not accepting paid orders yet.
+
+Your published private-label and dropship program appears relevant. Please provide written confirmation and supporting documents for:
+
+1. **Product and samples** — Recommend the closest year-round Original to a rich/bright aroma, low perceived acidity and bitterness, earthy character, strong smooth full flavor and clean aftertaste. Please also recommend the closest Swiss Water Decaf. Confirm private-label eligibility, origins/blend, roast, notes, decaf process, 12/16 oz availability, whole bean and ground/grind choices, consistency/substitution policy, shelf life, roast-date practice, and the exact paired sample contents, cost, shipping and any future-order credit.
+2. **Minimums and cadence** — Reconcile the public 18-unit-per-SKU / 54 x 12 oz or 45 x 16 oz minimum with the no-minimum dropship service. Is an initial production purchase required before one-order fulfillment? May Original/Decaf and bean/ground variants combine toward it? Please explain the published 15-day no-order cancellation/abandonment rule, restart cost/process and whether a low-volume pilot can remain active without a purchase or volume promise.
+3. **Complete economics** — Quote coffee by SKU/volume; the $199 onboarding fee; bag, valve, label, front/back art, proof, setup/changeover, grinding, inventory/storage, pick-pack, account/order/integration and insert fees; $4 fulfillment charge; representative one-, two- and three-bag FedEx costs by zone; surcharges; taxes; payment timing; credit terms; price-change notice; and all recurring or termination charges.
+4. **Fulfillment** — Confirm blind exterior presentation, return identity, packing slips/inserts, order intake options and integrations, tracking return, roast/pack/ship cutoffs, normal/peak SLA, subscriptions, mixed orders, stockout/substitution controls, address corrections, undeliverables, carrier claims and binding replacement/refund responsibilities.
+5. **Legal roles and facilities** — Identify the exact legal manufacturer, packer, warehouse, distributor and shipper for the finished Rising Son products; each facility name/address; applicable state/local food licences; FDA food-facility registration status; and the party responsible for every required label statement. Please do not send confidential FDA registration credentials or passwords.
+6. **Mandatory food-safety evidence** — Provide the relevant preventive-control/food-safety and sanitation summaries, supplier-approval and allergen/cross-contact controls, finished-lot code and customer-order traceability example, recall/withdrawal procedure and contacts, and date/result of the latest mock recall.
+7. **Insurance and contract allocation** — Provide a current products/completed-operations COI with limits, territory and expiration; whether Rising Son may be named additional insured and at what cost; proposed indemnity; and allocation of label approval, regulatory compliance, product defects, carrier loss/damage, recalls, customer notice, refunds/replacements and recall costs.
+8. **Optional certifications and flavored coffee** — If offered, provide current audit/certification documents showing holder, facility/product scope, issuer, certificate number, issue date and expiration. These do not replace the mandatory evidence above. If flavored coffee might be offered later, provide complete ingredients/sub-ingredients, carriers, processing aids, allergen statements and cross-contact controls for each flavor. Flavors are optional and not required for launch.
+
+We have not authorized a sample, initial run, artwork upload, subscription, account, payment method, order, agreement, product selection or volume commitment.
+
+Thank you,  
+Rising Son Coffee  
+hello@therisingsoncoffee.com  
+https://therisingsoncoffee.com/
+
+**Hold control:** Before any send, verify an official current direct recipient address from a first-party Gillies source, search the complete hosted `hello@` inbox and sent history for Gillies/Coperaco/private-label threads, and verify a delivered test preserves `From: hello@therisingsoncoffee.com`. Send at most one tailored message or in-thread follow-up. Do not use connected Gmail, the public contact form, phone, samples, accounts, artwork uploads, subscriptions, payments, orders or contracts.
