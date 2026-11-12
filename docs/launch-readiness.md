@@ -1,6 +1,6 @@
 # Rising Son Coffee — Launch Readiness
 
-Last structured: 2026-11-11
+Last structured: 2026-11-12
 
 ## GREEN — completed / proven
 - Custom-domain HTTPS enabled in GitHub Pages by owner on 2026-09-22; independently reverified 2026-09-27: HTTPS apex, `/founding40/`, `/robots.txt` and `/sitemap.xml` returned `200`; HTTP apex and HTTPS `www` resolved to the HTTPS apex with valid certificate verification.
@@ -826,6 +826,36 @@ The maintained consolidated list is `docs/owner-actions.md`.
 ### Next three priorities
 1. Obtain and archive the written FDACS determination for this exact no-home-handling e-commerce/drop-ship model.
 2. Verify the hosted `hello@` identity and prior threads, then advance only non-duplicate evidence requests for Contour and the strongest independent candidates.
+3. Reconcile supplier-issued economics with insurer-issued quotes and final-label evidence; keep checkout locked until every launch gate passes and the owner explicitly authorizes commerce.
+
+### Owner decisions
+- None newly required today. Do not activate checkout, spend, bind coverage, select a supplier, form an entity or publish unverified product, price, shipping or fulfillment claims.
+
+
+## Launch command center — 2026-11-12
+
+### Verified state and substantive changes
+- Launch readiness remains approximately 75%: reservation-ready, commerce locked.
+- Direct browser checks confirmed that the HTTPS apex and Founding 40 page render successfully. HTTP apex and HTTPS `www` resolve to `https://therisingsoncoffee.com/`. Live homepage and Founding 40 canonicals point to the correct HTTPS-apex URLs.
+- Live `robots.txt` allows public crawling, excludes `/thanks.html` and declares the HTTPS-apex sitemap. Live `sitemap.xml` lists the apex, Founding 40, Story, Privacy and Terms URLs.
+- Checkout remains locked in live and repository state: the public control is disabled, the page states that no orders or payments are accepted, `checkout-config.js` remains `enabled: false`, and `paymentLink` is empty.
+- The repository remains public on `main`; tracked `CNAME` remains `therisingsoncoffee.com`. No Pages, DNS, MX, SPF, DKIM, payment or checkout setting was changed.
+- Supplier and Finance reconciliation now includes Gillies Coffee Company as an inquiry-ready public screen, not a supplier quote, selected primary or verified contingency. Public terms describe private-label finished coffee, branded packaging and individual-order fulfillment; the preliminary product screen is a low-acid, heavy-bodied Indonesia Sumatra or Bleecker Street Espresso Original and a Brazil Swiss Water Decaf.
+- Gillies' advertised starting terms are $9.99 per 12 oz unit, $199 label onboarding, an initial minimum of 18 units per SKU and 54×12 oz or 45×16 oz total, plus $4 per dropship order and actual FedEx postage. The assumption-only opening screen is $738.46 (54 × $9.99 + $199) before postage, order fees, processing, insurance and unresolved packaging. These are public starting terms and arithmetic, not a Rising Son quote, landed COGS or approved cash requirement.
+- Gillies' published dropship program may terminate after any 15-day period without an order, which may conflict with Rising Son's low-volume launch. Written reconciliation is required together with the exact four-variant quote, 1/2/3-bag shipping, payment/replacement terms, legal manufacturer/packer/distributor roles, facility licences/FDA status, food-safety and allergen controls, lot-to-customer traceability, recall evidence, products/completed-operations COI, additional-insured terms, indemnity and final-label/recall allocation.
+- Written FDACS classification for the exact supplier-roasted, Rising Son-branded, supplier-packaged/stored/direct-shipped, no-home-handling model remains outstanding. Current Florida Statute 500.12 and FDACS retail/wholesale materials confirm permits apply to covered food establishments and renew annually, but Rising Son's written classification must identify whether a permit applies and the exact permit, fee and renewal period. No permit expense is budgeted or assumed.
+- Fresh review of current Florida statutory/FDACS permitting materials and FDA facility-registration guidance identified permit, facility-registration and food-safety obligations, but no provision stating that this exact seller must universally purchase general or product-liability insurance. This is an evidence-limited conclusion, not legal advice, and remains separate from supplier/platform contract requirements and the prudent products/completed-operations coverage decision. No insurer-issued Rising Son quote is recorded.
+- Automation capacity is not constrained: three distinct Rising Son workstreams are enabled (Launch Ops, Supplier/Product and Finance); six tasks are paused and three completed. The three enabled workstreams remain active and nonredundant, so no task was paused, restored, created or swapped.
+- No outreach, form submission, sample, order, spend, signature, supplier selection, insurance binding, entity formation, payment activation or commercial-launch action occurred.
+
+### Current blockers
+1. Written FDACS classification, including whether a permit is required and the exact permit, fee and renewal period if applicable.
+2. One verified primary supplier and two independent contingencies with supplier-issued landed economics, approved Original/Decaf samples and complete food-safety, traceability, recall, final-label, responsibility-allocation and COI evidence.
+3. Authenticated hosted `hello@therisingsoncoffee.com` mailbox access, comparable insurer-issued quotes, and owner decisions on insurance and the compliant final label.
+
+### Next three priorities
+1. Obtain and archive the written FDACS determination for this exact no-home-handling e-commerce/drop-ship model.
+2. Verify the hosted `hello@` identity and prior threads, then advance only non-duplicate evidence requests for Gillies and the strongest independent candidates.
 3. Reconcile supplier-issued economics with insurer-issued quotes and final-label evidence; keep checkout locked until every launch gate passes and the owner explicitly authorizes commerce.
 
 ### Owner decisions
