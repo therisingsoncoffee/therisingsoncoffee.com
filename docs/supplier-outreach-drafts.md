@@ -1552,3 +1552,39 @@ hello@therisingsoncoffee.com
 https://therisingsoncoffee.com/
 
 **Hold control:** Before any send, verify an official current direct recipient address from a first-party Gillies source, search the complete hosted `hello@` inbox and sent history for Gillies/Coperaco/private-label threads, and verify a delivered test preserves `From: hello@therisingsoncoffee.com`. Send at most one tailored message or in-thread follow-up. Do not use connected Gmail, the public contact form, phone, samples, accounts, artwork uploads, subscriptions, payments, orders or contracts.
+
+## Cooper's Cask Coffee — qualification request (HOLD — hosted mailbox required; prepared 2026-11-12)
+
+**Intended sender:** authenticated hosted `hello@therisingsoncoffee.com` only  
+**Recipient:** `sales@cooperscaskcoffee.com` — shown on the first-party shipping policy; re-verify before use  
+**Subject:** Rising Son Coffee private-label Original + Decaf and blind direct-fulfillment qualification
+
+Hello Cooper's Cask Coffee team,
+
+Rising Son Coffee is evaluating a Florida-based online launch with no home handling. We need one supplier to source and roast the coffee, produce and apply compliant Rising Son-branded packaging and labels, warehouse finished coffee or roast to order, maintain batch traceability, and blind-ship individual customer orders nationwide.
+
+Our Founding 40 begins as a free reservation and feedback program before any verified offer or qualifying future purchase. It is not a preorder or volume commitment.
+
+Our planned launch is Original and Decaf only. The Original target is rich/bright aroma, low perceived acidity and bitterness, earthy tones, strong smooth full flavor and a clean aftertaste; Decaf should be as close to Original as practical. Your Organic Sumatra Dark Roast and Costa Rica water-process Decaf are preliminary public screens only; please recommend the best year-round private-label pair.
+
+Please reply in writing with:
+
+1. **Products and samples** — exact Original and Decaf identity, origin/blend, roast, tasting profile, perceived acidity/bitterness, decaf process, year-round consistency/substitution policy, private-label eligibility, whole bean and all grind options, net weights, shelf life, roast/best-by practice and lot coding. Quote a paired sample, shipping and future-order credit; do not ship or charge anything without separate written authorization.
+2. **Minimums and complete economics** — explain the public 24-bag minimum and whether Original/Decaf and bean/ground variants may combine. Itemize coffee, grinding, stock/custom pouch and valve, front/back label, the public $250 design option, artwork/proof/setup/changeover, filling, inserts, storage, pick/pack, account/platform/integration, subscription and every recurring or termination cost.
+3. **Required fulfillment model** — confirm you will hold finished inventory or roast to order and blind-ship each order directly to Rising Son customers nationwide. Describe order intake and Shopify/WooCommerce/manual/API options, subscriptions, packing slips, exterior branding, return identity, tracking flow, cutoffs, normal/peak SLA, stockouts/substitutions, address errors, undeliverables and escalation.
+4. **Shipping and remedies** — provide all-in one-, two- and three-bag rates to ZIP 33325 and representative nearby, central and distant U.S. zones, with carrier/service, packed dimensions/weights, PO boxes, Alaska/Hawaii/territories and residential/remote/fuel/peak surcharges. Provide binding allocation for carrier loss/damage, wrong/stale product, roast/grind defects, label errors, refunds, replacements and missed SLA.
+5. **Legal roles and facilities** — identify the exact legal manufacturer, packer, warehouse, distributor and shipper; each facility name/address; applicable Rhode Island/local food licences and inspection evidence; FDA food-facility registration status or exemption; and the party responsible for every required label statement. Please do not send confidential FDA registration credentials or passwords.
+6. **Mandatory food-safety evidence** — current food-safety/preventive-controls and sanitation summaries, responsible personnel, supplier approval, pest and foreign-material controls, allergen/cross-contact controls, finished-product release, green-coffee through finished-lot and customer-order traceability, record retention, recall/withdrawal procedure and contacts, notification timing and latest mock-recall result.
+7. **Insurance and contract allocation** — current products/completed-operations COI with named insured, carrier, limits, territory, exclusions and expiration; whether Rising Son can be named additional insured and at what cost; proposed indemnity; and written allocation for specifications, compliant-label drafting/review, product claims, regulatory compliance, defects, allergens, traceability, carrier claims, recall decision/execution/cost, customer notice and refunds/replacements.
+8. **Final label and optional evidence** — representative final-label proof and who approves statement of identity, net quantity, responsible-firm/manufacturer wording and address, ingredients/allergens, claims, best-by date and lot code. Optional audits/certifications should show holder, facility/product scope, issuer, certificate number, issue date and expiration; they do not replace mandatory evidence.
+
+If flavored coffee is offered later, separately provide every ingredient/sub-ingredient, natural/artificial flavor status, carriers, processing aids, allergen statement, shared-equipment/cross-contact controls and exact label treatment. Flavors are optional and not required for launch.
+
+We are comparing programs and have not authorized a sample, test run, account, card, artwork upload, integration, order, payment, agreement, product selection or volume commitment.
+
+Thank you,  
+Rising Son Coffee  
+hello@therisingsoncoffee.com  
+https://therisingsoncoffee.com/
+
+**Hold control:** Do not send from connected Gmail. Before any send, open the actual hosted `hello@therisingsoncoffee.com` mailbox, review the complete inbox and sent history for Cooper's Cask / Cooper's Coffee / GO MENTAL threads, re-verify the first-party recipient, and confirm with a delivered test that the From identity remains exactly `hello@therisingsoncoffee.com`. If a prior response exists, send only a narrowed in-thread request for unresolved evidence. Do not submit a web form, call, order samples, create an account, enter payment information, upload artwork, accept terms or promise volume.
