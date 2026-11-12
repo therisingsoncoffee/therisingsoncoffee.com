@@ -1311,3 +1311,41 @@ Mail and action control:
 - No sample, order, payment, account, artwork approval, contract, subscription, product selection or volume commitment was authorized.
 
 Official sources reviewed 2026-11-11: https://gilliescoffee.com/pages/faqs ; https://gilliescoffee.com/pages/private-label ; https://gilliescoffee.com/products/indonesia-sumatra ; https://gilliescoffee.com/products/bleecker-street-espresso%C2%AE ; https://gilliescoffee.com/products/swiss-water-decaffeinated ; https://gilliescoffee.com/pages/custom-roasts-blends-packs ; https://gilliescoffee.com/pages/contact .
+
+## Supplier evidence update — 2026-11-12
+
+### Mailbox and duplicate control
+
+- The only connected Rising Son mailbox identifies as `therisingsoncoffee@gmail.com`, not the authenticated hosted `hello@therisingsoncoffee.com` identity required for supplier outreach.
+- A two-day search found no relevant supplier, quote, sample, compliance, insurance, FDACS, permit, bounce or delivery-status message. This does not inspect the separate hosted inbox or sent history.
+- No Gmail message, web form, call, sample request, account, payment, agreement or product selection was made.
+
+### Cooper's Cask Coffee — inquiry-ready prospect, DTC model unverified
+
+**Publicly verified**
+
+- Cooper's Cask Coffee advertises private-label coffee using its standard bag with the customer's label, a 24-bag minimum, bag sizes from 12 oz to 5 lb, and an optional $250 in-house label design service. The stated private-label lead time is 1–2 weeks.
+- The supplier publicly identifies Cooper's Cask Coffee, LLC (also doing business as Cooper's Coffee Company / GO MENTAL Coffee) and lists a return/exchange address at 567 South County Trail, Exeter, Rhode Island 02822. Its official shipping policy publishes `sales@cooperscaskcoffee.com`.
+- Whole bean and multiple grind choices are public. Retail subscriptions exist, but private-label subscription fulfillment is not established.
+- **Original screen:** Organic Sumatra Dark Roast is the most relevant public sensory lead because it is a wet-hulled dark roast and the supplier emphasizes small-batch, fresh-to-order coffee. Exact private-label availability and the full Rising Son target—rich/bright aroma, low perceived acidity and bitterness, earthy tones, strong smooth full flavor and clean aftertaste—remain unverified.
+- **Decaf screen:** Costa Rica Decaf is a water-process medium roast with bittersweet chocolate, molasses-biscuit and honey-wheat notes. Organic Ethiopia Decaf is also water processed but its brighter citrus/tea profile appears less similar to the Original target. Exact private-label availability and Original/Decaf pairing must be confirmed.
+- Public retail and 5 lb wholesale prices are only screening references, not a Rising Son quote or COGS.
+
+**Critical model gap**
+
+- Public materials say Cooper's ships wholesale/private-label coffee to retail locations and can ship some gift orders to recipients, but they do not establish supplier-held inventory or roast-to-order **blind individual-customer fulfillment** under Rising Son's brand. They also do not publish pick/pack, 1-/2-/3-bag shipping economics, packing-slip/return identity, integrations, subscription handling or order-level tracking workflow. The candidate cannot be a primary or contingency unless this is confirmed in writing.
+
+**Mandatory qualification gaps**
+
+- Complete Original/Decaf recommendation, samples, whole-bean/ground formats, bag sizes, variant-combination rules and exact 24-bag minimum application.
+- Itemized unit, grinding, pouch/valve, front/back label, artwork/proof/setup/changeover, storage, pick/pack, insert, account/integration and subscription costs; payment terms, price-change notice and quote validity.
+- Nationwide blind direct fulfillment, warehousing, order intake/integrations, normal/peak SLA, subscriptions, stockouts/substitutions, tracking, return identity, and 1-/2-/3-bag shipping by zone/service/surcharge.
+- Legal manufacturer, packer, warehouse, distributor and shipper; each facility and applicable Rhode Island/local food licences; FDA food-facility registration status or exemption.
+- Food-safety/preventive-control and sanitation summaries, supplier approval, allergen/cross-contact controls, finished-product release, lot/roast-date-to-customer traceability, recall/withdrawal procedure and contacts, and latest mock-recall result.
+- Current products/completed-operations COI with limits, territory, exclusions and expiration; Rising Son additional-insured capability/cost; indemnity; and written allocation of label approval, regulatory compliance, defects, carrier claims, recalls, customer notice, refunds/replacements and recall costs.
+- For any flavored coffee, complete ingredients/sub-ingredients, carriers, processing aids, allergen statement, shared-equipment/cross-contact controls and label treatment. Flavors are optional and not required for launch.
+- Any optional audit/certification must show certificate holder, facility/product scope, issuer, number, issue date and expiration; it does not replace mandatory evidence.
+
+**Status:** inquiry-ready only. No supplier is selected. Cooper's Cask Coffee is not a verified backup until written and documentary evidence closes the direct-fulfillment, economics, safety, traceability, insurance and label-responsibility gaps.
+
+Official sources reviewed 2026-11-12: https://www.cooperscoffeeco.com/wholesale-coffee-suppliers/ ; https://www.cooperscoffeeco.com/private-label-and-wholesale/ ; https://www.cooperscoffeeco.com/product/costa-rican-decaf/ ; https://www.cooperscoffeeco.com/product/organic-ethiopian-decaf-coffee/ ; https://www.cooperscoffeeco.com/product/organic-sumatra-dark-roast-coffee/ ; https://www.cooperscoffeeco.com/shipping-and-return-policies/ ; https://www.cooperscoffeeco.com/terms-and-conditions/ ; https://www.cooperscoffeeco.com/about-coopers/ .
