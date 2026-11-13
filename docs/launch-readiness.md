@@ -1,6 +1,6 @@
 # Rising Son Coffee — Launch Readiness
 
-Last structured: 2026-11-12
+Last structured: 2026-11-13
 
 ## GREEN — completed / proven
 - Custom-domain HTTPS enabled in GitHub Pages by owner on 2026-09-22; independently reverified 2026-09-27: HTTPS apex, `/founding40/`, `/robots.txt` and `/sitemap.xml` returned `200`; HTTP apex and HTTPS `www` resolved to the HTTPS apex with valid certificate verification.
@@ -860,3 +860,38 @@ The maintained consolidated list is `docs/owner-actions.md`.
 
 ### Owner decisions
 - None newly required today. Do not activate checkout, spend, bind coverage, select a supplier, form an entity or publish unverified product, price, shipping or fulfillment claims.
+
+## Launch command center — 2026-11-13
+
+### Verified state and substantive changes
+- Launch readiness remains approximately 75%: reservation-ready, commerce locked.
+- Direct browser checks confirmed that the HTTPS apex and Founding 40 page render successfully. HTTP apex and HTTPS `www` resolve to `https://therisingsoncoffee.com/`. Live homepage and Founding 40 canonicals point to the correct HTTPS-apex URLs.
+- Live `robots.txt` allows public crawling, excludes `/thanks.html` and declares the HTTPS-apex sitemap. Live `sitemap.xml` lists the apex, Founding 40, Story, Privacy and Terms URLs.
+- Checkout remains locked in live and repository state: the public control is disabled, the page states that no orders or payments are accepted, `checkout-config.js` remains `enabled: false`, and `paymentLink` is empty.
+- The repository remains public with `main` as its default branch; tracked `CNAME` remains `therisingsoncoffee.com`. The GitHub Pages configuration endpoint was unavailable through the supported connector, but the live custom-domain deployment is serving correctly.
+- Public DNS inspection resolved the four GitHub Pages apex A records and `www` CNAME to `therisingsoncoffee.github.io`. MX remains Porkbun forwarding, SPF remains `include:_spf.porkbun.com`, and the existing `default` DKIM and DMARC records resolve. No Pages, DNS, MX, SPF, DKIM, payment or checkout setting was changed.
+- Supplier reconciliation now includes Joe Bean Roasters / Tailor Fit Coffee Solutions as candidate 40 and an inquiry-ready public screen, not a supplier quote, selected primary or verified contingency. Public materials describe private label/custom roasting, sourcing, retail packaging, consumables inventory, web-store integration, par-level warehousing and background pick-pack-ship.
+- Tailor Fit's custom contract-manufacturing route generally requires at least 1,000 lb/month. A smaller unaltered Joe Bean white-label route is public, but its MOQ and access to the same Rising Son-branded, supplier-held, blind individual-order fulfillment are unverified. This launch-volume conflict must be resolved in writing before the candidate can qualify.
+- Preliminary public product screens are Blossom Dark Roast Original and Colombia Azahar sugarcane Decaf. Private-label eligibility, whole-bean/ground variants, samples, exact sensory fit and year-round pairing remain unverified. Public consumer prices and shipping are excluded from Rising Son economics.
+- Joe Bean publicly states that its facility is FDA registered and inspected and that its food-safety team is HACCP and PCQI certified. Current certificates/inspection evidence, applicable licences, food-safety and allergen-control documentation, finished-lot-to-customer traceability, recall/mock-recall evidence, products/completed-operations COI, additional-insured terms, indemnity and final-label/recall allocation remain missing.
+- A three-day search of the connected Gmail account found no relevant FDACS, permit, supplier, insurance, quote or COI message. This does not inspect the separate hosted `hello@therisingsoncoffee.com` mailbox or sent history. No outreach or form submission occurred.
+- The 2026 Florida Statutes and current FDACS permit pages confirm that covered food establishments require a permit before operation, that permit classification and fees depend on the activities performed, and that permits renew annually. Rising Son's exact no-home-handling e-commerce/drop-ship classification remains unanswered in writing; no permit type, fee or renewal cost is budgeted or assumed.
+- Current FDA guidance places food-facility registration on facilities that manufacture/process, pack or hold food unless exempt. Under the planned model the supplier performs those physical activities, but facility and role evidence must be retained; this does not resolve Rising Son's separate FDACS classification.
+- Fresh review of Florida statutory/FDACS materials and the Florida Department of Financial Services small-business insurance guide found no universal requirement that this exact seller purchase general or product-liability insurance. The state guide says workers' compensation and commercial auto may be the only coverages required by Florida law while licences or local rules can impose others. This is an evidence-limited conclusion, not legal advice, and remains separate from supplier/platform contract demands and the prudent products/completed-operations coverage decision. No insurer-issued Rising Son quote is recorded.
+- Automation capacity is not constrained: Launch Ops, Supplier/Product and Finance are the three enabled workstreams; six other tasks are paused and three are completed. The enabled tasks remain distinct and active, so no task was paused, restored, created or swapped.
+- No sample, order, spend, signature, supplier selection, insurance binding, entity formation, payment activation or commercial-launch action occurred.
+
+### Current blockers
+1. Written FDACS classification, including whether a permit is required and the exact permit, fee and renewal period if applicable.
+2. One verified primary supplier and two independent contingencies with supplier-issued landed economics, approved Original/Decaf samples and complete food-safety, traceability, recall, final-label, responsibility-allocation and COI evidence.
+3. Authenticated hosted `hello@therisingsoncoffee.com` mailbox access, comparable insurer-issued quotes, and owner decisions on insurance and the compliant final label.
+
+### Next three priorities
+1. Obtain and archive the written FDACS determination for this exact supplier-roasted, supplier-packaged/stored/direct-shipped, no-home-handling model.
+2. Verify the hosted `hello@` identity and prior threads, then advance only non-duplicate evidence requests for the strongest supplier screens; require Joe Bean/Tailor Fit to reconcile the small-volume white-label route with blind DTC fulfillment.
+3. Reconcile supplier-issued economics with insurer-issued quotes and final-label evidence; keep checkout locked until every launch gate passes and the owner explicitly authorizes commerce.
+
+### Owner decisions
+- None newly required today. Do not activate checkout, spend, bind coverage, select a supplier, form an entity or publish unverified product, price, shipping or fulfillment claims.
+
+Official regulatory sources reviewed 2026-11-13: https://wwwo.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599%2F0500%2FSections%2F0500.12.html ; https://www.fdacs.gov/Business-Services/Food-Establishments/Retail-Food-Establishment-Permit ; https://www.fdacs.gov/Business-Services/Food-Establishments/Wholesale-Manufactured-Food-Establishment-Permit ; https://www.fda.gov/food/food-industry/how-start-food-business ; https://www.myfloridacfo.com/docs-sf/consumer-services-libraries/consumerservices-documents/understanding-coverage/consumer-guides/small-business-guide.pdf .
