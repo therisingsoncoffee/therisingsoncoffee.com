@@ -1349,3 +1349,47 @@ Official sources reviewed 2026-11-11: https://gilliescoffee.com/pages/faqs ; htt
 **Status:** inquiry-ready only. No supplier is selected. Cooper's Cask Coffee is not a verified backup until written and documentary evidence closes the direct-fulfillment, economics, safety, traceability, insurance and label-responsibility gaps.
 
 Official sources reviewed 2026-11-12: https://www.cooperscoffeeco.com/wholesale-coffee-suppliers/ ; https://www.cooperscoffeeco.com/private-label-and-wholesale/ ; https://www.cooperscoffeeco.com/product/costa-rican-decaf/ ; https://www.cooperscoffeeco.com/product/organic-ethiopian-decaf-coffee/ ; https://www.cooperscoffeeco.com/product/organic-sumatra-dark-roast-coffee/ ; https://www.cooperscoffeeco.com/shipping-and-return-policies/ ; https://www.cooperscoffeeco.com/terms-and-conditions/ ; https://www.cooperscoffeeco.com/about-coopers/ .
+
+## Supplier evidence update — 2026-11-13
+
+### Mailbox and duplicate control
+
+- The only connected Rising Son mailbox identifies as `therisingsoncoffee@gmail.com`, not the authenticated hosted `hello@therisingsoncoffee.com` identity required for supplier outreach.
+- A Gmail search for Joe Bean, Tailor Fit and their domains found no prior thread. This does not inspect the separate hosted inbox or sent history, so it is not sufficient authorization to contact.
+- No Gmail message, contact form, call, meeting, sample request, account, payment, agreement, artwork upload, product selection or volume commitment was made.
+
+### Joe Bean Roasters / Tailor Fit Coffee Solutions — inquiry-ready prospect; launch-volume route unresolved
+
+**Publicly verified**
+
+- Tailor Fit Coffee Solutions identifies itself as the contract-manufacturing service arm of Joe Bean Roasters. Joe Bean's terms identify the website owner as Joe Bean Coffee, LLC, and its official visit page lists the roastery at 565 Blossom Road, Suite E1, Rochester, New York 14610.
+- The public program covers private label/custom coffee, coffee sourcing, toll roasting, retail packaging, consumables inventory management, web-store integration, par-level warehousing, and background pick-pack-ship. Connected-store orders are described as shipping Monday through Friday.
+- Joe Bean states that its facility is FDA registered and inspected and that its food-safety team is HACCP and PCQI certified. These are public claims, not retained certificates, inspection records, registration evidence or a food-safety-plan review.
+- **Original screen:** Blossom Dark Roast is the closest public starting point because it is described as full-bodied, pleasantly flavorful, sweet-finishing and roasty without bitterness. Rich/bright aroma, low perceived acidity, earthy notes, clean aftertaste, year-round supply and white-label eligibility remain unverified.
+- **Decaf screen:** Colombia Azahar Decaf is a 12 oz sugarcane-process coffee described as clean and sweet, with almond, chocolate, citrus and cranberry notes. It is a preliminary screen only; private-label eligibility, grind options and closeness to the final Original remain unverified.
+- Public consumer prices, subscriptions and shipping are not a Rising Son quote and are not usable unit economics.
+
+**Commercial-fit issue**
+
+- Tailor Fit's FAQ says custom contract-manufacturing projects generally require at least **1,000 lb/month**. It says smaller volumes may use unaltered Joe Bean house blends through the wholesale program, but does not publish that route's MOQ or confirm it receives the same branded packaging, par-level warehousing and blind DTC pick-pack-ship. This must be reconciled in writing before the candidate can be a primary or contingency.
+
+**Mandatory qualification gaps**
+
+- Written confirmation that the smaller-volume white-label route supports both an Original and Decaf, Rising Son-branded compliant packaging, supplier-held inventory, lot traceability and blind individual-order nationwide fulfillment.
+- Recommended Original/Decaf pair, whole-bean and ground availability, grind specifications/surcharge, exact net weights, roast/best-by/lot-code practice, substitutions, samples and sample-credit terms.
+- Numeric MOQ by product/SKU/variant; whether Original/Decaf and bean/ground combine; all unit tiers; and clear separation of the 1,000-lb custom route from the smaller white-label route.
+- Every coffee, grinding, bag/valve, front/back label, artwork/proof/setup/changeover, filling, consumables, storage, pick/pack, insert, account/software/integration, subscription, termination and inventory-disposition cost; payment terms, quote validity and price-change notice.
+- Store integration and order intake; blind packing slip/exterior/return identity; subscriptions; cutoffs; normal/peak SLA; stockouts; tracking; and actual 1-/2-/3-bag rates by U.S. zone, carrier/service and surcharge.
+- Exact legal manufacturer, roaster, packer, warehouse, distributor and shipper; facility used for Rising Son; applicable New York/local food licences; and current FDA registration/inspection evidence or exemption. Do not request or retain confidential FDA registration credentials.
+- Food-safety/preventive-controls and sanitation summaries; responsible personnel; supplier approval; allergen/cross-contact, pest and foreign-material controls; finished-product release; green-coffee-to-finished-lot-to-customer traceability; record retention; recall/withdrawal plan and contacts; notification timing; and latest mock-recall result.
+- Current products/completed-operations COI with named insured, carrier, limits, territory, exclusions and expiration; Rising Son additional-insured capability/cost; indemnity; and written allocation of label drafting/approval, regulatory compliance, defects, allergens, carrier claims, recall decision/execution/cost, customer notice and refunds/replacements.
+- Representative final-label proof and named responsibility for statement of identity, net quantity, responsible-firm/manufacturer wording and address, ingredients/allergens, claims, best-by date and lot code.
+- If flavored coffee is offered later, every ingredient/sub-ingredient, carrier, processing aid, natural/artificial flavor status, allergen statement, shared-equipment/cross-contact control and exact label treatment. Flavors are optional and not required for launch.
+
+**Optional evidence, kept separate**
+
+- B Corp, women-owned and other audit/certification claims are optional. Each counts only with current evidence showing certificate holder, facility/product scope, issuer, number, issue date and expiration; none substitutes for the mandatory safety, traceability, recall, insurance and legal-role evidence above.
+
+**Status:** inquiry-ready only. No supplier is selected. Joe Bean/Tailor Fit cannot be treated as a verified backup until the small-volume white-label route is confirmed to meet the full DTC model and the economics, food-safety, traceability, insurance and label-responsibility evidence is complete.
+
+Official sources reviewed 2026-11-13: https://shop.joebeanroasters.com/pages/co-packing ; https://tailorfitcoffee.com/ ; https://tailorfitcoffee.com/about/ ; https://tailorfitcoffee.com/faq/ ; https://tailorfitcoffee.com/private-label-custom-coffee/ ; https://tailorfitcoffee.com/pickpackship/ ; https://shop.joebeanroasters.com/collections/coffee-by-the-bag/products/colombia-azahar-decaf ; https://shop.joebeanroasters.com/collections/blends-1/products/blend-subscription ; https://shop.joebeanroasters.com/pages/visit-us ; https://shop.joebeanroasters.com/pages/terms-and-conditions .
