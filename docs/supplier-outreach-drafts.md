@@ -1588,3 +1588,41 @@ hello@therisingsoncoffee.com
 https://therisingsoncoffee.com/
 
 **Hold control:** Do not send from connected Gmail. Before any send, open the actual hosted `hello@therisingsoncoffee.com` mailbox, review the complete inbox and sent history for Cooper's Cask / Cooper's Coffee / GO MENTAL threads, re-verify the first-party recipient, and confirm with a delivered test that the From identity remains exactly `hello@therisingsoncoffee.com`. If a prior response exists, send only a narrowed in-thread request for unresolved evidence. Do not submit a web form, call, order samples, create an account, enter payment information, upload artwork, accept terms or promise volume.
+
+## Joe Bean Roasters / Tailor Fit Coffee Solutions — qualification request (HOLD — hosted mailbox required; prepared 2026-11-13)
+
+**Intended sender:** authenticated hosted `hello@therisingsoncoffee.com` only  
+**Recipient:** current Tailor Fit contract-manufacturing contact through its official contact/meeting channel; no direct recipient email has been verified  
+**Subject:** Rising Son Coffee — small-volume white-label Original + Decaf and blind DTC fulfillment qualification
+
+Hello Joe Bean / Tailor Fit team,
+
+Rising Son Coffee is evaluating a Florida-based online launch with no home handling. We need one supplier to source and roast the coffee, produce and apply compliant Rising Son-branded packaging and labels, warehouse finished coffee or roast to order, maintain batch/lot traceability, and blind-ship individual customer orders nationwide.
+
+Our Founding 40 begins as a free reservation and feedback program before any verified offer or qualifying future purchase. It is not a preorder or volume commitment.
+
+Your public materials distinguish custom contract manufacturing, generally at or above 1,000 lb/month, from smaller white-label orders using unaltered Joe Bean house blends. We are evaluating the smaller-volume route first. Please confirm whether that route receives the same branded retail packaging, par-level inventory management, web-store integration and blind pick-pack-ship service.
+
+The planned launch is Original and Decaf only. The Original target is rich/bright aroma, low perceived acidity and bitterness, earthy tones, strong smooth full flavor and a clean aftertaste; Decaf should be as close to Original as practical. Blossom Dark Roast and Colombia Azahar sugarcane Decaf are preliminary public screens only; please recommend the best year-round white-label pair.
+
+Please reply in writing with:
+
+1. **Products and samples** — exact Original and Decaf identity, origin/blend, roast, tasting profile, perceived acidity/bitterness, decaf process, year-round consistency/substitution policy, white-label eligibility, whole bean and every grind option, net weights, shelf life, roast/best-by practice and lot coding. Quote a paired sample, shipping and any future-order credit; do not ship or charge anything without separate written authorization.
+2. **Minimums and complete economics** — explain the smaller white-label MOQ by coffee, SKU and variant; whether Original/Decaf and bean/ground variants combine; and the trigger for the public 1,000-lb/month custom route. Itemize coffee, grinding, stock/custom pouch and valve, front/back label, artwork/proof/setup/changeover, filling, consumables, inserts, storage, pick/pack, account/software/integration, subscription, termination and inventory-disposition costs.
+3. **Required fulfillment model** — confirm the smaller white-label route can hold par-level inventory or roast to order and blind-ship each order directly to Rising Son customers nationwide. Describe web-store/manual/API integration, subscriptions, packing slips, exterior branding, return identity, tracking flow, cutoffs, normal/peak SLA, freshness, stockouts/substitutions, address errors, undeliverables and escalation.
+4. **Shipping and remedies** — provide all-in one-, two- and three-bag rates to ZIP 33325 and representative nearby, central and distant U.S. zones, with carrier/service, packed dimensions/weights, PO boxes, Alaska/Hawaii/territories and residential/remote/fuel/peak surcharges. Provide binding allocation for carrier loss/damage, wrong/stale product, roast/grind defects, label errors, refunds, replacements and missed SLA.
+5. **Legal roles and facilities** — identify the exact legal manufacturer, roaster, packer, warehouse, distributor and shipper; each facility name/address used for Rising Son; applicable New York/local food licences and inspection evidence; FDA food-facility registration status or exemption; and the party responsible for every required label statement. Please do not send confidential FDA registration credentials or passwords.
+6. **Mandatory food-safety evidence** — current food-safety/preventive-controls and sanitation summaries, responsible personnel, supplier approval, pest and foreign-material controls, allergen/cross-contact controls, finished-product release, green-coffee through finished-lot and customer-order traceability, record retention, recall/withdrawal procedure and contacts, notification timing and latest mock-recall result.
+7. **Insurance and contract allocation** — current products/completed-operations COI with named insured, carrier, limits, territory, exclusions and expiration; whether Rising Son can be named additional insured and at what cost; proposed indemnity; and written allocation for specifications, compliant-label drafting/review, product claims, regulatory compliance, defects, allergens, traceability, carrier claims, recall decision/execution/cost, customer notice and refunds/replacements.
+8. **Final label and optional evidence** — representative final-label proof and who approves statement of identity, net quantity, responsible-firm/manufacturer wording and address, ingredients/allergens, claims, best-by date and lot code. Optional audits/certifications—including B Corp or women-owned claims—should show holder, facility/product scope, issuer, certificate number, issue date and expiration; they do not replace mandatory evidence.
+
+If flavored coffee is offered later, separately provide every ingredient/sub-ingredient, natural/artificial flavor status, carriers, processing aids, allergen statement, shared-equipment/cross-contact controls and exact label treatment. Flavors are optional and not required for launch.
+
+We are comparing programs and have not authorized a sample, meeting, test run, account, card, artwork upload, integration, order, payment, agreement, product selection or volume commitment.
+
+Thank you,  
+Rising Son Coffee  
+hello@therisingsoncoffee.com  
+https://therisingsoncoffee.com/
+
+**Hold control:** Do not send from connected Gmail and do not submit the public form or schedule a meeting. Before any outreach, open the actual hosted `hello@therisingsoncoffee.com` mailbox, search the complete inbox and sent history for Joe Bean, Tailor Fit and their domains, verify a current first-party direct recipient/contact path, and confirm with a delivered test that the From identity remains exactly `hello@therisingsoncoffee.com`. If a prior response exists, send only a narrowed in-thread request for unresolved evidence. Do not call, order samples, create an account, enter payment information, upload artwork, accept terms or promise volume.
