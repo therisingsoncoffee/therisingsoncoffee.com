@@ -1626,3 +1626,59 @@ hello@therisingsoncoffee.com
 https://therisingsoncoffee.com/
 
 **Hold control:** Do not send from connected Gmail and do not submit the public form or schedule a meeting. Before any outreach, open the actual hosted `hello@therisingsoncoffee.com` mailbox, search the complete inbox and sent history for Joe Bean, Tailor Fit and their domains, verify a current first-party direct recipient/contact path, and confirm with a delivered test that the From identity remains exactly `hello@therisingsoncoffee.com`. If a prior response exists, send only a narrowed in-thread request for unresolved evidence. Do not call, order samples, create an account, enter payment information, upload artwork, accept terms or promise volume.
+
+
+## EZPZ Coffee — DO NOT SEND UNTIL HOSTED MAILBOX IS ACCESSIBLE
+
+**To:** help@ezpz.coffee  
+**Subject:** Rising Son Coffee — U.S. private-label Original + Decaf dropship qualification
+
+Hello,
+
+Rising Son Coffee is evaluating roasting and fulfillment partners for a prelaunch Florida e-commerce coffee brand. Your public materials describe Montreal roasting, branded direct-to-customer fulfillment across the United States, Shopify order/tracking flow, subscriptions and no minimum order.
+
+Our Founding 40 program is a free reservation and product-feedback effort only. It precedes a complete verified offer and any qualifying purchase, and it is not a preorder or volume commitment.
+
+Our mandatory operating model is supplier-direct: the supplier must source and roast the coffee; produce compliant Rising Son-branded packaging and labels; store coffee and required materials; maintain batch/lot traceability; and blind-ship individual orders directly to customers. Rising Son will not roast, pack, store or ship coffee from a home facility.
+
+Before any sample, artwork approval, packaging purchase, order or commitment, please provide one written response covering:
+
+### Product and samples
+- Your closest Original candidates to this target: rich/bright aroma, low perceived acidity and bitterness, earthy tones, strong smooth full flavor and a clean aftertaste.
+- A Decaf as close as practical to the recommended Original, including decaffeination method and written tasting profile.
+- Whole-bean and ground availability, grind options and surcharges, bag sizes/net weights for the U.S. market, roast-date and shelf-life practices.
+- Sample-kit contents, cost, U.S. shipping terms and whether any charge is credited. Please do not send or charge anything without written approval.
+
+### Complete commercial and fulfillment terms
+- Finished unit price in a stated currency for each Original/Decaf, whole-bean/ground and bag-size variant.
+- All coffee, bag, label/printing, artwork/setup, grinding, storage, pick/pack, Shopify Collective/platform, subscription, account and recurring fees.
+- MOQ by coffee/SKU/variant and whether variants can be mixed.
+- Representative all-in landed cost for one-, two- and three-bag shipments to ZIP 33325 and other U.S. zones, separating carrier postage, fuel/remote/peak surcharges, customs, duties, tariffs, brokerage and taxes.
+- Normal and peak order-to-carrier timing, carrier options, tracking flow, stockout handling, subscription/repeat-order support, payment terms and price-change notice.
+- Blind packing slip, exterior packaging and return-address presentation.
+- Address-correction, loss, damage, mis-pick, quality-defect, stale-product, return, refund and replacement policies.
+
+### Cross-border legal and regulatory roles
+- Legal names and facility locations for the manufacturer, roaster, packer, warehouse, exporter, importer of record, distributor and shipper.
+- Canadian food licences and Safe Food for Canadians licence/export status applicable to this program.
+- Applicable U.S. FDA food-facility registration status and U.S. agent for any foreign registered facility. Please provide status evidence without describing registration as FDA approval or certification.
+- Who is the U.S. importer of record and who bears any Foreign Supplier Verification Program responsibility for coffee imported for individual U.S. orders.
+- Who creates and approves the final U.S.-compliant label, including responsible-party name/address, dual-unit net quantity, ingredient/allergen statement where applicable and country-of-origin marking.
+
+### Food safety, traceability and responsibility
+- Food-safety plan, preventive controls, sanitation, supplier approval and allergen/cross-contact controls.
+- Current audit/certification evidence, scope, grade and expiry, if any; please distinguish legally required controls from optional certifications.
+- Lot/roast/order traceability, mock-recall evidence, withdrawal/recall procedure and 24/7 contacts.
+- Current product-liability COI showing limits, territory and expiration, including products/completed operations for private-label coffee sold nationwide in the U.S.
+- Ability and cost to name Rising Son as additional insured; indemnity terms; and allocation of label, import, product, recall-notification and recall-expense responsibility.
+- If flavored coffee is available, full ingredients, flavor-supplier documentation and allergen/cross-contact statements.
+
+Please also confirm whether Canadian Roasting Society is the sole manufacturer/packer for the proposed program or whether any other facility or subcontractor would handle Rising Son products.
+
+Thank you,
+
+Rising Son Coffee  
+hello@therisingsoncoffee.com  
+https://therisingsoncoffee.com/
+
+**Send-control note:** Do not send from Gmail. Recheck the tracker and all hosted-mail threads first. Send only from an authenticated `hello@therisingsoncoffee.com` session after verifying the delivered From identity. Do not submit a form, request a sample, upload artwork, schedule a call, make payment, accept terms or promise volume without owner approval.
