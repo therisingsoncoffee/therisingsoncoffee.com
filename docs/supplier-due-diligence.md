@@ -1393,3 +1393,43 @@ Official sources reviewed 2026-11-12: https://www.cooperscoffeeco.com/wholesale-
 **Status:** inquiry-ready only. No supplier is selected. Joe Bean/Tailor Fit cannot be treated as a verified backup until the small-volume white-label route is confirmed to meet the full DTC model and the economics, food-safety, traceability, insurance and label-responsibility evidence is complete.
 
 Official sources reviewed 2026-11-13: https://shop.joebeanroasters.com/pages/co-packing ; https://tailorfitcoffee.com/ ; https://tailorfitcoffee.com/about/ ; https://tailorfitcoffee.com/faq/ ; https://tailorfitcoffee.com/private-label-custom-coffee/ ; https://tailorfitcoffee.com/pickpackship/ ; https://shop.joebeanroasters.com/collections/coffee-by-the-bag/products/colombia-azahar-decaf ; https://shop.joebeanroasters.com/collections/blends-1/products/blend-subscription ; https://shop.joebeanroasters.com/pages/visit-us ; https://shop.joebeanroasters.com/pages/terms-and-conditions .
+
+
+## EZPZ Coffee — inquiry-ready cross-border screen (2026-11-14)
+
+**Current classification:** inquiry-ready research prospect only; not contacted, not selected, and not a verified primary or contingency.
+
+### Publicly supported capability
+
+- EZPZ says it sources specialty-grade coffee, roasts at Canadian Roasting Society in Montreal, packages orders under the customer’s brand, and ships individual orders directly to customers in Canada and the United States. Its public site identifies 3780 Rue Saint-Patrick, Montreal, Quebec, and `help@ezpz.coffee`.
+- Its dropshipping page advertises zero inventory, no monthly software fee, no minimum order, full custom branding, roast-to-order production, and direct shipment under the brand name.
+- Its main site advertises Shopify Collective order routing, tracking returned to the store, and subscription fulfillment.
+- EZPZ publicly claims farm, farmer and harvest-date traceability and offers roast-level and grind customization. Those are marketing claims pending documentary confirmation for the exact Rising Son products.
+- The standard custom-label program uses a 225 g bag. The site advertises design included, no setup fee, and dropshipping “from $15/bag”; it does not clearly establish currency, coffee selection, grinding, fulfillment, U.S. shipping, customs, duties, brokerage or taxes included in that figure.
+- The site separately advertises fully custom printed bags in sizes including 250 g, 340 g, 454 g and 1 kg with a 5,000-unit packaging minimum and public bag pricing from $0.85. This is not evidence of finished-coffee unit cost.
+- EZPZ publicly advertises a free sample kit but does not establish its contents, U.S. eligibility or shipping terms. No sample was requested or ordered.
+- Public timing is inconsistent across the site: a general FAQ says 3–4 business days of processing plus 3–5 days of delivery, the standard custom-label comparison cites about five business days, white-label pages cite 2–3 weeks from design approval, and the U.S. page cites 7–10 days average delivery. Rising Son needs a written SKU- and workflow-specific SLA.
+- EZPZ says custom-branded products are final sale. Damage, loss, mis-pick, quality-defect, stale-product and carrier-claim remedies remain unknown.
+- The public pages reviewed did not identify a Decaf coffee or decaffeination method. Original and Decaf product fit therefore remains unverified.
+- The connected Gmail account was searched on 2026-11-14 for EZPZ, its domain and its public email; no prior or current correspondence was found.
+
+### Evidence required before EZPZ can count as a backup
+
+1. Exact Original candidates matching Rising Son’s target—rich/bright aroma, low perceived acidity and bitterness, earthy tones, strong smooth full flavor and clean aftertaste—and a Decaf as close as practical, with decaffeination process and written flavor profiles.
+2. Whole-bean and ground availability, grind options/surcharges, final U.S.-market net weights, roast date, shelf life, freshness promise and whether variants share the zero-MOQ terms.
+3. A complete Rising Son quote in stated currency: coffee, standard/custom bag, label/printing, setup/artwork, grinding, storage, pick/pack, Shopify Collective/platform, subscription, payment-processing or account fees.
+4. Representative all-in landed fulfillment for one-, two- and three-bag orders to ZIP 33325 and other U.S. zones, identifying carrier, postage, fuel/remote/peak surcharges, customs, duties, tariffs, brokerage, taxes and who acts as importer of record.
+5. Normal and peak order-to-carrier SLAs; tracking flow; stockout handling; subscription support; address correction; loss/damage/defect replacement and refund terms; packing slip and return-address presentation.
+6. The legal manufacturer, roaster, packer, warehouse, exporter, importer of record, distributor and shipper; exact facility names and locations; Canadian food licenses and Safe Food for Canadians licence/export eligibility; applicable U.S. FDA food-facility registration status and U.S. agent for the foreign facility; and any FSVP responsibility for imported coffee.
+7. Written confirmation of who prepares and approves the U.S.-compliant label, including U.S. responsible-party name/address, net quantity in U.S. customary and metric units, ingredient/allergen statements where applicable, country-of-origin marking, and allocation of regulatory and recall liability.
+8. Food-safety plan, preventive controls, sanitation, allergen/cross-contact program and supplier approval controls. The current public “no allergens” statement requires facility-scope evidence and must not be generalized to flavored or non-coffee products.
+9. Lot/roast/order traceability records, mock-recall evidence, withdrawal/recall procedure and 24/7 contacts.
+10. Applicable third-party audits/certifications with scope, grade and expiry. Optional certifications must remain distinguished from legal requirements.
+11. Current product-liability COI with limits, territory and expiration; U.S. products/completed-operations coverage for nationwide private-label sales; additional-insured capability/cost; indemnity; and allocation of label, import, product, recall-notification and recall-expense responsibility.
+12. For any flavored product, full ingredients, flavor-supplier documentation and allergen/cross-contact statements. EZPZ’s current FAQ says its coffee has no additives or flavorings; no flavored SKU should be inferred.
+
+### Assessment
+
+EZPZ is worth a controlled written inquiry because its advertised zero-inventory, private-label, subscription and direct U.S. fulfillment model matches Rising Son’s no-home-handling requirement unusually well. It cannot be treated as viable yet. Cross-border regulatory roles and landed economics create material diligence risk, and the public record does not establish Decaf, a U.S.-compliant final label, food-safety/recall evidence, insurance, importer/FSVP responsibility or enforceable replacement terms. No email, form submission, sample, order, payment, terms acceptance, volume promise or selection was made.
+
+Official sources reviewed: https://www.ezpz.coffee/en/coffee-dropshipping-canada , https://www.ezpz.coffee/en , https://www.ezpz.coffee/en/faq and https://www.ezpz.coffee/en/locations/usa .
