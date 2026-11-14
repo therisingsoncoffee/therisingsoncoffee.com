@@ -1,6 +1,6 @@
 # Rising Son Coffee — Launch Readiness
 
-Last structured: 2026-11-13
+Last structured: 2026-11-14
 
 ## GREEN — completed / proven
 - Custom-domain HTTPS enabled in GitHub Pages by owner on 2026-09-22; independently reverified 2026-09-27: HTTPS apex, `/founding40/`, `/robots.txt` and `/sitemap.xml` returned `200`; HTTP apex and HTTPS `www` resolved to the HTTPS apex with valid certificate verification.
@@ -895,3 +895,36 @@ The maintained consolidated list is `docs/owner-actions.md`.
 - None newly required today. Do not activate checkout, spend, bind coverage, select a supplier, form an entity or publish unverified product, price, shipping or fulfillment claims.
 
 Official regulatory sources reviewed 2026-11-13: https://wwwo.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599%2F0500%2FSections%2F0500.12.html ; https://www.fdacs.gov/Business-Services/Food-Establishments/Retail-Food-Establishment-Permit ; https://www.fdacs.gov/Business-Services/Food-Establishments/Wholesale-Manufactured-Food-Establishment-Permit ; https://www.fda.gov/food/food-industry/how-start-food-business ; https://www.myfloridacfo.com/docs-sf/consumer-services-libraries/consumerservices-documents/understanding-coverage/consumer-guides/small-business-guide.pdf .
+
+
+## Launch command center — 2026-11-14
+
+### Verified state and substantive changes
+- Launch readiness remains approximately 75%: reservation-ready, commerce locked.
+- Direct browser checks confirmed that the HTTPS apex and Founding 40 page render successfully. HTTPS `www` resolves to `https://therisingsoncoffee.com/`. The live homepage canonical is `https://therisingsoncoffee.com/`; the Founding 40 canonical is `https://therisingsoncoffee.com/founding40/`.
+- Live `robots.txt` allows public crawling, excludes `/thanks.html` and declares the HTTPS-apex sitemap. Live `sitemap.xml` renders and lists the apex, Founding 40 and other public pages.
+- Checkout remains locked in live and repository state: the live control reads “Checkout Locked” and is disabled; `checkout-config.js` remains `enabled: false` with an empty `paymentLink`. No orders or payments are being accepted.
+- Tracked `CNAME` remains `therisingsoncoffee.com`. Public DNS returned the four GitHub Pages apex A records and `www` CNAME `therisingsoncoffee.github.io`. MX remains Porkbun forwarding; SPF remains `include:_spf.porkbun.com`; and the existing `default` DKIM and DMARC records resolve. No Pages, DNS, MX, SPF, DKIM, DMARC, payment or checkout setting was changed.
+- Supplier reconciliation now includes EZPZ Coffee as an inquiry-ready cross-border public screen, not a supplier quote, selected primary or verified contingency. Public materials describe sourcing, Montreal roasting at Canadian Roasting Society, branded packaging, individual direct shipment to U.S. customers, zero public MOQ, Shopify Collective order/tracking flow, subscription fulfillment and farm/harvest traceability.
+- EZPZ's public screen is commercially and regulatorily incomplete. The exact Original and Decaf pairing, Decaf process, whole-bean/ground eligibility, complete landed U.S. cost, currency, shipping/duties/brokerage/taxes, service-level timing and replacement remedies remain unverified. Public “from” prices are excluded from Rising Son COGS.
+- Before EZPZ could count as a backup, written evidence is required for legal manufacturer/packer/exporter/importer/distributor roles; Canadian licences/export eligibility; applicable FDA foreign-facility registration and U.S. agent; importer-of-record and FSVP responsibility; U.S.-compliant final-label responsibility and country-of-origin marking; food-safety/allergen controls; lot-to-customer traceability; recall/mock-recall evidence; products/completed-operations COI; additional-insured terms; indemnity; and label/import/recall-cost allocation.
+- A seven-day search of the connected `therisingsoncoffee@gmail.com` account found no relevant FDACS, permit, supplier, insurer, quote or COI message. This search does not inspect the separate hosted `hello@therisingsoncoffee.com` mailbox or its sent history. No outreach or form submission occurred.
+- The 2026 Florida Statutes continue to require covered food establishments to obtain an FDACS permit before operation, with classification and fees controlled by the activities performed and department rules. Rising Son still lacks the requested written classification for its exact supplier-roasted, Rising Son-branded, supplier-packaged/stored/direct-shipped, no-home-handling model; no permit type, fee or renewal cost is budgeted or assumed.
+- Fresh review of Florida's food-permit statute, the Florida Department of Financial Services small-business insurance guidance and FDA facility-registration guidance found permit, workers' compensation under defined employee thresholds, facility-registration and food-safety obligations, but no cited provision imposing a universal general- or product-liability insurance purchase mandate on this exact seller model. This is an evidence-limited inference, not legal advice, and remains separate from supplier/platform contract demands and the prudent products/completed-operations coverage decision. No insurer-issued Rising Son quote is recorded.
+- Automation capacity is not constrained: 12 tasks are visible, comprising three enabled Rising Son workstreams, six paused tasks and three completed tasks. Launch Ops, Supplier/Product and Finance remain distinct and active, so no task was paused, restored, created or swapped.
+- No sample, order, spend, signature, supplier selection, insurance binding, entity formation, payment activation or commercial-launch action occurred.
+
+### Current blockers
+1. Written FDACS classification, including whether a permit is required and the exact permit, fee and renewal period if applicable.
+2. One verified primary supplier and two independent contingencies with supplier-issued landed economics, approved Original/Decaf samples and complete food-safety, traceability, recall, final-label, responsibility-allocation and COI evidence.
+3. Authenticated hosted `hello@therisingsoncoffee.com` mailbox access, comparable insurer-issued quotes, and owner decisions on insurance and the compliant final label.
+
+### Next three priorities
+1. Obtain and archive the written FDACS determination for this exact supplier-roasted, supplier-packaged/stored/direct-shipped, no-home-handling model.
+2. Verify hosted `hello@` access and prior threads, then advance only non-duplicate evidence requests for the strongest supplier screens; require EZPZ to resolve Decaf, landed U.S. economics, importer/FSVP, label, recall and insurance responsibilities.
+3. Reconcile supplier-issued economics with insurer-issued quotes and final-label evidence; keep checkout locked until every launch gate passes and the owner explicitly authorizes commerce.
+
+### Owner decisions
+- None newly required today. Do not activate checkout, spend, bind coverage, select a supplier, form an entity or publish unverified product, price, shipping or fulfillment claims.
+
+Official sources reviewed 2026-11-14: https://wwwo.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599%2F0500%2FSections%2F0500.12.html ; https://www.myfloridacfo.com/docs-sf/consumer-services-libraries/consumerservices-documents/understanding-coverage/consumer-guides/small-business-guide.pdf ; https://www.myfloridacfo.com/division/wc/employer/coverage-requirements ; https://www.fda.gov/food/food-industry/how-start-food-business ; https://www.ezpz.coffee/en/coffee-dropshipping-canada ; https://www.ezpz.coffee/en ; https://www.ezpz.coffee/en/faq ; https://www.ezpz.coffee/en/locations/usa .
