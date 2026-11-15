@@ -1,6 +1,6 @@
 # Rising Son Coffee — Launch Readiness
 
-Last structured: 2026-11-14
+Last structured: 2026-11-15
 
 ## GREEN — completed / proven
 - Custom-domain HTTPS enabled in GitHub Pages by owner on 2026-09-22; independently reverified 2026-09-27: HTTPS apex, `/founding40/`, `/robots.txt` and `/sitemap.xml` returned `200`; HTTP apex and HTTPS `www` resolved to the HTTPS apex with valid certificate verification.
@@ -928,3 +928,13 @@ Official regulatory sources reviewed 2026-11-13: https://wwwo.leg.state.fl.us/st
 - None newly required today. Do not activate checkout, spend, bind coverage, select a supplier, form an entity or publish unverified product, price, shipping or fulfillment claims.
 
 Official sources reviewed 2026-11-14: https://wwwo.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599%2F0500%2FSections%2F0500.12.html ; https://www.myfloridacfo.com/docs-sf/consumer-services-libraries/consumerservices-documents/understanding-coverage/consumer-guides/small-business-guide.pdf ; https://www.myfloridacfo.com/division/wc/employer/coverage-requirements ; https://www.fda.gov/food/food-industry/how-start-food-business ; https://www.ezpz.coffee/en/coffee-dropshipping-canada ; https://www.ezpz.coffee/en ; https://www.ezpz.coffee/en/faq ; https://www.ezpz.coffee/en/locations/usa .
+
+
+## Launch operations check — 2026-11-15
+- Live browser verification succeeded for the HTTPS apex homepage, `/founding40/`, `/robots.txt` and `/sitemap.xml`. HTTP apex and HTTPS `www` both resolved to `https://therisingsoncoffee.com/`.
+- The live homepage and Founding 40 page publish the correct HTTPS-apex canonicals. The homepage visibly retains “Checkout Locked” and “No orders or payments are being accepted.” Repository `checkout-config.js` remains `enabled: false` with an empty payment link.
+- Repository `CNAME` remains `therisingsoncoffee.com`; `robots.txt` and `sitemap.xml` remain internally valid and apex-linked. No DNS, MX, SPF or DKIM record was changed.
+- The official Florida DFS small-business guide says workers’ compensation and commercial automobile coverage may be the only coverage required by Florida law, while city, county, licensing or contract requirements can add obligations. No controlling Florida or federal authority was identified that universally requires Rising Son to buy general or product-liability insurance for the exact supplier-packed/stored/direct-shipped model. This is an evidence-limited finding, not a substitute for counsel; prudent products/completed-operations coverage and supplier/platform requirements remain separate decisions.
+- FDACS continues to describe permits by regulated establishment activity and states that fees depend on the food activities performed. The pending written classification for Rising Son’s exact no-home-handling model remains the prerequisite to selecting a permit type or budgeting any fee.
+- Automation review found three enabled, distinct core tasks: Launch Ops, Supplier/Product and Finance. Six tasks are already paused, including redundant legacy DNS/domain watches and CRM/Growth work without current verified data. Capacity is available; no task was paused, resumed or swapped.
+- No commercial gate was cleared. Written FDACS classification, a viable primary plus two supplier contingencies with documentary food-safety/recall/traceability/COI/label evidence, complete delivered economics, compliant final label, insurance decision and owner authorization remain pending.
