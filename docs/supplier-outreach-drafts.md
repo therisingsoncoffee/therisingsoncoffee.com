@@ -1682,3 +1682,40 @@ hello@therisingsoncoffee.com
 https://therisingsoncoffee.com/
 
 **Send-control note:** Do not send from Gmail. Recheck the tracker and all hosted-mail threads first. Send only from an authenticated `hello@therisingsoncoffee.com` session after verifying the delivered From identity. Do not submit a form, request a sample, upload artwork, schedule a call, make payment, accept terms or promise volume without owner approval.
+
+
+## Operator Coffee — qualification request (HOLD — hosted mailbox required; prepared 2026-11-15)
+
+**Intended sender:** authenticated hosted `hello@therisingsoncoffee.com` only  
+**Recipient:** `info@operatorcoffee.com` — verified on first-party white-label and contact pages; re-verify before use  
+**Subject:** Rising Son Coffee — private-label Original + Decaf and blind direct-fulfillment qualification
+
+Hello Operator Coffee team,
+
+Rising Son Coffee is evaluating a Florida-based online launch with no home handling. We need one supplier to source and roast the coffee, produce and apply compliant Rising Son-branded packaging and labels, warehouse finished coffee or roast to order, maintain batch/lot traceability, and blind-ship individual customer orders nationwide.
+
+Our Founding 40 begins as a free reservation and feedback program before any verified offer or qualifying future purchase. It is not a preorder or volume commitment.
+
+The planned launch is Original and Decaf only. The Original target is rich/bright aroma, low perceived acidity and bitterness, earthy tones, strong smooth full flavor and a clean aftertaste; Decaf should be as close to Original as practical. Breacher Blend, The Shield and House Blend Decaf are preliminary public screens only. Please recommend the best year-round private-label pair.
+
+Please reply in writing with:
+
+1. **Products and samples** — exact Original and Decaf identity, origin/blend, roast, tasting profile, perceived acidity/bitterness, Decaf process and documentation, year-round consistency/substitution policy, private-label eligibility, whole-bean and grind options, net weights, shelf life, roast/best-by practice and lot coding. Quote paired samples and shipping; do not send or charge anything without separate written authorization.
+2. **Minimums and complete economics** — MOQ by coffee, size, bean/ground and label variant; whether variants combine; and every coffee, grinding, stock/custom bag, valve, label, artwork/proof/setup/changeover, filling, insert, storage, pick/pack, account, Shopify Collective, storefront/landing-page, subscription, recurring, termination and inventory-disposition cost.
+3. **Required fulfillment model** — confirm Operator will hold components/finished inventory or roast to order and blind-ship each order directly to Rising Son customers. Describe Shopify Collective/manual/API options, subscriptions, packing slips, exterior branding, return identity, tracking, cutoffs, normal/peak SLA, freshness, stockouts/substitutions, edits/cancellations, address errors, undeliverables and escalation.
+4. **Shipping and remedies** — provide all-in one-, two- and three-bag rates to ZIP 33325 and representative nearby, central and distant U.S. zones, including carrier/service, packed weights, PO boxes, Alaska/Hawaii/territories and residential/remote/fuel/peak surcharges. State responsibility for carrier loss/damage, wrong/stale product, roast/grind defects, label errors, refunds, replacements and missed SLA.
+5. **Legal roles and facilities** — identify the exact legal manufacturer, roaster, packer, warehouse, distributor, storefront seller and shipper; each facility used for Rising Son; applicable Idaho/local food licences and inspection evidence; FDA food-facility registration status or exemption; and the party responsible for each required label statement. Please do not send confidential FDA credentials.
+6. **Mandatory food-safety evidence** — food-safety/preventive-controls and sanitation summaries, responsible personnel, supplier approval, pest/foreign-material and allergen/cross-contact controls, finished-product release, green-coffee through finished-lot and customer-order traceability, record retention, recall/withdrawal procedure and contacts, notification timing and latest mock-recall result.
+7. **Insurance and contract allocation** — current products/completed-operations COI with named insured, carrier, limits, territory, exclusions and expiration; whether Rising Son can be named additional insured and at what cost; proposed indemnity; and written allocation for specifications, compliant-label drafting/review, product claims, regulatory compliance, defects, allergens, traceability, carrier claims, recall decision/execution/cost, customer notice and refunds/replacements.
+8. **Final label and optional evidence** — representative final-label proof and who approves statement of identity, net quantity, responsible-firm/manufacturer wording and address, ingredients/allergens, claims, best-by date and lot code. Optional audits/certifications should show holder, facility/product scope, issuer, certificate number, issue date and expiration; they do not replace mandatory evidence.
+
+If flavored coffee is considered later, separately provide every ingredient/sub-ingredient, natural/artificial flavor status, carriers, processing aids, allergen statements, shared-equipment/cross-contact controls and exact label treatment. Flavors are optional and not required for launch.
+
+We are comparing programs and have not authorized a sample, storefront, landing page, Shopify connection, account, card, artwork upload, order, payment, agreement, product selection or volume commitment.
+
+Thank you,  
+Rising Son Coffee  
+hello@therisingsoncoffee.com  
+https://therisingsoncoffee.com/
+
+**Hold control:** Do not send from connected Gmail or submit the public contact form. Before outreach, open the actual hosted `hello@therisingsoncoffee.com` mailbox, search the complete inbox and sent history for Operator Coffee and `operatorcoffee.com`, re-verify the first-party recipient, and confirm with a delivered test that the From identity remains exactly `hello@therisingsoncoffee.com`. If a prior response exists, send only a narrowed in-thread request. Do not call, request samples, create an account/storefront, connect Shopify, enter payment information, upload artwork, accept terms or promise volume.
