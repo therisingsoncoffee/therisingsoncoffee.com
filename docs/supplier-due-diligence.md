@@ -1433,3 +1433,21 @@ Official sources reviewed 2026-11-13: https://shop.joebeanroasters.com/pages/co-
 EZPZ is worth a controlled written inquiry because its advertised zero-inventory, private-label, subscription and direct U.S. fulfillment model matches Rising Son’s no-home-handling requirement unusually well. It cannot be treated as viable yet. Cross-border regulatory roles and landed economics create material diligence risk, and the public record does not establish Decaf, a U.S.-compliant final label, food-safety/recall evidence, insurance, importer/FSVP responsibility or enforceable replacement terms. No email, form submission, sample, order, payment, terms acceptance, volume promise or selection was made.
 
 Official sources reviewed: https://www.ezpz.coffee/en/coffee-dropshipping-canada , https://www.ezpz.coffee/en , https://www.ezpz.coffee/en/faq and https://www.ezpz.coffee/en/locations/usa .
+
+
+### Operator Coffee — inquiry-ready public-capability screen, reviewed 2026-11-15
+Operator Coffee is a newly screened, uncontacted prospect—not a Rising Son quote, selected primary or verified contingency. A search of the connected Gmail account and repository found no prior Operator Coffee thread or tracker entry.
+
+Current first-party public materials state that Operator Coffee:
+- roasts in Kamiah, Idaho and identifies a public location at 200 5th St NW, Kamiah, ID 83536;
+- offers white/private-label arrangements in which it can roast, package and ship under the partner's label;
+- can fulfill behind an existing brand through Shopify Collective, or host a separate landing page on its own storefront;
+- says programs can include small-batch roasting, labeled or pre-printed packaging, direct customer shipping and Shopify support;
+- publicly offers light, medium, dark, espresso, flavored and Decaf products; its Decaf collection describes Swiss-water processing, while the House Blend Decaf is described as full-bodied, smooth and chocolate-toned;
+- publicly lists Breacher Blend with brown sugar, dark chocolate and earthy notes and The Shield with dark chocolate, earthy character and medium body. These are preliminary sensory screens only, not selected Original candidates, and private-label eligibility/consistency are unverified.
+
+Public consumer prices are excluded from Rising Son economics. No public numeric private-label MOQ, unit quote, setup/label/packaging/storage/pick-pack cost, subscription fee, shipping rate, lead time, payment term or replacement policy was found. The precise legal manufacturer/packer/distributor entity, facility food licences, FDA registration status, food-safety plan, allergen controls, traceability/recall evidence, current audits/certifications, product-liability COI, additional-insured terms, indemnity and final-label/recall allocation remain UNKNOWN.
+
+Fit assessment: Operator clears the initial public architecture screen for supplier roasting, Rising Son-branded packaging and direct fulfillment. It does not yet qualify as a viable backup because complete commercial terms, exact Original/Decaf eligibility, blind-shipping presentation, compliance documents and risk allocation are missing.
+
+Contact control: the verified public address is `info@operatorcoffee.com`, but no message was sent. The connected Gmail profile is `therisingsoncoffee@gmail.com`, not the required hosted mailbox. Send only from an authenticated hosted `hello@therisingsoncoffee.com` session after rechecking its inbox/sent history and verifying delivered From identity. Official sources reviewed 2026-11-15: https://operatorcoffee.com/pages/white-label-coffee ; https://operatorcoffee.com/pages/contact-us ; https://operatorcoffee.com/pages/about ; https://operatorcoffee.com/collections/decaf ; https://operatorcoffee.com/collections/our-roasts .
