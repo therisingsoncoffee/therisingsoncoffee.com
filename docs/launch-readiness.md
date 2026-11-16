@@ -938,3 +938,36 @@ Official sources reviewed 2026-11-14: https://wwwo.leg.state.fl.us/statutes/inde
 - FDACS continues to describe permits by regulated establishment activity and states that fees depend on the food activities performed. The pending written classification for Rising Son’s exact no-home-handling model remains the prerequisite to selecting a permit type or budgeting any fee.
 - Automation review found three enabled, distinct core tasks: Launch Ops, Supplier/Product and Finance. Six tasks are already paused, including redundant legacy DNS/domain watches and CRM/Growth work without current verified data. Capacity is available; no task was paused, resumed or swapped.
 - No commercial gate was cleared. Written FDACS classification, a viable primary plus two supplier contingencies with documentary food-safety/recall/traceability/COI/label evidence, complete delivered economics, compliant final label, insurance decision and owner authorization remain pending.
+
+
+## Launch command center — 2026-11-16
+
+### Verified state and substantive changes
+- Launch readiness remains approximately 75%: the free-reservation funnel is available, but commerce remains locked.
+- Live browser verification confirmed the HTTPS apex homepage and `/founding40/` render successfully. HTTP apex and HTTPS `www` both resolve to `https://therisingsoncoffee.com/`.
+- The live homepage canonical is `https://therisingsoncoffee.com/`; the Founding 40 canonical is `https://therisingsoncoffee.com/founding40/`.
+- Live `robots.txt` allows crawling, excludes `/thanks.html` and declares the HTTPS-apex sitemap. Live `sitemap.xml` renders and lists the apex, Founding 40, Story, Privacy and Terms URLs.
+- Checkout remains intentionally disabled in live and repository state. The public control reads “Checkout Locked,” the page states that no orders or payments are accepted, and `checkout-config.js` remains `enabled: false` with an empty `paymentLink`.
+- Repository `CNAME` remains `therisingsoncoffee.com`. Public DNS resolved the four GitHub Pages apex A records and `www` CNAME `therisingsoncoffee.github.io`.
+- Mail DNS remains intact: MX points to Porkbun forwarding; SPF remains `include:_spf.porkbun.com`; the existing `default` DKIM key and DMARC `p=quarantine` record resolve. No Pages, DNS, MX, SPF, DKIM, DMARC, payment or checkout setting was changed.
+- A fourteen-day search of the connected `therisingsoncoffee@gmail.com` account found no relevant FDACS, permit, supplier, insurer, quote or COI message. This does not inspect the separate hosted `hello@therisingsoncoffee.com` IMAP mailbox or sent history.
+- Current official Florida sources still do not support assigning a permit type or fee without classifying Rising Son’s activities. Section 500.12 requires a permit for a person or business that operates a covered food establishment and annual renewal, while FDACS separates retail sellers from establishments that manufacture, process, pack or hold food. Rising Son’s exact supplier-roasted, Rising Son-branded, supplier-packaged/stored/direct-shipped, no-home-handling classification remains unanswered in writing; no permit cost is budgeted.
+- Current FDA guidance places food-facility registration on facilities that manufacture, process, pack or hold food unless exempt. Under the planned model those physical activities are assigned to the supplier, but the supplier’s facility and role evidence must be retained. This does not determine Rising Son’s separate Florida classification.
+- No controlling Florida or federal source reviewed today imposed a universal general- or product-liability insurance purchase mandate on this exact seller model. Florida’s official small-business insurance guidance identifies workers’ compensation requirements by industry/headcount and notes other legal or contractual requirements may apply. This evidence-limited finding is not legal advice and remains separate from supplier/platform contract demands and the prudent products/completed-operations coverage decision.
+- The supported automation inventory returned no visible tasks in this run, so current enabled-slot capacity could not be independently verified and no automation was paused, restored, created or swapped.
+- No outreach, form submission, sample, order, spend, signature, supplier selection, insurance binding, entity formation, payment activation or commercial-launch action occurred.
+
+### Current blockers
+1. Written FDACS classification for the exact Florida e-commerce/private-label/supplier-direct model, including whether Rising Son needs a permit and the precise permit, fee and renewal period if so.
+2. One verified primary supplier and two independent contingencies with supplier-issued landed economics, approved Original/Decaf samples and complete food-safety, allergen-control, lot-traceability, recall, final-label, responsibility-allocation and COI evidence.
+3. Authenticated hosted `hello@therisingsoncoffee.com` mailbox review, comparable insurer-issued quotes, and owner decisions on insurance and the compliant final label.
+
+### Next three priorities
+1. Obtain and archive FDACS’s written determination for the exact supplier-roasted, supplier-packaged/stored/direct-shipped, no-home-handling model.
+2. Review the hosted `hello@` inbox and sent history, reconcile all replies and delivery failures, then send only non-duplicate evidence requests to the strongest supplier candidates.
+3. Reconcile supplier-issued economics, insurer-issued quotes and final-label evidence; keep checkout locked until every launch gate passes and the owner explicitly authorizes commerce.
+
+### Owner decisions
+- None newly required today. Do not activate checkout, spend, bind coverage, select a supplier, form an entity or publish unverified product, price, shipping or fulfillment claims.
+
+Official sources reviewed 2026-11-16: https://wwwo.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599%2F0500%2FSections%2F0500.12.html ; https://www.fdacs.gov/Business-Services/Food-Establishments/Retail-Food-Establishment-Permit ; https://www.fdacs.gov/Business-Services/Food/Food-Establishments/Wholesale-Manufactured-Food-Program ; https://www.myfloridacfo.com/docs-sf/consumer-services-libraries/consumerservices-documents/understanding-coverage/consumer-guides/small-business-guide.pdf ; https://www.myfloridacfo.com/division/wc/employer/coverage-requirements ; https://www.fda.gov/food/food-industry/how-start-food-business .
