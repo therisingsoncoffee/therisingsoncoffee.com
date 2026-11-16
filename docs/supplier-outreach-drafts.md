@@ -1719,3 +1719,42 @@ hello@therisingsoncoffee.com
 https://therisingsoncoffee.com/
 
 **Hold control:** Do not send from connected Gmail or submit the public contact form. Before outreach, open the actual hosted `hello@therisingsoncoffee.com` mailbox, search the complete inbox and sent history for Operator Coffee and `operatorcoffee.com`, re-verify the first-party recipient, and confirm with a delivered test that the From identity remains exactly `hello@therisingsoncoffee.com`. If a prior response exists, send only a narrowed in-thread request. Do not call, request samples, create an account/storefront, connect Shopify, enter payment information, upload artwork, accept terms or promise volume.
+
+
+## Cascade Coffee — qualification request (HOLD — hosted mailbox required; prepared 2026-11-16)
+
+**Intended sender:** authenticated hosted `hello@therisingsoncoffee.com` only  
+**Recipient:** `info@cascadecoffee.com` — verified on Cascade's official site; re-verify before use  
+**Subject:** Rising Son Coffee — startup white-label Original + Decaf and blind DTC fulfillment qualification
+
+Hello Cascade Coffee team,
+
+Rising Son Coffee is evaluating a Florida-based e-commerce launch with no home handling. We need one supplier to source and roast the coffee, produce and apply compliant Rising Son-branded packaging and labels, warehouse finished coffee or roast to order, maintain batch/lot traceability, and blind-ship individual customer orders nationwide.
+
+Our Founding 40 begins as a free reservation and feedback program before any verified offer or qualifying future purchase. It is not a preorder or volume commitment.
+
+Your public materials describe white-label/private-label whole-bean, ground and Decaf programs, packaging and warehousing under one roof, plus nationwide direct fulfillment. They also describe support for emerging brands, but do not publish a launch MOQ or establish whether “direct fulfillment” includes blind, individual e-commerce orders. We are screening the smallest viable white-label route first—not a custom national-scale program.
+
+The planned launch is Original and Decaf only. The Original target is rich/bright aroma, low perceived acidity and bitterness, earthy tones, strong smooth full flavor and a clean aftertaste; Decaf should be as close to Original as practical. Please recommend the best year-round white-label pair.
+
+Please reply in writing with:
+
+1. **Startup fit, products and samples** — confirm whether a pre-revenue startup with no committed volume is eligible; identify the smallest white-label program, exact Original and Decaf candidates, origins/blends, roast and tasting profiles, perceived acidity/bitterness, Decaf process, year-round consistency/substitution policy, whole-bean and grind options, net weights, shelf life, roast/best-by practice and lot coding. Quote a paired sample set, shipping and any future-order credit; do not ship or charge anything without separate written authorization.
+2. **Minimums and complete economics** — MOQ and forecast commitment by coffee, size, whole/ground and label variant; whether Original/Decaf and bean/ground variants combine; minimum packaging buys and ownership; and every coffee, grinding, stock/custom bag, valve, label/print, artwork/proof/setup/changeover, filling, consumables, inserts, warehousing, pick/pack, account/software/integration, subscription, recurring, termination and inventory-disposition cost.
+3. **Required fulfillment model** — confirm whether Cascade can hold components/finished inventory or roast to order and blind-ship each individual order directly to Rising Son customers nationwide. Describe Shopify/WooCommerce/manual/API/EDI options, subscriptions, packing slips, exterior branding, return identity, tracking flow, cutoffs, normal/peak SLA, freshness, stockouts/substitutions, edits/cancellations, address errors, undeliverables and escalation.
+4. **Shipping and remedies** — provide all-in one-, two- and three-bag rates to ZIP 33325 and representative nearby, central and distant U.S. zones, including carrier/service, packed weights, PO boxes, Alaska/Hawaii/territories and residential/remote/fuel/peak surcharges. State binding responsibility for carrier loss/damage, wrong/stale product, roast/grind defects, label errors, refunds, replacements and missed SLA.
+5. **Legal roles and facilities** — identify the exact legal manufacturer, roaster, packer, warehouse, distributor and shipper; every facility used for Rising Son; applicable Washington/local food licences and inspection evidence; FDA food-facility registration status or exemption; and the party responsible for every required label statement. Please do not send confidential FDA credentials or registration passwords.
+6. **Mandatory food-safety evidence** — current SQF certificate and scope/expiration; food-safety/preventive-controls and sanitation summaries; responsible personnel; supplier approval; pest/foreign-material and allergen/cross-contact controls; finished-product release; green-coffee through finished-lot and customer-order traceability; record retention; recall/withdrawal procedure and 24/7 contacts; notification timing and latest mock-recall result. Public claims are useful screening evidence but we need current program-specific documents before paid orders.
+7. **Insurance and contract allocation** — current products/completed-operations COI with named insured, carrier, limits, territory, exclusions and expiration; whether Rising Son can be named additional insured and at what cost; proposed indemnity; and written allocation for specifications, compliant-label drafting/review, product claims, regulatory compliance, defects, allergens, traceability, carrier claims, recall decision/execution/cost, customer notice and refunds/replacements.
+8. **Final label and optional evidence** — representative final-label proof and who approves statement of identity, net quantity, responsible-firm/manufacturer wording and address, ingredients/allergens, claims, best-by date and lot code. Any optional sustainability, organic, Fair Trade or other certifications should show the holder, facility/product scope, issuer, certificate number, issue date and expiration; they do not replace mandatory food-safety or legal evidence.
+
+If flavored coffee is considered later, separately provide every ingredient/sub-ingredient, natural/artificial flavor status, carriers, processing aids, allergen statements, shared-equipment/cross-contact controls and exact label treatment. Flavors and functional ingredients are optional and are not required for launch.
+
+We are comparing programs and have not authorized a sample, project brief, forecast, account, card, artwork upload, integration, purchase order, payment, agreement, product selection or volume commitment.
+
+Thank you,  
+Rising Son Coffee  
+hello@therisingsoncoffee.com  
+https://therisingsoncoffee.com/
+
+**Hold control:** Do not send from connected Gmail or submit the public form. Before outreach, open the actual hosted `hello@therisingsoncoffee.com` mailbox, search the complete inbox and sent history for Cascade Coffee and `cascadecoffee.com`, re-verify the first-party recipient, and confirm with a delivered test that the From identity remains exactly `hello@therisingsoncoffee.com`. If a prior response exists, send only a narrowed in-thread request. Do not call, request samples, create an account, submit a project brief/forecast, upload artwork, accept terms or promise volume.
