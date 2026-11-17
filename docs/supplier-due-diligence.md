@@ -1451,3 +1451,23 @@ Public consumer prices are excluded from Rising Son economics. No public numeric
 Fit assessment: Operator clears the initial public architecture screen for supplier roasting, Rising Son-branded packaging and direct fulfillment. It does not yet qualify as a viable backup because complete commercial terms, exact Original/Decaf eligibility, blind-shipping presentation, compliance documents and risk allocation are missing.
 
 Contact control: the verified public address is `info@operatorcoffee.com`, but no message was sent. The connected Gmail profile is `therisingsoncoffee@gmail.com`, not the required hosted mailbox. Send only from an authenticated hosted `hello@therisingsoncoffee.com` session after rechecking its inbox/sent history and verifying delivered From identity. Official sources reviewed 2026-11-15: https://operatorcoffee.com/pages/white-label-coffee ; https://operatorcoffee.com/pages/contact-us ; https://operatorcoffee.com/pages/about ; https://operatorcoffee.com/collections/decaf ; https://operatorcoffee.com/collections/our-roasts .
+
+
+## Supplier control check — 2026-11-17
+
+### Mailbox and duplicate-control result
+- Connected Gmail was searched for inbound messages from Temecula Coffee Roasters, CoffeeAM, Roastify, Liberty Beans, La Vela, Berk's Beans, Ross Street Roasting, Raptis Coffee and Cascade Coffee. No inbound supplier messages were found.
+- Connected Gmail still contains the September 23 outbound inquiries. Its metadata is not sufficient to prove the delivered From identity, and the user has specifically warned that Gmail sending can substitute the gmail.com identity.
+- Prior owner screenshot evidence still shows a Temecula reply and a CoffeeAM reply in the separate hosted mailbox, but neither full message nor attachments are available through the current connector. Those threads must be read before any follow-up to avoid duplication.
+- No supplier message, form, sample request, account creation, purchase or commitment was made in this run.
+
+### Current qualification screen
+These are screening positions only; none is yet a viable confirmed supplier.
+
+1. **Berk's Beans Coffee — strongest direct-roaster sensory/operating screen.** Public evidence supports a close Original/Decaf pairing, 12 oz whole/ground private label, small initial run, roast/label/one-order nationwide dropship and itemized advertised reference costs. Missing: a Rising Son quote, sample approval, licenses/registration evidence, food-safety/allergen controls, lot-to-order traceability, recall evidence, COI/additional-insured terms, indemnity and final-label/recall allocation.
+2. **Liberty Beans Coffee — strongest no-inventory/no-MOQ architecture screen.** Public evidence supports roast-to-order, branded blind shipment, direct fulfillment and integration. Missing: complete Rising Son economics, exact Original/Decaf pair, facility/licensing evidence and the full compliance/insurance package.
+3. **Roastify — strongest published platform-economics screen.** Public evidence supports no-MOQ catalog products, $12 advertised member pricing, published shipping, full-color packaging and direct fulfillment. It is not qualified until the exact roasting/packing legal entities, facility evidence, food-safety/traceability/recall controls, COI, indemnity and label allocation are supplied.
+4. **Temecula Coffee Roasters — unresolved high-priority existing thread.** Public evidence supports in-house sourcing/roasting, compliant labeling, broad formats and automated direct fulfillment, but the hosted reply must be reviewed before any ranking or follow-up.
+
+### Exact blocker and ready work
+The only authorized sending identity is the actual hosted `hello@therisingsoncoffee.com` mailbox after delivered-From verification. That mailbox is not exposed by the Gmail connector, and its known supplier replies cannot be read here. The targeted Berk's, Liberty, Roastify, Ross Street, Raptis and Cascade drafts already exist in `docs/supplier-outreach-drafts.md`; they remain held. The next productive action is to authenticate the hosted mailbox, verify a test message's delivered From header, read and capture the Temecula/CoffeeAM replies and attachments, then send only one new or narrowed in-thread message where the tracker proves it is appropriate.
