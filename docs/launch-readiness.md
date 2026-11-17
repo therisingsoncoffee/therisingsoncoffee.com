@@ -971,3 +971,31 @@ Official sources reviewed 2026-11-14: https://wwwo.leg.state.fl.us/statutes/inde
 - None newly required today. Do not activate checkout, spend, bind coverage, select a supplier, form an entity or publish unverified product, price, shipping or fulfillment claims.
 
 Official sources reviewed 2026-11-16: https://wwwo.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599%2F0500%2FSections%2F0500.12.html ; https://www.fdacs.gov/Business-Services/Food-Establishments/Retail-Food-Establishment-Permit ; https://www.fdacs.gov/Business-Services/Food/Food-Establishments/Wholesale-Manufactured-Food-Program ; https://www.myfloridacfo.com/docs-sf/consumer-services-libraries/consumerservices-documents/understanding-coverage/consumer-guides/small-business-guide.pdf ; https://www.myfloridacfo.com/division/wc/employer/coverage-requirements ; https://www.fda.gov/food/food-industry/how-start-food-business .
+
+
+## Launch-ops verification — 2026-11-17
+
+### Verified live and repository facts
+- The HTTPS apex homepage loaded successfully.
+- `http://therisingsoncoffee.com/` and `https://www.therisingsoncoffee.com/` both resolved to `https://therisingsoncoffee.com/`.
+- The homepage canonical is `https://therisingsoncoffee.com/`.
+- `/founding40/` loaded successfully and its canonical is `https://therisingsoncoffee.com/founding40/`.
+- `robots.txt` allows crawling, excludes `/thanks.html`, and points to the live sitemap.
+- `sitemap.xml` loaded and lists the homepage, Founding 40, story, privacy, and terms URLs.
+- Repository `CNAME` remains `therisingsoncoffee.com`.
+- Checkout remains hard-disabled in `checkout-config.js` (`enabled: false`; empty `paymentLink`), and the live page states that no orders or payments are being accepted.
+- No Pages, DNS, MX, SPF, DKIM, DMARC, checkout, payment, or commerce settings were changed.
+
+### Regulatory and insurance gate check
+- The connected Gmail account shows the September 23, 2026 FDACS classification request, but no FDACS response was visible there. Delivered From identity for that original message is not proven by the Gmail metadata alone. A written FDACS classification for the exact supplier-packed/stored/direct-shipped model remains required before paid orders.
+- Current official Florida sources say a food permit is required for a business that operates a food establishment, with fees based on the food activities. Those general sources do not classify this exact no-handling drop-ship model or establish its precise permit/fee, so no permit cost is budgeted yet.
+- A fresh review of Florida Statutes Chapter 500 and the FDACS retail-food permit page found no general product-liability or commercial-general-liability insurance mandate stated there. This is not an affirmative legal clearance: supplier/marketplace contracts may require coverage, and coverage remains a prudent owner decision after comparable quotes and exclusions are documented.
+
+### Unchanged launch blockers
+1. Written FDACS classification and exact permit/fee/renewal answer, if any.
+2. A viable primary supplier plus two contingencies with complete delivered economics and documented food-safety, recall, lot-traceability, COI, facility, licensing/registration, and final-label evidence.
+3. Owner insurance decision based on comparable nonbinding quotes and supplier/platform requirements.
+4. Final compliant label, product selection, pricing, shipping/refund terms, and explicit owner authorization before checkout activation.
+
+### Automation capacity
+- The accessible automation inventory returned no task records in this run, so no task was paused, resumed, or swapped. No claim of persistent task self-management is made.
