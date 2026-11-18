@@ -1,6 +1,6 @@
 # Rising Son Coffee — Launch Readiness
 
-Last structured: 2026-11-15
+Last structured: 2026-11-18
 
 ## GREEN — completed / proven
 - Custom-domain HTTPS enabled in GitHub Pages by owner on 2026-09-22; independently reverified 2026-09-27: HTTPS apex, `/founding40/`, `/robots.txt` and `/sitemap.xml` returned `200`; HTTP apex and HTTPS `www` resolved to the HTTPS apex with valid certificate verification.
@@ -999,3 +999,15 @@ Official sources reviewed 2026-11-16: https://wwwo.leg.state.fl.us/statutes/inde
 
 ### Automation capacity
 - The accessible automation inventory returned no task records in this run, so no task was paused, resumed, or swapped. No claim of persistent task self-management is made.
+
+
+## Launch operations check — 2026-11-18
+- Live browser verification confirmed HTTPS apex loads, HTTPS `www` redirects to the HTTPS apex, and HTTP apex redirects to the HTTPS apex.
+- Live `/founding40/`, `/robots.txt` and `/sitemap.xml` loaded successfully. Home and Founding 40 canonicals point to the HTTPS apex URLs. The sitemap lists Home, Founding 40, Story, Privacy and Terms.
+- The live homepage visibly retains the disabled `Checkout Locked` control and states that no orders or payments are being accepted. Repository `checkout-config.js` remains `enabled: false` with an empty payment link. No commercial gate was activated.
+- Repository `CNAME` remains `therisingsoncoffee.com`; repository robots and sitemap references remain on the HTTPS apex. No DNS, MX, SPF, DKIM or DMARC record was changed. Live redirect resolution proves the web hosts are resolving, but this run did not independently re-query mail-authentication TXT records; preserve the previously proven mail configuration.
+- The connected Rising Son Gmail search now exposes sent copies of the September 23 FDACS and supplier inquiries, but targeted searches found no inbound FDACS classification, supplier compliance evidence, COI, insurance quote or certificate attachment. The hosted `hello@therisingsoncoffee.com` mailbox remains the evidentiary blocker; do not infer that no replies exist there.
+- Current official-source review confirms Florida Statutes section 500.12 requires a permit for a person or business that operates a food establishment, while FDACS permit type and fees depend on classified activities. Those general sources do not settle whether Rising Son's exact supplier-packed/stored/direct-shipped model is itself a Florida food establishment. Keep the permit budget at UNKNOWN/$0 pending the requested written FDACS classification, exact permit type, fee and renewal period.
+- No Florida Chapter 500 or federal FDA source reviewed establishes a universal product- or general-liability insurance mandate for this exact no-handling e-commerce model. This is not a legal opinion or proof that no other rule applies. Separately retain products/completed-operations coverage as prudent risk protection and verify any supplier, platform, landlord or contract requirement before paid orders.
+- No supplier is elevated to primary or backup: food-safety controls, allergen controls, lot traceability, recall procedure/contact, current facility/license/FDA-registration evidence, COI limits/expiration, additional-insured availability, indemnity, label responsibility, final Original/Decaf label and complete delivered economics remain unverified.
+- Automation review found four enabled, distinct tasks: Launch Ops, Supplier/Product, Finance and ASAP content production. No idle or redundant enabled task was identified and no capacity error was surfaced, so nothing was paused, resumed or swapped.
