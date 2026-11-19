@@ -1471,3 +1471,67 @@ These are screening positions only; none is yet a viable confirmed supplier.
 
 ### Exact blocker and ready work
 The only authorized sending identity is the actual hosted `hello@therisingsoncoffee.com` mailbox after delivered-From verification. That mailbox is not exposed by the Gmail connector, and its known supplier replies cannot be read here. The targeted Berk's, Liberty, Roastify, Ross Street, Raptis and Cascade drafts already exist in `docs/supplier-outreach-drafts.md`; they remain held. The next productive action is to authenticate the hosted mailbox, verify a test message's delivered From header, read and capture the Temecula/CoffeeAM replies and attachments, then send only one new or narrowed in-thread message where the tracker proves it is appropriate.
+
+
+## Supplier evidence update — 2026-11-19
+
+### Mailbox and duplicate control
+
+- The connected account remains `therisingsoncoffee@gmail.com`, not an authenticated session for the separately hosted `hello@therisingsoncoffee.com` mailbox required for supplier contact.
+- Gmail contains the September 23 outbound supplier inquiries but no inbound supplier reply, compliance package, COI, quote or attachment in the accessible record. Prior owner evidence shows Temecula and CoffeeAM replies exist in the hosted mailbox, so the absence from Gmail must not be treated as no response.
+- Searches for Ember & Origin, Fourthwall and Fresh Roasted Coffee found no connected-Gmail thread. This still does not clear duplicate risk in the inaccessible hosted mailbox.
+- No Gmail message, web form, call, account, sample, payment, agreement, artwork upload, product selection or volume commitment was made.
+
+### Ember & Origin Coffee — architecture fit but launch-volume mismatch
+
+**Publicly verified**
+
+- Ember & Origin advertises white-label and private-label production from a certified roastery in Redding, California, with whole-bean or ground coffee, stock bags with stickers or custom packaging and bag sizes from 4 oz through 5 lb.
+- It advertises dropshipping and Shopify fulfillment through a per-client ordering portal, so the high-level sourcing/roasting/branding/direct-fulfillment architecture could match Rising Son's no-home-handling model.
+- Its published operating figures are a 50 lb **weekly** minimum, an average $350 discovery fee covering the first two sample rounds, a 2–4 week typical launch after product/branding/packaging/payment are set, 1–2 weeks for stock bags and about 8 weeks for fully printed packaging.
+- At 12 oz per retail bag, 50 lb/week is approximately 66.7 bags every week before accounting for separate Original/Decaf and whole/ground variants. This is a calculation from the public minimum, not a quote or accepted commitment.
+- Public educational content discusses Decaf as a normal starter-line role and supports whole bean and ground, but the reviewed pages do not identify an exact private-label Decaf, decaffeination process or an Original/Decaf pair matching Rising Son's sensory target.
+- Ember & Origin's own labeling guidance says the brand owner is responsible for the accuracy and legality of required label fields and claims. Final label drafting, roaster review and liability allocation therefore require explicit written terms.
+
+**Mandatory qualification gaps**
+
+- Exact legal manufacturer, roaster, packer, warehouse, distributor and shipper; facility name/address; applicable California/local food licences and inspection evidence; FDA food-facility registration status or exemption.
+- Exact Original and Decaf candidates, Decaf process, whole-bean/ground and bag-size eligibility, sample contents/terms, lot coding, roast/best-by practice, year-round continuity and substitution policy.
+- Complete unit, grinding, bag/valve, label, setup/proof/changeover, storage, pick/pack, portal/Shopify, subscription, shipping, termination and unused-inventory costs; payment terms, quote validity and price-change notice.
+- Whether the 50 lb weekly minimum applies across the full program, per coffee, per roast, per size, per grind or per label SKU; whether a temporary launch pilot below that threshold exists without a recurring commitment.
+- Blind packing-slip/exterior/return presentation; order cutoffs; normal/peak SLA; tracking; subscriptions; stockouts; edits/cancellations; address errors; nationwide one-/two-/three-bag shipping rates and remedies.
+- Food-safety/preventive-controls and sanitation summaries, supplier approval, allergen/cross-contact controls, finished-product release, lot-to-customer traceability, recall/withdrawal procedure and contacts, latest mock-recall result, current audit/certification documents with scope and expiration.
+- Current products/completed-operations COI with limits, territory, exclusions and expiration; additional-insured capability/cost; indemnity; and written allocation of label, product, carrier, recall, notice, refund/replacement and recall-expense responsibilities.
+
+**Assessment:** not an immediate Rising Son contingency. The public model clears the basic professional direct-fulfillment screen, but the recurring 50 lb/week minimum and paid discovery route conflict with the current near-zero-upfront, pre-revenue launch. Do not contact or pay for discovery unless written evidence first establishes a materially smaller no-commitment pilot and the hosted mailbox duplicate check is completed.
+
+### Fourthwall custom coffee — low-inventory platform screen with contradictory minimums
+
+**Publicly verified**
+
+- Fourthwall's custom-coffee landing page advertises fresh-roasted coffee with branded labels, direct customer shipment, no inventory, pricing “starting at $14.95,” multiple roast profiles and bag sizes, and no minimum.
+- The specific Custom Coffee Blend listing instead shows a 12 oz product at a $12 public base cost, whole-bean or ground choices, 14 blends with Decaf options, an estimated $17 sample, 4–6 day sample/production timing, a 250-unit MOQ for a custom blend **and a displayed minimum of 50 orders**.
+- Fourthwall's general pricing page says its platform has a free plan with no monthly fee or contract; catalog base cost is deducted from the creator's selling price and shipping is dynamically calculated. These platform figures are public references, not a Rising Son quote, full delivered COGS or authorization to create an account.
+- The coffee listing says production occurs in Bend, Oregon, but the reviewed public materials do not identify the legal roaster/manufacturer/packer, facility licence/registration evidence or the exact fulfillment party.
+
+**Qualification blockers**
+
+- Resolve in writing whether the standard 12 oz catalog coffee is truly one-order/no-MOQ or requires 50 orders, and whether the 50-order statement means an initial batch, campaign threshold, variant minimum or platform error.
+- Identify the legal manufacturer, roaster, packer, warehouse, distributor and shipper; exact Bend facility; applicable Oregon/local licences and FDA registration status/exemption.
+- Identify exact Original and Decaf products, sensory profiles, Decaf process, private-label eligibility, whole/ground variant rules, roast/best-by/lot-code practice and year-round continuity.
+- Provide itemized base-product, label/printing, packaging, setup, storage, pick/pack, platform/payment, subscription, tax and one-/two-/three-bag shipping costs, including all surcharges and settlement timing.
+- Confirm whether Rising Son branding appears on the bag, packing slip, exterior and customer service; establish return identity, normal/peak SLA, subscriptions, address edits, stockouts, tracking, loss/damage/defect/label-error remedies and refund/replacement responsibility.
+- Supply food-safety, allergen/cross-contact, traceability, recall/mock-recall, insurance/COI, additional-insured, indemnity, final-label responsibility and current audit/certification evidence from the actual manufacturer.
+- Clarify whether Fourthwall or the unknown manufacturer is the contracting counterparty for product quality, labeling, recall and customer remedies.
+
+**Assessment:** research-stage platform screen only; not a primary or verified contingency. Its apparent no-inventory fit is attractive, but the public minimum-order conflict, unnamed manufacturer, unknown compliance evidence and platform dependency must be resolved before commercial or regulatory reliance. No account, storefront, sample, payment or terms acceptance is authorized.
+
+### Current supplier ranking
+
+No supplier is elevated to primary or verified backup. The strongest existing screens remain:
+1. **Berk's Beans** — strongest direct-roaster sensory and operating screen; documentary safety/traceability/recall/insurance/label evidence and a Rising Son quote remain missing.
+2. **Liberty Beans** — strongest no-inventory/no-MOQ direct-fulfillment architecture screen; complete economics, exact pair and compliance evidence remain missing.
+3. **Roastify** — strongest published platform-economics screen; actual legal roasting/packing parties and the full compliance/insurance/label package remain unresolved.
+4. **Temecula** — potentially strong in-house supplier with a known hosted-mail reply that must be read before ranking or follow-up.
+
+Official sources reviewed 2026-11-19: https://emberorigincoffee.com/blogs/news/white-label-vs-private-label-vs-wholesale-coffee ; https://emberorigincoffee.com/blogs/news/start-a-coffee-roasting-business-without-a-roaster ; https://emberorigincoffee.com/blogs/news/coffee-packaging-and-labeling-101 ; https://emberorigincoffee.com/policies/legal-notice ; https://fourthwall.com/design-and-sell/custom-coffee ; https://fourthwall.com/products/custom-coffee-blend ; https://fourthwall.com/pricing ; https://fourthwall.com/faq .
