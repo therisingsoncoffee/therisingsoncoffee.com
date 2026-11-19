@@ -1758,3 +1758,38 @@ hello@therisingsoncoffee.com
 https://therisingsoncoffee.com/
 
 **Hold control:** Do not send from connected Gmail or submit the public form. Before outreach, open the actual hosted `hello@therisingsoncoffee.com` mailbox, search the complete inbox and sent history for Cascade Coffee and `cascadecoffee.com`, re-verify the first-party recipient, and confirm with a delivered test that the From identity remains exactly `hello@therisingsoncoffee.com`. If a prior response exists, send only a narrowed in-thread request. Do not call, request samples, create an account, submit a project brief/forecast, upload artwork, accept terms or promise volume.
+
+
+## Fourthwall custom coffee — manufacturing and fulfillment qualification request (HOLD — hosted mailbox required; prepared 2026-11-19)
+
+**Intended sender:** authenticated hosted `hello@therisingsoncoffee.com` only  
+**Recipient:** Fourthwall product/support contact — current first-party recipient must be verified before use; do not submit a public form or create an account as a substitute  
+**Subject:** Rising Son Coffee — custom coffee manufacturer, MOQ, Decaf and compliance qualification
+
+Hello Fourthwall product team,
+
+Rising Son Coffee is evaluating a Florida-based e-commerce launch with no home handling. Our required model is supplier-sourced and roasted coffee, compliant Rising Son-branded packaging and labeling, supplier storage or roast-to-order production, lot-to-customer traceability and direct shipment to individual U.S. customers.
+
+Our Founding 40 begins as a free reservation and feedback program before any verified offer or qualifying future purchase. It is not a preorder or a volume commitment.
+
+Your public custom-coffee landing page advertises direct fulfillment, no inventory and no minimum, while the specific Custom Coffee Blend listing shows a “Minimum 50 orders,” a 250-unit custom-blend MOQ and Decaf options. Before we can evaluate fit, please answer in writing:
+
+1. **Program and minimums** — identify the exact standard 12 oz catalog program available to a pre-revenue U.S. brand and explain whether it is one-order/no-MOQ or requires 50 orders. Define whether 50 orders means an initial batch, campaign threshold, SKU/variant minimum or another condition. State any sales, account, payout, storefront or recurring commitment.
+2. **Original and Decaf** — provide the names, origins/blends, roast levels, tasting profiles, perceived acidity/bitterness and Decaf process for the best year-round pair matching: rich/bright aroma, low perceived acidity and bitterness, earthy tones, strong smooth full flavor and clean aftertaste; Decaf as close as practical. Confirm whole-bean/ground availability, grind specifications, private-label eligibility, net weights, shelf life, roast/best-by practice, lot coding, substitutions and sample terms. Do not ship or charge for samples without separate written authorization.
+3. **Complete economics** — itemize coffee/base-product, grinding, bag/valve, label/printing, artwork/proof/setup/changeover, filling, inserts, storage, pick/pack, platform, payment-processing, storefront, subscription, termination and unused-inventory costs. Provide all-in one-, two- and three-bag shipping to ZIP 33325 and representative nearby, central and distant U.S. zones, including carrier/service, packed weights, taxes and residential/remote/fuel/peak surcharges; also state payout timing, reserves, chargebacks and price-change notice.
+4. **Fulfillment and customer presentation** — confirm individual nationwide direct fulfillment, subscriptions, order intake/integrations, cutoffs, normal/peak SLA, tracking, freshness, packing slip, exterior branding, return identity, stockouts/substitutions, edits/cancellations, address errors, undeliverables and escalation. State binding remedies for loss/damage, wrong/stale coffee, roast/grind defects, label/print errors, recalls, refunds and replacements.
+5. **Legal parties and facilities** — identify the exact legal manufacturer, roaster, packer, warehouse, distributor, shipper, merchant of record and contracting counterparty; the Bend, Oregon facility and any other facility used; applicable Oregon/local food licences and inspection evidence; FDA food-facility registration status or exemption. Please do not send confidential FDA credentials.
+6. **Mandatory safety and traceability** — provide food-safety/preventive-controls and sanitation summaries, responsible personnel, supplier approval, pest/foreign-material controls, allergen/cross-contact program, finished-product release, green-coffee through finished-lot and customer-order traceability, record retention, recall/withdrawal procedure and 24/7 contacts, notification timing and latest mock-recall result.
+7. **Insurance and responsibility allocation** — provide the actual manufacturer’s current products/completed-operations COI showing named insured, carrier, limits, territory, exclusions and expiration; whether Rising Son can be named additional insured and the cost; proposed indemnity; and written allocation among Fourthwall, the manufacturer and Rising Son for specifications, compliant-label drafting/review, claims, defects, allergens, carrier events, recall decision/execution/cost, customer notice and refunds/replacements.
+8. **Final label and optional claims** — supply a representative final coffee label and identify who approves statement of identity, U.S./metric net quantity, responsible-firm/manufacturer wording and address, ingredients/allergens, country of origin where applicable, claims, best-by date and lot code. Optional audits/certifications must show certificate holder, facility/product scope, issuer, certificate number, issue date and expiration; they do not replace mandatory evidence.
+
+If flavored coffee is offered, separately identify every ingredient/sub-ingredient, natural/artificial flavor status, carriers, processing aids, allergen declarations, shared-equipment/cross-contact controls and exact label treatment. Flavors are optional and not required for launch.
+
+We are comparing programs and have not authorized a sample, account, storefront, custom domain, product setup, artwork upload, payment or banking information, terms acceptance, order, agreement, product selection or volume commitment.
+
+Thank you,  
+Rising Son Coffee  
+hello@therisingsoncoffee.com  
+https://therisingsoncoffee.com/
+
+**Hold control:** Do not send from connected Gmail, submit a public form, create a Fourthwall account/storefront or accept platform terms. First authenticate the hosted `hello@therisingsoncoffee.com` mailbox, search its complete inbox and sent history for Fourthwall, verify the current official recipient, and prove with a delivered test that From remains exactly `hello@therisingsoncoffee.com`. If a prior thread exists, send only a narrowed in-thread request. Do not order a sample, enter payment/banking information, upload artwork, publish products or promise volume.
