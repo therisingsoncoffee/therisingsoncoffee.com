@@ -1042,3 +1042,11 @@ Official sources reviewed 2026-11-16: https://wwwo.leg.state.fl.us/statutes/inde
 - None newly required today. Do not activate checkout, spend, bind coverage, select a supplier, form an entity or publish unverified product, price, shipping or fulfillment claims.
 
 Official sources reviewed 2026-11-19: https://wwwo.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599%2F0500%2FSections%2F0500.12.html ; https://www.fdacs.gov/Business-Services/Food/Food-Establishments/Retail-Food-Establishment-Permit ; https://www.myfloridacfo.com/docs-sf/consumer-services-libraries/consumerservices-documents/understanding-coverage/consumer-guides/small-business-guide.pdf ; https://www.myfloridacfo.com/division/wc/employer/coverage-requirements .
+
+
+## Supplier/Product check — 2026-11-19
+- Accessible Gmail still shows the September 23 supplier sends but no inbound supplier quote, compliance package, COI or attachment. The separate hosted `hello@therisingsoncoffee.com` inbox remains inaccessible through the connector and contains known Temecula/CoffeeAM replies that must be reviewed before follow-up.
+- Ember & Origin was added as a new public screen: its advertised dropship/Shopify architecture, whole/ground options and branded packaging are relevant, but the public 50 lb weekly minimum and approximately $350 discovery route conflict with Rising Son's near-zero-upfront pre-revenue launch. It is not an immediate contingency.
+- Fourthwall custom coffee was added as a research-stage platform screen. Public pages conflict between “no minimum” and a product listing showing a 50-order minimum; the actual Bend manufacturer, compliance evidence, complete delivered economics and liability allocation are unidentified. A comprehensive qualification request is prepared and held for the authenticated hosted mailbox.
+- No supplier is promoted to primary or verified backup. Berk's Beans, Liberty Beans, Roastify and the unresolved Temecula thread remain the strongest screens, with mandatory economics, food-safety, traceability, recall, COI and final-label evidence still missing.
+- No message, form, sample, account, payment, agreement, artwork upload, supplier selection or volume commitment occurred.
