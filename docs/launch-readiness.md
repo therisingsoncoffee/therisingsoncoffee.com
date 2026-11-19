@@ -1011,3 +1011,34 @@ Official sources reviewed 2026-11-16: https://wwwo.leg.state.fl.us/statutes/inde
 - No Florida Chapter 500 or federal FDA source reviewed establishes a universal product- or general-liability insurance mandate for this exact no-handling e-commerce model. This is not a legal opinion or proof that no other rule applies. Separately retain products/completed-operations coverage as prudent risk protection and verify any supplier, platform, landlord or contract requirement before paid orders.
 - No supplier is elevated to primary or backup: food-safety controls, allergen controls, lot traceability, recall procedure/contact, current facility/license/FDA-registration evidence, COI limits/expiration, additional-insured availability, indemnity, label responsibility, final Original/Decaf label and complete delivered economics remain unverified.
 - Automation review found four enabled, distinct tasks: Launch Ops, Supplier/Product, Finance and ASAP content production. No idle or redundant enabled task was identified and no capacity error was surfaced, so nothing was paused, resumed or swapped.
+
+
+## Launch operations check — 2026-11-19
+
+### Verified state and changes
+- Live browser verification confirmed the HTTPS apex homepage and `/founding40/` load successfully. HTTP apex and HTTPS `www` both resolve to `https://therisingsoncoffee.com/`.
+- The live homepage canonical is `https://therisingsoncoffee.com/`; the Founding 40 canonical is `https://therisingsoncoffee.com/founding40/`.
+- Live `robots.txt` allows crawling, excludes `/thanks.html`, and declares the HTTPS-apex sitemap. Live `sitemap.xml` lists Home, Founding 40, Story, Privacy and Terms.
+- Checkout remains intentionally disabled in both live and repository state. The public page shows the disabled “Checkout Locked” control and states that no orders or payments are being accepted. Repository `checkout-config.js` remains `enabled: false` with an empty `paymentLink`.
+- Repository `CNAME` remains `therisingsoncoffee.com`. Google Public DNS returned the four GitHub Pages apex A records and the `www` CNAME `therisingsoncoffee.github.io`.
+- Mail DNS remains intact: MX points to Porkbun forwarding; SPF is `v=spf1 include:_spf.porkbun.com ~all`; the existing `default` DKIM key resolves; DMARC remains `p=quarantine`. No Pages, DNS, MX, SPF, DKIM, DMARC, checkout or payment setting was changed.
+- A targeted search of the connected `therisingsoncoffee@gmail.com` account found the September 23 FDACS request sent from `hello@therisingsoncoffee.com`, but no inbound FDACS determination. Searches found no new supplier quote, compliance evidence, COI or insurer-issued quote. This does not inspect the separate hosted `hello@` IMAP inbox, where prior replies may exist.
+- The current 2026 Florida Statutes continue to require a permit for a person or business that operates a covered food establishment; permits renew annually and fees depend on the classified food activities. FDACS’s general retail page does not classify Rising Son’s exact supplier-roasted, Rising Son-branded, supplier-packaged/stored/direct-shipped, no-home-handling model. Therefore the permit type, fee and renewal budget remain UNKNOWN pending the requested written classification.
+- Current official Florida insurance guidance identifies workers’ compensation requirements by industry and employee count. The Chapter 500 and FDACS sources reviewed today do not state a universal general- or product-liability insurance purchase mandate for this exact seller model. This is an evidence-limited operational conclusion, not legal advice, and does not replace supplier/platform contract requirements or the prudent products/completed-operations coverage decision.
+- Automation review found four enabled, distinct workstreams: Launch Ops, Supplier/Product, Finance and ASAP content production. Six tasks are already paused and four completed. No idle enabled task displaced a higher-priority need, so no task was paused, restored, created or swapped.
+- No outreach, form submission, sample, order, spend, signature, supplier selection, insurance binding, entity formation, payment activation or commercial-launch action occurred.
+
+### Current blockers
+1. Written FDACS classification for the exact Florida e-commerce/private-label/supplier-direct model, including whether Rising Son needs a permit and the precise permit, fee and annual renewal requirement if applicable.
+2. One verified primary supplier and two independent contingencies with supplier-issued landed economics, approved Original/Decaf samples and complete food-safety, allergen-control, lot-traceability, recall, facility/licensing, final-label, responsibility-allocation and COI evidence.
+3. Authenticated hosted `hello@therisingsoncoffee.com` mailbox review, comparable insurer-issued quotes and owner decisions on insurance and the compliant final label.
+
+### Next three priorities
+1. Obtain and archive FDACS’s written determination for the exact supplier-roasted, supplier-packaged/stored/direct-shipped, no-home-handling model.
+2. Review the hosted `hello@` inbox and sent history, reconcile all replies and delivery failures, then advance only non-duplicate evidence requests to the strongest supplier candidates.
+3. Reconcile supplier-issued economics, insurer-issued quotes and final-label evidence; keep checkout locked until every launch gate passes and the owner explicitly authorizes commerce.
+
+### Owner decisions
+- None newly required today. Do not activate checkout, spend, bind coverage, select a supplier, form an entity or publish unverified product, price, shipping or fulfillment claims.
+
+Official sources reviewed 2026-11-19: https://wwwo.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599%2F0500%2FSections%2F0500.12.html ; https://www.fdacs.gov/Business-Services/Food/Food-Establishments/Retail-Food-Establishment-Permit ; https://www.myfloridacfo.com/docs-sf/consumer-services-libraries/consumerservices-documents/understanding-coverage/consumer-guides/small-business-guide.pdf ; https://www.myfloridacfo.com/division/wc/employer/coverage-requirements .
