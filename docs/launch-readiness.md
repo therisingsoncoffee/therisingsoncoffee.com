@@ -1,6 +1,6 @@
 # Rising Son Coffee — Launch Readiness
 
-Last structured: 2026-11-18
+Last structured: 2026-11-20
 
 ## GREEN — completed / proven
 - Custom-domain HTTPS enabled in GitHub Pages by owner on 2026-09-22; independently reverified 2026-09-27: HTTPS apex, `/founding40/`, `/robots.txt` and `/sitemap.xml` returned `200`; HTTP apex and HTTPS `www` resolved to the HTTPS apex with valid certificate verification.
@@ -1050,3 +1050,43 @@ Official sources reviewed 2026-11-19: https://wwwo.leg.state.fl.us/statutes/inde
 - Fourthwall custom coffee was added as a research-stage platform screen. Public pages conflict between “no minimum” and a product listing showing a 50-order minimum; the actual Bend manufacturer, compliance evidence, complete delivered economics and liability allocation are unidentified. A comprehensive qualification request is prepared and held for the authenticated hosted mailbox.
 - No supplier is promoted to primary or verified backup. Berk's Beans, Liberty Beans, Roastify and the unresolved Temecula thread remain the strongest screens, with mandatory economics, food-safety, traceability, recall, COI and final-label evidence still missing.
 - No message, form, sample, account, payment, agreement, artwork upload, supplier selection or volume commitment occurred.
+
+
+## Launch operations check — 2026-11-20
+
+### Verified facts and changes
+- Live browser verification confirmed the HTTPS apex homepage and `/founding40/` load successfully. `http://therisingsoncoffee.com/` and `https://www.therisingsoncoffee.com/` both resolve to `https://therisingsoncoffee.com/`.
+- Live canonicals remain correct: `https://therisingsoncoffee.com/` for Home and `https://therisingsoncoffee.com/founding40/` for Founding 40.
+- Live `robots.txt` returns the repository policy: public crawling allowed, `/thanks.html` excluded, HTTPS-apex sitemap declared. Live `sitemap.xml` lists Home, Founding 40, Story, Privacy and Terms.
+- The public homepage still displays the disabled **Checkout Locked** control and states that no orders or payments are being accepted. Repository `checkout-config.js` remains `enabled: false` with an empty `paymentLink`.
+- Repository `CNAME` remains `therisingsoncoffee.com`. Google Public DNS returned all four GitHub Pages apex A records and the `www` CNAME `therisingsoncoffee.github.io.`
+- Mail DNS remains intact: MX points to Porkbun; SPF is `v=spf1 include:_spf.porkbun.com ~all`; the existing `default` DKIM key resolves; DMARC remains `p=quarantine`. No Pages, DNS, MX, SPF, DKIM, DMARC, checkout or payment configuration was changed.
+- Direct GitHub Pages settings were not exposed by the approved GitHub connector. Repository configuration plus live HTTPS/redirect behavior were inspected before making the documentation-only update.
+- Supplier/Product reconciliation from 2026-11-20 is now maintained in `docs/supplier-product-status.md`. All 11 Gmail-side supplier threads contain one outbound message and no Gmail-side reply. This does not negate the known CoffeeAM and Temecula replies in the separate hosted inbox.
+- Path Coffee Roasters was added as a research-stage, uncontacted contingency screen. Its public program appears operationally relevant, but the one-time setup fee, fixed menu/no-custom-roast limitation and missing quote, food-safety, traceability, recall, COI, responsibility-allocation and label evidence prevent elevation. A comprehensive request is prepared and held for the authenticated hosted mailbox.
+- No supplier is promoted to primary or verified contingency.
+
+### Regulatory and insurance status
+- Current official Florida sources state that businesses operating covered food establishments require FDACS permits and that fees depend on classified activities. Those general sources still do not resolve whether Rising Son's exact supplier-roasted, Rising Son-branded, supplier-packaged/stored/direct-shipped, no-home-handling model is itself a Florida food establishment. Permit type, precise fee and renewal budget remain UNKNOWN pending FDACS's written classification.
+- FDA's current food-business guidance places facility-registration duties on facilities that manufacture, process, pack or hold food, subject to exemptions; it does not establish that Rising Son is the registering facility for this no-handling model. Supplier facility identity and applicable registration evidence remain required.
+- The 2026 Florida Chapter 500 and federal FDA sources reviewed do not state a universal requirement that this exact seller purchase general or product-liability insurance. This is an evidence-limited operational conclusion, not legal advice or an affirmative clearance. Supplier/platform contracts and the prudent products/completed-operations coverage decision remain separate gates.
+
+### Automation capacity
+- Four enabled, distinct workstreams remain active: Launch Ops, Supplier/Product, Finance and ASAP content production. Six other tasks are already paused and four are completed.
+- No enabled task is genuinely idle or redundant, and no capacity error was surfaced. No automation was paused, resumed, created or swapped.
+
+### Compact command center
+- **Readiness:** approximately 75%; free-reservation surface ready, commerce not ready.
+- **Owner decisions required now:** none newly created today.
+- **Launch blockers:** written FDACS classification; authenticated hosted `hello@` review; one verified primary plus two independent contingencies with quote-level economics, approved products, food-safety/allergen, lot-traceability, recall, facility/license, COI, responsibility-allocation and final-label evidence; insurer-issued quote comparison and owner insurance decision; LLC/EIN, payment testing and explicit commercial-launch authorization.
+- **Next three priorities:** (1) obtain and archive FDACS's written classification with exact permit, fee and renewal term if applicable; (2) review the hosted mailbox and reconcile known supplier/agency replies before any follow-up; (3) convert the strongest candidates into one verified primary and two contingencies, then complete economics, label and insurance review while checkout remains locked.
+
+### Owner decision log
+- No spend, signature, entity formation, supplier selection, insurance binding, payment activation, checkout change or commercial promise occurred.
+- Preserve the current launch gate: do not accept paid orders until supplier economics, compliant label, regulatory classification, insurance decision and owner authorization are complete.
+
+Official sources reviewed 2026-11-20:
+- https://www.fdacs.gov/Business-Services/Food-Establishments/Retail-Food-Establishment-Permit
+- https://www.fdacs.gov/Business-Services/Food/Food-Establishments/Wholesale-Manufactured-Food-Program
+- https://wwwo.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599%2F0500%2FSections%2F0500.12.html
+- https://www.fda.gov/food/food-industry/how-start-food-business
