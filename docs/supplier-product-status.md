@@ -40,13 +40,16 @@ A targeted Gmail search for inbound mail from those supplier domains after 2026-
 | Liberty Beans | Contacted; response unverified | Previously identified as a strong screen | Gmail thread has outbound only; hosted reply unknown; economics and evidence incomplete |
 | Roastify | Contacted; response unverified | Previously identified as a strong screen | Gmail thread has outbound only; hosted reply unknown; economics and evidence incomplete |
 | Temecula Coffee Roasters | Contacted; hosted reply known but unread here | Potential fit unresolved | Hosted reply must be reviewed before follow-up; economics and evidence incomplete |
-| Path Coffee Roasters | New research-stage contingency screen; not contacted | Publicly says it sources, blends, roasts, packs, labels, and ships single-customer orders; no dropship MOQ or monthly program fee; 12 oz and 6 oz stock-bag options; 5 lb option; ShipStation integration; whole program includes decaf/half-caf; Port Chester, NY facility address | Public average 12 oz cost is not a quote; $400 one-time supplier-printed-label setup conflicts with a zero-spend validation stage; 3–4 business-day target is not a guarantee; no verified legal manufacturer/packer/distributor statement, food-license/FDA evidence, food-safety plan, allergen controls, lot-traceability evidence, recall plan, COI, indemnity terms, label responsibility allocation, exact Original/Decaf match, grind options, rate card, or replacement policy |
+| Path Coffee Roasters | New research-stage contingency screen; not contacted | Publicly says it sources, blends, roasts, packs, labels, and ships single-customer orders; no dropship MOQ or monthly program fee; 12 oz and 6 oz stock-bag options; 5 lb option; ShipStation integration; Port Chester, NY roastery. Public menu includes whole-bean/ground Noam medium-dark blend (milk chocolate, dried fruit, light smoke; bold/smooth/full-bodied) and Synchronic medium-dark Decaf (dark raisin, cocoa, smooth), making a sensory screen plausible but unverified | Public average 12 oz cost is not a quote; $400 one-time supplier-printed-label setup conflicts with a zero-spend validation stage; 3–4 business-day target is not a guarantee; supplier says it does not offer custom roasts, so exact profile fit depends on its existing menu; no verified legal manufacturer/packer/distributor statement, food-license/FDA evidence, food-safety plan, allergen controls, lot-traceability evidence, recall plan, COI, indemnity terms, label responsibility allocation, decaf-process confirmation, dropship grind menu, rate card, or replacement policy |
 
 Path public sources checked 2026-11-20:
 
 - https://pathcoffees.com/dropshipping-coffee/
 - https://pathcoffees.com/direct-path-wholesale-program/
 - https://pathcoffees.com/contact-us-3/
+- https://pathcoffees.com/product/noam-blend-whole-bean-coffee/
+- https://pathcoffees.com/shop-coffee/
+- https://pathcoffees.com/private-label-coffee-breaking-down-the-full-process-3/3/
 
 Public statements are screening information only, not supplier-confirmed terms for Rising Son.
 
