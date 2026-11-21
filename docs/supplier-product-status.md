@@ -1,6 +1,6 @@
 # Supplier & Product Status
 
-_Last updated: 2026-11-20 (America/New_York)_
+_Last updated: 2026-11-21 (America/New_York)_
 
 This tracker supplements `docs/launch-readiness.md`. It does not designate a final supplier or authorize spending, samples, contracts, checkout, or product selection.
 
@@ -106,3 +106,47 @@ hello@therisingsoncoffee.com
 1. Review the hosted CoffeeAM and Temecula replies and the undelivered-mail notice; record complete headers, commercial facts, attachments, and missing evidence.
 2. Send the held Path qualification request only from the hosted mailbox after a delivered test confirms `From: hello@therisingsoncoffee.com`.
 3. Evaluate replies against the mandatory evidence checklist; keep at least three candidates active until one primary and two contingencies meet the full viability standard.
+
+
+## Supplier update — 2026-11-21
+
+### Mailbox and duplicate control
+
+- A fresh connected-Gmail search found no supplier, roaster, quote, COI or coffee-program message received after 2026-11-20. Searches for inbound mail from the originally contacted supplier domains and for delivery-failure notices returned no connected-Gmail results.
+- This does not inspect the separate hosted `hello@therisingsoncoffee.com` mailbox. Prior owner evidence still establishes that CoffeeAM and Temecula replies exist there.
+- Direct access to `https://webmail.porkbun.com/` returned a plain `403 Forbidden`; one reload returned the same result. The hosted inbox, sent history and message attachments therefore remain unread, and delivered `From: hello@therisingsoncoffee.com` identity could not be reverified.
+- No Gmail message, contact form, call, sample request, account, card, payment, agreement, artwork approval, product selection or volume promise was made.
+
+### Berk's Beans — strongest current independent direct-roaster screen
+
+Current first-party public pages continue to support the following screening facts:
+
+- Berk's says it roasts at 1717 Solano Way Ste. 12, Concord, California; packages coffee under the partner's label; and can ship individual nationwide orders directly to customers in plain outer boxes.
+- Its dropship page advertises no setup fee, house-blend coffee at $13/lb (represented as $9.75 per 12 oz), a $1 front-label/stock-bag fee, optional $0.50 back label, $3.50 pick/pack per order and actual USPS/UPS carrier cost. Billing is described as weekly to a card on file. These are public reference terms, not a Rising Son quote or approved economics.
+- The private-label page advertises a six-bag minimum per coffee per run, a $150 first-order minimum, 6/12/24 oz, 2 lb and 5 lb formats, whole bean plus drip/espresso/French-press/pour-over grinds, first-run timing of one to two weeks after proof approval and 48–72-hour reorders.
+- Public fee pages conflict on optional label design: the dropship/private-label pages state $125, while the wholesale page states $75. The current program and all charges require written reconciliation.
+- **Original screen:** Reserva Andina Tuxedo Roast remains the closest documented candidate because it combines medium-roasted Colombia with dark-roasted Brazil and is publicly described as full-bodied, low-acid, bold without harsh bitterness, chocolate/caramel/nutty and sweet-finishing. Exact private-label/dropship eligibility and the complete Rising Son sensory target still require written confirmation and tasting.
+- **Decaf screen:** Reserva Andina Decaf publicly uses the same Colombia/Brazil recipe with both components Swiss Water processed, retaining low acidity, full body, chocolate/caramel/nutty notes and a sweet finish. It remains the strongest documented like-for-like Decaf lead, not an approved product.
+- Alternative Decaf screens include Sumatra Mandheling (earthy, syrupy, low-acid), Peru Sol y Café (smooth, very low acid, clean finish) and Colombia Swiss Water (smooth, cocoa/caramel). These are public product descriptions only.
+
+Berk's cannot be designated a viable primary or contingency until it provides a Rising Son-specific quote, paired samples and documentary evidence for legal roles/facility licences and FDA status, food-safety and allergen controls, green-to-finished-lot-to-customer traceability, recall/withdrawal procedure and contacts, products/completed-operations COI and additional-insured terms, indemnity, final-label allocation and binding replacement/exception policies.
+
+### Controlled next action
+
+The comprehensive Berk's qualification request in `docs/supplier-outreach-drafts.md` remains current and held. Send it only from the authenticated hosted mailbox after:
+
+1. reviewing the complete hosted inbox and sent history for prior Berk's contact;
+2. verifying a delivered test preserves exactly `From: hello@therisingsoncoffee.com`; and
+3. confirming the current first-party recipient.
+
+No message was sent today. Until the hosted mailbox is accessible, the working screen remains Berk's first, Liberty Beans second, Roastify third, with Temecula held as a high-priority unresolved existing thread. None is a verified primary or backup.
+
+First-party Berk's sources reviewed 2026-11-21:
+
+- https://berksbeans.com/coffee-dropship-program/
+- https://berksbeans.com/private-label-coffee/
+- https://berksbeans.com/wholesale-program/
+- https://berksbeans.com/product/reserva-andina-decaf/
+- https://berksbeans.com/product/sumatra-decaf-coffee/
+- https://berksbeans.com/product/peru-decaf-coffee/
+- https://berksbeans.com/product/colombia-decaf-coffee/
