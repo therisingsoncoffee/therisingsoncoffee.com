@@ -1,6 +1,6 @@
 # Rising Son Coffee — Launch Readiness
 
-Last structured: 2026-11-20
+Last structured: 2026-11-21
 
 ## GREEN — completed / proven
 - Custom-domain HTTPS enabled in GitHub Pages by owner on 2026-09-22; independently reverified 2026-09-27: HTTPS apex, `/founding40/`, `/robots.txt` and `/sitemap.xml` returned `200`; HTTP apex and HTTPS `www` resolved to the HTTPS apex with valid certificate verification.
@@ -1089,4 +1089,39 @@ Official sources reviewed 2026-11-20:
 - https://www.fdacs.gov/Business-Services/Food-Establishments/Retail-Food-Establishment-Permit
 - https://www.fdacs.gov/Business-Services/Food/Food-Establishments/Wholesale-Manufactured-Food-Program
 - https://wwwo.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599%2F0500%2FSections%2F0500.12.html
+- https://www.fda.gov/food/food-industry/how-start-food-business
+
+
+## Launch operations check — 2026-11-21
+
+### Verified facts and changes
+- Direct production checks returned HTTP 200 for the HTTPS apex, `/founding40/`, `/robots.txt` and `/sitemap.xml`. HTTP apex and HTTPS `www` both resolved to `https://therisingsoncoffee.com/`.
+- Live canonicals remain correct for Home and Founding 40. Live robots permits public crawling, excludes `/thanks.html` and declares the HTTPS-apex sitemap; the sitemap lists Home, Founding 40, Story, Privacy and Terms.
+- Checkout remains intentionally disabled. The live homepage shows **Checkout Locked** and states that no orders or payments are accepted; repository `checkout-config.js` remains `enabled: false` with an empty `paymentLink`.
+- Repository state remains public on `main`; tracked `CNAME` remains `therisingsoncoffee.com`. The GitHub connector does not expose the direct Pages-settings endpoint, so no Pages setting was changed.
+- Public DNS still resolves the four GitHub Pages apex A records and `www` CNAME `therisingsoncoffee.github.io.` MX remains Porkbun, SPF remains `v=spf1 include:_spf.porkbun.com ~all`, and the existing `default` DKIM and DMARC `p=quarantine` records resolve. No DNS, MX, SPF, DKIM or DMARC setting was changed.
+- A targeted search of the connected `therisingsoncoffee@gmail.com` account found no FDACS classification, supplier quote/compliance package, COI or insurer-issued quote received after 2026-11-20. This does not inspect the separate hosted `hello@therisingsoncoffee.com` IMAP inbox or sent history and does not imply that no hosted-mailbox replies exist.
+- No supplier is promoted to primary or verified contingency. Quote-level delivered economics, approved Original/Decaf products, food-safety/allergen controls, facility/licence evidence, lot traceability, recall procedure/contact, COI terms, responsibility allocation and final compliant label evidence remain incomplete.
+
+### Regulatory and insurance status
+- Section 500.12 of the 2026 Florida Statutes requires a permit for a person or business operating a covered food establishment, with annual renewal and fees based on classified activities. The statute and general FDACS pages do not classify Rising Son's exact supplier-roasted, Rising Son-branded, supplier-packaged/stored/direct-shipped, no-home-handling model. Written FDACS classification, exact permit, fee and renewal term remain required before any permit budget or paid orders.
+- FDA guidance places food-facility registration on facilities that manufacture, process, pack or hold food unless exempt. The planned supplier performs those physical activities, but its facility identity, role and applicable registration evidence must be retained; this does not determine Rising Son's Florida classification.
+- No reviewed Florida Chapter 500, FDACS or federal FDA source states a universal general- or product-liability insurance purchase mandate for this exact seller model. Florida's official small-business guide identifies workers' compensation and commercial automobile as coverages that may be legally required and warns that licences or local rules may add requirements. This is an evidence-limited operational conclusion, not legal advice or affirmative clearance; supplier/platform contract demands and prudent products/completed-operations coverage remain separate gates.
+
+### Automation capacity
+- The supported private automation lookup returned no visible task records in this run, so current slot capacity could not be independently enumerated. No automation was paused, restored, created or swapped, and no persistent self-management claim is made.
+
+### Compact command center
+- **Readiness:** approximately 75%; free-reservation surface ready, commerce not ready.
+- **Owner decisions required now:** none newly created today.
+- **Launch blockers:** written FDACS classification; authenticated hosted `hello@` review; one verified primary plus two independent contingencies with supplier-issued economics and complete compliance/label evidence; insurer-issued quote comparison and owner insurance decision; LLC/EIN, payment testing and explicit owner commercial-launch authorization.
+- **Next three priorities:** (1) obtain and archive FDACS's written classification with exact permit, fee and renewal term if applicable; (2) review the hosted mailbox and reconcile known agency/supplier replies before any follow-up; (3) convert the strongest supplier screens into one verified primary and two contingencies, then complete economics, label and insurance review while checkout remains locked.
+
+### Owner decision log
+- No spend, signature, entity formation, supplier selection, insurance binding, payment activation, checkout change or commercial promise occurred.
+- Preserve the launch gate: do not accept paid orders until supplier economics, compliant label, regulatory classification, insurance decision and explicit owner authorization are complete.
+
+Official sources reviewed 2026-11-21:
+- https://wwwo.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599%2F0500%2FSections%2F0500.12.html
+- https://www.myfloridacfo.com/docs-sf/consumer-services-libraries/consumerservices-documents/understanding-coverage/consumer-guides/small-business-guide.pdf
 - https://www.fda.gov/food/food-industry/how-start-food-business
