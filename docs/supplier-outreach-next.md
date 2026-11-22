@@ -1,6 +1,6 @@
 # Supplier outreach: next send and controls
 
-Updated 2026-11-18. No supplier email was sent in this run.
+Updated 2026-11-22. No supplier email was sent in this run.
 
 ## Hard sender gate
 
@@ -17,6 +17,13 @@ The hosted mailbox is not accessible through the current tools. Do not use a sup
 5. Do not send a duplicate or another unsolicited follow-up until the existing thread is understood.
 
 The connected Rising Son Gmail was searched on 2026-11-18 and contained no new inbound supplier, FDACS, insurance, COI, recall or traceability message. That does not prove the separate hosted inbox has no replies.
+
+## 2026-11-22 send-control check
+
+- Connected Gmail contains no inbound result from the September supplier domains and no prior Sent result for Ross Street, Raptis or Berk's Beans.
+- The three complete drafts remain ready in `docs/supplier-outreach-drafts.md`.
+- Do not send them yet: review the hosted CoffeeAM and Temecula replies and the delivery-failure notice first, then verify a delivered self-test whose actual From header is `hello@therisingsoncoffee.com`.
+- Current public-evidence priority remains Berk's Beans, Ross Street, then Raptis. This is an outreach priority only, not a supplier selection.
 
 ## Ranked new-outreach queue after hosted-thread review
 
