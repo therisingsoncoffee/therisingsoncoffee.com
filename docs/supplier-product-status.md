@@ -1,6 +1,6 @@
 # Supplier & Product Status
 
-_Last updated: 2026-11-21 (America/New_York)_
+_Last updated: 2026-11-22 (America/New_York)_
 
 This tracker supplements `docs/launch-readiness.md`. It does not designate a final supplier or authorize spending, samples, contracts, checkout, or product selection.
 
@@ -31,6 +31,16 @@ On 2026-11-20, the 11 supplier threads sent on 2026-09-23 were re-read in Gmail.
 11. Liberty Beans Coffee
 
 A targeted Gmail search for inbound mail from those supplier domains after 2026-09-22 returned no results. This does **not** establish that no supplier replied: prior owner evidence shows CoffeeAM and Temecula replies in the hosted mailbox. Those hosted messages must be reviewed before any follow-up. No repeat follow-up was sent.
+
+## 2026-11-22 reconciliation and evidence refresh
+
+- Connected Rising Son Gmail was searched again for inbound mail from the 11 September supplier domains; no inbound result was found. A separate Sent search found no prior outreach to Ross Street Roasting, Raptis Coffee or Berk's Beans. This does not establish the state of the separate hosted mailbox.
+- No message was sent. The hosted `hello@therisingsoncoffee.com` mailbox remains unavailable through supported tools, so its delivered From identity could not be verified and its CoffeeAM/Temecula replies and delivery-failure notice could not be reviewed.
+- Berk's Beans' current official dropship page supports a strong operational screen: supplier-roasted and labeled product, one-bag dropship after a six-bag setup, plain outer box, weekly billing, nationwide USPS/UPS and public per-bag/pick-pack figures. The current page does not show the earlier tracker evidence of a $150 first-order minimum or a separate $0.50 back-label charge; both now require written reconciliation. Supplier claims about FDA registration are not documentary proof.
+- Ross Street's official co-manufacturing page still publicly supports free samples, white/private-label production, coordinated packaging and conditional individual DTC fulfillment, but keeps the numeric MOQ and platform conditions private.
+- Raptis' current official landing page advertises one-case starts, drop shipping, same/next-business-day turnaround and $0 monthly fees. Older official pages retained in the tracker conflict on monthly fees and handling, so no program/economics conclusion is permitted without a written quote.
+- Cerca's current official page advertises $5 flat continental-U.S. shipping effective 2026-12-01; the tracker was corrected from the earlier “shipping included” characterization.
+- None of these public screens supplies a Rising Son quote, compliance packet, COI, additional-insured terms, indemnity, recall/traceability evidence or final compliant label. Verified primary and both verified contingencies therefore remain **none**.
 
 ## Candidate screen
 
