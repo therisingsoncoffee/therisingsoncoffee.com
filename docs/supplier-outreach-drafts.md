@@ -796,7 +796,7 @@ hello@therisingsoncoffee.com
 **Hold note:** Do not send through Gmail or a website contact form. Send only from an authenticated hosted `hello@therisingsoncoffee.com` mailbox after rechecking its sent folder and the tracker for prior contact.
 
 
-## Berk's Beans Coffee — 2026-10-24 — HELD; HOSTED MAIL REQUIRED
+## Berk's Beans Coffee — revalidated 2026-11-22 — HELD; HOSTED MAIL REQUIRED
 
 **Intended recipient:** BeanTeam@BerksBeans.com  
 **Subject:** Rising Son Coffee — private-label Original, matching Decaf and dropship qualification
@@ -807,15 +807,16 @@ Rising Son Coffee is evaluating roasting and fulfillment partners for a prelaunc
 
 Reserva Andina Tuxedo Roast appears to be a strong preliminary Original match for our target: rich/bright aroma, low perceived acidity and bitterness, earthy depth, strong smooth full flavor and a clean aftertaste. Reserva Andina Tuxedo Roast Decaf appears to be a promising matching Swiss Water Process Decaf. Please confirm that both exact coffees are available through your private-label dropship program in 12 oz whole-bean and ground formats, and recommend any closer year-round pairing.
 
-Your public pages advertise $13/lb house blends ($9.75 per 12 oz), a $1 stock-bag/front-label fee, an optional $0.50 back label, $3.50 pick/pack per order, actual carrier shipping, a six-bag-per-coffee first proof/run, a $150 first-order minimum and later one-bag dropship orders. These are public screening terms, not a Rising Son quote. Please provide a current written Rising Son quote confirming:
+Your current public dropship page advertises $13/lb house blends ($9.75 per 12 oz), a $1 private-label bagging/label fee, $3.50 pick/pack per order, actual carrier shipping, a six-bag initial private-label setup and later one-bag dropship orders. An earlier public screen showed a $150 first-order minimum and a separate $0.50 back-label charge, but those figures are not shown on the page rechecked November 22, 2026. These are public screening terms, not a Rising Son quote. Please reconcile the changed terms and provide a current written Rising Son quote confirming:
 - the exact Original and Decaf costs in each supported whole-bean/ground format and size;
-- bag, label, artwork, setup, custom-material storage and insert costs;
+- numeric MOQ by coffee, SKU and variant; whether Original/Decaf and whole-bean/ground variants combine; and whether any first-order dollar minimum still applies;
+- bag, front/back label, artwork, setup, custom-material storage and insert costs;
 - representative 1-, 2- and 3-bag USPS/UPS rates to ZIP 33325 plus national zone/surcharge tables;
 - normal and peak roast-to-ship timing, order cutoffs and carrier handoff;
 - manual-order, daily-sheet/CSV and any current store-integration workflow;
 - subscription/repeat-order handling, address changes, cancellations, stockouts and substitutions;
 - weekly billing and payment terms;
-- responsibility and remedy for carrier loss, damage, wrong items, misprints, stale product, roast defects, returns and customer refusal;
+- binding replacement/refund policy and responsibility for carrier loss, damage, wrong items, label or bag misprints, stale product, roast defects, missed SLA, address errors, returns and customer refusal;
 - sample availability for the proposed Original and Decaf, exact product/shipping cost and whether any charge is credited. We will not place a paid sample order without separate owner approval.
 
 Please confirm whether the external box, packing slip, return label and tracking/customer communications can carry only Rising Son branding. Your public page says the box is plain but the return address is your fulfillment department; please identify exactly what the customer will see.
