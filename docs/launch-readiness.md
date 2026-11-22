@@ -1,6 +1,6 @@
 # Rising Son Coffee — Launch Readiness
 
-Last structured: 2026-11-21
+Last structured: 2026-11-22
 
 ## GREEN — completed / proven
 - Custom-domain HTTPS enabled in GitHub Pages by owner on 2026-09-22; independently reverified 2026-09-27: HTTPS apex, `/founding40/`, `/robots.txt` and `/sitemap.xml` returned `200`; HTTP apex and HTTPS `www` resolved to the HTTPS apex with valid certificate verification.
@@ -63,6 +63,14 @@ Last structured: 2026-11-21
 - Direct browser access to `/robots.txt` and `/sitemap.xml` was blocked by the current browser client, so their last independent live `200` verification remains 2026-09-27. Repository copies remain valid and reference the HTTPS apex.
 - `CNAME` remains `therisingsoncoffee.com`. No DNS, MX, SPF or DKIM records were changed.
 - Automation capacity review on 2026-10-06 found four enabled core tasks (Launch Ops, Supplier/Product, CRM and Finance). Growth remains paused, so capacity exists and no additional task was paused or swapped.
+
+## Launch infrastructure check — 2026-11-22
+- Live browser verification confirmed that the HTTPS apex homepage and `/founding40/` render successfully.
+- HTTPS `www` redirects to the HTTPS apex. The live homepage canonical is `https://therisingsoncoffee.com/`; the Founding 40 canonical is `https://therisingsoncoffee.com/founding40/`.
+- Live `/robots.txt` is public, allows crawling, disallows `/thanks.html`, and references the HTTPS-apex sitemap. Live `/sitemap.xml` is public and lists Home, Founding 40, Story, Privacy and Terms on the HTTPS apex.
+- The public homepage still shows a disabled “Checkout Locked” control and “No orders or payments are being accepted.” No checkout or payment setting was changed.
+- Repository `CNAME` remains `therisingsoncoffee.com`. Mail-related DNS records were not changed. The runtime could not independently repeat raw A/MX/TXT/DKIM queries during this check, so prior verified MX/SPF/DKIM evidence remains the last mail-DNS authority; do not infer new mail-record status from the successful web checks.
+- Automation capacity review found four enabled core tasks: Original Trend Content, Launch Ops, Supplier/Product and Finance. The other Rising Son CRM/growth/DNS-watch tasks remain paused. No task was paused, restored or swapped because the four enabled tasks are active and nonredundant and no higher-value temporary task required a slot.
 
 ## YELLOW — waiting / verification
 - Mail visibility: rechecked 2026-09-27; a targeted recent-message search found no FDACS, CoffeeAM, Temecula, PPIB/insurance or delivery-failure messages in the connected Gmail account. The connector accesses only `therisingsoncoffee@gmail.com`, while `hello@therisingsoncoffee.com` is a distinct Porkbun hosted IMAP mailbox that appears in the owner's Gmail phone app. The hosted mailbox has supplier and FDACS replies absent from connector search. Set a Porkbun webmail filter (Settings > Filters > Create) that keeps messages in hosted inbox and forwards copies to Gmail; then verify with a unique inbound test and confirm full original sender/attachments are preserved. Do not change MX/SPF/DKIM or redirect ownership. Porkbun documents this at https://kb.porkbun.com/article/290-how-to-redirect-a-porkbun-hosted-email-account-to-another-email-address . Attempted webmail access in the agent browser on 2026-09-23 returned 403 Forbidden, so filter is NOT configured or tested. Gmail POP fetching is being phased out; do not use it as the durable solution. Existing hosted messages need separate review/backfill.
