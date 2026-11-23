@@ -1,6 +1,6 @@
 # Supplier & Product Status
 
-_Last updated: 2026-11-22 (America/New_York)_
+_Last updated: 2026-11-23 (America/New_York)_
 
 This tracker supplements `docs/launch-readiness.md`. It does not designate a final supplier or authorize spending, samples, contracts, checkout, or product selection.
 
@@ -160,3 +160,16 @@ First-party Berk's sources reviewed 2026-11-21:
 - https://berksbeans.com/product/sumatra-decaf-coffee/
 - https://berksbeans.com/product/peru-decaf-coffee/
 - https://berksbeans.com/product/colombia-decaf-coffee/
+
+
+## 2026-11-23 mailbox and queue control
+
+- The connected account was positively identified as `therisingsoncoffee@gmail.com`, not the separately hosted `hello@therisingsoncoffee.com` mailbox.
+- All 11 September 23 supplier threads were batch-read in full. Each contains exactly one outbound message and zero inbound replies in connected Gmail: Ghost Roast, Capital City Roasters, Eldorado Coffee, Brandywine Coffee Roasters, Roastify, Luna Gourmet, CoffeeAM, Temecula Coffee Roasters, Koffee Kult, La Vela Coffee and Liberty Beans Coffee.
+- The stored Gmail copies display `From: hello@therisingsoncoffee.com`, but that stored header does not prove the recipient received that identity. Prior owner evidence that Gmail can substitute the Gmail address remains controlling. No test, supplier email, contact form, Gmail draft or follow-up was sent.
+- Current first-party pages were rechecked for alternatives. Aroma Ridge remains closed to new fulfillment/drop-ship applicants until February 2027. Old Chicago remains a public low-minimum screen, but its recurring fee, current holiday surcharge, legal/compliance documents, COI, indemnity and exact product pairing remain unresolved; it was not promoted to an active backup.
+- Active new-outreach order remains **Berk's Beans**, **Ross Street Roasting**, then **Raptis Coffee**, with **Temecula** and **CoffeeAM** held for hosted-thread review. This is a research/outreach order only; none is a verified primary or contingency.
+
+### Exact blocker before any supplier send
+
+A supported login to the hosted mailbox is required to (1) review its Inbox and Sent folders, especially the known CoffeeAM and Temecula replies and delivery-failure notice; (2) search for prior Berk's, Ross Street and Raptis contact; and (3) send a self-test whose received headers prove `From: hello@therisingsoncoffee.com`. Until those three checks pass, all supplier messages remain held.
