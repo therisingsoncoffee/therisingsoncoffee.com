@@ -1134,3 +1134,49 @@ Official sources reviewed 2026-11-21:
 - https://wwwo.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599%2F0500%2FSections%2F0500.12.html
 - https://www.myfloridacfo.com/docs-sf/consumer-services-libraries/consumerservices-documents/understanding-coverage/consumer-guides/small-business-guide.pdf
 - https://www.fda.gov/food/food-industry/how-start-food-business
+
+
+## Launch operations check — 2026-11-23
+
+### Verified facts and changes
+- Direct live-browser checks confirmed the HTTPS apex homepage and `/founding40/` load successfully. `http://therisingsoncoffee.com/` and `https://www.therisingsoncoffee.com/` both resolve to `https://therisingsoncoffee.com/`.
+- Live canonical tags remain correct: `https://therisingsoncoffee.com/` for Home and `https://therisingsoncoffee.com/founding40/` for Founding 40.
+- Live `robots.txt` allows public crawling, excludes `/thanks.html` and declares the HTTPS-apex sitemap. Live `sitemap.xml` lists Home, Founding 40, Story, Privacy and Terms.
+- Checkout remains intentionally disabled in both surfaces: the live homepage shows a disabled **Checkout Locked** control and says no orders or payments are accepted; repository `checkout-config.js` remains `enabled: false` with an empty `paymentLink`.
+- GitHub `main` is at commit `2edd5984cf676a0a99f71654475a68732dbe6588`. Pages build-and-deployment run 342 for that commit completed successfully on November 23, 2026. The approved connector still does not expose the direct Pages-settings endpoint, but the current Actions result and live production behavior verify deployment health.
+- Live apex and `www` resolution prove the public web records are functioning. Full current DNS RR enumeration was unavailable from the approved connector/runtime in this run, so the last independently verified November 21 MX/SPF/DKIM/DMARC state remains the retained baseline. No Pages, DNS, MX, SPF, DKIM, DMARC, checkout or payment configuration was changed.
+- Supplier status was reconciled today in `docs/supplier-product-status.md`: all 11 September Gmail-side supplier threads contain exactly one outbound message and zero Gmail-side replies. This does not inspect the separately hosted mailbox or negate the known CoffeeAM and Temecula hosted replies. No supplier is promoted to primary or verified contingency.
+
+### Regulatory and insurance status
+- Current 2026 section 500.12 still requires permits for businesses operating covered food establishments, with annual renewal and activity-classified fees, but it does not classify Rising Son's exact supplier-roasted, Rising Son-branded, supplier-packaged/stored/direct-shipped, no-home-handling model.
+- Current FDACS retail and wholesale permit pages describe applications, inspections and fees for classified establishments but do not resolve this model. A written FDACS classification, exact permit type, exact fee and renewal term remain mandatory before budgeting a permit or accepting paid orders.
+- FDACS's Food Permit Center currently warns that payments submitted December 14, 2026 through January 11, 2027 may experience processing delays. This creates no present payment or application action because Rising Son has not received its classification.
+- FDA guidance continues to place facility registration on facilities that manufacture, process, pack or hold food unless exempt. The supplier's legal facility identity and applicable registration evidence must therefore be collected; the guidance does not establish Rising Son as the registering facility for this no-handling model.
+- No reviewed Florida Chapter 500, FDACS, FDA or Florida insurance source states a universal requirement that this exact seller purchase general or product-liability insurance. Florida's official small-business guide identifies workers' compensation thresholds, not a universal GL/product-liability mandate. Supplier/platform contract requirements and prudent products/completed-operations coverage remain separate launch gates. This is an evidence-limited operational conclusion, not legal advice or affirmative clearance.
+
+### Automation capacity
+- The supported automation lookup returned no visible task records in this run, so enabled-slot capacity could not be independently enumerated or safely changed.
+- No automation was paused, restored, created or swapped. No persistent self-management claim is made.
+
+### Compact command center
+- **Readiness:** approximately 75%; the free-reservation surface is operational, commerce is not launch-ready.
+- **Verified today:** live HTTPS/redirects/canonicals/robots/sitemap; disabled checkout; successful current Pages deployment; supplier Gmail-side thread reconciliation.
+- **Launch blockers:** written FDACS classification; authenticated hosted `hello@` review; one verified primary and two independent contingencies with supplier-issued economics and complete product, food-safety/allergen, lot-traceability, recall, facility/licence, COI, responsibility-allocation and final-label evidence; insurer-issued quote comparison and owner insurance decision; LLC/EIN, payment testing and explicit commercial-launch authorization.
+- **Owner decisions required now:** none newly created today.
+
+### Next three priorities
+1. Obtain and archive FDACS's written classification for the exact no-home-handling model, including precise permit, fee and renewal term if applicable.
+2. Restore supported access to the hosted `hello@therisingsoncoffee.com` mailbox; review the known CoffeeAM/Temecula replies, delivery-failure notice, FDACS correspondence and sent history before any follow-up.
+3. Convert the strongest supplier screens into one verified primary and two contingencies, then finish quote-level economics, compliant label review and insurer-issued comparisons while checkout remains locked.
+
+### Owner decision log
+- No spend, signature, entity formation, permit application, supplier selection, insurance binding, payment activation, checkout change or commercial promise occurred.
+- Preserve the launch gate: accept no paid order until supplier economics, compliant label, regulatory classification, insurance decision and explicit owner authorization are complete.
+
+Official sources reviewed 2026-11-23:
+- https://wwwo.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599%2F0500%2FSections%2F0500.12.html
+- https://www.fdacs.gov/Business-Services/Food-Establishments/Retail-Food-Establishment-Permit
+- https://www.fdacs.gov/Business-Services/Food-Establishments/Wholesale-Manufactured-Food-Establishment-Permit
+- https://foodpermit.fdacs.gov/
+- https://www.fda.gov/food/food-industry/how-start-food-business
+- https://www.myfloridacfo.com/docs-sf/consumer-services-libraries/consumerservices-documents/understanding-coverage/consumer-guides/small-business-guide.pdf
