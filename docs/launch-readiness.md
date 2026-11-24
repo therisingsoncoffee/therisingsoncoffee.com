@@ -1180,3 +1180,41 @@ Official sources reviewed 2026-11-23:
 - https://foodpermit.fdacs.gov/
 - https://www.fda.gov/food/food-industry/how-start-food-business
 - https://www.myfloridacfo.com/docs-sf/consumer-services-libraries/consumerservices-documents/understanding-coverage/consumer-guides/small-business-guide.pdf
+
+## Launch operations check — 2026-11-24
+
+### Verified facts and changes
+- Live browser verification confirmed that the HTTPS apex homepage and `/founding40/` load successfully. HTTPS `www` resolves to `https://therisingsoncoffee.com/`.
+- Live canonical tags remain correct: `https://therisingsoncoffee.com/` for Home and `https://therisingsoncoffee.com/founding40/` for Founding 40.
+- Live `robots.txt` allows public crawling, excludes `/thanks.html` and declares the HTTPS-apex sitemap. Live `sitemap.xml` lists Home, Founding 40, Story, Privacy and Terms.
+- Checkout remains intentionally disabled. The live homepage shows a disabled **Checkout Locked** control and states that no orders or payments are accepted; repository `checkout-config.js` remains `enabled: false` with an empty `paymentLink`.
+- Repository `CNAME` remains `therisingsoncoffee.com`. No Pages, DNS, MX, SPF, DKIM, DMARC, checkout or payment setting was changed. Live web behavior was verified before any edit; the last independently enumerated November 21 MX/SPF/DKIM/DMARC state remains the retained mail-DNS baseline.
+- Supplier and Finance workstreams were reconciled against the current GitHub source of truth. No new supplier-issued quote, compliance evidence, insurer-issued quote or FDACS classification was found after the November 23 records.
+
+### Supplier and finance coordination
+- No supplier is promoted to primary or verified contingency. Known CoffeeAM and Temecula replies plus a delivery-failure notice remain in the separate hosted `hello@` mailbox and must be reviewed before follow-up. Berk's remains the strongest current screen but lacks quote-level economics and complete facility/licence, food-safety/allergen, lot-traceability, recall, COI/additional-insured, indemnity, responsibility-allocation and final-label evidence.
+- Product economics remain unpopulated because the required supplier-issued Original/Decaf quote, packaging/label/grind/setup/pick-pack/shipping inputs, processor rate and replacement terms are still missing.
+- The FDACS permit budget remains **UNKNOWN**, not zero, pending written classification of the exact supplier-roasted, Rising Son-branded, supplier-packaged/stored/direct-shipped, no-home-handling model and any exact permit, fee and renewal term.
+- No reviewed Florida Chapter 500, FDACS, FDA or Florida insurance authority establishes a universal general- or product-liability purchase mandate for this exact seller model. This remains an evidence-limited finding, not legal clearance; supplier/platform contract requirements and prudent products/completed-operations coverage are separate launch gates.
+- No insurer-issued Rising Son indication is retained. Eligibility, annual/upfront/monthly-equivalent premium, deductible, exclusions, nationwide private-label eligibility and optional recall/cyber terms remain pending.
+
+### Automation capacity
+- Supported automation lookup found four enabled, active, nonredundant tasks: Original Trend Content, Launch Ops, Supplier/Product and Finance. Six other tasks are paused and four one-time tasks are complete.
+- No task was paused, restored, created or swapped because no enabled task is genuinely idle or redundant and no higher-value temporary task requires a slot.
+
+### Compact command center
+- **Readiness:** approximately 75%; the free-reservation surface is operational, commerce is not launch-ready.
+- **Verified today:** HTTPS apex; `www` redirect; Founding 40; Home and Founding 40 canonicals; public robots and sitemap; disabled checkout; current Supplier/Finance evidence state; automation capacity.
+- **Changes made:** this evidence-only command-center update. No infrastructure, email, DNS, supplier, insurance, payment or checkout mutation occurred.
+- **Launch blockers:** written FDACS classification; authenticated hosted `hello@` review; one verified primary plus two independent contingencies with supplier-issued economics and complete product/compliance/label evidence; insurer-issued quote comparison and owner insurance decision; LLC/EIN, payment testing and explicit commercial-launch authorization.
+- **Owner decisions required now:** none newly created today.
+
+### Next three priorities
+1. Obtain and archive FDACS's written classification for the exact no-home-handling model, including precise permit, fee and renewal term if applicable.
+2. Restore supported access to the hosted `hello@therisingsoncoffee.com` mailbox; review Inbox/Sent, known CoffeeAM/Temecula replies, the delivery-failure notice, FDACS correspondence and any PPIB response before follow-up.
+3. Convert the strongest supplier screens into one verified primary and two contingencies, then complete quote-level economics, compliant label review and insurer-issued comparisons while checkout remains locked.
+
+### Owner decision log
+- No spend, signature, entity formation, permit application, supplier selection, insurance binding, payment activation, checkout change or commercial promise occurred.
+- Preserve the launch gate: accept no paid order until supplier economics, compliant label, regulatory classification, insurance decision and explicit owner authorization are complete.
+
