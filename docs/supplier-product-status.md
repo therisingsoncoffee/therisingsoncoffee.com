@@ -173,3 +173,26 @@ First-party Berk's sources reviewed 2026-11-21:
 ### Exact blocker before any supplier send
 
 A supported login to the hosted mailbox is required to (1) review its Inbox and Sent folders, especially the known CoffeeAM and Temecula replies and delivery-failure notice; (2) search for prior Berk's, Ross Street and Raptis contact; and (3) send a self-test whose received headers prove `From: hello@therisingsoncoffee.com`. Until those three checks pass, all supplier messages remain held.
+
+
+## Supplier run — 2026-11-24
+
+### Mailbox and duplicate control
+
+- The connected Google account remains `therisingsoncoffee@gmail.com`, not the independently hosted `hello@therisingsoncoffee.com` mailbox. Its stored September Sent copies display `From: hello@therisingsoncoffee.com`, but they do not prove the identity actually delivered to recipients; Gmail remains read-only for this workstream.
+- A current connected-Gmail search found no inbound supplier/roaster/quote/COI/certificate/recall/traceability message during the previous 14 days. Searches found no recent delivery-failure message, no self-test from `hello@` to the Gmail account and no inbound message addressed to `hello@`. These results do not inspect the separate hosted mailbox.
+- Direct supported access to `https://webmail.porkbun.com/` again returned `403 Forbidden`. The hosted Inbox, Sent folder, CoffeeAM and Temecula replies, delivery-failure notice, attachments and delivered sender identity therefore remain unavailable.
+- No email, follow-up, contact form, call, account, sample request, purchase, payment method, contract, product selection or volume promise was made. The held Berk's, Ross Street and Raptis qualification messages remain complete and unsent.
+
+### Current first-party market screen
+
+- **Roastify remains a strong previously contacted operational screen, not a verified contingency.** Its current official private-label page advertises no MOQ for catalog products; 12 oz whole-bean and ground formats; Base at $15/month and Pro at $49/month; member reference pricing of $12 per 12 oz; $4.50 shipping for the first item plus $1.25 for each additional item; unbranded shipping; direct fulfillment; and pre-production packaging review. Those public terms are not a Rising Son quote and do not supply the required COI, food-safety/traceability/recall packet, indemnity, legal-role allocation, selected Original/Decaf evidence, replacement terms or final label approval. Source: https://roastify.app/private-label
+- **TiA Coffee was evaluated and deprioritized for the Founding 40 validation lane.** Its official FAQ supports DTC fulfillment, complimentary samples, whole bean and broad grind options, a listed Decaf and U.S. shipping, but requires 50 lb per house blend (100 lb custom) and states that its $10.50/lb starting reference excludes packaging, labor and freight; the per-order handling fee is undisclosed. This may suit a later quality/volume lane but creates too much unverified inventory and cash exposure for the current no-spend launch. Source: https://tiacoffee.us/faq-private-label/
+- **Black Ink was screened out of the current queue.** Its official page requires at least a 25-bag monthly charge, $150 onboarding and a one-year commitment, with customer-supplied pre-labeled bags and postage/add-ons separate. It is not a no-cost information-first launch path. Source: https://blackinkcoffee.com/pages/coffee-dropshipping
+- **Lothian was screened out of the current queue.** Its published white-label structure is centered on Jamaica Blue Mountain licensing and shows a $395 monthly Elite tier plus a $1,199 JACRA sublicense. That narrow, high-fixed-cost program is not aligned with the two-SKU Original/Decaf validation stage. Source: https://www.lothiancoffee.com/pricing-plans/member
+
+### Decision state and controlled next action
+
+- Verified primary: **none**. Verified contingency 1: **none**. Verified contingency 2: **none**.
+- Research/outreach order remains Berk's Beans, Ross Street Roasting and Raptis Coffee, with Temecula and CoffeeAM held for existing-thread review. Roastify remains an unresolved previously contacted screen. Rankings are queue control only, not selections.
+- The next authorized send remains blocked until the hosted mailbox can be accessed, Inbox and Sent are reconciled, and a delivered self-test proves exactly `From: hello@therisingsoncoffee.com`. After that gate passes, send only the first nonduplicate tailored qualification request and record the full response and evidence.
