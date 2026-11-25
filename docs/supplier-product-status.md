@@ -196,3 +196,75 @@ A supported login to the hosted mailbox is required to (1) review its Inbox and 
 - Verified primary: **none**. Verified contingency 1: **none**. Verified contingency 2: **none**.
 - Research/outreach order remains Berk's Beans, Ross Street Roasting and Raptis Coffee, with Temecula and CoffeeAM held for existing-thread review. Roastify remains an unresolved previously contacted screen. Rankings are queue control only, not selections.
 - The next authorized send remains blocked until the hosted mailbox can be accessed, Inbox and Sent are reconciled, and a delivered self-test proves exactly `From: hello@therisingsoncoffee.com`. After that gate passes, send only the first nonduplicate tailored qualification request and record the full response and evidence.
+
+## Supplier update — 2026-11-25
+
+### Mailbox and duplicate control
+- The connected profile was reconfirmed as `therisingsoncoffee@gmail.com`, not the separately hosted `hello@therisingsoncoffee.com` mailbox. Gmail must not be used to send because it cannot prove the required hosted From identity.
+- Searches covering the prior 14 days, all mail after November 24, known supplier terms and Sent mail for Berk's Beans, Ross Street Roasting, Raptis Coffee, Path, Contour, Gillies, Dripshipper and Joe's Garage returned no connected-Gmail results.
+- This does not inspect hosted Inbox/Sent history or negate the known CoffeeAM and Temecula hosted replies. Hosted mailbox access, prior-thread reconciliation and a received-header self-test proving `From: hello@therisingsoncoffee.com` remain mandatory before outreach.
+- No supplier message, form submission, sample order, account registration, payment, agreement or product selection occurred.
+
+### Public-screen refresh
+- **Berk's Beans remains the lead inquiry screen, not a selected supplier or verified contingency.** Its current official pages state that it roasts to order in Concord, California, bags and labels under the customer's brand, blind-ships individual orders nationwide, supplies tracking, and bills weekly. Standard dropship packaging is 12 oz or 5 lb with whole-bean, drip, espresso, French-press or pour-over grind; Decaf is offered.
+- Berk's current public screen is: house blend $9.75 per 12 oz bag, $1.00 private-label fee per bag, $3.50 pick/pack per order, actual USPS/UPS shipping, no setup fee, optional $125 label design, six-bag first private-label setup, then one-bag dropship orders. Thus a one-bag screen is **$14.25 before shipping, payment processing, insurance and unresolved costs**. This is public arithmetic, not a Rising Son quote or landed COGS.
+- Berk's public page claims an FDA-registered facility at 1717 Solano Way Ste. 12, Concord, CA 94520. That supplier statement is not registration evidence and has no retained expiry/renewal proof. The exact legal manufacturer/packer/distributor roles, applicable state licence, food-safety plan, allergen controls, finished-lot-to-customer traceability, recall evidence/contact, products/completed-operations COI, additional-insured terms, indemnity and label/recall responsibility allocation remain unverified.
+- Berk's exact Original/Decaf pairing, sensory profiles, decaf method, no-cost sample terms, actual 1/2/3-bag shipping rates/zones, storage terms, subscription handling, automation/integration options, payment terms beyond weekly card billing and replacement policy remain missing.
+- **Dripshipper is not currently treated as an independent contingency.** Current official materials identify Temecula Coffee Roasters and Old Chicago/Calutech as the underlying fulfillment vendors. The known Temecula hosted reply is unread, and Old Chicago was already screened. Contacting Dripshipper now could duplicate the same underlying suppliers before hosted-thread reconciliation.
+- Dripshipper's public screen includes no MOQ, plans starting at $30/month, 12 oz/1 lb/2 lb/5 lb formats, whole-bean/ground/coarse/espresso choices, multiple Decaf products, 1–5 business-day fulfillment plus 1–5 business-day ground transit, and a $2.75 review for each size/grind label SKU. Its replacement policy allocates supplier errors to Dripshipper, customer/brand errors to the brand, and some carrier-loss replacements between both parties. These remain public platform terms, not Rising Son supplier evidence.
+- **Joe's Garage Coffee is screened out of the present direct-fulfillment lane.** Its current official material supports private-label manufacturing, low but unspecified MOQs, Decaf options, FBA/3PL shipments, approximately three-week reorders and six-week new custom packaging, but does not establish blind single-customer direct fulfillment. It may suit a later inventory/3PL model, not the current no-handling validation model.
+
+### Decision state
+- **Verified primary:** none.
+- **Verified contingency 1:** none.
+- **Verified contingency 2:** none.
+- **Inquiry queue:** Berk's Beans, Ross Street Roasting, Raptis Coffee. Temecula and CoffeeAM remain held for hosted-thread review. Dripshipper is held as a non-independent channel pending underlying-vendor reconciliation.
+- Optional certifications and audit claims remain optional unless law, contract or a chosen product claim makes one applicable. No certification may be represented without evidence and expiry dates.
+
+### Held outreach draft — Berk's Beans
+**Delivery status:** prepared only; not sent. Send only from the actual hosted `hello@therisingsoncoffee.com` mailbox after reviewing hosted Inbox/Sent for duplicates and proving the delivered From identity. Do not use Gmail or the public web form.
+
+**Subject:** Rising Son Original + Decaf qualification for blind DTC fulfillment
+
+Hello Berk's Beans team,
+
+Rising Son Coffee is evaluating suppliers for a Florida-based online private-label coffee program. Our required model is that the supplier sources and roasts the coffee; applies Rising Son branded compliant packaging and labeling; warehouses finished product or inputs; preserves lot/batch traceability; and blind-ships individual orders directly to customers nationwide. Rising Son will not handle coffee at home.
+
+We plan to offer a free Founding 40 reservation before any verified commercial offer and qualifying purchase. That reservation is not a volume commitment.
+
+Our Original target is a rich, bright aroma with low perceived acidity and bitterness, earthy tones, a strong but smooth full flavor, and a clean aftertaste. The Decaf should match the Original as closely as practical.
+
+Your public dropship information appears operationally compatible, but we need a written Rising Son-specific qualification response. Please provide or confirm:
+
+1. Recommended Original and Decaf coffees, roast levels, complete tasting notes, Decaf process, whole-bean and ground options, bag sizes, availability, and whether no-cost samples are offered. We will not order paid samples without owner approval.
+2. Complete commercial terms: unit coffee cost, bag, label, packaging, setup/artwork, warehousing, pick/pack, shipping by service/zone/weight for one-, two- and three-bag orders, integrations, subscription support, recurring fees, surcharges, MOQ, lead time, order cutoff, capacity, payment terms and damaged/lost/incorrect-order replacement policy.
+3. Written confirmation of blind direct-to-customer fulfillment and the legal manufacturer, packer and distributor for each product; facility legal name and address; applicable food licences; and FDA food-facility registration status, with documentary evidence and renewal/expiry dates where applicable.
+4. Food-safety plan or summary, sanitation and allergen controls, finished-lot-to-customer traceability, recall/withdrawal procedure and named contacts, plus any current third-party audits or certifications with evidence and expiry dates. Please distinguish mandatory controls from optional certifications.
+5. For any flavored coffee, complete ingredients, flavor carriers and allergen/cross-contact disclosures.
+6. Current products/completed-operations liability COI with limits and expiration, ability to name Rising Son as an additional insured, proposed indemnity, and allocation of label compliance, product claims, recall/withdrawal duties and related costs.
+7. Your label-review process and a sample specification showing which mandatory label elements you supply, verify or require Rising Son to provide.
+
+We are qualifying suppliers only. This request does not authorize samples, setup fees, account charges, contracts, purchases or volume commitments.
+
+Thank you,
+
+Rising Son Coffee
+hello@therisingsoncoffee.com
+
+### Next actions
+1. Restore supported hosted-mailbox access; archive known replies, attachments and delivery failures; search hosted Sent for Berk's/Ross Street/Raptis; and complete the delivered-From self-test.
+2. If Berk's is proven nonduplicate, send the held qualification request from the hosted mailbox only. Do not submit the public form as a substitute for sender verification.
+3. Continue Ross Street and Raptis as independent inquiry candidates until one primary and two contingencies satisfy every economics, product, compliance, traceability, recall, COI and label gate.
+
+Official public sources checked 2026-11-25:
+- https://berksbeans.com/coffee-dropship-program/
+- https://berksbeans.com/private-label-coffee/
+- https://www.dripshipper.io/pricing
+- https://www.dripshipper.io/our-coffee
+- https://help.dripshipper.io/en/articles/5812241-how-long-does-it-take-orders-to-ship
+- https://help.dripshipper.io/en/articles/8938432-refund-policy
+- https://help.dripshipper.io/en/articles/16793562-do-i-need-a-new-label-for-every-grind-and-size
+- https://help.dripshipper.io/en/articles/16793584-temecula-vs-old-chicago-products-and-the-distributed-by-line
+- https://joesgaragecoffee.com/contact-us/
+- https://joesgaragecoffee.com/products/coffees-and-teas/
+
