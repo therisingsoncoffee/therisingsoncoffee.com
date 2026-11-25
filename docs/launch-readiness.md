@@ -1218,3 +1218,52 @@ Official sources reviewed 2026-11-23:
 - No spend, signature, entity formation, permit application, supplier selection, insurance binding, payment activation, checkout change or commercial promise occurred.
 - Preserve the launch gate: accept no paid order until supplier economics, compliant label, regulatory classification, insurance decision and explicit owner authorization are complete.
 
+## Launch operations check — 2026-11-25
+
+### Verified facts and changes
+- Direct production-browser checks confirmed that the HTTPS apex homepage and `/founding40/` load successfully. HTTP apex and HTTPS `www` both resolve to `https://therisingsoncoffee.com/`.
+- Live canonical tags remain correct for Home and Founding 40. `robots.txt` allows public crawling, excludes `/thanks.html` and declares the HTTPS-apex sitemap; `sitemap.xml` lists Home, Founding 40, Story, Privacy and Terms.
+- Checkout remains intentionally disabled live and in the repository. The homepage displays **Checkout Locked** and says no orders or payments are accepted; `checkout-config.js` remains `enabled: false` with an empty `paymentLink`.
+- Repository `CNAME` remains `therisingsoncoffee.com`; current `main` head is `9810e428047367e8220f11cd2fac8190ef6ce043`.
+- Full DNS record enumeration was unavailable from the approved connector/runtime today. The last independently enumerated November 21 MX/SPF/DKIM/DMARC state remains the retained baseline. No Pages, DNS, mail-DNS, checkout or payment setting was changed.
+- Supplier and Finance workstreams independently confirmed no substantive evidence change since November 24.
+
+### Supplier and finance coordination
+- No verified primary or contingency supplier exists. The queue is Berk's Beans, Ross Street Roasting and Raptis Coffee; Temecula and CoffeeAM are held pending hosted-mailbox review. These are screens, not selections.
+- The connected account remains `therisingsoncoffee@gmail.com`, not the separately hosted `hello@therisingsoncoffee.com` mailbox. Hosted Inbox/Sent, known replies, the delivery-failure notice, attachments and delivered sender identity remain unavailable; Porkbun webmail remains blocked with HTTP 403. No supplier message was sent.
+- No candidate has a complete Rising Son quote or the mandatory food-safety/allergen packet, facility/licence and FDA-status evidence, lot-to-order traceability, recall/withdrawal procedure and contact, current products/completed-operations COI, additional-insured terms, indemnity/responsibility allocation or supplier-approved final compliant label.
+- Product COGS, delivered cost, contribution, margin, break-even, launch cash, subscription economics and final price remain **UNKNOWN** because supplier-issued Original/Decaf, packaging/label/grind/setup/storage/pick-pack/shipping and replacement inputs are absent.
+- No insurer-issued Rising Son indication is retained. PPIB eligibility, premium, payment terms, deductible, limits, exclusions, nationwide private-label eligibility, additional-insured/COI capability and optional recall/cyber pricing remain pending.
+
+### Regulatory and insurance status
+- Florida Statute 500.12 requires a permit for a person or business operating a covered food establishment, with the exact fee driven by classified activity. Current FDACS materials do not classify Rising Son's exact supplier-roasted, Rising Son-branded, supplier-packaged/stored/direct-shipped, no-home-handling model. Written classification, exact permit, fee, renewal term and any inspection/location requirement remain required before budgeting or paid orders.
+- FDA guidance places facility registration on facilities that manufacture, process, pack or hold food, subject to exemptions. Supplier facility identity, role and applicable registration evidence must be retained; the guidance does not establish Rising Son as the registering facility for this no-handling model.
+- No reviewed Florida Chapter 500, FDACS, FDA or Florida insurance authority states a universal requirement that this exact seller purchase general or product-liability insurance. This is an evidence-limited operational finding, not legal advice or affirmative clearance. Contract requirements and prudent products/completed-operations protection remain separate gates.
+- The FDACS permit budget remains **UNKNOWN**, not zero. No permit application or payment was made.
+
+### Automation capacity
+- The supported private automation lookup returned no visible task records, so capacity could not be safely enumerated or changed from that surface.
+- No task was paused, restored, created or swapped. No persistent self-management claim is made.
+
+### Compact command center
+- **Readiness:** approximately 75%; free reservation is operational, commerce is not launch-ready.
+- **Changes made:** this documentation-only checkpoint on a review branch. No live infrastructure, DNS, email, supplier, insurance, payment or checkout mutation occurred.
+- **Launch blockers:** written FDACS classification; authenticated hosted `hello@` review and delivered-From proof; one verified primary plus two contingencies with supplier-issued economics and complete product/compliance/label evidence; comparable insurer indications and owner insurance decision; LLC/EIN, payment testing and explicit commercial-launch authorization.
+- **Owner decisions required now:** none newly created today.
+
+### Next three priorities
+1. Obtain and archive FDACS's written classification, including precise permit, fee, renewal term and any inspection/location requirement if applicable.
+2. Restore supported hosted `hello@therisingsoncoffee.com` access; reconcile Inbox/Sent and known supplier/agency/insurance replies, then prove the delivered From identity before nonduplicate outreach.
+3. Convert the strongest supplier screens into one verified primary and two contingencies, then complete quote-level economics, compliant-label review and comparable insurer indications while checkout remains locked.
+
+### Owner decision log
+- No spend, signature, entity formation, permit application, sample order, supplier selection, insurance binding, payment activation, checkout change or commercial promise occurred.
+- Preserve the launch gate: accept no paid order until supplier economics, compliant label, regulatory classification, insurance decision and explicit owner authorization are complete.
+
+Official sources reviewed 2026-11-25:
+- https://wwwo.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599%2F0500%2FSections%2F0500.12.html
+- https://www.fdacs.gov/Business-Services/Food-Establishments/Wholesale-Manufactured-Food-Program
+- https://www.fdacs.gov/Business-Services/Food/Food-Establishments
+- https://www.fda.gov/food/food-industry/how-start-food-business
+- https://www.myfloridacfo.com/docs-sf/consumer-services-libraries/consumerservices-documents/understanding-coverage/consumer-guides/small-business-guide.pdf
+
