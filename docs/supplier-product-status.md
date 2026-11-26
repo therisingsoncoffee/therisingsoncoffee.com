@@ -1,6 +1,6 @@
 # Supplier & Product Status
 
-_Last updated: 2026-11-23 (America/New_York)_
+_Last updated: 2026-11-26 (America/New_York)_
 
 This tracker supplements `docs/launch-readiness.md`. It does not designate a final supplier or authorize spending, samples, contracts, checkout, or product selection.
 
@@ -196,3 +196,31 @@ A supported login to the hosted mailbox is required to (1) review its Inbox and 
 - Verified primary: **none**. Verified contingency 1: **none**. Verified contingency 2: **none**.
 - Research/outreach order remains Berk's Beans, Ross Street Roasting and Raptis Coffee, with Temecula and CoffeeAM held for existing-thread review. Roastify remains an unresolved previously contacted screen. Rankings are queue control only, not selections.
 - The next authorized send remains blocked until the hosted mailbox can be accessed, Inbox and Sent are reconciled, and a delivered self-test proves exactly `From: hello@therisingsoncoffee.com`. After that gate passes, send only the first nonduplicate tailored qualification request and record the full response and evidence.
+
+
+## Supplier run — 2026-11-26
+
+### Mailbox and duplicate control
+
+- The connected account was reverified as `therisingsoncoffee@gmail.com`, not the separately hosted `hello@therisingsoncoffee.com` mailbox. Gmail remains read-only for supplier work because its stored Sent identity does not prove the recipient-delivered From address.
+- A fresh connected-Gmail search for inbound coffee supplier, private-label, wholesale, fulfillment or FDACS messages addressed to either Rising Son address returned no results. This does not inspect the hosted mailbox and does not negate the owner's evidence of CoffeeAM and Temecula replies there.
+- No supplier email, follow-up, contact form, sample request, purchase, payment method, contract, product choice or volume promise was made. The hosted Inbox/Sent review and delivered self-test remain the exact prerequisites for any outreach.
+
+### Fresh first-party contingency screens
+
+- **Gillies Coffee is a potentially compatible fulfillment screen, not a verified contingency.** Its current official FAQ and private-label pages publish 12 oz and 16 oz whole-bean or ground options, 18 pieces per SKU with minimum totals of 54 x 12 oz or 45 x 16 oz, a $199 one-time label templating fee, reference pricing starting at $9.99 per 12 oz, standard private-label turnaround within 15 working days after order acceptance, and individual drop shipping with no per-order minimum, a $4 per-address handling charge plus FedEx shipping, and a stated five-business-day drop-ship production window. Gillies also publishes decaf choices. Its samples are paid, so none will be ordered without owner approval. The public program says a drop-ship subscription is treated as abandoned after any 15-day period with no order; that condition needs written interpretation for Rising Son's validation phase. Public pages do not provide the required Rising Son quote, blind-branding confirmation, legal manufacturer/packer/distributor allocation, facility-license/FDA evidence, food-safety and allergen controls, lot-traceability and recall evidence, COI/additional-insured terms, indemnity, final-label allocation or replacement policy.
+- **Cooper's Cask Coffee is a product/private-label screen, not yet a DTC-fulfillment screen.** Its official pages advertise private label and toll roasting, a 24-bag private-label minimum, 12 oz through 5 lb bag formats, custom roast/profile options, an optional $250 label-design service, and a public one-to-two-week private-label estimate. Its catalog includes an Organic Ethiopia Decaf. The official wholesale shipping policy states a five-business-day handling estimate for wholesale orders, but the reviewed public pages do not establish blind individual direct-to-customer fulfillment, the complete Rising Son economics, or any of the mandatory compliance, recall/traceability, insurance, indemnity and label-responsibility evidence.
+
+First-party sources reviewed 2026-11-26:
+
+- https://gilliescoffee.com/pages/faqs
+- https://gilliescoffee.com/pages/private-label
+- https://gilliescoffee.com/collections/decaf
+- https://www.cooperscoffeeco.com/private-label-and-wholesale/
+- https://www.cooperscoffeeco.com/wholesale-coffee-suppliers/
+- https://www.cooperscoffeeco.com/shipping-and-return-policies/
+- https://www.cooperscoffeeco.com/product-type/decaf/
+
+### Decision state
+
+Verified primary remains **none**; verified contingency 1 remains **none**; verified contingency 2 remains **none**. Gillies advances only as a research-stage screen behind the existing controlled outreach queue; Cooper's remains conditional on written confirmation of blind individual DTC fulfillment. The next send is still blocked until the actual hosted mailbox is reviewed and a received test proves exactly `From: hello@therisingsoncoffee.com`.
