@@ -1,6 +1,6 @@
 # Rising Son Coffee — Launch Readiness
 
-Last structured: 2026-11-22
+Last structured: 2026-11-26
 
 ## GREEN — completed / proven
 - Custom-domain HTTPS enabled in GitHub Pages by owner on 2026-09-22; independently reverified 2026-09-27: HTTPS apex, `/founding40/`, `/robots.txt` and `/sitemap.xml` returned `200`; HTTP apex and HTTPS `www` resolved to the HTTPS apex with valid certificate verification.
@@ -1218,3 +1218,41 @@ Official sources reviewed 2026-11-23:
 - No spend, signature, entity formation, permit application, supplier selection, insurance binding, payment activation, checkout change or commercial promise occurred.
 - Preserve the launch gate: accept no paid order until supplier economics, compliant label, regulatory classification, insurance decision and explicit owner authorization are complete.
 
+
+
+## Command center — 2026-11-26
+
+### Verified operating state
+
+- **Site:** HTTPS apex returned 200. HTTPS `www` resolved to the HTTPS apex. `/founding40/`, `/robots.txt` and `/sitemap.xml` each returned 200.
+- **Canonical and crawl controls:** live Home canonical is `https://therisingsoncoffee.com/`; live Founding 40 canonical is `https://therisingsoncoffee.com/founding40/`. Robots allows the site, disallows `/thanks.html` and points to the HTTPS-apex sitemap. The sitemap lists Home, Founding 40, Story, Privacy and Terms on the HTTPS apex.
+- **Checkout:** the live homepage still displays “Checkout Locked” and “No orders or payments are being accepted.” Repository `checkout-config.js` remains `enabled: false` with an empty payment link.
+- **Pages/domain configuration:** repository `CNAME` remains `therisingsoncoffee.com`. No Pages, DNS, MX, SPF, DKIM or DMARC record was edited. Raw DNS record queries could not be repeated in this runtime, so the prior verified mail-DNS evidence remains authoritative; successful web resolution is not treated as fresh mail-DNS verification.
+- **Supplier state:** verified primary none; verified contingency 1 none; verified contingency 2 none. Gillies Coffee and Cooper’s Cask were added as public research screens, not quotes or qualified suppliers. The controlled new-outreach order remains Berk’s Beans, Ross Street Roasting and Raptis Coffee; known Temecula and CoffeeAM hosted-mailbox replies remain unread here.
+- **Economics:** supplier-issued Original/Decaf unit costs, packaging, labels, setup, pick/pack, zone shipping, replacement allocation, processor cost, price, tumbler cost, CAC and retention inputs remain incomplete. Contribution, margin, break-even, cash-to-open, subscription economics and final pricing therefore remain unverified.
+- **Regulatory:** FDACS has not issued the requested written classification for the exact supplier-roasted, Rising Son-branded, supplier-packaged/stored/direct-shipped, no-home-handling model. Permit requirement, type, fee, renewal and inspection/location rules remain unknown and unbudgeted.
+- **Insurance:** no reviewed authority currently supports claiming a universal Florida or federal GL/product-liability purchase mandate for this exact seller model; this is not legal clearance. Supplier/platform contractual requirements and prudent products/completed-operations coverage remain separate. No insurer-issued Rising Son indication or quote is retained.
+- **Automation capacity:** 14 tasks were inspected: four enabled core tasks (Original Trend Content, Launch Ops, Supplier/Product and Finance), six paused and four completed. The four enabled tasks are active and nonredundant. No task was paused, restored or swapped because no higher-value temporary task required a slot.
+
+### Changes completed
+
+- Reverified the live site, redirect, Founding 40 endpoint, crawl files, canonicals and checkout lock.
+- Reconciled the Supplier and Finance workstreams into this launch command center.
+- Preserved checkout, Pages and all DNS/mail configuration without modification.
+
+### Exact blockers
+
+1. Supported access to the hosted `hello@therisingsoncoffee.com` Inbox and Sent folders, including CoffeeAM, Temecula, FDACS, PPIB/insurance and delivery-failure correspondence; then a received-header self-test proving exactly `From: hello@therisingsoncoffee.com`.
+2. A supplier-issued complete quote and evidence package covering Original and Decaf, whole/ground variants, all unit/setup/label/packaging/warehouse/pick-pack/shipping costs, blind DTC fulfillment, legal roles/facility, licenses/FDA status, food-safety/allergen controls, lot traceability, recall contacts, COI/additional-insured terms, indemnity, label/recall allocation, replacement terms and final compliant label.
+3. Written FDACS classification and an insurer-issued comparable indication before any permit budget, insurance selection, final price or commercial checkout decision.
+
+### Owner decisions
+
+- **None required today.** Keep checkout disabled.
+- Later decisions, only after evidence is complete: choose supplier/product, choose insurance scope, approve final price/offer and authorize commercial launch.
+
+### Next three priorities
+
+1. Regain supported hosted-mailbox visibility, reconcile the known replies/attachments and verify the delivered sender identity without changing MX/SPF/DKIM.
+2. Use that mailbox to obtain the model-specific written FDACS classification and the first confirmed-nonduplicate supplier qualification response.
+3. Populate the unit-economics and compliance/insurance budget only from supplier-issued, regulator-issued and insurer-issued inputs; then present the launch/insurance decisions to the owner.
