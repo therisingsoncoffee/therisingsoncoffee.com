@@ -1,6 +1,6 @@
 # Supplier & Product Status
 
-_Last updated: 2026-11-26 (America/New_York)_
+_Last updated: 2026-11-27 (America/New_York)_
 
 This tracker supplements `docs/launch-readiness.md`. It does not designate a final supplier or authorize spending, samples, contracts, checkout, or product selection.
 
@@ -224,3 +224,68 @@ First-party sources reviewed 2026-11-26:
 ### Decision state
 
 Verified primary remains **none**; verified contingency 1 remains **none**; verified contingency 2 remains **none**. Gillies advances only as a research-stage screen behind the existing controlled outreach queue; Cooper's remains conditional on written confirmation of blind individual DTC fulfillment. The next send is still blocked until the actual hosted mailbox is reviewed and a received test proves exactly `From: hello@therisingsoncoffee.com`.
+
+
+## Supplier run — 2026-11-27
+
+### Mailbox and duplicate control
+
+- The connected account was positively reverified as `therisingsoncoffee@gmail.com`, not the independently hosted `hello@therisingsoncoffee.com` mailbox authorized for supplier contact.
+- Fresh searches found no supplier/roaster/quote/COI/certificate/recall/traceability message during the previous three days, no inbound result from the active supplier domains during the previous fourteen days, no message to or from `hello@` during that period, and no recent Sent thread for Berk's, Ross Street, Raptis, Path, Gillies or Cooper's.
+- These negative Gmail results do not inspect the hosted mailbox and do not negate the owner's evidence that CoffeeAM and Temecula replies exist there. No Gmail message, draft, contact form, sample request, account, payment, agreement, product choice or volume promise was made.
+
+### Dripshipper — new research-stage platform screen
+
+**Publicly supported architecture**
+
+- Dripshipper advertises no inventory minimum, automated direct fulfillment, private-label packaging, U.S. roasting partners and plans beginning at $30/month after a 14-day trial. Those are advertised platform terms, not an accepted plan or Rising Son quote.
+- Its current catalog publicly lists 2 oz, 12 oz, 1 lb, 2 lb and 5 lb formats with whole bean, standard ground, coarse and espresso choices across multiple coffees, including Peru Decaf and Fairtrade Peru Decaf.
+- The public catalog identifies Temecula, California and Orland Park, Illinois roasting-facility partners. Dripshipper's marketplace documentation says Temecula Coffee Roasters may act as manufacturer, co-packer and/or fulfillment partner for relevant products. This partner overlap means Dripshipper is not independent evidence resolving the existing Temecula thread.
+- Preliminary sensory screens include Sumatra, publicly described as low-acid and full-bodied with dark chocolate, dried fruit and an earthy finish, and Peru/Fairtrade Peru Decaf options. Exact roast pairing, bright aroma, clean aftertaste and like-for-like Decaf suitability require samples and written confirmation.
+- Public reference figures include a $30/month Starter plan, 12 oz branded products advertised from $9.39+, one-to-five-business-day fulfillment references and a $2.75 custom-product label review. These figures are incomplete and must not be used as Rising Son COGS without a SKU-specific written quote, shipping/surcharge confirmation and partner allocation.
+- The published replacement policy allocates supplier-caused errors to Dripshipper, customer/brand-caused errors to the brand, and some carrier/loss events between the parties. Binding terms, theft/loss limits, claim evidence and nationwide exception handling require written confirmation.
+
+**Unresolved mandatory evidence**
+
+Dripshipper cannot count as a viable contingency until it identifies, for each proposed Original and Decaf SKU, the legal contracting party, manufacturer, roaster, packer, warehouse, distributor and shipper; exact facility and applicable licences/FDA-registration status; food-safety, sanitation and allergen controls; flavored-coffee ingredients and cross-contact statements if applicable; lot-to-order traceability; recall/withdrawal procedure and contacts; current products/completed-operations COI, limits, exclusions and expiration; additional-insured capability; indemnity; and allocation of label approval, product claims, recall notice/expense and customer remedies.
+
+A complete Rising Son quote must also state every product, grind, bag, label-review, packaging, subscription, integration, processing, pick/pack, shipping, remote/peak surcharge and tax cost; normal/peak SLAs; payment timing; stockout/substitution handling; subscriptions; cancellation; address-change; damaged/lost/stolen/defective order remedies; and whether nationwide private-label coffee sales are eligible.
+
+### Held qualification draft — Dripshipper
+
+**Delivery status:** prepared only and not sent. Confirm the current recipient and search the hosted Inbox/Sent history before sending from the authenticated hosted mailbox.
+
+**Subject:** Rising Son Original + Decaf private-label fulfillment qualification
+
+Hello Dripshipper team,
+
+Rising Son Coffee is qualifying suppliers for a Florida-based online private-label coffee model. The supplier must source and roast the coffee, apply Rising Son branded compliant packaging and labeling, store the product or inputs, preserve lot/batch traceability, and blind-ship individual orders directly to customers nationwide. Rising Son will not handle coffee at home.
+
+We are planning a free Founding 40 reservation before presenting a verified commercial offer and qualifying purchase; it is not a volume commitment. Our Original target is a rich, bright aroma, low perceived acidity and bitterness, earthy tones, strong smooth full flavor and a clean aftertaste. The Decaf should be as close to the Original as practical.
+
+Please identify the best eligible Original and Decaf pair, decaffeination method, tasting notes, sizes, whole-bean/ground options and sample terms, then provide a complete itemized Rising Son quote and fulfillment SLA. For each proposed SKU, please identify the legal manufacturer, roaster, packer, warehouse, distributor and shipper; facility name/location; applicable food licences and FDA-registration status; food-safety and allergen controls; lot traceability; recall procedure and contacts; current product-liability COI and additional-insured capability; indemnity; and the allocation of label, product-claim, recall and replacement responsibilities. If flavored products are proposed, include full ingredients and allergen/cross-contact disclosures. Please distinguish legally required controls from optional certifications and provide evidence with current expiration dates where applicable.
+
+We are evaluating only and are not authorizing a paid plan, sample, setup charge, contract or purchase.
+
+Thank you,
+
+Rising Son Coffee  
+hello@therisingsoncoffee.com
+
+### Decision state
+
+- Verified primary: **none**.
+- Verified contingency 1: **none**.
+- Verified contingency 2: **none**.
+- Dripshipper is a platform screen behind the existing controlled queue, not a qualified supplier. Berk's Beans, Ross Street Roasting and Raptis remain the first controlled new-outreach order; Temecula and CoffeeAM remain held for hosted-thread review; Roastify remains unresolved.
+- The next send remains blocked until the actual hosted Inbox and Sent folders are reviewed, prior correspondence is reconciled, the recipient is verified, and a received self-test proves exactly `From: hello@therisingsoncoffee.com`.
+
+First-party sources reviewed 2026-11-27:
+
+- https://www.dripshipper.io/pricing
+- https://www.dripshipper.io/wholesale-coffee
+- https://www.dripshipper.io/our-coffee
+- https://www.dripshipper.io/private-label-coffees/sumatra
+- https://help.dripshipper.io/en/articles/8938432-refund-policy
+- https://help.dripshipper.io/en/articles/16793995-how-to-create-a-custom-product-and-assign-the-sku
+- https://help.dripshipper.io/en/articles/15196642-amazon-tiktok-shop-documentation-support-policy
