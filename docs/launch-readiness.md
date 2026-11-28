@@ -1256,3 +1256,49 @@ Official sources reviewed 2026-11-23:
 1. Regain supported hosted-mailbox visibility, reconcile the known replies/attachments and verify the delivered sender identity without changing MX/SPF/DKIM.
 2. Use that mailbox to obtain the model-specific written FDACS classification and the first confirmed-nonduplicate supplier qualification response.
 3. Populate the unit-economics and compliance/insurance budget only from supplier-issued, regulator-issued and insurer-issued inputs; then present the launch/insurance decisions to the owner.
+
+
+## Command center — 2026-11-28
+
+### Verified facts and substantive changes
+
+- **Live site:** the HTTPS apex homepage and `/founding40/` loaded successfully. HTTP apex and HTTPS `www` both resolved to `https://therisingsoncoffee.com/`.
+- **Canonical and crawl controls:** live Home canonical remains `https://therisingsoncoffee.com/`; live Founding 40 canonical remains `https://therisingsoncoffee.com/founding40/`. Live `robots.txt` allows crawling, disallows `/thanks.html` and points to the HTTPS-apex sitemap. Live `sitemap.xml` lists Home, Founding 40, Story, Privacy and Terms.
+- **Checkout:** the live homepage still shows a disabled **Checkout Locked** control and “No orders or payments are being accepted.” No checkout or payment setting was changed.
+- **Pages/domain:** repository `CNAME` remains `therisingsoncoffee.com`. No Pages, DNS, MX, SPF, DKIM or DMARC record was edited. Successful web resolution is not treated as a new enumeration of mail DNS; preserve the last independently verified mail-DNS baseline.
+- **Supplier:** verified primary none; verified contingency 1 none; verified contingency 2 none. Dripshipper was added only as a public research screen. Its public starting/reference figures are not a Rising Son quote, and its Temecula fulfillment overlap means it is not independent contingency evidence.
+- **Economics:** no new supplier-issued Original/Decaf quote exists. Unit COGS, delivered cost, margins, bag-size optimization, break-even, cash requirements, subscriptions, CAC/retention and final prices remain unverified. Founding 40 tumbler cost remains a separate unquoted acquisition expense.
+- **Regulatory:** FDACS has not issued the requested written classification for the exact supplier-roasted, Rising Son-branded, supplier-packaged/stored/direct-shipped, no-home-handling model. Permit requirement, precise permit type, fee, renewal term and inspection/location rules remain unknown and unbudgeted.
+- **Insurance:** no reviewed Florida or federal authority establishes a universal general- or product-liability purchase mandate for this exact seller model. This is an evidence-limited operational finding, not legal clearance. Supplier/platform contract requirements and prudent products/completed-operations protection remain separate gates. No insurer-issued Rising Son indication is retained.
+- **Automation capacity:** the supported automation lookup returned no visible task records in this run, so enabled-slot capacity could not be independently enumerated. No automation was paused, restored, created or swapped; no persistent self-management claim is made.
+
+### Exact blockers
+
+1. Supported access to the hosted `hello@therisingsoncoffee.com` Inbox and Sent folders, including known CoffeeAM, Temecula, FDACS, PPIB/insurance and delivery-failure correspondence; then a received-header self-test proving the delivered `From` identity.
+2. One supplier-issued primary package plus two independent contingencies covering Original/Decaf commercial economics and legal roles, facilities, applicable licences/FDA status, food-safety/allergen controls, lot traceability, recall contacts, COI/additional-insured terms, indemnity, label/recall allocation, remedies and supplier-reviewed final labels.
+3. Written FDACS classification and insurer-issued comparable indications before any permit budget, insurance decision, final price or commercial checkout decision.
+
+### Owner decisions
+
+- **None required today.** Keep checkout disabled.
+- Later, after evidence is complete: select supplier/product, choose insurance scope, approve final price/offer and explicitly authorize commercial launch.
+
+### Next three priorities
+
+1. Restore supported hosted-mailbox visibility and reconcile agency, supplier and insurance threads before any duplicate outreach.
+2. Obtain and archive FDACS's written model-specific classification, including precise permit, fee and renewal term if applicable.
+3. Qualify one primary and two independent supplier contingencies, then complete quote-level economics, final-label review and insurer-issued comparisons while checkout remains locked.
+
+### Owner decision log
+
+- No spend, signature, entity formation, permit application, supplier selection, insurance binding, payment activation, checkout change or commercial promise occurred.
+- Preserve the launch gate: no paid orders until supplier economics, compliant label, regulatory classification, insurance decision and explicit owner authorization are complete.
+
+Official sources reviewed 2026-11-28:
+
+- https://wwwo.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599%2F0500%2FSections%2F0500.12.html
+- https://www.fdacs.gov/Business-Services/Food/Food-Establishments/Retail-Food-Establishment-Permit
+- https://www.fdacs.gov/Business-Services/Food/Food-Establishments/Wholesale-Manufactured-Food-Establishment-Permit
+- https://foodpermit.fdacs.gov/Guides/PermittingGuide.aspx
+- https://www.fda.gov/food/food-industry/how-start-food-business
+- https://www.myfloridacfo.com/docs-sf/consumer-services-libraries/consumerservices-documents/understanding-coverage/consumer-guides/small-business-guide.pdf
