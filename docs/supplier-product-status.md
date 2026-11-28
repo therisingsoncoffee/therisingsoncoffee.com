@@ -289,3 +289,56 @@ First-party sources reviewed 2026-11-27:
 - https://help.dripshipper.io/en/articles/8938432-refund-policy
 - https://help.dripshipper.io/en/articles/16793995-how-to-create-a-custom-product-and-assign-the-sku
 - https://help.dripshipper.io/en/articles/15196642-amazon-tiktok-shop-documentation-support-policy
+
+
+## Supplier run — 2026-11-28
+
+### Mailbox and duplicate control
+
+- The connected account was positively reverified as `therisingsoncoffee@gmail.com`, not the separately hosted `hello@therisingsoncoffee.com` mailbox authorized for supplier contact.
+- Connected Gmail contains twelve September 23 outbound messages stored with `From: hello@therisingsoncoffee.com`: eleven supplier inquiries plus the FDACS classification request. A fresh search found no inbound message addressed to `hello@therisingsoncoffee.com`, and no connected-Gmail thread for Berk's Beans, Ross Street Roasting, Raptis Coffee, Cerca Coffee or Next Block.
+- Gmail storage metadata does not prove the delivered sender identity, and Gmail does not expose the hosted Inbox/Sent folders. These negative results do not negate the owner's screenshot evidence of CoffeeAM and Temecula replies in the hosted mailbox.
+- No email, Gmail draft, contact form, sample request, account, subscription, payment method, agreement, product choice or volume promise was made.
+
+### Controlled queue revalidation
+
+- **Berk's Beans remains the strongest direct-roaster operating and sensory screen, not a qualified primary.** Current official pages state a six-bag per-coffee private-label minimum, a $150 first-order minimum, 6 oz through 5 lb formats, whole bean and multiple grinds, no setup fee for print-ready art, optional $125 label design, FDA-registered Concord facility claims, Decaf availability and nationwide one-order-at-a-time dropshipping. The dropship page states plain boxes, a fulfillment-department return address and weekly billing for wholesale, pick/pack and shipping. Those are public claims, not a Rising Son quote or documentary compliance evidence. The held draft to `BeanTeam@BerksBeans.com` remains unsent.
+- **Ross Street Roasting remains a promising small-roaster co-manufacturing screen, not a qualified contingency.** Its official page states white-label lead time of 1–3 weeks, custom development of 6–10 weeks, free samples, customer-supplied or coordinated packaging, low consultation-defined minimums and individual DTC shipment depending on sales platform. Its live catalog includes a Colombian Decaf. The held draft to `rsr@rossstreetroasting.com` remains unsent.
+- **Raptis remains a strong published fulfillment/economics screen, not a qualified contingency.** Official pages state blind shipment, same-/next-business-day shipping, a $1.50 drop-ship fee per package, no monthly drop-ship fee, actual carrier shipping, low-stock-bag minimums, a Decaffeinated House Blend, lot/best-buy labeling capability and internal sanitation, HACCP, food-defense and recall programs. The reviewed pages refer to a historical NSF audit but do not supply a current certificate or scope. The held draft to `info@raptiscoffee.com` remains unsent.
+
+### Cerca Coffee — new independent research-stage platform screen
+
+**Publicly supported architecture**
+
+- Cerca's current official site advertises private-label coffee, automatic direct fulfillment, no inventory, no MOQ, whole-bean and ground variants, a current Decaf slot, one-to-two-business-day roast/ship timing and a Shopify app.
+- Public reference economics show a Shopify subscription from $20/month, starting wholesale prices of $12 for 8 oz, $15 for 12 oz and $20 for 16 oz, and a planned $5 flat continental-U.S. shipping rate beginning December 1, 2026. Sample kits are advertised at $16, $29 and $49 plus the stated shipping treatment. These are advertised starting/reference figures, not a Rising Son quote, accepted subscription or complete delivered COGS.
+- Cerca says it uses Stronghold electric roasters and Volcafe Way sourcing. Its public About page does not identify the legal manufacturer/packer entity, street facility, food licences, FDA-registration status or the counterparty responsible for product quality, labeling and recalls.
+- The public lineup includes profiles with cocoa, dried fruit and nuttiness plus a Decaf slot, but no written evidence yet establishes a year-round Original/Decaf pair matching Rising Son's full sensory target.
+
+**Mandatory gaps before qualification**
+
+Cerca must identify the contracting entity and every manufacturer, roaster, packer, warehouse, distributor and shipper; each facility name/location; applicable food licences and FDA status; food-safety, sanitation and allergen controls; flavored-product ingredients/cross-contact controls if applicable; finished-lot-to-order traceability; recall procedure and contacts; current products/completed-operations COI with limits/exclusions/expiration; additional-insured capability; indemnity; and allocation of label, claims, recall and customer remedies.
+
+A Rising Son quote must itemize exact Original/Decaf product and grind costs, packaging/label/setup fees, subscription/integration/payment/pick-pack charges, shipping by order size and zone with surcharges, payment timing, normal/peak SLA, stockout/substitution handling, cancellations/address changes, subscriptions and loss/damage/defect remedies. The December 1 advertised shipping change must be confirmed in writing before it enters economics.
+
+### Decision state and controlled next action
+
+- Verified primary: **none**.
+- Verified contingency 1: **none**.
+- Verified contingency 2: **none**.
+- Berk's Beans, Ross Street Roasting and Raptis remain the first controlled new-outreach order. Temecula and CoffeeAM remain held for hosted-thread review. Roastify remains unresolved. Cerca is added behind this queue as an independent research-stage platform screen; it is not a selection or verified backup.
+- The next send remains blocked until the actual hosted Inbox and Sent folders are reviewed, existing correspondence is reconciled, the intended recipient is reverified and a received-header self-test proves exactly `From: hello@therisingsoncoffee.com`.
+
+First-party sources reviewed 2026-11-28:
+
+- https://berksbeans.com/private-label-coffee/
+- https://berksbeans.com/coffee-dropship-program/
+- https://www.rossstreetroasting.com/pages/co-manufacturing
+- https://www.rossstreetroasting.com/pages/contact-us
+- https://www.raptiscoffee.com/pages/drop-shipping-program
+- https://www.raptiscoffee.com/pages/private-label-coffee
+- https://www.raptiscoffee.com/pages/private-label
+- https://www.raptiscoffee.com/pages/contact-us
+- https://www.cercacoffee.com/
+- https://www.cercacoffee.com/about
+- https://www.cercacoffee.com/contact
