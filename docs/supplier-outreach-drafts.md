@@ -1794,3 +1794,44 @@ hello@therisingsoncoffee.com
 https://therisingsoncoffee.com/
 
 **Hold control:** Do not send from connected Gmail, submit a public form, create a Fourthwall account/storefront or accept platform terms. First authenticate the hosted `hello@therisingsoncoffee.com` mailbox, search its complete inbox and sent history for Fourthwall, verify the current official recipient, and prove with a delivered test that From remains exactly `hello@therisingsoncoffee.com`. If a prior thread exists, send only a narrowed in-thread request. Do not order a sample, enter payment/banking information, upload artwork, publish products or promise volume.
+
+
+## Cerca Coffee — qualification request (HOLD — hosted mailbox required; prepared 2026-11-28)
+
+**Intended sender:** authenticated hosted `hello@therisingsoncoffee.com` only  
+**Recipient:** `info@cercacoffee.com` — published on Cerca's official contact page; reverify before use  
+**Subject:** Rising Son Coffee — Original + Decaf private-label fulfillment qualification
+
+Hello Cerca Coffee team,
+
+Rising Son Coffee is qualifying suppliers for a Florida-based online private-label coffee launch with no home food handling. The supplier must source and roast the coffee, apply compliant Rising Son-branded packaging and labeling, store all coffee and packaging inputs or roast to order, maintain lot-to-customer traceability, and blind-ship individual orders directly to customers nationwide.
+
+Our Founding 40 starts as a free reservation and feedback program before we present a verified commercial offer and any qualifying future purchase. It is not a preorder or a volume commitment.
+
+The planned launch is Original and Decaf, with whole-bean and ground variants when supported by verified economics. Our Original target is a rich, bright aroma, low perceived acidity and bitterness, earthy tones, strong smooth full flavor and a clean aftertaste. The Decaf should be as close to the Original as practical.
+
+Your public pages advertise no inventory, no MOQ, automatic direct fulfillment, whole-bean/ground variants, a Decaf slot, a Shopify app and one-to-two-business-day roast/ship timing. Public pricing and the planned December 1 shipping terms are useful screening references, but we need a complete written Rising Son response before relying on them.
+
+Please provide:
+
+1. **Products and samples** — recommend the best year-round Original and Decaf pair; state origin/blend, roast, tasting profile, perceived acidity/bitterness, Decaf process and documentation, seasonality/substitution policy, whole-bean and ground options, available grinds and net weights, shelf life, roast/best-by practice and lot coding. Quote a paired sample set and shipping; do not send or charge anything without separate written authorization.
+2. **Complete economics** — itemize coffee, grinding, bag/valve, label/printing, artwork/proof/setup/changeover, filling, inserts, storage, pick/pack, Shopify/app/integration, subscription, payment-processing, account, recurring, termination and unused-material costs. Confirm whether any SKU, coffee, grind, label or monthly minimum applies despite the public no-MOQ claim.
+3. **Shipping and SLA** — provide all-in one-, two- and three-bag rates to ZIP 33325 and representative nearby, central and distant U.S. zones; include carrier/service, packed weights, PO boxes, Alaska/Hawaii/territories and residential, remote, fuel and peak surcharges. Confirm the effective date and scope of the advertised $5 continental-U.S. rate, normal/peak production timing and cutoffs.
+4. **Fulfillment and customer presentation** — explain Shopify/manual/API/CSV order intake, subscriptions, tracking, stockouts/substitutions, edits/cancellations, address errors, undeliverables and escalation. Confirm what appears on the external package, packing slip, return address and customer communications, and whether Rising Son branding can be exclusive.
+5. **Legal parties and facilities** — identify the exact legal contracting party and every entity that sources, roasts/manufactures, grinds, packs, warehouses, distributes and ships; each facility name and street location; applicable state/local food licences and inspection evidence; FDA food-facility registration status or exemption. Please do not send confidential FDA credentials.
+6. **Mandatory safety and traceability** — provide food-safety/preventive-controls and sanitation summaries, responsible personnel, supplier approval, pest/foreign-material controls, allergen/cross-contact controls, finished-product release, green-coffee through finished-lot and customer-order traceability, record retention, recall/withdrawal procedure and contacts, notification timing and latest mock-recall result.
+7. **Insurance and responsibility allocation** — provide a current products/completed-operations COI showing named insured, carrier, limits, territory, exclusions and expiration; whether Rising Son can be named additional insured and at what cost; proposed indemnity; and written allocation for specifications, compliant-label drafting/review, product claims, defects, allergens, carrier events, recall decision/execution/cost, customer notice and refunds/replacements.
+8. **Labels, remedies and payment terms** — provide a representative final-label proof and identify who approves statement of identity, U.S./metric net quantity, responsible-firm/manufacturer wording and address, ingredients/allergens, claims, best-by date and lot code. State binding remedies for carrier loss/damage, wrong/stale product, roast/grind defects, label errors and missed SLA, plus billing/settlement timing, quote validity and price-change notice.
+
+If flavored coffee is offered, separately identify every ingredient and sub-ingredient, natural/artificial flavor status, carriers, processing aids, allergen declarations, shared-equipment/cross-contact controls and exact label treatment. Flavors are optional and not required for launch.
+
+Please distinguish mandatory legal and food-safety controls from optional audits, sustainability programs and certifications. For any optional certificate supplied, include holder, facility/product scope, issuer, certificate number, issue date and expiration.
+
+We are comparing programs and have not authorized a sample, Shopify connection, app installation, subscription, account, card, artwork upload, order, payment, terms acceptance, agreement, product selection or volume commitment.
+
+Thank you,  
+Rising Son Coffee  
+hello@therisingsoncoffee.com  
+https://therisingsoncoffee.com/
+
+**Hold control:** Do not send from connected Gmail or submit Cerca's public form. Before outreach, authenticate the hosted `hello@therisingsoncoffee.com` mailbox, search its complete Inbox and Sent history for Cerca Coffee, Next Block and `cercacoffee.com`, reverify the official recipient, and prove with a received-header self-test that the delivered From identity is exactly `hello@therisingsoncoffee.com`. If a prior thread exists, send only a narrowed in-thread request. Do not install the Shopify app, create an account, order a sample, enter payment information, accept terms or promise volume.
